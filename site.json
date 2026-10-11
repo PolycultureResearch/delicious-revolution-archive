@@ -1,0 +1,28 @@
+{
+  "title": "Delicious Revolution",
+  "domain": "deliciousrevolution.polycultureresearch.com",
+  "site_url": "https://deliciousrevolution.polycultureresearch.com",
+  "media_base_url": "https://media.polyculture.net/delicious-revolution",
+  "tagline": "A show about food, culture, and place.",
+  "hosts_line": "Produced by Chelsea Wills and Devon Sampson, 2015 to 2018",
+  "intro": "Long conversations with farmers, cooks, artists, scholars, and organizers about how food is <em>grown, shared, and imagined</em>.",
+  "hero_alt": "Onion growers bundling their harvest on a riverbank in Guatemala, seen from above",
+  "about": [
+    "Delicious Revolution was a radio show and podcast of long conversations with farmers, cooks, artists, scholars, and organizers about how food is grown, shared, and imagined.",
+    "It aired on KOWS and KWMR in Northern California. This is the complete archive of the published episodes."
+  ],
+  "author": "Chelsea Wills and Devon Sampson",
+  "owner_email": "",
+  "footer": "Delicious Revolution, 2015 to 2018. Archive hosted by Polyculture Research.",
+  "seasons": {
+    "4": {
+      "name": "California Food Systems"
+    },
+    "5": {
+      "name": "Migrations"
+    },
+    "6": {
+      "name": "The Movement Builders"
+    }
+  }
+}

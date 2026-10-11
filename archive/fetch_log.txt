@@ -1,0 +1,122 @@
+2026-10-08T13:12:46  --- run started, output: /Users/devon/Documents/code/delicious-revolution-archive/archive
+2026-10-08T13:12:46  feed: /Users/devon/Documents/code/delicious-revolution-archive/archive/feed/acast-feed-20261008-131246.xml (232,581 bytes)
+2026-10-08T13:12:46  items in feed: 64; keeping 59; excluded 5
+2026-10-08T13:12:46  [1/59] downloading Delicious Revolution Coming Soon
+2026-10-08T13:12:48      -> audio/2015-10-19_delicious-revolution-coming-soon.mp3 (0.7 MB)
+2026-10-08T13:12:48  [2/59] downloading #1 Caiti Hachmyer of Red H Farm on rural gentrification, no-till at a human scale
+2026-10-08T13:12:50      -> audio/2015-11-23_1-caiti-hachmyer-of-red-h-farm-on-rural-gentrification-no.mp3 (20.9 MB)
+2026-10-08T13:12:50  [3/59] downloading #2 Amanda Eicher on art and food, OPENrestraurant, and where we can re-imagine food systems
+2026-10-08T13:12:51      -> audio/2015-11-30_2-amanda-eicher-on-art-and-food-openrestraurant-and-where.mp3 (24.4 MB)
+2026-10-08T13:12:51  [4/59] downloading #3 Maywa Montenegro on GMOs, agrobiodiversity, and the politics of who speaks for science
+2026-10-08T13:12:53      -> audio/2015-12-05_3-maywa-montenegro-on-gmos-agrobiodiversity-and-the.mp3 (22.9 MB)
+2026-10-08T13:12:53  [5/59] downloading #4 Farnaz Fatemi on eating in Iran, growing tomatoes, and poetics in a movement
+2026-10-08T13:12:55      -> audio/2015-12-14_4-farnaz-fatemi-on-eating-in-iran-growing-tomatoes-and.mp3 (26.1 MB)
+2026-10-08T13:12:55  [6/59] downloading #5 Kati Greaney And Pete Rasmussen on farming, solidarity, and Cuba's agroecology movement
+2026-10-08T13:12:57      -> audio/2015-12-20_5-kati-greaney-and-pete-rasmussen-on-farming-solidarity-and.mp3 (25.3 MB)
+2026-10-08T13:12:57  [7/59] downloading #6 Victoria Wagner on the symbiosis of art and baking, and meeting neighbors through food
+2026-10-08T13:12:59      -> audio/2015-12-29_6-victoria-wagner-on-the-symbiosis-of-art-and-baking-and.mp3 (17.4 MB)
+2026-10-08T13:12:59  [8/59] downloading #7 Joey Smith of Lets Go Farm on young people farming and a proposal for ending hunger
+2026-10-08T13:13:02      -> audio/2016-01-05_7-joey-smith-of-lets-go-farm-on-young-people-farming-and-a.mp3 (29.9 MB)
+2026-10-08T13:13:02  [9/59] downloading #8 Michelle Glowa on gardens as a space for reimagining the city
+2026-10-08T13:13:06      -> audio/2016-01-12_8-michelle-glowa-on-gardens-as-a-space-for-reimagining-the.mp3 (21.2 MB)
+2026-10-08T13:13:06  [10/59] downloading #9 Niki Nakazawa on cooking as exploration, and eating local in Mexico City
+2026-10-08T13:13:08      -> audio/2016-01-18_9-niki-nakazawa-on-cooking-as-exploration-and-eating-local.mp3 (19.6 MB)
+2026-10-08T13:13:08  [11/59] downloading #10 Brian Dowd-Uribe on Burkina Faso,  GM cotton, and making alliances across inequality
+2026-10-08T13:13:10      -> audio/2016-01-25_10-brian-dowd-uribe-on-burkina-faso-gm-cotton-and-making.mp3 (28.9 MB)
+2026-10-08T13:13:10  [12/59] downloading #11 Kyra Busch on agrobiodiversity, learning solidarity, and thinking on a 100-year time frame
+2026-10-08T13:13:12      -> audio/2016-01-31_11-kyra-busch-on-agrobiodiversity-learning-solidarity-and.mp3 (25.8 MB)
+2026-10-08T13:13:12  [13/59] downloading Some announcements
+2026-10-08T13:13:13      -> audio/2016-02-11_some-announcements.mp3 (1.0 MB)
+2026-10-08T13:13:13  [14/59] downloading #12 Liz Carlisle on the Lentil Underground, and farmers as innovators and scientists
+2026-10-08T13:13:15      -> audio/2016-03-02_12-liz-carlisle-on-the-lentil-underground-and-farmers-as.mp3 (23.6 MB)
+2026-10-08T13:13:15  [15/59] downloading #13 Molly Wilson and Zack Hemstreet on becoming farmers and diversity as a farming principal
+2026-10-08T13:13:16      -> audio/2016-03-14_13-molly-wilson-and-zack-hemstreet-on-becoming-farmers-and.mp3 (18.5 MB)
+2026-10-08T13:13:16  [16/59] downloading #14 Maria Eugenia Flores and Chris Bacon on a collaboration born of revolution
+2026-10-08T13:13:19      -> audio/2016-03-21_14-maria-eugenia-flores-and-chris-bacon-on-a-collaboration.mp3 (39.4 MB)
+2026-10-08T13:13:19  [17/59] downloading #15 Tim Page on supporting a community of farmers and what to do with ridiculous abundance
+2026-10-08T13:13:21      -> audio/2016-03-28_15-tim-page-on-supporting-a-community-of-farmers-and-what.mp3 (22.3 MB)
+2026-10-08T13:13:21  [18/59] downloading #16 Niki Ford on plant-driven cooking and food at the nexus of creativity and poverty
+2026-10-08T13:13:23      -> audio/2016-04-03_16-niki-ford-on-plant-driven-cooking-and-food-at-the-nexus.mp3 (32.0 MB)
+2026-10-08T13:13:23  [19/59] downloading #17 Antonio Roman-Alcala on pushing institutions and transforming the food system at multiple scales
+2026-10-08T13:13:24      -> audio/2016-04-11_17-antonio-roman-alcala-on-pushing-institutions-and.mp3 (24.4 MB)
+2026-10-08T13:13:24  [20/59] downloading #18 David Asher on raw milk and how diversity makes cheese and food systems resilient
+2026-10-08T13:13:26      -> audio/2016-04-17_18-david-asher-on-raw-milk-and-how-diversity-makes-cheese.mp3 (21.9 MB)
+2026-10-08T13:13:26  [21/59] downloading #19 Emma Rosenbush on the changing labor politics in fine dining
+2026-10-08T13:13:28      -> audio/2016-04-26_19-emma-rosenbush-on-the-changing-labor-politics-in-fine.mp3 (22.1 MB)
+2026-10-08T13:13:28  [22/59] downloading #20 Jonah Raskin on the oyster wars, and creativity in response to the California drought
+2026-10-08T13:13:30      -> audio/2016-05-01_20-jonah-raskin-on-the-oyster-wars-and-creativity-in.mp3 (25.6 MB)
+2026-10-08T13:13:30  [23/59] downloading #21 Heidi Herrmann on the multiple livelihoods of a farmer, harvesting seaweed
+2026-10-08T13:13:32      -> audio/2016-07-11_21-heidi-herrmann-on-the-multiple-livelihoods-of-a-farmer.mp3 (27.8 MB)
+2026-10-08T13:13:32  [24/59] downloading #22 Simran Sethi on the biodiversity behind the flavors we love, democratizing taste
+2026-10-08T13:13:34      -> audio/2016-07-19_22-simran-sethi-on-the-biodiversity-behind-the-flavors-we.mp3 (20.8 MB)
+2026-10-08T13:13:34  [25/59] downloading #23 Hillary Sardiñas on the incredible diversity of native pollinators
+2026-10-08T13:13:35      -> audio/2016-07-26_23-hillary-sardi-as-on-the-incredible-diversity-of-native.mp3 (24.7 MB)
+2026-10-08T13:13:35  [26/59] downloading #24 Saru Jayaraman on the struggle for pay and working conditions in restaurants
+2026-10-08T13:13:37      -> audio/2016-08-02_24-saru-jayaraman-on-the-struggle-for-pay-and-working.mp3 (20.1 MB)
+2026-10-08T13:13:37  [27/59] downloading #25 Anna Lappé on connections between food systems and climate change, and the growing food movement
+2026-10-08T13:13:39      -> audio/2016-08-09_25-anna-lapp-on-connections-between-food-systems-and.mp3 (22.6 MB)
+2026-10-08T13:13:39  [28/59] downloading #26 Sita Bhaumik on the People’s Kitchen Collective, decolonizing foods and remedies
+2026-10-08T13:13:41      -> audio/2016-08-16_26-sita-bhaumik-on-the-peoples-kitchen-collective.mp3 (25.9 MB)
+2026-10-08T13:13:41  [29/59] downloading #27 Michaela Leslie-Rule on bridging the generational gap in food knowledge
+2026-10-08T13:13:43      -> audio/2016-08-22_27-michaela-leslie-rule-on-bridging-the-generational-gap-in.mp3 (27.0 MB)
+2026-10-08T13:13:43  [30/59] downloading #28 Jessica Prentice on inviting people into their own kitchens with good ingredients
+2026-10-08T13:13:45      -> audio/2016-08-29_28-jessica-prentice-on-inviting-people-into-their-own.mp3 (27.2 MB)
+2026-10-08T13:13:45  [31/59] downloading #29 Lexa Walsh on meals that bring people together across difference, creating temporary utopias
+2026-10-08T13:13:47      -> audio/2016-09-05_29-lexa-walsh-on-meals-that-bring-people-together-across.mp3 (25.2 MB)
+2026-10-08T13:13:47  [32/59] downloading #30 Darrie Ganzhorn on the Homeless Garden Project
+2026-10-08T13:13:48      -> audio/2017-01-17_30-darrie-ganzhorn-on-the-homeless-garden-project.mp3 (14.9 MB)
+2026-10-08T13:13:48  [33/59] downloading DR Special #1: Kathleen of the Homeless Garden Project
+2026-10-08T13:13:49      -> audio/2017-01-17_dr-special-1-kathleen-of-the-homeless-garden-project.mp3 (5.2 MB)
+2026-10-08T13:13:49  [34/59] downloading #31 Ron Reed of the Karuk Tribe on re-discovering traditional knowledge
+2026-10-08T13:13:51      -> audio/2017-01-31_31-ron-reed-of-the-karuk-tribe-on-re-discovering.mp3 (22.4 MB)
+2026-10-08T13:13:51  [35/59] downloading #32 Jim Cochran of Swanton Berry Farm on growing organic when everyone says it’s impossible
+2026-10-08T13:13:52      -> audio/2017-02-14_32-jim-cochran-of-swanton-berry-farm-on-growing-organic.mp3 (19.7 MB)
+2026-10-08T13:13:52  [36/59] downloading #33 Fallen Fruit (Austin Young and David Burns)on planting public fruit parks around the world
+2026-10-08T13:13:54      -> audio/2017-02-27_33-fallen-fruit-austin-young-and-david-burns-on-planting.mp3 (19.2 MB)
+2026-10-08T13:13:54  [37/59] downloading #34 Kristyn Leach of Namu Farm on finding roots and community through plants
+2026-10-08T13:13:55      -> audio/2017-03-14_34-kristyn-leach-of-namu-farm-on-finding-roots-and.mp3 (21.7 MB)
+2026-10-08T13:13:55  [38/59] downloading #35 Jezra Thompson on Berkeley’s School Gardens and Kitchens
+2026-10-08T13:13:58      -> audio/2017-03-28_35-jezra-thompson-on-berkeleys-school-gardens-and-kitchens.mp3 (25.4 MB)
+2026-10-08T13:13:58  [39/59] downloading #36 Amy Franceschini on victory gardens in San Francisco and a Seed Journey to the Middle East
+2026-10-08T13:13:59      -> audio/2017-04-10_36-amy-franceschini-on-victory-gardens-in-san-francisco-and.mp3 (24.2 MB)
+2026-10-08T13:13:59  [40/59] downloading #37 Nikki Silvestri on soil as a carbon sink and point of engagement for new alliances
+2026-10-08T13:14:01      -> audio/2017-04-25_37-nikki-silvestri-on-soil-as-a-carbon-sink-and-point-of.mp3 (16.4 MB)
+2026-10-08T13:14:01  [41/59] downloading #38 Annie Somerville of Greens Restaurant on building relationships with farmers and workers
+2026-10-08T13:14:02      -> audio/2017-05-08_38-annie-somerville-of-greens-restaurant-on-building.mp3 (17.4 MB)
+2026-10-08T13:14:02  [42/59] downloading #39 Albert Straus on building an organic food system and revitalizing rural communities
+2026-10-08T13:14:04      -> audio/2017-05-23_39-albert-straus-on-building-an-organic-food-system-and.mp3 (22.3 MB)
+2026-10-08T13:14:04  [43/59] downloading #40 Suzi Grady of Petaluma Bounty on addressing the root causes of hunger
+2026-10-08T13:14:06      -> audio/2017-06-06_40-suzi-grady-of-petaluma-bounty-on-addressing-the-root.mp3 (24.4 MB)
+2026-10-08T13:14:06  [44/59] downloading #41 Aileen Suzara on decolonizing food traditions, and the power of food and food stories to heal
+2026-10-08T13:14:08      -> audio/2017-06-20_41-aileen-suzara-on-decolonizing-food-traditions-and-the.mp3 (24.1 MB)
+2026-10-08T13:14:08  [45/59] downloading #42 Dan Imhoff on making agriculture hospitable to wild nature
+2026-10-08T13:14:09      -> audio/2017-07-04_42-dan-imhoff-on-making-agriculture-hospitable-to-wild.mp3 (26.1 MB)
+2026-10-08T13:14:09  [46/59] downloading DR Special #2 Peter Buckley on blackberries and the challenges and beauty of running a diverse farm
+2026-10-08T13:14:11      -> audio/2017-07-18_dr-special-2-peter-buckley-on-blackberries-and-the.mp3 (27.5 MB)
+2026-10-08T13:14:11  [47/59] downloading #43 Norma Listman on the meztizaje of food cultures in Mexico and California
+2026-10-08T13:14:14      -> audio/2017-08-01_43-norma-listman-on-the-meztizaje-of-food-cultures-in.mp3 (38.5 MB)
+2026-10-08T13:14:14  [48/59] downloading #44 The Peoples Kitchen Collective, from the farm to the kitchen to the table to the street
+2026-10-08T13:14:17      -> audio/2017-08-14_44-the-peoples-kitchen-collective-from-the-farm-to-the.mp3 (54.5 MB)
+2026-10-08T13:14:17  [49/59] downloading #45 Sandor Katz on the relevance of food traditions, and migrating from the city to the country
+2026-10-08T13:14:20      -> audio/2017-08-29_45-sandor-katz-on-the-relevance-of-food-traditions-and.mp3 (37.5 MB)
+2026-10-08T13:14:20  [50/59] downloading #46 Kitazawa Seeds - Maya Shiroyama and Jim Ryugo on 100 years of selling Asian vegetable seeds
+2026-10-08T13:14:22      -> audio/2017-09-12_46-kitazawa-seeds-maya-shiroyama-and-jim-ryugo-on-100-years.mp3 (44.3 MB)
+2026-10-08T13:14:22  [51/59] downloading Severine von Tscharner Fleming on building a commons for the future of farming
+2026-10-08T13:14:24      -> audio/2017-09-26_severine-von-tscharner-fleming-on-building-a-commons-for.mp3 (26.5 MB)
+2026-10-08T13:14:24  [52/59] downloading #48 Ayhan Aydin on drawing on the richness of immigrant food traditions
+2026-10-08T13:14:26      -> audio/2017-10-10_48-ayhan-aydin-on-drawing-on-the-richness-of-immigrant-food.mp3 (41.4 MB)
+2026-10-08T13:14:26  [53/59] downloading #49 Karla Diaz on cooking in prison and the migration of food traditions in and out of incarceration
+2026-10-08T13:14:30      -> audio/2017-10-24_49-karla-diaz-on-cooking-in-prison-and-the-migration-of.mp3 (53.4 MB)
+2026-10-08T13:14:30  [54/59] downloading #50 Sana Javeri Kadri on decolonization as a series of questions
+2026-10-08T13:14:33      -> audio/2017-11-07_50-sana-javeri-kadri-on-decolonization-as-a-series-of.mp3 (51.2 MB)
+2026-10-08T13:14:33  [55/59] downloading Announcing Season 6: The Movement Builders
+2026-10-08T13:14:33      -> audio/2018-01-25_announcing-season-6-the-movement-builders.mp3 (2.2 MB)
+2026-10-08T13:14:33  [56/59] downloading #51 Elizabeth Mpofu of La Via Campesina on peasant leadership and a call to fight together
+2026-10-08T13:14:35      -> audio/2018-03-09_51-elizabeth-mpofu-of-la-via-campesina-on-peasant.mp3 (13.0 MB)
+2026-10-08T13:14:35  [57/59] downloading 52 M. Jahi Chappell on Beginning to End Hunger
+2026-10-08T13:14:37      -> audio/2018-04-10_52-m-jahi-chappell-on-beginning-to-end-hunger.mp3 (20.6 MB)
+2026-10-08T13:14:37  [58/59] downloading 53 Janaki Jagannath on an ecological approach to environmental justice in the San Joaquin Valley
+2026-10-08T13:14:39      -> audio/2018-05-13_53-janaki-jagannath-on-an-ecological-approach-to.mp3 (23.4 MB)
+2026-10-08T13:14:39  [59/59] downloading 54 Niaz Dorry on organizing for land food and sea food, and organizing at the speed of trust
+2026-10-08T13:14:40      -> audio/2018-06-25_54-niaz-dorry-on-organizing-for-land-food-and-sea-food-and.mp3 (22.3 MB)
+2026-10-08T13:14:57  done: 59 episodes in episodes.csv, 1.46 GB of audio, 0 failed downloads

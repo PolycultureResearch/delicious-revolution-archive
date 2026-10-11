@@ -1,0 +1,6 @@
+*.mp3
+*.wav
+.DS_Store
+__pycache__/
+archive/audio/
+*.part
