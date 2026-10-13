@@ -5,6 +5,7 @@
   "media_base_url": "https://media.polyculture.net/delicious-revolution",
   "tagline": "A show about food, culture, and place.",
   "hosts_line": "Produced by Chelsea Wills and Devon Sampson, 2015 to 2018",
+  "hosts_now": "Devon and Chelsea now run <a href=\"https://polycultureresearch.com\">Polyculture Research</a>.",
   "hero_alt": "Onion growers bundling their harvest on a riverbank in Guatemala, seen from above",
   "about": [
     "We talk with people whose expertise comes from working with food as farmers, fishers, artists, cooks, activists, scholars, journalists, and more.",
@@ -28,7 +29,8 @@
       "name": "Migrations"
     },
     "6": {
-      "name": "The Movement Builders"
+      "name": "The Movement Builders",
+      "blurb": "What does it take to build movements capable of bringing the food systems we dream of into this complicated world?"
     }
   }
 }

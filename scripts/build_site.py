@@ -268,8 +268,10 @@ def build_index(cfg, eps, seasons):
     # Hero title: the whole show name takes the accent colour.
     title = f'<span class="hero__accent">{e(cfg["title"])}</span>'
     site = cfg["site_url"].rstrip("/")
-    lead = [" ".join(cfg["about"][:-1]), cfg["about"][-1] + " " + cfg["hosts_line"] + "."]
-    lead = "\n      ".join(f'<p class="intro__lead">{e(p)}</p>' for p in lead)
+    lead = [e(" ".join(cfg["about"][:-1])), e(cfg["about"][-1] + " " + cfg["hosts_line"] + ".")]
+    if cfg.get("hosts_now"):  # trusted HTML from site.json, may carry a link
+        lead[-1] += " " + cfg["hosts_now"]
+    lead = "\n      ".join(f'<p class="intro__lead">{p}</p>' for p in lead)
     body = f"""<a class="skip" href="#archive">Skip to episodes</a>
 {site_nav(cfg)}
 <section class="hero">
