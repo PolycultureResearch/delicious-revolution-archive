@@ -254,9 +254,8 @@ def build_index(cfg, eps, seasons):
   </ol>
 </section>""")
 
-    # Hero title: the last word takes the accent colour.
-    words = cfg["title"].split()
-    title = e(" ".join(words[:-1])) + f' <span class="hero__accent">{e(words[-1])}</span>' if len(words) > 1 else e(cfg["title"])
+    # Hero title: the whole show name takes the accent colour.
+    title = f'<span class="hero__accent">{e(cfg["title"])}</span>'
     site = cfg["site_url"].rstrip("/")
     lead = " ".join(cfg["about"][1:] + [cfg["hosts_line"] + "."])
     body = f"""<a class="skip" href="#archive">Skip to episodes</a>

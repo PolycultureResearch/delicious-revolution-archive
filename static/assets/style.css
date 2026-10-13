@@ -65,6 +65,10 @@ h1, h2, h3, h4 {
   letter-spacing: -0.025em;
   margin: 0;
 }
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.1rem; }
 a { color: var(--link); text-decoration: none; transition: color 0.2s; }
 a:hover { color: var(--link-hover); }
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
@@ -152,6 +156,7 @@ a.eyebrow:hover { color: var(--link-hover); }
   font-size: clamp(3rem, 10vw, 5.5rem); font-weight: 800; color: #ffffff;
   margin: 0 0 1rem; text-shadow: 0 2px 40px rgba(0, 0, 0, 0.3);
 }
+.hero__title { text-transform: uppercase; font-size: clamp(2.4rem, 9vw, 5.5rem); }
 .hero__accent { color: var(--fuchsia); }
 .hero__subtitle {
   font-size: clamp(1.1rem, 3vw, 1.5rem); color: rgba(255, 255, 255, 0.9);

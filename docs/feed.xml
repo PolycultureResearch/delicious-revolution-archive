@@ -7,7 +7,7 @@
 <language>en-us</language>
 <description>A show about food, culture, and place. Delicious Revolution was a radio show and podcast of long conversations with farmers, cooks, artists, scholars, and organizers about how food is grown, shared, and imagined. It aired on KOWS and KWMR in Northern California. This is the complete archive of the published episodes.</description>
 <itunes:author>Chelsea Wills and Devon Sampson</itunes:author>
-<itunes:owner><itunes:name>Chelsea Wills and Devon Sampson</itunes:name><itunes:email></itunes:email></itunes:owner>
+<itunes:owner><itunes:name>Chelsea Wills and Devon Sampson</itunes:name><itunes:email>devon@polycultureresearch.com</itunes:email></itunes:owner>
 <itunes:image href="https://deliciousrevolution.polycultureresearch.com/assets/cover.jpg"/>
 <itunes:category text="Arts"><itunes:category text="Food"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
@@ -593,16 +593,6 @@
 <itunes:duration>43:35</itunes:duration>
 <itunes:season>1</itunes:season><itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
-</item><item>
-<title>Delicious Revolution Coming Soon</title>
-<link>https://deliciousrevolution.polycultureresearch.com/episodes/2015-10-19_delicious-revolution-coming-soon/</link>
-<guid isPermaLink="false">tag:soundcloud,2010:tracks/229172633</guid>
-<pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
-<description><![CDATA[<p>Introducing first season of the podcast &quot;Delicious Revolution: a show about food, culture, and place.&quot; We talk with people whose expertise in food comes from working with food as farmers, fishers, artists, cooks, activists, scholars, journalists, and more.  They spend a large portion of their life thinking about food- what it means, how to make it, how to change the food system, how it ties together societies.  We will bring you in-depth conversations with some of the brilliant people that inspire the ways we think about food, and who, most likely, you have never heard of.  The first season, with 10 interviews, is in production now, and will launch in the middle of November, 2015.</p>]]></description>
-<enclosure url="https://media.polyculture.net/delicious-revolution/2015-10-19_delicious-revolution-coming-soon.mp3" length="685335" type="audio/mpeg"/>
-<itunes:duration>1:25</itunes:duration>
-<itunes:season>1</itunes:season>
-<itunes:episodeType>bonus</itunes:episodeType>
 </item>
 </channel>
 </rss>
