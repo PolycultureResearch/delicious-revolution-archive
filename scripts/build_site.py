@@ -16,6 +16,7 @@ Standard library only.
 import csv
 import datetime as dt
 import email.utils
+import hashlib
 import html
 import json
 import os
@@ -166,6 +167,12 @@ def load_episodes():
 
 # ---------- html ----------
 
+def asset_version(name):
+    """Short content hash, so browsers refetch an asset when it changes."""
+    with open(os.path.join(ROOT, "static", "assets", name), "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()[:8]
+
+
 def page(cfg, title, body, description="", path="", extra_head=""):
     url = cfg["site_url"].rstrip("/") + "/" + path
     desc = html.escape(description or cfg["tagline"])
@@ -187,12 +194,12 @@ def page(cfg, title, body, description="", path="", extra_head=""):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v={asset_version('style.css')}">
 {extra_head}
 </head>
 <body>
 {body}
-<script src="/assets/app.js" defer></script>
+<script src="/assets/app.js?v={asset_version('app.js')}" defer></script>
 </body>
 </html>
 """
@@ -231,9 +238,11 @@ def site_nav(cfg):
 
 
 def site_footer(cfg):
+    credit = html.escape(cfg["footer"]).replace(
+        "Polyculture Research", '<a href="https://polycultureresearch.com">Polyculture Research</a>')
     return f"""<footer class="footer">
   <nav class="footer__nav" aria-label="Footer"><a href="/#archive">Episodes</a><a href="/feed.xml">Podcast feed</a><a href="https://polycultureresearch.com">Polyculture Research</a></nav>
-  <p class="footer__copyright">{html.escape(cfg['footer'])}</p>
+  <p class="footer__copyright">{credit}</p>
 </footer>"""
 
 
@@ -246,6 +255,8 @@ def build_index(cfg, eps, seasons):
         name = f"Season {s}" + (f": {info['name']}" if info.get("name") else "")
         items = "\n".join(episode_row(cfg, ep) for ep in info["eps"])
         blurb = f'<p class="season-blurb">{e(info["blurb"])}</p>' if info.get("blurb") else ""
+        if info.get("credit"):
+            blurb += f'<p class="season-blurb season-credit">{info["credit"]}</p>'
         count = f"{len(info['eps'])} episode{'' if len(info['eps']) == 1 else 's'}"
         sections.append(f"""<section class="season" id="season-{s}" aria-labelledby="h-season-{s}">
   <header class="season-head"><p class="eyebrow">{e(info['years'])} · {count}</p><h2 class="accent-heading" id="h-season-{s}">{e(name)}</h2>{blurb}</header>
@@ -257,7 +268,8 @@ def build_index(cfg, eps, seasons):
     # Hero title: the whole show name takes the accent colour.
     title = f'<span class="hero__accent">{e(cfg["title"])}</span>'
     site = cfg["site_url"].rstrip("/")
-    lead = " ".join(cfg["about"][1:] + [cfg["hosts_line"] + "."])
+    lead = [" ".join(cfg["about"][:-1]), cfg["about"][-1] + " " + cfg["hosts_line"] + "."]
+    lead = "\n      ".join(f'<p class="intro__lead">{e(p)}</p>' for p in lead)
     body = f"""<a class="skip" href="#archive">Skip to episodes</a>
 {site_nav(cfg)}
 <section class="hero">
@@ -270,8 +282,7 @@ def build_index(cfg, eps, seasons):
 <main>
   <section class="band intro" id="about">
     <div class="band__inner">
-      <p class="intro__text">{cfg['intro']}</p>
-      <p class="intro__lead">{e(lead)}</p>
+      {lead}
     </div>
   </section>
   <div class="archive" id="archive">

@@ -52,7 +52,7 @@ Preview locally with `python3 -m http.server -d docs 8000`.
 
 Fixes go in `data/overrides.csv` (never edit `episodes.csv` by hand, so a
 re-fetch can't clobber them). Columns: `episode_id`, then any of `season`,
-`title`, `hide` (yes to leave an item off the site), `notes_override`
+`number` and `kind` (`episode` to show an episode number), `title`, `hide` (yes to leave an item off the site), `notes_override`
 (plain text; blank lines make paragraphs). Season names and site text live in
 `site.json`.
 

@@ -172,14 +172,15 @@ a.eyebrow:hover { color: var(--link-hover); }
 @media (max-width: 768px) { .band { padding: 3.25rem 0; } }
 .band__inner { max-width: var(--container-max); margin: 0 auto; padding: 0 var(--gutter); }
 
-.intro { text-align: center; }
+.intro .band__inner { max-width: 860px; } /* same column as the archive below */
 .intro__text {
   font-family: var(--font-display); font-weight: 700;
   font-size: clamp(1.5rem, 3.4vw, 2.35rem); line-height: 1.25; letter-spacing: -0.02em;
   color: var(--heading); max-width: 800px; margin: 0 auto;
 }
 .intro__text em { font-style: normal; color: var(--fuchsia); }
-.intro__lead { font-size: 1.15rem; line-height: 1.6; color: var(--ink-muted); max-width: 640px; margin: 1.25rem auto 0; }
+.intro__lead { font-size: 1.15rem; line-height: 1.6; color: var(--ink-muted); max-width: var(--measure); margin: 1.25rem 0 0; }
+.intro__lead:first-child { margin-top: 0; }
 
 /* ---------- Archive: find bar, seasons, episode rows ---------- */
 .archive { max-width: 860px; margin: 0 auto; padding: 0 var(--gutter) var(--space-500); }
@@ -208,6 +209,8 @@ a.eyebrow:hover { color: var(--link-hover); }
 .season[hidden] { display: none; }
 .season-head { margin-bottom: var(--space-100); }
 .season-blurb { margin: var(--space-100) 0 0; color: var(--ink-muted); max-width: var(--measure); }
+.season-credit { font-size: 0.9rem; color: var(--ink-subtle); }
+.season-credit a { text-decoration: underline; text-underline-offset: 0.15em; }
 
 .eps { list-style: none; margin: 0; padding: 0; }
 .ep {
@@ -274,6 +277,8 @@ main:has(.cta-band) + .footer { border-top: var(--rule-hairline) solid rgba(255,
 .footer__nav a { color: var(--on-slate-muted); font-size: 0.95rem; }
 .footer__nav a:hover { color: var(--on-slate); }
 .footer__copyright { font-size: 0.85rem; color: var(--on-slate-subtle); margin: 0; }
+.footer__copyright a { color: var(--on-slate-muted); text-decoration: underline; text-underline-offset: 0.15em; }
+.footer__copyright a:hover { color: var(--on-slate); }
 
 /* ---------- Episode page ---------- */
 .page { max-width: var(--measure); margin: 0 auto; padding: 4rem var(--gutter) var(--space-500); }

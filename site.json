@@ -5,18 +5,24 @@
   "media_base_url": "https://media.polyculture.net/delicious-revolution",
   "tagline": "A show about food, culture, and place.",
   "hosts_line": "Produced by Chelsea Wills and Devon Sampson, 2015 to 2018",
-  "intro": "Long conversations with farmers, cooks, artists, scholars, and organizers about how food is <em>grown, shared, and imagined</em>.",
   "hero_alt": "Onion growers bundling their harvest on a riverbank in Guatemala, seen from above",
   "about": [
-    "Delicious Revolution was a radio show and podcast of long conversations with farmers, cooks, artists, scholars, and organizers about how food is grown, shared, and imagined.",
-    "It aired on KOWS and KWMR in Northern California. This is the complete archive of the published episodes."
+    "We talk with people whose expertise comes from working with food as farmers, fishers, artists, cooks, activists, scholars, journalists, and more.",
+    "They spend a large portion of their life thinking about food: what it means, how to make it, how to change the food system, how it ties together societies. Each season we choose a theme, and invite a wide range of perspectives on that theme, bringing you in-depth conversations with some of the brilliant people that inspire the ways we think about food.",
+    "Delicious Revolution aired on KOWS and KWMR in Northern California. This is the complete archive of the published episodes."
   ],
   "author": "Chelsea Wills and Devon Sampson",
   "owner_email": "devon@polycultureresearch.com",
   "footer": "Delicious Revolution, 2015 to 2018. Archive hosted by Polyculture Research.",
   "seasons": {
+    "3": {
+      "name": "Unseen Stories of Food",
+      "blurb": "In this third season of Delicious Revolution, we bring you stories and perspectives from the unseen places in the food system, going behind kitchen doors, under the waves, and to the faraway origins of the flavors we love, just to name a few. Chelsea speaks with people who work with food in places we normally cannot see, or don’t notice. It’s a season of unseen stories of food."
+    },
     "4": {
-      "name": "California Food Systems"
+      "name": "California at the Heart of the Food Movement",
+      "blurb": "Like many cultural movements, the world’s attention on good, sustainable, local food can trace many of its roots to the fertile and shifting landscape of California, from the gourmet ghetto of Berkeley and the immigrant-driven cuisines of Los Angeles to the rebel farmers that planted the seeds of the organic movement on the Central Coast. In this season of Delicious Revolution, we’re talking with visionary chefs, gardeners, farmers, organizers, artists and scientists. These people have shaped the food movement in California. We talk with a diverse group of California’s rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food.",
+      "credit": "This season is produced with support from <a href=\"https://foodfirst.org\">Food First</a> and <a href=\"https://calhum.org\">California Humanities</a>."
     },
     "5": {
       "name": "Migrations"
