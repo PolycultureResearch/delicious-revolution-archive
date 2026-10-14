@@ -1,0 +1,4982 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,130",
+				"to": "00:00:12,140"
+			},
+			"offsets": {
+				"from": 130,
+				"to": 12140
+			},
+			"text": " Hey, Devon here. Before this week's amazing interview, I'd like to invite you to support Delicious Revolution directly by donating as little as a dollar a month."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,600",
+				"to": "00:00:19,130"
+			},
+			"offsets": {
+				"from": 12600,
+				"to": 19130
+			},
+			"text": " You can learn more about it and the perks of becoming a subscriber at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,130",
+				"to": "00:00:34,090"
+			},
+			"offsets": {
+				"from": 19130,
+				"to": 34090
+			},
+			"text": " The things he says is they tell me I have to feed the world. I don't want to. I want to feed you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,290",
+				"to": "00:00:45,540"
+			},
+			"offsets": {
+				"from": 34290,
+				"to": 45540
+			},
+			"text": " How do we prioritize this, both in terms of seafood and land food, that our commitment first and foremost should be to feed our regions, our communities?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,240",
+				"to": "00:00:49,180"
+			},
+			"offsets": {
+				"from": 46240,
+				"to": 49180
+			},
+			"text": " If anything is left over, throw it in the global commodities of scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:52,980"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 52980
+			},
+			"text": " But let's relocalize where our food needs to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,980",
+				"to": "00:00:59,200"
+			},
+			"offsets": {
+				"from": 52980,
+				"to": 59200
+			},
+			"text": " And that doesn't mean we need to be xenophobic about it. We're not suggesting, you know, drawing borders around our food."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,320",
+				"to": "00:01:05,820"
+			},
+			"offsets": {
+				"from": 59320,
+				"to": 65820
+			},
+			"text": " We're just suggesting those who live closest to most of the food we catch and raise and grow can't feed themselves anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,920",
+				"to": "00:01:10,850"
+			},
+			"offsets": {
+				"from": 65920,
+				"to": 70850
+			},
+			"text": " And it's not as if the rest of the world that's getting it is actually feeding themselves either."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,280",
+				"to": "00:01:17,430"
+			},
+			"offsets": {
+				"from": 71280,
+				"to": 77430
+			},
+			"text": " So if we were solving the hunger problem in the process of causing all these further problems, I'd say, okay, I get it. But we're not."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,430",
+				"to": "00:01:24,500"
+			},
+			"offsets": {
+				"from": 77430,
+				"to": 84500
+			},
+			"text": " You're listening to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,860",
+				"to": "00:01:28,560"
+			},
+			"offsets": {
+				"from": 84860,
+				"to": 88560
+			},
+			"text": " Delicious Revolution is produced by Chelsea Wills and by me, Devon Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,760",
+				"to": "00:01:44,080"
+			},
+			"offsets": {
+				"from": 88760,
+				"to": 104080
+			},
+			"text": " This season, we're speaking to community organizers, activists, and movement builders all around this central question of what will it take to build movements capable of bringing the food systems we all imagine and dream about into this complicated world."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,300",
+				"to": "00:01:52,200"
+			},
+			"offsets": {
+				"from": 104300,
+				"to": 112200
+			},
+			"text": " Niaz Dori moved to Gloucester, Massachusetts, the oldest settled fishing port in the United States, in 1994."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,040",
+				"to": "00:01:58,440"
+			},
+			"offsets": {
+				"from": 113040,
+				"to": 118440
+			},
+			"text": " She's been working with small-scale, traditional, and indigenous farming communities in the U.S. and around the globe ever since."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,640",
+				"to": "00:02:05,460"
+			},
+			"offsets": {
+				"from": 118640,
+				"to": 125460
+			},
+			"text": " After working as an environmental justice organizer in Greenpeace's Toxics campaigns, she started working on fisheries issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,580",
+				"to": "00:02:19,770"
+			},
+			"offsets": {
+				"from": 125580,
+				"to": 139770
+			},
+			"text": " She's been organizing with the fishing families of the North Atlantic Marine Alliance since 2008, advancing the rights and ecological benefits of the small-scale fishing communities as a means for protecting global marine biodiversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,220",
+				"to": "00:02:31,940"
+			},
+			"offsets": {
+				"from": 140220,
+				"to": 151940
+			},
+			"text": " This year, the North Atlantic Marine Alliance and the National Family Farm Coalition decided to join forces and share leadership with Niaz as their director."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,400",
+				"to": "00:02:37,860"
+			},
+			"offsets": {
+				"from": 152400,
+				"to": 157860
+			},
+			"text": " She's currently on a national tour of farms and fishing communities to kick off this joint effort."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,550",
+				"to": "00:02:40,670"
+			},
+			"offsets": {
+				"from": 158550,
+				"to": 160670
+			},
+			"text": " I spoke to Niaz just before she left on tour."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,150",
+				"to": "00:02:43,470"
+			},
+			"offsets": {
+				"from": 161150,
+				"to": 163470
+			},
+			"text": " So here's my conversation with Niaz Dori."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,780",
+				"to": "00:02:54,060"
+			},
+			"offsets": {
+				"from": 167780,
+				"to": 174060
+			},
+			"text": " Welcome to Delicious Revolution, and thanks so much for making some time to talk to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,260",
+				"to": "00:02:54,860"
+			},
+			"offsets": {
+				"from": 174260,
+				"to": 174860
+			},
+			"text": " Thanks for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,860",
+				"to": "00:02:59,080"
+			},
+			"offsets": {
+				"from": 174860,
+				"to": 179080
+			},
+			"text": " I know you're in the middle of that leadership transition and also getting ready for this tour."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,660",
+				"to": "00:03:08,100"
+			},
+			"offsets": {
+				"from": 179660,
+				"to": 188100
+			},
+			"text": " But I want to just start with your beginning working with fishing people and how that started for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,190",
+				"to": "00:03:14,530"
+			},
+			"offsets": {
+				"from": 188190,
+				"to": 194530
+			},
+			"text": " I was in community organizing and mostly around social, environmental, and economic justice issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,530",
+				"to": "00:03:26,440"
+			},
+			"offsets": {
+				"from": 194530,
+				"to": 206440
+			},
+			"text": " And I was working with Greenpeace on toxics issues at the time when I was asked whether or not I would consider switching campaigns and work on fisheries issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,450",
+				"to": "00:03:36,880"
+			},
+			"offsets": {
+				"from": 207450,
+				"to": 216880
+			},
+			"text": " And the reason for the suggestion was that within the toxics campaign, we were actually using a community organizing approach to the work."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,550",
+				"to": "00:03:47,390"
+			},
+			"offsets": {
+				"from": 217550,
+				"to": 227390
+			},
+			"text": " And we were working in communities at their request and making sure that they had tools that they needed to fight against whatever it was that they were struggling against."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,390",
+				"to": "00:03:52,850"
+			},
+			"offsets": {
+				"from": 227390,
+				"to": 232850
+			},
+			"text": " Toxic waste incinerator, palm paper mill, or whatever it happened to be in that case."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,390",
+				"to": "00:03:58,710"
+			},
+			"offsets": {
+				"from": 233390,
+				"to": 238710
+			},
+			"text": " And because we were deeply rooted with the communities at their request, that's a really important part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,250",
+				"to": "00:04:04,150"
+			},
+			"offsets": {
+				"from": 239250,
+				"to": 244150
+			},
+			"text": " The work continued even without us being on the ground."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,150",
+				"to": "00:04:10,410"
+			},
+			"offsets": {
+				"from": 244150,
+				"to": 250410
+			},
+			"text": " And that was a really important part of it when you were actually winning your battles because of the strategies that you were employing."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,990",
+				"to": "00:04:21,230"
+			},
+			"offsets": {
+				"from": 250990,
+				"to": 261230
+			},
+			"text": " And the organization kind of looked at the toxics campaigns organizing model and the ocean campaign and thought, what if we applied the same kind of a model to the ocean's work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,140",
+				"to": "00:04:25,080"
+			},
+			"offsets": {
+				"from": 262140,
+				"to": 265080
+			},
+			"text": " And so they asked me if I would consider switching campaigns."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,520",
+				"to": "00:04:29,550"
+			},
+			"offsets": {
+				"from": 265520,
+				"to": 269550
+			},
+			"text": " And honestly, at first, it didn't resonate with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,550",
+				"to": "00:04:36,350"
+			},
+			"offsets": {
+				"from": 269550,
+				"to": 276350
+			},
+			"text": " You know, I was dealing with people who literally couldn't breathe because of what they were experiencing in their communities or dying from cancer."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,280",
+				"to": "00:04:42,300"
+			},
+			"offsets": {
+				"from": 277280,
+				"to": 282300
+			},
+			"text": " And somehow the work of saving the whales seemed kind of frivolous to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,890",
+				"to": "00:04:46,000"
+			},
+			"offsets": {
+				"from": 282890,
+				"to": 286000
+			},
+			"text": " And but then I was given a bunch of information to read."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,100",
+				"to": "00:05:00,840"
+			},
+			"offsets": {
+				"from": 286100,
+				"to": 300840
+			},
+			"text": " And then I realized how ignorant I was, really, that it's much like the fight against a toxic waste incinerator is really a fight against global economies of scale and global movement of capital and companies that are really trying to find where they can make a profit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,860",
+				"to": "00:05:02,820"
+			},
+			"offsets": {
+				"from": 300860,
+				"to": 302820
+			},
+			"text": " At the expense of the people and the planet."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,540",
+				"to": "00:05:04,700"
+			},
+			"offsets": {
+				"from": 303540,
+				"to": 304700
+			},
+			"text": " And it felt the same way."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,740",
+				"to": "00:05:06,660"
+			},
+			"offsets": {
+				"from": 304740,
+				"to": 306660
+			},
+			"text": " Suddenly, the ocean work felt the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,760",
+				"to": "00:05:08,480"
+			},
+			"offsets": {
+				"from": 306760,
+				"to": 308480
+			},
+			"text": " It was about it wasn't really about the whale."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,560",
+				"to": "00:05:13,710"
+			},
+			"offsets": {
+				"from": 308560,
+				"to": 313710
+			},
+			"text": " It was about global movement of capital, corporate control of yet another part of our public commons."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,310",
+				"to": "00:05:16,030"
+			},
+			"offsets": {
+				"from": 314310,
+				"to": 316030
+			},
+			"text": " And in this case, the whale was in the way."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,610",
+				"to": "00:05:19,490"
+			},
+			"offsets": {
+				"from": 316610,
+				"to": 319490
+			},
+			"text": " And and so it suddenly began to resonate with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,570",
+				"to": "00:05:25,410"
+			},
+			"offsets": {
+				"from": 319570,
+				"to": 325410
+			},
+			"text": " And I began to think about and read about the fishermen that were involved and how they were going about their battle."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,410",
+				"to": "00:05:31,370"
+			},
+			"offsets": {
+				"from": 325410,
+				"to": 331370
+			},
+			"text": " And I was realizing that the narrative that they were talking about was actually missed by a lot of folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,370",
+				"to": "00:05:35,990"
+			},
+			"offsets": {
+				"from": 331370,
+				"to": 335990
+			},
+			"text": " It seemed like it was coming across as if we don't give a damn."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,110",
+				"to": "00:05:37,830"
+			},
+			"offsets": {
+				"from": 336110,
+				"to": 337830
+			},
+			"text": " We want to kill everything that's in the ocean."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,830",
+				"to": "00:05:38,770"
+			},
+			"offsets": {
+				"from": 337830,
+				"to": 338770
+			},
+			"text": " So let us fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,830",
+				"to": "00:05:51,620"
+			},
+			"offsets": {
+				"from": 338830,
+				"to": 351620
+			},
+			"text": " And what they were really saying is there's a difference between those of us who fish on an appropriate scale and think about the future generations and the global commodities of scale that most of the policies are written for."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,780",
+				"to": "00:05:53,920"
+			},
+			"offsets": {
+				"from": 351780,
+				"to": 353920
+			},
+			"text": " And most of the market strategies support."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,460",
+				"to": "00:06:01,240"
+			},
+			"offsets": {
+				"from": 354460,
+				"to": 361240
+			},
+			"text": " And so they were really fighting the same fight as we were fighting with the toxics campaign."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,520",
+				"to": "00:06:10,030"
+			},
+			"offsets": {
+				"from": 361520,
+				"to": 370030
+			},
+			"text": " And what began to resonate with me was really I started to hear some of the same narrative I heard from farmers along the way about our land food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,170",
+				"to": "00:06:25,110"
+			},
+			"offsets": {
+				"from": 370170,
+				"to": 385110
+			},
+			"text": " So we talk a lot in our NAMO about land food and seafood and really making sure people realize there is two and seafood part is often left out of the conversation, which is kind of ironic because it's the only thing we eat that actually has the word food in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,330",
+				"to": "00:06:28,490"
+			},
+			"offsets": {
+				"from": 385330,
+				"to": 388490
+			},
+			"text": " So it felt a real odd that it wasn't included in the discussions."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,810",
+				"to": "00:06:31,190"
+			},
+			"offsets": {
+				"from": 388810,
+				"to": 391190
+			},
+			"text": " So that began to really resonate with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,550",
+				"to": "00:06:40,940"
+			},
+			"offsets": {
+				"from": 391550,
+				"to": 400940
+			},
+			"text": " And then I started to read a little bit more and try to figure out if I'm going to do organizing and fishing communities, I'm not going to just be in D.C., which is where I was living at the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,360",
+				"to": "00:06:48,100"
+			},
+			"offsets": {
+				"from": 401360,
+				"to": 408100
+			},
+			"text": " And the more I read, the more where I live right now, Gloucester, Massachusetts, really began to look like the place I should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,100",
+				"to": "00:06:55,430"
+			},
+			"offsets": {
+				"from": 408100,
+				"to": 415430
+			},
+			"text": " It seemed historically, geographically, economically, politically, was a really important piece of the puzzle."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,220",
+				"to": "00:07:03,320"
+			},
+			"offsets": {
+				"from": 416220,
+				"to": 423320
+			},
+			"text": " And so I packed my bags and moved here 25 years ago and spent the first five to six years fishing as often as I could."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,110",
+				"to": "00:07:10,510"
+			},
+			"offsets": {
+				"from": 424110,
+				"to": 430510
+			},
+			"text": " And then I really began to understand the issues enough that I felt that this is what I need to do with the rest of my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,510",
+				"to": "00:07:20,720"
+			},
+			"offsets": {
+				"from": 430510,
+				"to": 440720
+			},
+			"text": " And so over the years, it has transformed as I've learned more about where seafood fits into the bigger system, political system, food system, social systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,280",
+				"to": "00:07:27,160"
+			},
+			"offsets": {
+				"from": 441280,
+				"to": 447160
+			},
+			"text": " Really, it has changed for me, but it still remains a pretty big core of why I do this work."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,360",
+				"to": "00:07:29,220"
+			},
+			"offsets": {
+				"from": 447360,
+				"to": 449220
+			},
+			"text": " It's just the work really resonated with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,730",
+				"to": "00:07:38,420"
+			},
+			"offsets": {
+				"from": 450730,
+				"to": 458420
+			},
+			"text": " Can you tell me a little bit more about Gloucester and also about the life and the struggle of small-scale fishermen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,420",
+				"to": "00:07:41,180"
+			},
+			"offsets": {
+				"from": 458420,
+				"to": 461180
+			},
+			"text": " I think it's easy to imagine commercial fishing."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,740",
+				"to": "00:07:50,000"
+			},
+			"offsets": {
+				"from": 461740,
+				"to": 470000
+			},
+			"text": " It's easy to imagine recreational fishing, but I just don't have a good sense of what the life of a small-scale fisherman is."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,060",
+				"to": "00:07:51,040"
+			},
+			"offsets": {
+				"from": 470060,
+				"to": 471040
+			},
+			"text": " Yeah, a lot of people don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,160",
+				"to": "00:07:54,740"
+			},
+			"offsets": {
+				"from": 471160,
+				"to": 474740
+			},
+			"text": " You know, unlike farmers, we have less access to the visual."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,990",
+				"to": "00:08:02,790"
+			},
+			"offsets": {
+				"from": 474990,
+				"to": 482790
+			},
+			"text": " Unless you went on vacation somewhere into a coastal fishing community, you probably don't have any reason to know what that life looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,320",
+				"to": "00:08:12,960"
+			},
+			"offsets": {
+				"from": 483320,
+				"to": 492960
+			},
+			"text": " And unfortunately, it's funny because as tourism, much like with farmland, as tourism has expanded into coastal communities, people come to see that life and then yet complain about the sound."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,960",
+				"to": "00:08:13,920"
+			},
+			"offsets": {
+				"from": 492960,
+				"to": 493920
+			},
+			"text": " And the noise and the smell."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,720",
+				"to": "00:08:15,440"
+			},
+			"offsets": {
+				"from": 494720,
+				"to": 495440
+			},
+			"text": " Yeah, of course."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,480",
+				"to": "00:08:19,080"
+			},
+			"offsets": {
+				"from": 495480,
+				"to": 499080
+			},
+			"text": " So it's much like with farming, where people go to farmland and say, what's the manure here for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,660",
+				"to": "00:08:23,250"
+			},
+			"offsets": {
+				"from": 499660,
+				"to": 503250
+			},
+			"text": " And so a lot of people don't have that occasion."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,850",
+				"to": "00:08:26,170"
+			},
+			"offsets": {
+				"from": 503850,
+				"to": 506170
+			},
+			"text": " And so for me, it was a learning curve."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,230",
+				"to": "00:08:32,020"
+			},
+			"offsets": {
+				"from": 506230,
+				"to": 512020
+			},
+			"text": " I was a vegetarian when I started to work on fisheries issues, so I didn't even have a sense of what I was talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,910",
+				"to": "00:08:34,490"
+			},
+			"offsets": {
+				"from": 512910,
+				"to": 514490
+			},
+			"text": " Gloucester itself, it's funny."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,590",
+				"to": "00:08:43,390"
+			},
+			"offsets": {
+				"from": 514590,
+				"to": 523390
+			},
+			"text": " Gloucester has a sign at what's called a rotary here, a traffic circle, as you enter the island, that says, America's oldest fishing port."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,110",
+				"to": "00:08:55,130"
+			},
+			"offsets": {
+				"from": 524110,
+				"to": 535130
+			},
+			"text": " And I tell people that one of these days, if I get arrested again for civil disobedience, it will be because I went over to that sign and doctored it and put a little thing in there that says, America's oldest settled fishing port."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,130",
+				"to": "00:09:01,160"
+			},
+			"offsets": {
+				"from": 535130,
+				"to": 541160
+			},
+			"text": " Because I think we forget the history that was before colonization, especially in this part of the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,890",
+				"to": "00:09:07,100"
+			},
+			"offsets": {
+				"from": 541890,
+				"to": 547100
+			},
+			"text": " So it claims to be the oldest settled fishing port, and it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,180",
+				"to": "00:09:13,040"
+			},
+			"offsets": {
+				"from": 547180,
+				"to": 553040
+			},
+			"text": " It's been a fishing community, colonized fishing community, since the mid-1600s."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,560",
+				"to": "00:09:18,080"
+			},
+			"offsets": {
+				"from": 553560,
+				"to": 558080
+			},
+			"text": " And before that, there are still remnants of the way Native Americans used to fish here."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,590",
+				"to": "00:09:26,090"
+			},
+			"offsets": {
+				"from": 558590,
+				"to": 566090
+			},
+			"text": " In fact, the board president for NAMA is a fifth-generation fisherwoman in this case, and they fish the way the Native Americans used to fish with wear operations."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,430",
+				"to": "00:09:41,860"
+			},
+			"offsets": {
+				"from": 566430,
+				"to": 581860
+			},
+			"text": " So there's a range of different ways commercial fishing show up, small, medium scale, sort of the equivalent of the family farmer on the water, could be using hooks and lines, could be using a gill net, could be using a trawl net, could be using weirs, could be using pots."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,370",
+				"to": "00:09:48,190"
+			},
+			"offsets": {
+				"from": 582370,
+				"to": 588190
+			},
+			"text": " Most of them go out for a day to two to three days, the fleet that we work with, that NAMA works with."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,180",
+				"to": "00:10:05,060"
+			},
+			"offsets": {
+				"from": 589180,
+				"to": 605060
+			},
+			"text": " So that's sort of their life, and much like farmers, they have been told, essentially, that once your job is to just catch the stuff as cheaply as you can, and then give it to us, we'll make all the wealth off of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,120",
+				"to": "00:10:12,320"
+			},
+			"offsets": {
+				"from": 605120,
+				"to": 612320
+			},
+			"text": " We'll give you the price that we think you deserve, which is never the cost of operation, and we'll make all the money off of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,320",
+				"to": "00:10:21,630"
+			},
+			"offsets": {
+				"from": 612320,
+				"to": 621630
+			},
+			"text": " And then it usually ends up in the global commodity scale first, and part of the work that we've been doing both at NAMA and NFFC is sort of relocalizing our food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,730",
+				"to": "00:10:23,150"
+			},
+			"offsets": {
+				"from": 621730,
+				"to": 623150
+			},
+			"text": " How do we feed our communities first?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,490",
+				"to": "00:10:31,550"
+			},
+			"offsets": {
+				"from": 623490,
+				"to": 631550
+			},
+			"text": " How do we have food policies, fishing policies, farm policies that honor the fact that there are people living within these docks and these farms that can't feed themselves anymore?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,200",
+				"to": "00:10:39,900"
+			},
+			"offsets": {
+				"from": 632200,
+				"to": 639900
+			},
+			"text": " So how do we solve that problem in the course of sort of the bigger policy issues that need to be dealt with?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,020",
+				"to": "00:10:47,480"
+			},
+			"offsets": {
+				"from": 640020,
+				"to": 647480
+			},
+			"text": " So in many ways, I see the life of a fisherman not much different than the life of a farmer, and it's hard work."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,680",
+				"to": "00:10:51,080"
+			},
+			"offsets": {
+				"from": 647680,
+				"to": 651080
+			},
+			"text": " It's work that people don't feel they have to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,140",
+				"to": "00:10:52,500"
+			},
+			"offsets": {
+				"from": 651140,
+				"to": 652500
+			},
+			"text": " It's the work that they're called to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,840",
+				"to": "00:10:55,660"
+			},
+			"offsets": {
+				"from": 652840,
+				"to": 655660
+			},
+			"text": " And I think as an organizer and activist, I can really relate to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,660",
+				"to": "00:11:03,540"
+			},
+			"offsets": {
+				"from": 655660,
+				"to": 663540
+			},
+			"text": " There's this part of it that's really wild about fishing, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,900",
+				"to": "00:11:12,520"
+			},
+			"offsets": {
+				"from": 663900,
+				"to": 672520
+			},
+			"text": " And the departure from farming is that it's an engagement with these big, unseen ecosystems."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,210",
+				"to": "00:11:19,630"
+			},
+			"offsets": {
+				"from": 674210,
+				"to": 679630
+			},
+			"text": " Knowing a bunch of fishing people, what is it that people love about that work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,630",
+				"to": "00:11:33,190"
+			},
+			"offsets": {
+				"from": 679630,
+				"to": 693190
+			},
+			"text": " I think one of the things we often hear about, and I think one of the things that both frustrates fishermen and makes them really love what they do, fishermen and women, is that unpredictability, is the wildness of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,330",
+				"to": "00:11:35,290"
+			},
+			"offsets": {
+				"from": 693330,
+				"to": 695290
+			},
+			"text": " It's the challenge of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,570",
+				"to": "00:11:42,090"
+			},
+			"offsets": {
+				"from": 695570,
+				"to": 702090
+			},
+			"text": " And I feel like in some ways, modern day agriculture tamed the land and tamed the animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,090",
+				"to": "00:11:47,030"
+			},
+			"offsets": {
+				"from": 702090,
+				"to": 707030
+			},
+			"text": " And we lost that sense of awe and sense of wilderness with the land."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,210",
+				"to": "00:11:52,910"
+			},
+			"offsets": {
+				"from": 707210,
+				"to": 712910
+			},
+			"text": " And we've created this monoculture approach to food production, whether it's through our so-called food production."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,150",
+				"to": "00:11:58,470"
+			},
+			"offsets": {
+				"from": 713150,
+				"to": 718470
+			},
+			"text": " It mostly ends up in what I call unidentified food objects, but there's the industrial system."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,010",
+				"to": "00:12:07,680"
+			},
+			"offsets": {
+				"from": 719010,
+				"to": 727680
+			},
+			"text": " And in many ways, I often say I wish we'd never privatized land, because that's what brought us really to where we are,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,680",
+				"to": "00:12:16,770"
+			},
+			"offsets": {
+				"from": 727680,
+				"to": 736770
+			},
+			"text": " where it made the value of land go away from what it can provide to the money it really can earn."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,950",
+				"to": "00:12:24,840"
+			},
+			"offsets": {
+				"from": 736950,
+				"to": 744840
+			},
+			"text": " And so, in many ways, the same bad approaches to land food and the privatization of land is what's happening on the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,160",
+				"to": "00:12:30,480"
+			},
+			"offsets": {
+				"from": 745160,
+				"to": 750480
+			},
+			"text": " And that's one of the things that fishermen are frustrated with most, is that the rights to fish are being privatized,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,560",
+				"to": "00:12:33,100"
+			},
+			"offsets": {
+				"from": 750560,
+				"to": 753100
+			},
+			"text": " the rights to the bottom of the ocean are being privatized,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:33,480",
+				"to": "00:12:42,540"
+			},
+			"offsets": {
+				"from": 753480,
+				"to": 762540
+			},
+			"text": " and as a result, kind of beaten into submission in some ways, either through being leased for extractive purposes of oil and gas and minerals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,540",
+				"to": "00:12:48,840"
+			},
+			"offsets": {
+				"from": 762540,
+				"to": 768840
+			},
+			"text": " or industrial-scale aquaculture, which is really CAFOs on the water, or industrial-scale fishing operations."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,420",
+				"to": "00:12:50,620"
+			},
+			"offsets": {
+				"from": 769420,
+				"to": 770620
+			},
+			"text": " And so that frustrates them."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,680",
+				"to": "00:12:57,280"
+			},
+			"offsets": {
+				"from": 770680,
+				"to": 777280
+			},
+			"text": " And their preference, the people we work with, Nama works with, their preference is to actually honor the wilderness that the ocean is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,400",
+				"to": "00:13:01,720"
+			},
+			"offsets": {
+				"from": 777400,
+				"to": 781720
+			},
+			"text": " and learn to fish in a compatible fashion with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,720",
+				"to": "00:13:07,980"
+			},
+			"offsets": {
+				"from": 781720,
+				"to": 787980
+			},
+			"text": " And that means accepting the diversity of species, that the fishermen who do their best to avoid everything,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:08,460",
+				"to": "00:13:15,340"
+			},
+			"offsets": {
+				"from": 788460,
+				"to": 795340
+			},
+			"text": " what they come home with, or what lands on their boat, we should honor as the food that is being provided."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,620",
+				"to": "00:13:16,580"
+			},
+			"offsets": {
+				"from": 795620,
+				"to": 796580
+			},
+			"text": " And we don't do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,640",
+				"to": "00:13:17,760"
+			},
+			"offsets": {
+				"from": 796640,
+				"to": 797760
+			},
+			"text": " And that frustrates them."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,340",
+				"to": "00:13:25,350"
+			},
+			"offsets": {
+				"from": 798340,
+				"to": 805350
+			},
+			"text": " Because the market values some fish really high, and other fish really as having no value."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,530",
+				"to": "00:13:29,070"
+			},
+			"offsets": {
+				"from": 805530,
+				"to": 809070
+			},
+			"text": " And when it comes to the ocean, every single fish has an ecological value."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,270",
+				"to": "00:13:34,950"
+			},
+			"offsets": {
+				"from": 809270,
+				"to": 814950
+			},
+			"text": " And as humans, we've decided, oh, no, we're going to pay $15 for the filet of that one, and the other one, you can just throw it overboard."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,370",
+				"to": "00:13:37,770"
+			},
+			"offsets": {
+				"from": 815370,
+				"to": 817770
+			},
+			"text": " That frustrates the hell out of the fishermen that we work with."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,870",
+				"to": "00:13:45,790"
+			},
+			"offsets": {
+				"from": 817870,
+				"to": 825790
+			},
+			"text": " Because they know this is the fish-eat-fish world out below the surface, and their hard work is bringing this, and you're rejecting it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,200",
+				"to": "00:13:52,830"
+			},
+			"offsets": {
+				"from": 826200,
+				"to": 832830
+			},
+			"text": " It's kind of the farmer who tries to grow diversity of species, and you're saying, you know what, I really only want the stuff that I can already get anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:52,960",
+				"to": "00:14:02,690"
+			},
+			"offsets": {
+				"from": 832960,
+				"to": 842690
+			},
+			"text": " And so, really, to be able to honor that diversity of species they're catching, to be able to give them a fair price for their catch, it's the same issues farmers are dealing with."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,830",
+				"to": "00:14:03,990"
+			},
+			"offsets": {
+				"from": 842830,
+				"to": 843990
+			},
+			"text": " We're trying to do things differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,550",
+				"to": "00:14:05,930"
+			},
+			"offsets": {
+				"from": 844550,
+				"to": 845930
+			},
+			"text": " You know, they want to grow different crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,050",
+				"to": "00:14:07,330"
+			},
+			"offsets": {
+				"from": 846050,
+				"to": 847330
+			},
+			"text": " They want to raise different animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,430",
+				"to": "00:14:10,980"
+			},
+			"offsets": {
+				"from": 847430,
+				"to": 850980
+			},
+			"text": " Yet the market is saying, no, we only want romaine lettuce."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,240",
+				"to": "00:14:14,720"
+			},
+			"offsets": {
+				"from": 851240,
+				"to": 854720
+			},
+			"text": " We want you to grow this much romaine lettuce, and then what do we get?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,330",
+				"to": "00:14:18,010"
+			},
+			"offsets": {
+				"from": 855330,
+				"to": 858010
+			},
+			"text": " And so, it's the same story."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,110",
+				"to": "00:14:19,430"
+			},
+			"offsets": {
+				"from": 858110,
+				"to": 859430
+			},
+			"text": " It just happens to be on the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,880",
+				"to": "00:14:24,720"
+			},
+			"offsets": {
+				"from": 859880,
+				"to": 864720
+			},
+			"text": " The added complexity, as you've noted, is that we don't see as much below the surface."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,630",
+				"to": "00:14:30,710"
+			},
+			"offsets": {
+				"from": 865630,
+				"to": 870710
+			},
+			"text": " And I think if we could, we could probably treat it a little bit differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,850",
+				"to": "00:14:32,470"
+			},
+			"offsets": {
+				"from": 870850,
+				"to": 872470
+			},
+			"text": " That's one of the benefits we have with land."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,610",
+				"to": "00:14:36,710"
+			},
+			"offsets": {
+				"from": 872610,
+				"to": 876710
+			},
+			"text": " But honestly, even seeing what's happening on land hasn't stopped us from destroying it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,190",
+				"to": "00:14:41,610"
+			},
+			"offsets": {
+				"from": 877190,
+				"to": 881610
+			},
+			"text": " So, I'm not sure how much knowing more about the ocean would help us in saving it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,610",
+				"to": "00:14:50,710"
+			},
+			"offsets": {
+				"from": 881610,
+				"to": 890710
+			},
+			"text": " I think we know enough, we've learned enough to take some serious action at this point, both on land and on the water, and just whether or not the motivation is there to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,610",
+				"to": "00:14:51,710"
+			},
+			"offsets": {
+				"from": 891610,
+				"to": 891710
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,780",
+				"to": "00:14:55,720"
+			},
+			"offsets": {
+				"from": 892780,
+				"to": 895720
+			},
+			"text": " Yeah, and I wanted to ask some about organizing."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,180",
+				"to": "00:14:59,180"
+			},
+			"offsets": {
+				"from": 896180,
+				"to": 899180
+			},
+			"text": " I haven't met you before, but I've since kind of asked you."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,300",
+				"to": "00:15:04,990"
+			},
+			"offsets": {
+				"from": 899300,
+				"to": 904990
+			},
+			"text": " I've heard you're a really good and effective organizer on this work that you do."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,090",
+				"to": "00:15:08,930"
+			},
+			"offsets": {
+				"from": 906090,
+				"to": 908930
+			},
+			"text": " And I just wanted to get your take on this question."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,930",
+				"to": "00:15:19,190"
+			},
+			"offsets": {
+				"from": 908930,
+				"to": 919190
+			},
+			"text": " I feel like there's a bit of an inflection point now in whether we want to call a food movement or a food sovereignty movement of reaching for different kind of levels of power."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,130",
+				"to": "00:15:24,710"
+			},
+			"offsets": {
+				"from": 920130,
+				"to": 924710
+			},
+			"text": " What strategically lets us organize effective movements?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:24,950",
+				"to": "00:15:28,410"
+			},
+			"offsets": {
+				"from": 924950,
+				"to": 928410
+			},
+			"text": " And where do you think we have to go now in our organizing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,410",
+				"to": "00:15:34,920"
+			},
+			"offsets": {
+				"from": 928410,
+				"to": 934920
+			},
+			"text": " I think what we've particularly learned the last few years is we haven't been in as many places as we need to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,650",
+				"to": "00:15:40,030"
+			},
+			"offsets": {
+				"from": 935650,
+				"to": 940030
+			},
+			"text": " And we haven't taken a lot of communities as seriously as we need to be taking."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:40,840",
+				"to": "00:15:54,640"
+			},
+			"offsets": {
+				"from": 940840,
+				"to": 954640
+			},
+			"text": " And I think that's been a flaw in a lot of the organizing efforts where we've just been stuck in the same places, thinking if we've worked a little bit harder at converting or engaging the choir, that we're going to get what we want."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,120",
+				"to": "00:16:00,040"
+			},
+			"offsets": {
+				"from": 955120,
+				"to": 960040
+			},
+			"text": " And then we suddenly started to hear voices that we hadn't even heard before or we heard in ways that we dismissed."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,180",
+				"to": "00:16:11,550"
+			},
+			"offsets": {
+				"from": 960180,
+				"to": 971550
+			},
+			"text": " And so I think the big piece for me personally and for our two organizations, both NAMA and NFFC, is going where we may have neglected to be before."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,200",
+				"to": "00:16:16,200"
+			},
+			"offsets": {
+				"from": 972200,
+				"to": 976200
+			},
+			"text": " And that's one of the reasons for this road trip that we're talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,280",
+				"to": "00:16:21,060"
+			},
+			"offsets": {
+				"from": 976280,
+				"to": 981060
+			},
+			"text": " We're really focusing on rural communities because we clearly have been hearing that they weren't heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,660",
+				"to": "00:16:28,860"
+			},
+			"offsets": {
+				"from": 981660,
+				"to": 988860
+			},
+			"text": " And as two organizations whose core constituency is white rural America, where did we fall short on our organizing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,860",
+				"to": "00:16:31,160"
+			},
+			"offsets": {
+				"from": 988860,
+				"to": 991160
+			},
+			"text": " That's a self-examination we're doing right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,640",
+				"to": "00:16:40,990"
+			},
+			"offsets": {
+				"from": 991640,
+				"to": 1000990
+			},
+			"text": " And so to be able to go to the communities with no agenda other than clearly we didn't hear enough, we didn't hear clearly enough, we didn't listen clearly enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,500",
+				"to": "00:16:48,940"
+			},
+			"offsets": {
+				"from": 1001500,
+				"to": 1008940
+			},
+			"text": " So what do we need to do as organizers to do justice by some of the communities who felt they'd been marginalized?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,420",
+				"to": "00:16:57,750"
+			},
+			"offsets": {
+				"from": 1009420,
+				"to": 1017750
+			},
+			"text": " And they ended up, in some cases, we find them even taking actions that counter their own interests."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,750",
+				"to": "00:17:09,480"
+			},
+			"offsets": {
+				"from": 1017750,
+				"to": 1029480
+			},
+			"text": " And so how do we go in those communities and really bring a different perspective, listen to their perspective, bring different messages of hope than maybe what they're hearing today?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:10,570",
+				"to": "00:17:15,910"
+			},
+			"offsets": {
+				"from": 1030570,
+				"to": 1035910
+			},
+			"text": " So I think we, the collective we, need to go where we're uncomfortable."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,690",
+				"to": "00:17:29,160"
+			},
+			"offsets": {
+				"from": 1036690,
+				"to": 1049160
+			},
+			"text": " And we've just been in the comfort of movements that have sort of, I wouldn't even call them movements because I think they were just too isolated in many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,260",
+				"to": "00:17:31,920"
+			},
+			"offsets": {
+				"from": 1049260,
+				"to": 1051920
+			},
+			"text": " And so we need to connect different movements with each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,220",
+				"to": "00:17:33,290"
+			},
+			"offsets": {
+				"from": 1052220,
+				"to": 1053290
+			},
+			"text": " We need to go places."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,390",
+				"to": "00:17:38,290"
+			},
+			"offsets": {
+				"from": 1053390,
+				"to": 1058290
+			},
+			"text": " I keep saying this because I think I'm getting myself ready to be in some uncomfortable places and conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:38,810",
+				"to": "00:17:41,210"
+			},
+			"offsets": {
+				"from": 1058810,
+				"to": 1061210
+			},
+			"text": " But nothing is going to change otherwise."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,450",
+				"to": "00:17:49,060"
+			},
+			"offsets": {
+				"from": 1061450,
+				"to": 1069060
+			},
+			"text": " So I think that's for me, for my own stretch, for my own stretch as an organizer, I think that's where I'm going, where I need to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,180",
+				"to": "00:17:56,320"
+			},
+			"offsets": {
+				"from": 1069180,
+				"to": 1076320
+			},
+			"text": " And I'm going to learn what those strategies that you're asking for are going to be as we're on the road and figuring it out as we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,420",
+				"to": "00:18:06,960"
+			},
+			"offsets": {
+				"from": 1076420,
+				"to": 1086960
+			},
+			"text": " I think one of the folks that's part of NFFC's network from Western Organization Resource Council's, Pat Sweeney, keeps saying, we're making the road by walking."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,730",
+				"to": "00:18:09,620"
+			},
+			"offsets": {
+				"from": 1087730,
+				"to": 1089620
+			},
+			"text": " That's what we're trying to do here."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,760",
+				"to": "00:18:16,260"
+			},
+			"offsets": {
+				"from": 1089760,
+				"to": 1096260
+			},
+			"text": " So ask me that question in a couple of months, whether or not there is any insights after we come back from this road trip."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,520",
+				"to": "00:18:30,010"
+			},
+			"offsets": {
+				"from": 1096520,
+				"to": 1110010
+			},
+			"text": " You know, whether what we've learned, I know we're learning, we're going to learn, but what we learn and whether or not we have any clear answers to that question, I think right now it would be really, what's the word I'm looking for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,410",
+				"to": "00:18:35,810"
+			},
+			"offsets": {
+				"from": 1110410,
+				"to": 1115810
+			},
+			"text": " Narcissistic of me to say I know what needs to be done in the road because I don't know if I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,930",
+				"to": "00:18:37,050"
+			},
+			"offsets": {
+				"from": 1116930,
+				"to": 1117050
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,840",
+				"to": "00:18:44,180"
+			},
+			"offsets": {
+				"from": 1117840,
+				"to": 1124180
+			},
+			"text": " It seems to me that like one skill of a good organizer is listening and listening first."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,800",
+				"to": "00:18:47,020"
+			},
+			"offsets": {
+				"from": 1124800,
+				"to": 1127020
+			},
+			"text": " What do you think it takes to be able to do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,020",
+				"to": "00:18:50,100"
+			},
+			"offsets": {
+				"from": 1127020,
+				"to": 1130100
+			},
+			"text": " I mean, I know you're going to some of these places that are often ignored."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,780",
+				"to": "00:18:56,460"
+			},
+			"offsets": {
+				"from": 1130780,
+				"to": 1136460
+			},
+			"text": " What kind of voices do you suspect haven't been heard or where are you looking for those kinds of voices?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,540",
+				"to": "00:19:10,050"
+			},
+			"offsets": {
+				"from": 1137540,
+				"to": 1150050
+			},
+			"text": " Well, the choice of who should we talk to and where we should be was made by the membership of National Family Farm Coalition and the network of NAMA, which is the Fish Locally Collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,050",
+				"to": "00:19:17,130"
+			},
+			"offsets": {
+				"from": 1150050,
+				"to": 1157130
+			},
+			"text": " We knew we had two locations that we wanted to be and use those two locations as our anchor stops."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,740",
+				"to": "00:19:22,340"
+			},
+			"offsets": {
+				"from": 1157740,
+				"to": 1162340
+			},
+			"text": " And then we posed the question to those two groups of people saying, where do you think we should go?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,730",
+				"to": "00:19:24,680"
+			},
+			"offsets": {
+				"from": 1162730,
+				"to": 1164680
+			},
+			"text": " And who do you think we should talk to?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,320",
+				"to": "00:19:32,800"
+			},
+			"offsets": {
+				"from": 1165320,
+				"to": 1172800
+			},
+			"text": " And then we took those requests and we used them to route the map between anchor points."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,790",
+				"to": "00:19:38,050"
+			},
+			"offsets": {
+				"from": 1173790,
+				"to": 1178050
+			},
+			"text": " And so we're starting in the south, we're heading to the south."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,050",
+				"to": "00:19:58,820"
+			},
+			"offsets": {
+				"from": 1178050,
+				"to": 1198820
+			},
+			"text": " And I think there is a real spiritual, emotional connection to that in some ways, especially with the industrial food system, learning about the role of slavery, the role of racism, the role of exclusion and exploitation of the humans to begin with."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,820",
+				"to": "00:20:09,720"
+			},
+			"offsets": {
+				"from": 1198820,
+				"to": 1209720
+			},
+			"text": " And then the land and the animals, there's a lot there that we're going to be diving into where we're one of our anchor stops is a lynching memorial in Montgomery, Alabama."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,620",
+				"to": "00:20:15,810"
+			},
+			"offsets": {
+				"from": 1210620,
+				"to": 1215810
+			},
+			"text": " And that's going to be a real clear reminder of what this work is really rooted in."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,810",
+				"to": "00:20:36,050"
+			},
+			"offsets": {
+				"from": 1215810,
+				"to": 1236050
+			},
+			"text": " And so we're going to be going to a lot of communities in the south, in Georgia and in South Carolina, North Carolina, ranging in conversations ranging from conventional, you know, soy and corn and contract chicken farmers to more niche organic farmers to black farmers who are losing their land."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,050",
+				"to": "00:20:38,850"
+			},
+			"offsets": {
+				"from": 1236050,
+				"to": 1238850
+			},
+			"text": " And then and what's being done to try to preserve some of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,350",
+				"to": "00:20:42,960"
+			},
+			"offsets": {
+				"from": 1239350,
+				"to": 1242960
+			},
+			"text": " And so those are that's the south, you know, just the south part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,020",
+				"to": "00:20:56,220"
+			},
+			"offsets": {
+				"from": 1243020,
+				"to": 1256220
+			},
+			"text": " And then heading into the plains and in the real far flung communities that are so far away from each other and and learning from how they exist without infrastructure that's been robbed from their communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,220",
+				"to": "00:21:03,250"
+			},
+			"offsets": {
+				"from": 1256220,
+				"to": 1263250
+			},
+			"text": " And now they got to send their cattle four hours away for a slaughterhouse to be able to service them or not being able to even fix an engine."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,610",
+				"to": "00:21:14,020"
+			},
+			"offsets": {
+				"from": 1263610,
+				"to": 1274020
+			},
+			"text": " And how do they deal with those sort of issues and what are they dealing with in terms of how they how their community has been impacted by the industrial agriculture systems?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,260",
+				"to": "00:21:33,430"
+			},
+			"offsets": {
+				"from": 1274260,
+				"to": 1293430
+			},
+			"text": " And then we go to the Pacific Northwest with with indigenous environmental networks protecting Mother Earth gathering, where we'll learn from what's happening to the tribes, to the indigenous people, both in terms of food sovereignty, but also what are they doing to achieve some sort of just transition away from colonization"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,430",
+				"to": "00:21:37,630"
+			},
+			"offsets": {
+				"from": 1293430,
+				"to": 1297630
+			},
+			"text": " into a whole new way of taking their sovereignty back."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,830",
+				"to": "00:21:54,960"
+			},
+			"offsets": {
+				"from": 1297830,
+				"to": 1314960
+			},
+			"text": " And so we'll see that and working, you know, listening to dairy farmers in the Midwest, the high rates of suicide amongst dairy farmers and the emotional issues that we often don't take into account when we talk about impacts of a bad food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,380",
+				"to": "00:22:01,420"
+			},
+			"offsets": {
+				"from": 1315380,
+				"to": 1321420
+			},
+			"text": " You know, people talk about, well, food's a good food system, which is somewhat an academic term anyway, but let's just keep it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,680",
+				"to": "00:22:03,880"
+			},
+			"offsets": {
+				"from": 1321680,
+				"to": 1323880
+			},
+			"text": " So a good food system means it makes us healthy."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,130",
+				"to": "00:22:07,920"
+			},
+			"offsets": {
+				"from": 1324130,
+				"to": 1327920
+			},
+			"text": " Well, a good food system might make you healthy who you're eating it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,000",
+				"to": "00:22:18,280"
+			},
+			"offsets": {
+				"from": 1328000,
+				"to": 1338280
+			},
+			"text": " But what does that leave the health of the farmer and the fisherman who's struggling in the meanwhile and dealing with abuse and dealing with alcoholism or dealing with family falling apart?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,280",
+				"to": "00:22:22,260"
+			},
+			"offsets": {
+				"from": 1338280,
+				"to": 1342260
+			},
+			"text": " And like I said, suicide, which is increasing."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,660",
+				"to": "00:22:38,560"
+			},
+			"offsets": {
+				"from": 1342660,
+				"to": 1358560
+			},
+			"text": " So we're going to listen to all of this and hear all of this and see what is it that we can do as NAMA and as NFFC that can bring some additional power, can help amplify their voice, can tell the narrative that they're talking about that's misheard."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:38,960",
+				"to": "00:22:49,890"
+			},
+			"offsets": {
+				"from": 1358960,
+				"to": 1369890
+			},
+			"text": " And so I have a feeling by the time this is over, it'll just be a kind of an emotional roller coaster to be going through to sort of feel the pain, share some joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,990",
+				"to": "00:22:55,670"
+			},
+			"offsets": {
+				"from": 1369990,
+				"to": 1375670
+			},
+			"text": " Hopefully, one of the dairy farmers was asking, well, you know, I'm sort of and this was a really interesting phenomenon."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,830",
+				"to": "00:22:57,610"
+			},
+			"offsets": {
+				"from": 1375830,
+				"to": 1377610
+			},
+			"text": " As we were asking people, where do you want us to go?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,890",
+				"to": "00:23:00,130"
+			},
+			"offsets": {
+				"from": 1377890,
+				"to": 1380130
+			},
+			"text": " We really want to focus on being in rural communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,640",
+				"to": "00:23:05,490"
+			},
+			"offsets": {
+				"from": 1380640,
+				"to": 1385490
+			},
+			"text": " Most of the farmers and fishermen would write me back and say, I don't know if you want to come all the way out here."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,860",
+				"to": "00:23:10,300"
+			},
+			"offsets": {
+				"from": 1385860,
+				"to": 1390300
+			},
+			"text": " I don't know if you want to come all the way out here, but you can come to my farm or you can come to our dock."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,800",
+				"to": "00:23:13,560"
+			},
+			"offsets": {
+				"from": 1390800,
+				"to": 1393560
+			},
+			"text": " We're running an RV, so we can come all the way out to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,000",
+				"to": "00:23:20,890"
+			},
+			"offsets": {
+				"from": 1394000,
+				"to": 1400890
+			},
+			"text": " And so even having that self-value in what you do to think, you know, I don't know if you want to drive two hours to my farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,190",
+				"to": "00:23:26,140"
+			},
+			"offsets": {
+				"from": 1401190,
+				"to": 1406140
+			},
+			"text": " I'm actually wanting to come two hours to your farm because this is what my lesson is going to be here."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:26,720",
+				"to": "00:23:29,240"
+			},
+			"offsets": {
+				"from": 1406720,
+				"to": 1409240
+			},
+			"text": " And so I have a feeling we'll come back."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,500",
+				"to": "00:23:32,660"
+			},
+			"offsets": {
+				"from": 1410500,
+				"to": 1412660
+			},
+			"text": " I tell our staff all the time, I'm not overwhelmed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,780",
+				"to": "00:23:33,760"
+			},
+			"offsets": {
+				"from": 1412780,
+				"to": 1413760
+			},
+			"text": " I'm sufficiently overwhelmed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,820",
+				"to": "00:23:37,020"
+			},
+			"offsets": {
+				"from": 1413820,
+				"to": 1417020
+			},
+			"text": " But I think by the time we come back, I may actually feel overwhelmed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,980",
+				"to": "00:23:39,040"
+			},
+			"offsets": {
+				"from": 1417980,
+				"to": 1419040
+			},
+			"text": " Yeah, yeah, totally."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,040",
+				"to": "00:23:47,050"
+			},
+			"offsets": {
+				"from": 1419040,
+				"to": 1427050
+			},
+			"text": " Can you tell me some more about this new partnership between the North Atlantic Marine Alliance and the National Family Farm Coalition?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,270",
+				"to": "00:23:52,140"
+			},
+			"offsets": {
+				"from": 1427270,
+				"to": 1432140
+			},
+			"text": " And how did these two organizations decide to get together and share leadership?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,340",
+				"to": "00:23:54,000"
+			},
+			"offsets": {
+				"from": 1432340,
+				"to": 1434000
+			},
+			"text": " And what opportunities does that present?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,040",
+				"to": "00:23:57,180"
+			},
+			"offsets": {
+				"from": 1434040,
+				"to": 1437180
+			},
+			"text": " So I was hired to direct NAMA 10 years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,370",
+				"to": "00:24:02,750"
+			},
+			"offsets": {
+				"from": 1437370,
+				"to": 1442750
+			},
+			"text": " And one of the first decisions we made was to reframe the work of the organization"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,750",
+				"to": "00:24:04,770"
+			},
+			"offsets": {
+				"from": 1442750,
+				"to": 1444770
+			},
+			"text": " through the food lens."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,370",
+				"to": "00:24:08,470"
+			},
+			"offsets": {
+				"from": 1445370,
+				"to": 1448470
+			},
+			"text": " As I said earlier, we felt that it was a missing piece of the link."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,190",
+				"to": "00:24:14,330"
+			},
+			"offsets": {
+				"from": 1449190,
+				"to": 1454330
+			},
+			"text": " And in many ways, the traditional marine conservation world was sort of stuck, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,390",
+				"to": "00:24:18,150"
+			},
+			"offsets": {
+				"from": 1454390,
+				"to": 1458150
+			},
+			"text": " in the same old, same old way of approaching saving the fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,850",
+				"to": "00:24:27,390"
+			},
+			"offsets": {
+				"from": 1458850,
+				"to": 1467390
+			},
+			"text": " And we felt that if our goal is saving the fish and we kill them because our rationale is we've got to feed people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,060",
+				"to": "00:24:33,620"
+			},
+			"offsets": {
+				"from": 1468060,
+				"to": 1473620
+			},
+			"text": " then we've got to learn from what's happened to our land food and apply some of those lessons and take some of those warnings to heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,620",
+				"to": "00:24:39,140"
+			},
+			"offsets": {
+				"from": 1473620,
+				"to": 1479140
+			},
+			"text": " So as one of the first steps in doing that, we became a member of the National Family Farm Coalition."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,260",
+				"to": "00:24:44,980"
+			},
+			"offsets": {
+				"from": 1479260,
+				"to": 1484980
+			},
+			"text": " We were one of the first, actually maybe even the first, non-farm organization that became a member of NFFC."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,810",
+				"to": "00:24:56,700"
+			},
+			"offsets": {
+				"from": 1485810,
+				"to": 1496700
+			},
+			"text": " Over the years, that membership with NFFC, the collaboration with NFFC, really helped us better understand the commonalities between family farmers and community-based fishermen."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,320",
+				"to": "00:25:01,360"
+			},
+			"offsets": {
+				"from": 1497320,
+				"to": 1501360
+			},
+			"text": " The small and mid-scale, sort of the farmer in the middle, we have a equivalent on the fishing side."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,540",
+				"to": "00:25:05,380"
+			},
+			"offsets": {
+				"from": 1501540,
+				"to": 1505380
+			},
+			"text": " You know, the small scale, the niche market, the institutional market."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,240",
+				"to": "00:25:07,060"
+			},
+			"offsets": {
+				"from": 1506240,
+				"to": 1507060
+			},
+			"text": " And so we did that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,140",
+				"to": "00:25:13,050"
+			},
+			"offsets": {
+				"from": 1507140,
+				"to": 1513050
+			},
+			"text": " And that really helped in terms of reframing how the food activists thought about fishing."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,230",
+				"to": "00:25:16,120"
+			},
+			"offsets": {
+				"from": 1513230,
+				"to": 1516120
+			},
+			"text": " And we made a great deal of gains on the fishing side."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,120",
+				"to": "00:25:26,940"
+			},
+			"offsets": {
+				"from": 1517120,
+				"to": 1526940
+			},
+			"text": " And about two and a half years ago, maybe three, unfortunately, NFFC's director, Kathy Ozer, found out she had cancer."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,560",
+				"to": "00:25:29,200"
+			},
+			"offsets": {
+				"from": 1527560,
+				"to": 1529200
+			},
+			"text": " And her health declined."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,300",
+				"to": "00:25:33,300"
+			},
+			"offsets": {
+				"from": 1529300,
+				"to": 1533300
+			},
+			"text": " At the time, I served on the board of NFFC, on the executive committee."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,030",
+				"to": "00:25:44,150"
+			},
+			"offsets": {
+				"from": 1534030,
+				"to": 1544150
+			},
+			"text": " And so the executive committee and the staff, you know, everybody stepped up to do what we could to support Kathy during her illness with the hope that she would return."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,330",
+				"to": "00:25:45,590"
+			},
+			"offsets": {
+				"from": 1544330,
+				"to": 1545590
+			},
+			"text": " Unfortunately, she didn't."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,370",
+				"to": "00:25:49,630"
+			},
+			"offsets": {
+				"from": 1546370,
+				"to": 1549630
+			},
+			"text": " And a year ago, January, she passed away."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,320",
+				"to": "00:26:05,170"
+			},
+			"offsets": {
+				"from": 1550320,
+				"to": 1565170
+			},
+			"text": " And so we had this transition in place, looking for a new executive director and also to put in place a system that helps the organization function while we look for a new director."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,140",
+				"to": "00:26:14,580"
+			},
+			"offsets": {
+				"from": 1566140,
+				"to": 1574580
+			},
+			"text": " And in the midst of that, in February, actually, suddenly somebody asked, why don't you guys share leadership?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,580",
+				"to": "00:26:25,050"
+			},
+			"offsets": {
+				"from": 1574580,
+				"to": 1585050
+			},
+			"text": " You know, you have such connection when it comes to the core issues that you're dealing with and that your constituency is dealing with."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,390",
+				"to": "00:26:28,590"
+			},
+			"offsets": {
+				"from": 1585390,
+				"to": 1588590
+			},
+			"text": " And you're about the same size organizations, the same kind of reach."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,750",
+				"to": "00:26:30,210"
+			},
+			"offsets": {
+				"from": 1588750,
+				"to": 1590210
+			},
+			"text": " And does that make any sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,330",
+				"to": "00:26:34,980"
+			},
+			"offsets": {
+				"from": 1590330,
+				"to": 1594980
+			},
+			"text": " And honestly, at first, I thought, no, it doesn't make sense to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,080",
+				"to": "00:26:37,800"
+			},
+			"offsets": {
+				"from": 1595080,
+				"to": 1597800
+			},
+			"text": " Because I've always been really conscious."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,800",
+				"to": "00:26:48,020"
+			},
+			"offsets": {
+				"from": 1597800,
+				"to": 1608020
+			},
+			"text": " As we're a member of NFFC, NAMA has been, and we work within other organizations and other movements that are dealing with farm family farmer issues and land food issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,770",
+				"to": "00:26:57,860"
+			},
+			"offsets": {
+				"from": 1608770,
+				"to": 1617860
+			},
+			"text": " I've always been very conscious of making sure the seafood part and the fisheries part is a complement to that work and strengthens that work, doesn't usurp it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,450",
+				"to": "00:27:05,930"
+			},
+			"offsets": {
+				"from": 1618450,
+				"to": 1625930
+			},
+			"text": " And so I felt that I had this immediate reaction of, I don't want people to think that we're somehow trying to take over the family farm movement or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,930",
+				"to": "00:27:07,930"
+			},
+			"offsets": {
+				"from": 1625930,
+				"to": 1627930
+			},
+			"text": " So that was my initial thought."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,790",
+				"to": "00:27:12,000"
+			},
+			"offsets": {
+				"from": 1628790,
+				"to": 1632000
+			},
+			"text": " But then things changed."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,160",
+				"to": "00:27:16,800"
+			},
+			"offsets": {
+				"from": 1632160,
+				"to": 1636800
+			},
+			"text": " I just wrote a blog about this, actually, called Kathy Ozer's Hat."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,130",
+				"to": "00:27:27,320"
+			},
+			"offsets": {
+				"from": 1637130,
+				"to": 1647320
+			},
+			"text": " Because the next day after this idea was planted in my head, her husband walked into the NFFC board meeting and, not having known that we had this conversation with somebody else the night before,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,960",
+				"to": "00:27:32,250"
+			},
+			"offsets": {
+				"from": 1647960,
+				"to": 1652250
+			},
+			"text": " pulled Kathy's hat out of the bag and handed it to me and said, I think she'd want you to have this."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,240",
+				"to": "00:27:36,830"
+			},
+			"offsets": {
+				"from": 1653240,
+				"to": 1656830
+			},
+			"text": " And so that makes me cry even thinking about it now."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,910",
+				"to": "00:27:43,560"
+			},
+			"offsets": {
+				"from": 1656910,
+				"to": 1663560
+			},
+			"text": " But that sort of set me off on a whole, you know, few weeks of soul searching, trying to figure out, is this the right thing for me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,640",
+				"to": "00:27:45,760"
+			},
+			"offsets": {
+				"from": 1663640,
+				"to": 1665760
+			},
+			"text": " Is this the right thing for National Family Farm Coalition?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,000",
+				"to": "00:27:50,080"
+			},
+			"offsets": {
+				"from": 1666000,
+				"to": 1670080
+			},
+			"text": " Is this the right thing for the Northwest Atlantic Marine Alliance?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,140",
+				"to": "00:27:53,460"
+			},
+			"offsets": {
+				"from": 1670140,
+				"to": 1673460
+			},
+			"text": " Is this the right thing for the movements that we're all intertwined with?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,460",
+				"to": "00:28:01,620"
+			},
+			"offsets": {
+				"from": 1673460,
+				"to": 1681620
+			},
+			"text": " And I ended up sort of seeking some wisdom from a lot of people who have been my elders and my teachers and such for a couple of weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,780",
+				"to": "00:28:06,180"
+			},
+			"offsets": {
+				"from": 1681780,
+				"to": 1686180
+			},
+			"text": " And then it began that the picture started to form in my mind and I could see it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,960",
+				"to": "00:28:13,990"
+			},
+			"offsets": {
+				"from": 1686960,
+				"to": 1693990
+			},
+			"text": " And then we began to explore the idea and then it got adopted by both boards and took effect as of May 1st."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,420",
+				"to": "00:28:22,900"
+			},
+			"offsets": {
+				"from": 1695420,
+				"to": 1702900
+			},
+			"text": " Under the shared leadership idea, the two organizations remain legally separate."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,040",
+				"to": "00:28:24,420"
+			},
+			"offsets": {
+				"from": 1703040,
+				"to": 1704420
+			},
+			"text": " We felt that was really important."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,600",
+				"to": "00:28:26,180"
+			},
+			"offsets": {
+				"from": 1704600,
+				"to": 1706180
+			},
+			"text": " We didn't want to merge the two organizations."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,340",
+				"to": "00:28:31,720"
+			},
+			"offsets": {
+				"from": 1706340,
+				"to": 1711720
+			},
+			"text": " We wanted them to have autonomy, to have their own mission, their own work, their own boards, their own values."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,500",
+				"to": "00:28:47,600"
+			},
+			"offsets": {
+				"from": 1712500,
+				"to": 1727600
+			},
+			"text": " But we have so much in common that and in many ways I've been seeing this work so connected that being able to help facilitate coordination of both organizations is what my role will be."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,600",
+				"to": "00:29:01,780"
+			},
+			"offsets": {
+				"from": 1727600,
+				"to": 1741780
+			},
+			"text": " And then we'll also have the person who's been doing the finance and admin and all the back of the house, human resources, all of those for NAMA will now serve in that capacity for an FFC."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,590",
+				"to": "00:29:08,510"
+			},
+			"offsets": {
+				"from": 1742590,
+				"to": 1748510
+			},
+			"text": " From a purely structural perspective, hopefully people won't notice anything different."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,610",
+				"to": "00:29:19,190"
+			},
+			"offsets": {
+				"from": 1749610,
+				"to": 1759190
+			},
+			"text": " Lisa Griffith, who has been the acting executive director at NFFC and the longtime membership and outreach coordinator there, will step in into a national coordination role,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,310",
+				"to": "00:29:29,370"
+			},
+			"offsets": {
+				"from": 1759310,
+				"to": 1769370
+			},
+			"text": " continuing the work that she's been doing along with the policy advisor that's there, Quentin Robinson, communications person, Sienna Christman, and Alison Moffitt, who works in the office."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:29,570",
+				"to": "00:29:30,570"
+			},
+			"offsets": {
+				"from": 1769570,
+				"to": 1770570
+			},
+			"text": " So there's a team there."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,230",
+				"to": "00:29:32,930"
+			},
+			"offsets": {
+				"from": 1771230,
+				"to": 1772930
+			},
+			"text": " And then on the NAMA side, the same thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,930",
+				"to": "00:29:46,440"
+			},
+			"offsets": {
+				"from": 1772930,
+				"to": 1786440
+			},
+			"text": " You know, we have an organizer, Brett Tolley, who will step into an equivalent position as Lisa, coordinate the work of NAMA with our organizers, Juliana Fisher, Amy McCone, Rosanna, Neil, who does policy work for NAMA in DC."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,000",
+				"to": "00:29:55,120"
+			},
+			"offsets": {
+				"from": 1787000,
+				"to": 1795120
+			},
+			"text": " So we have these two pods of people, highly capable people, who, in many ways, are ready to step into a new leadership role themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,600",
+				"to": "00:30:01,730"
+			},
+			"offsets": {
+				"from": 1795600,
+				"to": 1801730
+			},
+			"text": " And one of my goals as both as an organizer and a human being is to make room for the next generation of leaders."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,610",
+				"to": "00:30:16,230"
+			},
+			"offsets": {
+				"from": 1802610,
+				"to": 1816230
+			},
+			"text": " And I feel like this really gives me that opportunity to fulfill that goal without putting me out to pasture, which is to those who are kind of growing older in the movement, we think, all right, we want young people."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,330",
+				"to": "00:30:18,730"
+			},
+			"offsets": {
+				"from": 1816330,
+				"to": 1818730
+			},
+			"text": " You go to the equivalent of nursing home for activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:18,730",
+				"to": "00:30:35,170"
+			},
+			"offsets": {
+				"from": 1818730,
+				"to": 1835170
+			},
+			"text": " And so this gives me that opportunity to grow myself into a different role and take advantage of the synergy between the two organizations' work, take advantage of the efficiencies that come with sharing some resources, but hopefully do it without too many hiccups."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,170",
+				"to": "00:30:41,930"
+			},
+			"offsets": {
+				"from": 1835170,
+				"to": 1841930
+			},
+			"text": " For that new generation of activists, what are they up against?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,210",
+				"to": "00:30:43,490"
+			},
+			"offsets": {
+				"from": 1842210,
+				"to": 1843490
+			},
+			"text": " What will be required of them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,830",
+				"to": "00:30:51,650"
+			},
+			"offsets": {
+				"from": 1843830,
+				"to": 1851650
+			},
+			"text": " I mean, and as kind of someone who's been doing this for a long time, what do you hope they know about organizing and movement building?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,670",
+				"to": "00:31:05,560"
+			},
+			"offsets": {
+				"from": 1851670,
+				"to": 1865560
+			},
+			"text": " A couple of years ago, when NAMA did the strategic plan that we're currently operating under, our facilitator, after she heard the story and she brought up something she'd heard or read, I can't recall,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,560",
+				"to": "00:31:12,960"
+			},
+			"offsets": {
+				"from": 1865560,
+				"to": 1872960
+			},
+			"text": " in the context of the movement for black lives, where they spoke about working at the speed of trust."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:14,180",
+				"to": "00:31:17,450"
+			},
+			"offsets": {
+				"from": 1874180,
+				"to": 1877450
+			},
+			"text": " And I think that's key for organizers."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,710",
+				"to": "00:31:24,420"
+			},
+			"offsets": {
+				"from": 1877710,
+				"to": 1884420
+			},
+			"text": " We are in the world of speed and we are in the world that values transaction over relation."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,920",
+				"to": "00:31:37,190"
+			},
+			"offsets": {
+				"from": 1884920,
+				"to": 1897190
+			},
+			"text": " And I think from an organizing standpoint, I really want the organizers to slow down and build the kind of relationships that they need to build in order to work at that speed of trust."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,820",
+				"to": "00:31:47,020"
+			},
+			"offsets": {
+				"from": 1897820,
+				"to": 1907020
+			},
+			"text": " Because every time we don't, we end up screwing it up and we end up having to come back, revisit things, try to rebuild bridges that were burned."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,020",
+				"to": "00:32:02,060"
+			},
+			"offsets": {
+				"from": 1907020,
+				"to": 1922060
+			},
+			"text": " We just need to be much more intentional in what we do and not get caught up in the need for speed and the need for communication at a speed that's really not compatible with us as humans and our understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,870",
+				"to": "00:32:21,970"
+			},
+			"offsets": {
+				"from": 1922870,
+				"to": 1941970
+			},
+			"text": " So for me, I think that's the biggest thing I hope I can impart, just this sense of, it's really okay to slow down, it's really okay to be silent, it's really okay to be introspective, it's really okay to have a purpose in your life that you really are intentional about and understand that others might too."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,130",
+				"to": "00:32:26,710"
+			},
+			"offsets": {
+				"from": 1942130,
+				"to": 1946710
+			},
+			"text": " And part of our job as organizers is to help them see that and bring that out of folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,710",
+				"to": "00:32:35,050"
+			},
+			"offsets": {
+				"from": 1946710,
+				"to": 1955050
+			},
+			"text": " And part of our job is to help them see that we need to have a million members, even if none of them know what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,350",
+				"to": "00:32:46,340"
+			},
+			"offsets": {
+				"from": 1955350,
+				"to": 1966340
+			},
+			"text": " And just this, I think we're applying, we've been taught to apply the same economies of scale to organizing that we have been using for food production or banking or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:46,760",
+				"to": "00:32:56,250"
+			},
+			"offsets": {
+				"from": 1966760,
+				"to": 1976250
+			},
+			"text": " And as organizers, let's buck that first, because if we don't, then we're not going to understand how it's affecting the rest of the movements that we're really working hard to nurture."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,030",
+				"to": "00:32:58,130"
+			},
+			"offsets": {
+				"from": 1978030,
+				"to": 1978130
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,500",
+				"to": "00:33:06,520"
+			},
+			"offsets": {
+				"from": 1978500,
+				"to": 1986520
+			},
+			"text": " You mentioned that we're both in fisheries and in farming, we're up against these global movements of capital, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:06,640",
+				"to": "00:33:13,210"
+			},
+			"offsets": {
+				"from": 1986640,
+				"to": 1993210
+			},
+			"text": " And where do you see the points of engagement with that or the promising points of engagement with that right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,210",
+				"to": "00:33:27,120"
+			},
+			"offsets": {
+				"from": 1993210,
+				"to": 2007120
+			},
+			"text": " And I mean, you can talk about it in terms of in general and a theory of change in general, but I'm also curious about like, at this moment, where do you see the points where we can effectively start to push back or transform things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,120",
+				"to": "00:33:38,740"
+			},
+			"offsets": {
+				"from": 2007120,
+				"to": 2018740
+			},
+			"text": " The most obvious one potentially is the amount of wealth in the world compared to the amount of poverty in the world, the amount of food in the world compared to the amount of hunger in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,220",
+				"to": "00:33:50,970"
+			},
+			"offsets": {
+				"from": 2019220,
+				"to": 2030970
+			},
+			"text": " If there is, I think we dismiss them too much as, well, you didn't work hard enough or you're not, you know, going to the right places to shop or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,970",
+				"to": "00:34:06,100"
+			},
+			"offsets": {
+				"from": 2030970,
+				"to": 2046100
+			},
+			"text": " I feel like just helping people to see the roots of that difference in wealth and poverty and hunger and food production and many other, you know, probably examples as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,540",
+				"to": "00:34:12,280"
+			},
+			"offsets": {
+				"from": 2046540,
+				"to": 2052280
+			},
+			"text": " If we can bring it down to that level of conversation, I think that's our engagement point."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,520",
+				"to": "00:34:23,570"
+			},
+			"offsets": {
+				"from": 2052520,
+				"to": 2063570
+			},
+			"text": " When somebody in a rural community says, I have no way to feed my family, this is all the system's fault, you know, it's really easy to just pick something and point at it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,630",
+				"to": "00:34:28,090"
+			},
+			"offsets": {
+				"from": 2063630,
+				"to": 2068090
+			},
+			"text": " And it's often whatever that something is that you've been told it is, and it's often not the case."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:28,090",
+				"to": "00:34:56,940"
+			},
+			"offsets": {
+				"from": 2068090,
+				"to": 2096940
+			},
+			"text": " And so how do we have real genuine conversations around the roots of some of these things and point out to the false solutions that have been put in front of whether it's, all right, we'll give you more coal mining jobs or we'll give you more, you know, CAFO agriculture jobs or we'll put you on factory fishing trawlers and then have to deal with forced labor and have to deal with environmental exploitation and all of those issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,940",
+				"to": "00:35:14,800"
+			},
+			"offsets": {
+				"from": 2096940,
+				"to": 2114800
+			},
+			"text": " So if we can engage on that very basic level, I feel like that's the point where we haven't done enough of as organizers or maybe as movements is really get down to what it is that at the end of the day, the families are struggling with, the people are struggling with or the land is struggling with."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,800",
+				"to": "00:35:18,760"
+			},
+			"offsets": {
+				"from": 2114800,
+				"to": 2118760
+			},
+			"text": " And it really comes down to, I don't have, there's a scarcity issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,840",
+				"to": "00:35:21,700"
+			},
+			"offsets": {
+				"from": 2118840,
+				"to": 2121700
+			},
+			"text": " I don't have enough to do what I need to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,340",
+				"to": "00:35:27,900"
+			},
+			"offsets": {
+				"from": 2122340,
+				"to": 2127900
+			},
+			"text": " And there is the reasons for that aren't the reasons that we're told in our society."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,900",
+				"to": "00:35:31,160"
+			},
+			"offsets": {
+				"from": 2127900,
+				"to": 2131160
+			},
+			"text": " And I think that's what we need to be focusing on."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,030",
+				"to": "00:35:40,510"
+			},
+			"offsets": {
+				"from": 2132030,
+				"to": 2140510
+			},
+			"text": " I mean, I think a lot about that in terms of farming and food systems, but I guess I assume that there's not enough, not enough fish to go around."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:40,750",
+				"to": "00:35:42,970"
+			},
+			"offsets": {
+				"from": 2140750,
+				"to": 2142970
+			},
+			"text": " Just can you tell me a little bit about how that works?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:43,090",
+				"to": "00:35:45,350"
+			},
+			"offsets": {
+				"from": 2143090,
+				"to": 2145350
+			},
+			"text": " I hear that all the time and I don't know if I agree."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,060",
+				"to": "00:35:52,700"
+			},
+			"offsets": {
+				"from": 2146060,
+				"to": 2152700
+			},
+			"text": " I feel there are two things happening in the, on the ocean is a lot of fish is being caught."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:52,880",
+				"to": "00:35:56,880"
+			},
+			"offsets": {
+				"from": 2152880,
+				"to": 2156880
+			},
+			"text": " And this is, you know, all you land people, this is my criticism."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,000",
+				"to": "00:35:59,840"
+			},
+			"offsets": {
+				"from": 2158000,
+				"to": 2159840
+			},
+			"text": " I'm not addressing seafood issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,250",
+				"to": "00:36:22,730"
+			},
+			"offsets": {
+				"from": 2160250,
+				"to": 2182730
+			},
+			"text": " A lot of fish is caught to be used as fertilizers on land, to be used as feed for animals on land, you know, to give us multivitamins that we're no longer getting out of food by taking volumes of krill out of the Southern Ocean and turning it into omega-3s and, and that we no longer have in our land food or in the other foods that we're eating."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,790",
+				"to": "00:36:29,220"
+			},
+			"offsets": {
+				"from": 2182790,
+				"to": 2189220
+			},
+			"text": " And so, so much of the fish is going into these industrial systems that we don't even, in my opinion, need."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:30,210",
+				"to": "00:36:30,840"
+			},
+			"offsets": {
+				"from": 2190210,
+				"to": 2190840
+			},
+			"text": " That's one."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,240",
+				"to": "00:36:37,660"
+			},
+			"offsets": {
+				"from": 2191240,
+				"to": 2197660
+			},
+			"text": " Second, and it just happens that those species that are caught in that industrial system are the linchpin species of the marine ecosystem."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:37,880",
+				"to": "00:36:39,600"
+			},
+			"offsets": {
+				"from": 2197880,
+				"to": 2199600
+			},
+			"text": " They're the stuff that everything else feeds on."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,960",
+				"to": "00:36:46,540"
+			},
+			"offsets": {
+				"from": 2199960,
+				"to": 2206540
+			},
+			"text": " So you take the food away, you, you unravel the entire food chain in the, below the surface."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,840",
+				"to": "00:36:54,280"
+			},
+			"offsets": {
+				"from": 2206840,
+				"to": 2214280
+			},
+			"text": " And then there is the other issue that I mentioned where a lot of fish is caught, but most of it is not brought to shore."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,700",
+				"to": "00:37:02,430"
+			},
+			"offsets": {
+				"from": 2214700,
+				"to": 2222430
+			},
+			"text": " So what if we really, really honored whatever is caught and ended up taking it into our food system?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,570",
+				"to": "00:37:09,280"
+			},
+			"offsets": {
+				"from": 2222570,
+				"to": 2229280
+			},
+			"text": " I would suggest, based on just my 25 years, that we are catching enough to feed people."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,730",
+				"to": "00:37:18,330"
+			},
+			"offsets": {
+				"from": 2229730,
+				"to": 2238330
+			},
+			"text": " We don't need to catch more if we didn't deal with the industrial system that's creating commodities out of marine animals, much like we did with land animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,020",
+				"to": "00:37:26,000"
+			},
+			"offsets": {
+				"from": 2239020,
+				"to": 2246000
+			},
+			"text": " And if we focused on honoring the diversity of species that fishermen are catching and feeding our communities through it first."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:26,880",
+				"to": "00:37:29,250"
+			},
+			"offsets": {
+				"from": 2246880,
+				"to": 2249250
+			},
+			"text": " To me, those are key."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:29,470",
+				"to": "00:37:32,010"
+			},
+			"offsets": {
+				"from": 2249470,
+				"to": 2252010
+			},
+			"text": " A lot of seafood is considered luxury stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,010",
+				"to": "00:37:37,790"
+			},
+			"offsets": {
+				"from": 2252010,
+				"to": 2257790
+			},
+			"text": " The tuna that goes to Japan is probably one of the ones that we hear the most about, or lobsters or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,700",
+				"to": "00:37:42,300"
+			},
+			"offsets": {
+				"from": 2258700,
+				"to": 2262300
+			},
+			"text": " And to a lot of these communities, even that is your basic sustenance."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:43,120",
+				"to": "00:37:50,160"
+			},
+			"offsets": {
+				"from": 2263120,
+				"to": 2270160
+			},
+			"text": " And so how do we reframe our thinking around the ocean, not focus on the 12 popular species that everybody wants,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,300",
+				"to": "00:37:56,900"
+			},
+			"offsets": {
+				"from": 2270300,
+				"to": 2276900
+			},
+			"text": " and we fish them to the point where they don't have the ability to regenerate because everybody wants them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,920",
+				"to": "00:37:58,660"
+			},
+			"offsets": {
+				"from": 2276920,
+				"to": 2278660
+			},
+			"text": " and they're willing to pay a high price for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,960",
+				"to": "00:38:03,580"
+			},
+			"offsets": {
+				"from": 2278960,
+				"to": 2283580
+			},
+			"text": " And we're not honoring the other pieces that are also coming to shore."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,580",
+				"to": "00:38:12,650"
+			},
+			"offsets": {
+				"from": 2283580,
+				"to": 2292650
+			},
+			"text": " So we need to change that whole mentality around seafood, and we need to stop using the red, yellow, green lists and the certification systems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:12,750",
+				"to": "00:38:16,770"
+			},
+			"offsets": {
+				"from": 2292750,
+				"to": 2296770
+			},
+			"text": " because every time a fish is on a green list, it ends up on the red list two years later."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:20,480",
+				"to": "00:38:23,600"
+			},
+			"offsets": {
+				"from": 2300480,
+				"to": 2303600
+			},
+			"text": " Essentially, you pay, you play."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,080",
+				"to": "00:38:29,380"
+			},
+			"offsets": {
+				"from": 2304080,
+				"to": 2309380
+			},
+			"text": " If you can afford it, much like the organic standard, you can probably get certified as sustainable seafood."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,380",
+				"to": "00:38:36,020"
+			},
+			"offsets": {
+				"from": 2309380,
+				"to": 2316020
+			},
+			"text": " And so we need to just really bring back some values to how we look at seafood."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:36,290",
+				"to": "00:38:45,350"
+			},
+			"offsets": {
+				"from": 2316290,
+				"to": 2325350
+			},
+			"text": " If you care about who raised and took care of and then killed your pig, well, then care about who caught the cod and who caught the tuna."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:45,760",
+				"to": "00:38:48,450"
+			},
+			"offsets": {
+				"from": 2325760,
+				"to": 2328450
+			},
+			"text": " Those sort of elements have been removed from the seafood system."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,170",
+				"to": "00:38:54,920"
+			},
+			"offsets": {
+				"from": 2329170,
+				"to": 2334920
+			},
+			"text": " They don't exist as much as we want to in the land food system either, but at least there has been some recognition."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:54,920",
+				"to": "00:38:59,450"
+			},
+			"offsets": {
+				"from": 2334920,
+				"to": 2339450
+			},
+			"text": " There are some folks who are actually acknowledging that a dead pig is not just a dead pig."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:59,550",
+				"to": "00:39:00,530"
+			},
+			"offsets": {
+				"from": 2339550,
+				"to": 2340530
+			},
+			"text": " It matters how it lived."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,610",
+				"to": "00:39:02,070"
+			},
+			"offsets": {
+				"from": 2340610,
+				"to": 2342070
+			},
+			"text": " It matters how it was cared for."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:02,170",
+				"to": "00:39:03,330"
+			},
+			"offsets": {
+				"from": 2342170,
+				"to": 2343330
+			},
+			"text": " It matters to our bodies."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:03,450",
+				"to": "00:39:04,270"
+			},
+			"offsets": {
+				"from": 2343450,
+				"to": 2344270
+			},
+			"text": " It matters to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,370",
+				"to": "00:39:05,810"
+			},
+			"offsets": {
+				"from": 2344370,
+				"to": 2345810
+			},
+			"text": " It matters to the land that it lived on."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,870",
+				"to": "00:39:07,350"
+			},
+			"offsets": {
+				"from": 2345870,
+				"to": 2347350
+			},
+			"text": " It matters to the farmer's psychology."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,290",
+				"to": "00:39:13,980"
+			},
+			"offsets": {
+				"from": 2348290,
+				"to": 2353980
+			},
+			"text": " And so we've at least acknowledged some of it, even if it's not widespread on the ocean side."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,350",
+				"to": "00:39:15,940"
+			},
+			"offsets": {
+				"from": 2354350,
+				"to": 2355940
+			},
+			"text": " We've decided a dead fish is a dead fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:15,980",
+				"to": "00:39:17,000"
+			},
+			"offsets": {
+				"from": 2355980,
+				"to": 2357000
+			},
+			"text": " It doesn't matter who killed it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:17,000",
+				"to": "00:39:21,030"
+			},
+			"offsets": {
+				"from": 2357000,
+				"to": 2361030
+			},
+			"text": " And so we really have to change that thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:21,870",
+				"to": "00:39:37,360"
+			},
+			"offsets": {
+				"from": 2361870,
+				"to": 2377360
+			},
+			"text": " And I think if we did, if we did honor those, the same values that we, that we're beginning to nurture on land, if we did bring some different mentality to the fish and then we didn't catch anymore, I believe we could still feed the world or let communities feed themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,520",
+				"to": "00:39:38,440"
+			},
+			"offsets": {
+				"from": 2377520,
+				"to": 2378440
+			},
+			"text": " Forget feeding the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,440",
+				"to": "00:39:48,340"
+			},
+			"offsets": {
+				"from": 2378440,
+				"to": 2388340
+			},
+			"text": " You know, Jim Goodman, who is now the board chair of National Family Farm Coalition, there's a great quote from him when he did one of the Occupy Wall Street."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,420",
+				"to": "00:39:49,280"
+			},
+			"offsets": {
+				"from": 2388420,
+				"to": 2389280
+			},
+			"text": " It's Mike Checks."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,800",
+				"to": "00:39:53,560"
+			},
+			"offsets": {
+				"from": 2389800,
+				"to": 2393560
+			},
+			"text": " And one of the things he says is they tell me I have to feed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,390",
+				"to": "00:39:55,400"
+			},
+			"offsets": {
+				"from": 2394390,
+				"to": 2395400
+			},
+			"text": " I don't want to."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:55,460",
+				"to": "00:39:56,180"
+			},
+			"offsets": {
+				"from": 2395460,
+				"to": 2396180
+			},
+			"text": " I want to feed you."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:56,340",
+				"to": "00:40:08,270"
+			},
+			"offsets": {
+				"from": 2396340,
+				"to": 2408270
+			},
+			"text": " You know, how do we prioritize this as both in terms of seafood and land food that our commitment first and foremost should be to feed our regions, our communities?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,450",
+				"to": "00:40:11,910"
+			},
+			"offsets": {
+				"from": 2408450,
+				"to": 2411910
+			},
+			"text": " If anything is left over, throw it in the global commodities of scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:12,720",
+				"to": "00:40:15,700"
+			},
+			"offsets": {
+				"from": 2412720,
+				"to": 2415700
+			},
+			"text": " But let's let's relocalize where our food needs to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,980",
+				"to": "00:40:18,300"
+			},
+			"offsets": {
+				"from": 2415980,
+				"to": 2418300
+			},
+			"text": " And that doesn't mean we need to be xenophobic about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,360",
+				"to": "00:40:21,900"
+			},
+			"offsets": {
+				"from": 2418360,
+				"to": 2421900
+			},
+			"text": " We're not suggesting, you know, drawing borders around our food."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,020",
+				"to": "00:40:28,470"
+			},
+			"offsets": {
+				"from": 2422020,
+				"to": 2428470
+			},
+			"text": " We're just suggesting those who live closest to most of the food we catch and raise and grow can't feed themselves anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,090",
+				"to": "00:40:33,560"
+			},
+			"offsets": {
+				"from": 2429090,
+				"to": 2433560
+			},
+			"text": " And it's not as if the rest of the world that's getting it is actually feeding themselves either."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:33,560",
+				"to": "00:40:39,310"
+			},
+			"offsets": {
+				"from": 2433560,
+				"to": 2439310
+			},
+			"text": " So if we're solving the hunger problem in the process of causing all these further problems, I'd say, OK, I get it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:39,620",
+				"to": "00:40:51,620"
+			},
+			"offsets": {
+				"from": 2439620,
+				"to": 2451620
+			},
+			"text": " But we're not, you know, we're giving people food that shouldn't even be called food, nonfat milk that doesn't even have any values, you know, and not paying the producers a fair price."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,070",
+				"to": "00:40:59,210"
+			},
+			"offsets": {
+				"from": 2452070,
+				"to": 2459210
+			},
+			"text": " All these things are, to me, are common sense, but we're being told that there are, you know, some of these so-called solutions are called progress."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,390",
+				"to": "00:41:01,790"
+			},
+			"offsets": {
+				"from": 2459390,
+				"to": 2461790
+			},
+			"text": " Well, I guess my definition of progress would be different."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,000",
+				"to": "00:41:03,700"
+			},
+			"offsets": {
+				"from": 2463000,
+				"to": 2463700
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,110",
+				"to": "00:41:12,430"
+			},
+			"offsets": {
+				"from": 2464110,
+				"to": 2472430
+			},
+			"text": " I guess that that phrase of feeding the world, it's hard to disagree with, but it's also a clever trick to not talk about people."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,590",
+				"to": "00:41:14,610"
+			},
+			"offsets": {
+				"from": 2472590,
+				"to": 2474610
+			},
+			"text": " Absolutely, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,910",
+				"to": "00:41:20,380"
+			},
+			"offsets": {
+				"from": 2474910,
+				"to": 2480380
+			},
+			"text": " Just another soundbite people use to rationalize the existing system."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:20,480",
+				"to": "00:41:21,820"
+			},
+			"offsets": {
+				"from": 2480480,
+				"to": 2481820
+			},
+			"text": " We've got to feed people cheap food."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:22,880",
+				"to": "00:41:25,580"
+			},
+			"offsets": {
+				"from": 2482880,
+				"to": 2485580
+			},
+			"text": " Yeah, you've done it really well the last 50 years since the farm crisis."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,720",
+				"to": "00:41:28,810"
+			},
+			"offsets": {
+				"from": 2485720,
+				"to": 2488810
+			},
+			"text": " I see how people are getting really good food everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,480",
+				"to": "00:41:31,180"
+			},
+			"offsets": {
+				"from": 2490480,
+				"to": 2491180
+			},
+			"text": " Right, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,500",
+				"to": "00:41:31,660"
+			},
+			"offsets": {
+				"from": 2491500,
+				"to": 2491660
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:33,320",
+				"to": "00:41:35,340"
+			},
+			"offsets": {
+				"from": 2493320,
+				"to": 2495340
+			},
+			"text": " Yes, do you get to go fishing much?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:35,340",
+				"to": "00:41:36,580"
+			},
+			"offsets": {
+				"from": 2495340,
+				"to": 2496580
+			},
+			"text": " I did in the first few years."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,700",
+				"to": "00:41:43,260"
+			},
+			"offsets": {
+				"from": 2496700,
+				"to": 2503260
+			},
+			"text": " I worked on fishing issues because, as I mentioned, I came to fishing work as a Greenpeace activist, as a vegetarian,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,160",
+				"to": "00:41:47,040"
+			},
+			"offsets": {
+				"from": 2504160,
+				"to": 2507040
+			},
+			"text": " as someone who had never, you know, even thought about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,100",
+				"to": "00:41:53,790"
+			},
+			"offsets": {
+				"from": 2507100,
+				"to": 2513790
+			},
+			"text": " So I really felt strongly that for the first, at least for some time, I needed to be on fishing boats"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,790",
+				"to": "00:41:56,810"
+			},
+			"offsets": {
+				"from": 2513790,
+				"to": 2516810
+			},
+			"text": " so that I wouldn't make use of not knowing what I'm talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,250",
+				"to": "00:42:04,610"
+			},
+			"offsets": {
+				"from": 2517250,
+				"to": 2524610
+			},
+			"text": " Which I don't, but, you know, at least I know enough now to be able to make some educated remarks."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:05,030",
+				"to": "00:42:07,270"
+			},
+			"offsets": {
+				"from": 2525030,
+				"to": 2527270
+			},
+			"text": " But I can't do it anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,370",
+				"to": "00:42:08,050"
+			},
+			"offsets": {
+				"from": 2527370,
+				"to": 2528050
+			},
+			"text": " I can't fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:08,210",
+				"to": "00:42:11,070"
+			},
+			"offsets": {
+				"from": 2528210,
+				"to": 2531070
+			},
+			"text": " I honor the people who can deal with death."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,340",
+				"to": "00:42:12,090"
+			},
+			"offsets": {
+				"from": 2531340,
+				"to": 2532090
+			},
+			"text": " I'm not one of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,910",
+				"to": "00:42:14,310"
+			},
+			"offsets": {
+				"from": 2532910,
+				"to": 2534310
+			},
+			"text": " I can't handle it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:14,310",
+				"to": "00:42:18,380"
+			},
+			"offsets": {
+				"from": 2534310,
+				"to": 2538380
+			},
+			"text": " I am an emotional wreck when it's happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,920",
+				"to": "00:42:20,360"
+			},
+			"offsets": {
+				"from": 2538920,
+				"to": 2540360
+			},
+			"text": " I do what I have to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,580",
+				"to": "00:42:24,670"
+			},
+			"offsets": {
+				"from": 2540580,
+				"to": 2544670
+			},
+			"text": " You know, I got to the point where most of the time when I was on a fishing boat, I was on the way back"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:24,670",
+				"to": "00:42:28,470"
+			},
+			"offsets": {
+				"from": 2544670,
+				"to": 2548470
+			},
+			"text": " when they're dressing the fish and filleting the fish or whatever else they have to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:28,530",
+				"to": "00:42:31,130"
+			},
+			"offsets": {
+				"from": 2548530,
+				"to": 2551130
+			},
+			"text": " I'm always behind the wheel bringing the ship back and bringing the boat."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:32,200",
+				"to": "00:42:33,260"
+			},
+			"offsets": {
+				"from": 2552200,
+				"to": 2553260
+			},
+			"text": " And that's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,320",
+				"to": "00:42:34,220"
+			},
+			"offsets": {
+				"from": 2553320,
+				"to": 2554220
+			},
+			"text": " I can do that part."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:34,320",
+				"to": "00:42:35,460"
+			},
+			"offsets": {
+				"from": 2554320,
+				"to": 2555460
+			},
+			"text": " I can't do the other part."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:35,900",
+				"to": "00:42:38,780"
+			},
+			"offsets": {
+				"from": 2555900,
+				"to": 2558780
+			},
+			"text": " And so I feel like I saw enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,880",
+				"to": "00:42:42,320"
+			},
+			"offsets": {
+				"from": 2558880,
+				"to": 2562320
+			},
+			"text": " I learned enough to not need to be on the boat anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,990",
+				"to": "00:42:44,470"
+			},
+			"offsets": {
+				"from": 2562990,
+				"to": 2564470
+			},
+			"text": " And if I have to, I will."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:44,750",
+				"to": "00:42:46,770"
+			},
+			"offsets": {
+				"from": 2564750,
+				"to": 2566770
+			},
+			"text": " But I really, really, really struggle with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:47,630",
+				"to": "00:42:47,750"
+			},
+			"offsets": {
+				"from": 2567630,
+				"to": 2567750
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:48,310",
+				"to": "00:42:49,240"
+			},
+			"offsets": {
+				"from": 2568310,
+				"to": 2569240
+			},
+			"text": " Yeah, I can relate."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:49,920",
+				"to": "00:42:55,210"
+			},
+			"offsets": {
+				"from": 2569920,
+				"to": 2575210
+			},
+			"text": " Is there anything else that I didn't ask about that you'd want to talk about about this upcoming tour,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,390",
+				"to": "00:42:59,240"
+			},
+			"offsets": {
+				"from": 2575390,
+				"to": 2579240
+			},
+			"text": " about these organizations or about organizing in general?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:59,900",
+				"to": "00:43:03,930"
+			},
+			"offsets": {
+				"from": 2579900,
+				"to": 2583930
+			},
+			"text": " Well, I should say, to add to the last note, I did start as a vegetarian."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:04,250",
+				"to": "00:43:08,070"
+			},
+			"offsets": {
+				"from": 2584250,
+				"to": 2588070
+			},
+			"text": " But as one of the fishermen from India used to say, now I eat anything that doesn't bite me back."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:08,760",
+				"to": "00:43:14,210"
+			},
+			"offsets": {
+				"from": 2588760,
+				"to": 2594210
+			},
+			"text": " So it's not as if I can't deal with the killing part, but I'm happy to eat it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,840",
+				"to": "00:43:17,580"
+			},
+			"offsets": {
+				"from": 2594840,
+				"to": 2597580
+			},
+			"text": " So I thank those who are willing to deal with that part."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:18,510",
+				"to": "00:43:23,710"
+			},
+			"offsets": {
+				"from": 2598510,
+				"to": 2603710
+			},
+			"text": " In terms of what else, I really can't think of anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,730",
+				"to": "00:43:26,030"
+			},
+			"offsets": {
+				"from": 2603730,
+				"to": 2606030
+			},
+			"text": " I think we covered a lot of territory in this conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:26,030",
+				"to": "00:43:31,790"
+			},
+			"offsets": {
+				"from": 2606030,
+				"to": 2611790
+			},
+			"text": " I hope that when we're on the road, we do have a lot of rich conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:31,990",
+				"to": "00:43:33,810"
+			},
+			"offsets": {
+				"from": 2611990,
+				"to": 2613810
+			},
+			"text": " Sorry, my dog here wants to say hello, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,180",
+				"to": "00:43:40,090"
+			},
+			"offsets": {
+				"from": 2615180,
+				"to": 2620090
+			},
+			"text": " And that it's a mutually beneficial opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:40,840",
+				"to": "00:43:46,300"
+			},
+			"offsets": {
+				"from": 2620840,
+				"to": 2626300
+			},
+			"text": " You know, I was asking folks in the questionnaire we send them about, where do you want us to go?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,090",
+				"to": "00:43:51,620"
+			},
+			"offsets": {
+				"from": 2627090,
+				"to": 2631620
+			},
+			"text": " The question of, what can we do while we're there that leaves you stronger than when we came?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:52,290",
+				"to": "00:43:55,310"
+			},
+			"offsets": {
+				"from": 2632290,
+				"to": 2635310
+			},
+			"text": " And so I'm hoping that we can do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:55,310",
+				"to": "00:44:05,370"
+			},
+			"offsets": {
+				"from": 2635310,
+				"to": 2645370
+			},
+			"text": " I am hoping that in addition to listening and sharing, that we can leave something behind in these communities that gives them a sense of strength that maybe they didn't have."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:06,040",
+				"to": "00:44:07,290"
+			},
+			"offsets": {
+				"from": 2646040,
+				"to": 2647290
+			},
+			"text": " Absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:08,560",
+				"to": "00:44:09,930"
+			},
+			"offsets": {
+				"from": 2648560,
+				"to": 2649930
+			},
+			"text": " Well, wonderful, Niaz."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,970",
+				"to": "00:44:13,310"
+			},
+			"offsets": {
+				"from": 2649970,
+				"to": 2653310
+			},
+			"text": " Thank you so much for taking the time to talk to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:13,630",
+				"to": "00:44:17,600"
+			},
+			"offsets": {
+				"from": 2653630,
+				"to": 2657600
+			},
+			"text": " And yeah, our best with the tour."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,880",
+				"to": "00:44:19,220"
+			},
+			"offsets": {
+				"from": 2657880,
+				"to": 2659220
+			},
+			"text": " Can't wait to see what comes of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:19,220",
+				"to": "00:44:19,380"
+			},
+			"offsets": {
+				"from": 2659220,
+				"to": 2659380
+			},
+			"text": " Me too."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,280",
+				"to": "00:44:22,310"
+			},
+			"offsets": {
+				"from": 2660280,
+				"to": 2662310
+			},
+			"text": " We'll make the road as we walk, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:22,430",
+				"to": "00:44:23,130"
+			},
+			"offsets": {
+				"from": 2662430,
+				"to": 2663130
+			},
+			"text": " We'll find out."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:23,750",
+				"to": "00:44:42,120"
+			},
+			"offsets": {
+				"from": 2663750,
+				"to": 2682120
+			},
+			"text": " Thank you to Niaz Dory for that interview and to all of the people and organizers at the North Atlantic Marine Alliance and the National Family Farm Coalition."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:42,550",
+				"to": "00:44:47,620"
+			},
+			"offsets": {
+				"from": 2682550,
+				"to": 2687620
+			},
+			"text": " You are listening to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:48,330",
+				"to": "00:44:52,370"
+			},
+			"offsets": {
+				"from": 2688330,
+				"to": 2692370
+			},
+			"text": " Delicious Revolution is produced by Chelsea Wills and by me, Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:52,370",
+				"to": "00:45:01,200"
+			},
+			"offsets": {
+				"from": 2692370,
+				"to": 2701200
+			},
+			"text": " You can read and see and hear more about Delicious Revolution and all of our guests at our website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,200",
+				"to": "00:45:04,220"
+			},
+			"offsets": {
+				"from": 2702200,
+				"to": 2704220
+			},
+			"text": " Delicious Revolution is available as a podcast."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:04,320",
+				"to": "00:45:11,440"
+			},
+			"offsets": {
+				"from": 2704320,
+				"to": 2711440
+			},
+			"text": " Just search for us on any podcast app, or you can listen from SoundCloud or from our website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,870",
+				"to": "00:45:18,080"
+			},
+			"offsets": {
+				"from": 2711870,
+				"to": 2718080
+			},
+			"text": " And if you're lucky enough to be on the North California coast, you can hear us on KWMR or KOWS."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,370",
+				"to": "00:45:24,500"
+			},
+			"offsets": {
+				"from": 2718370,
+				"to": 2724500
+			},
+			"text": " Also, if you've made it this far, I can tell you are a true fan of Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:24,760",
+				"to": "00:45:30,700"
+			},
+			"offsets": {
+				"from": 2724760,
+				"to": 2730700
+			},
+			"text": " I'd like to invite you to do two things to support Delicious Revolution in reaching a broader audience."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,230",
+				"to": "00:45:37,520"
+			},
+			"offsets": {
+				"from": 2731230,
+				"to": 2737520
+			},
+			"text": " One is to rate and review us on iTunes or from your podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:37,660",
+				"to": "00:45:39,640"
+			},
+			"offsets": {
+				"from": 2737660,
+				"to": 2739640
+			},
+			"text": " It helps us to be found by new listeners."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:40,160",
+				"to": "00:45:43,120"
+			},
+			"offsets": {
+				"from": 2740160,
+				"to": 2743120
+			},
+			"text": " The other is we have started a collection."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:43,670",
+				"to": "00:45:54,360"
+			},
+			"offsets": {
+				"from": 2743670,
+				"to": 2754360
+			},
+			"text": " We're inviting you to become a subscriber through our Patreon account, paying as little as a dollar a month to help offset the cost of producing Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:54,680",
+				"to": "00:45:58,300"
+			},
+			"offsets": {
+				"from": 2754680,
+				"to": 2758300
+			},
+			"text": " Find out more on our website, deliciousrevolutionshow.com."
+		}
+	]
+}

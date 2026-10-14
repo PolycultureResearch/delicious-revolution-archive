@@ -1,0 +1,3442 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:02,690",
+				"to": "00:00:08,310"
+			},
+			"offsets": {
+				"from": 2690,
+				"to": 8310
+			},
+			"text": " We knew that the farm provided sanctuary to people. We knew that that was a real value."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,310",
+				"to": "00:00:22,840"
+			},
+			"offsets": {
+				"from": 8310,
+				"to": 22840
+			},
+			"text": " It's wonderful to step from the street onto the farm into that bustle of activity and people working together so harmoniously and towards a common goal, but each person with their different roles."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,840",
+				"to": "00:00:29,440"
+			},
+			"offsets": {
+				"from": 22840,
+				"to": 29440
+			},
+			"text": " We work really hard to be a strength-based organization, and I hate using that term \"barriers to employment.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,440",
+				"to": "00:00:34,320"
+			},
+			"offsets": {
+				"from": 29440,
+				"to": 34320
+			},
+			"text": " So people who are homeless, you know, do face a lot of barriers to employment."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,320",
+				"to": "00:00:38,820"
+			},
+			"offsets": {
+				"from": 34320,
+				"to": 38820
+			},
+			"text": " There's a lack of stability because people are addressing basic survival needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,820",
+				"to": "00:00:44,340"
+			},
+			"offsets": {
+				"from": 38820,
+				"to": 44340
+			},
+			"text": " Where am I going to sleep tonight? How am I going to get food? Where can I use a bathroom? How can I take a shower?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,340",
+				"to": "00:00:51,880"
+			},
+			"offsets": {
+				"from": 44340,
+				"to": 51880
+			},
+			"text": " And there's a real catch-22 that people get involved in when they want to get a job so that they can get a house, but they need a house to get a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,880",
+				"to": "00:01:02,800"
+			},
+			"offsets": {
+				"from": 51880,
+				"to": 62800
+			},
+			"text": " That was the biggest education for me was seeing the courage of people we were working with, and the persistence, and the showing up every day, you know, against so many odds."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,800",
+				"to": "00:01:13,880"
+			},
+			"offsets": {
+				"from": 62800,
+				"to": 73880
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,880",
+				"to": "00:01:20,360"
+			},
+			"offsets": {
+				"from": 73880,
+				"to": 80360
+			},
+			"text": " This season we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,360",
+				"to": "00:01:34,120"
+			},
+			"offsets": {
+				"from": 80360,
+				"to": 94120
+			},
+			"text": " These people have shaped the food movement in California. We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,120",
+				"to": "00:01:43,680"
+			},
+			"offsets": {
+				"from": 94120,
+				"to": 103680
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills. Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,680",
+				"to": "00:01:56,990"
+			},
+			"offsets": {
+				"from": 103680,
+				"to": 116990
+			},
+			"text": " Terry Ganshorn is the executive director of the Homeless Garden Project, a three-acre organic farm and garden in Santa Cruz, California, where, as the mission statement reads, people find the tools they need to build a home in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,990",
+				"to": "00:02:01,410"
+			},
+			"offsets": {
+				"from": 116990,
+				"to": 121410
+			},
+			"text": " The project provides job training, transitional employment, and support services."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,670",
+				"to": "00:02:07,770"
+			},
+			"offsets": {
+				"from": 121670,
+				"to": 127770
+			},
+			"text": " Trainees and volunteers grow and harvest fruits and vegetables that sustain daily lunches and fundraising farm dinners."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,770",
+				"to": "00:02:17,010"
+			},
+			"offsets": {
+				"from": 127770,
+				"to": 137010
+			},
+			"text": " In addition, the Homeless Garden Project provides fresh produce for low-income families and nonprofits, from the AIDS Project to a program working with foster youth."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,130",
+				"to": "00:02:23,190"
+			},
+			"offsets": {
+				"from": 137130,
+				"to": 143190
+			},
+			"text": " Derry came to the Homeless Garden Project in 1991 when she started working one-on-one with Project Trainees."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,450",
+				"to": "00:02:28,990"
+			},
+			"offsets": {
+				"from": 143450,
+				"to": 148990
+			},
+			"text": " In this episode, Derry speaks with me about the farm as a sanctuary and job training site."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,070",
+				"to": "00:02:35,410"
+			},
+			"offsets": {
+				"from": 149070,
+				"to": 155410
+			},
+			"text": " We also have an interview with Kathleen, a trainee at the Homeless Garden Project, as a companion episode to this interview."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,410",
+				"to": "00:02:39,590"
+			},
+			"offsets": {
+				"from": 155410,
+				"to": 159590
+			},
+			"text": " Find it in your podcast feed now or on the Delicious Revolution website."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,770",
+				"to": "00:02:45,500"
+			},
+			"offsets": {
+				"from": 159770,
+				"to": 165500
+			},
+			"text": " Why don't we start by you telling me about how Homeless Garden Project started?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,950",
+				"to": "00:02:54,080"
+			},
+			"offsets": {
+				"from": 165950,
+				"to": 174080
+			},
+			"text": " So the Homeless Garden Project started in 1990 by Paul Lee and Lynn Bashor, who is now Lynn Cooper."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,280",
+				"to": "00:03:01,220"
+			},
+			"offsets": {
+				"from": 175280,
+				"to": 181220
+			},
+			"text": " And Paul had been really instrumental in starting the first homeless shelter in Santa Cruz."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,150",
+				"to": "00:03:08,810"
+			},
+			"offsets": {
+				"from": 182150,
+				"to": 188810
+			},
+			"text": " He had done that in partnership with some other ministers who were part of the Citizens Committee for the Homeless."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,830",
+				"to": "00:03:14,030"
+			},
+			"offsets": {
+				"from": 189830,
+				"to": 194030
+			},
+			"text": " And he and some of those ministers would spend the night in that shelter."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,030",
+				"to": "00:03:20,270"
+			},
+			"offsets": {
+				"from": 195030,
+				"to": 200270
+			},
+			"text": " And he told me a story that they would wake up in the morning and the energy would be so raw."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,110",
+				"to": "00:03:23,330"
+			},
+			"offsets": {
+				"from": 201110,
+				"to": 203330
+			},
+			"text": " He said it was like waking up in the streets of New York."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,760",
+				"to": "00:03:34,420"
+			},
+			"offsets": {
+				"from": 204760,
+				"to": 214420
+			},
+			"text": " And he wondered, how could people ever dream of something better or set goals for changing their life when they were surrounded by this lack of safety?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,650",
+				"to": "00:03:39,310"
+			},
+			"offsets": {
+				"from": 214650,
+				"to": 219310
+			},
+			"text": " And by this ugliness of concrete and being on the street."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,310",
+				"to": "00:03:47,610"
+			},
+			"offsets": {
+				"from": 219310,
+				"to": 227610
+			},
+			"text": " And so he had a vision to start something like a place of beauty and safety and sanctuary."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,120",
+				"to": "00:03:52,630"
+			},
+			"offsets": {
+				"from": 229120,
+				"to": 232630
+			},
+			"text": " And he was a very avid and passionate gardener."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,640",
+				"to": "00:04:05,960"
+			},
+			"offsets": {
+				"from": 234640,
+				"to": 245960
+			},
+			"text": " And he had been involved in starting projects up at the university and worked with Alan Chadwick in what was later to become the Center for Agroecology and Sustainable Food Systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,500",
+				"to": "00:04:13,470"
+			},
+			"offsets": {
+				"from": 247500,
+				"to": 253470
+			},
+			"text": " And he was also really inspired by Jerry Brown and the California Conservation Corps."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,410",
+				"to": "00:04:29,540"
+			},
+			"offsets": {
+				"from": 254410,
+				"to": 269540
+			},
+			"text": " And he was inspired that the idea of people serving the environment and the dignity of that and discipline of work would be something valuable for the people that he was seeing at the shelter where he was staying."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,270",
+				"to": "00:04:34,150"
+			},
+			"offsets": {
+				"from": 270270,
+				"to": 274150
+			},
+			"text": " So he had this idea of like a, he called it a homeless garden project."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,150",
+				"to": "00:04:42,160"
+			},
+			"offsets": {
+				"from": 274150,
+				"to": 282160
+			},
+			"text": " And somebody, a friend of his had a nursery south of here in Santa Cruz and was going out of business."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,300",
+				"to": "00:04:46,740"
+			},
+			"offsets": {
+				"from": 282300,
+				"to": 286740
+			},
+			"text": " And he called Paul and said, I have, I'm going out of business."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,900",
+				"to": "00:04:49,440"
+			},
+			"offsets": {
+				"from": 286900,
+				"to": 289440
+			},
+			"text": " Do you want truckloads of herb plants?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,660",
+				"to": "00:04:57,240"
+			},
+			"offsets": {
+				"from": 289660,
+				"to": 297240
+			},
+			"text": " And Paul thought to himself, this is my homeless garden project and took one truckload."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,690",
+				"to": "00:05:07,200"
+			},
+			"offsets": {
+				"from": 298690,
+				"to": 307200
+			},
+			"text": " And the next step was that he met Lynn Bashor and asked her if she would be the director on a volunteer basis."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,200",
+				"to": "00:05:08,340"
+			},
+			"offsets": {
+				"from": 307200,
+				"to": 308340
+			},
+			"text": " And she agreed."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,710",
+				"to": "00:05:11,550"
+			},
+			"offsets": {
+				"from": 309710,
+				"to": 311550
+			},
+			"text": " And she volunteered for the first nine months."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,550",
+				"to": "00:05:18,050"
+			},
+			"offsets": {
+				"from": 311550,
+				"to": 318050
+			},
+			"text": " And they would go down to the homeless shelter and pick up people who wanted to help build this garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,450",
+				"to": "00:05:26,120"
+			},
+			"offsets": {
+				"from": 318450,
+				"to": 326120
+			},
+			"text": " They had identified a plot that was a community garden spot run by City of Santa Cruz Parks and Recreation."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,460",
+				"to": "00:05:34,970"
+			},
+			"offsets": {
+				"from": 327460,
+				"to": 334970
+			},
+			"text": " And they started talking to the people who were building the garden about what direction to take the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,630",
+				"to": "00:05:44,220"
+			},
+			"offsets": {
+				"from": 335630,
+				"to": 344220
+			},
+			"text": " And, you know, what mattered to them and what the people who were working on the farm said was that what they most needed was a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,110",
+				"to": "00:05:47,530"
+			},
+			"offsets": {
+				"from": 345110,
+				"to": 347530
+			},
+			"text": " And so that was how the project began."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,690",
+				"to": "00:05:51,540"
+			},
+			"offsets": {
+				"from": 347690,
+				"to": 351540
+			},
+			"text": " And the direction it took was towards job training and jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,770",
+				"to": "00:05:54,730"
+			},
+			"offsets": {
+				"from": 352770,
+				"to": 354730
+			},
+			"text": " Is the garden still in the same site?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,230",
+				"to": "00:05:56,000"
+			},
+			"offsets": {
+				"from": 355230,
+				"to": 356000
+			},
+			"text": " No, it's not."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,000",
+				"to": "00:06:08,100"
+			},
+			"offsets": {
+				"from": 356000,
+				"to": 368100
+			},
+			"text": " Yeah, that was Pelton Avenue right across from Lighthouse Field, which is right near the lighthouse and steamer lane, kind of a very high profile part of Santa Cruz County."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,280",
+				"to": "00:06:13,360"
+			},
+			"offsets": {
+				"from": 368280,
+				"to": 373360
+			},
+			"text": " It was owned by City of Santa Cruz and the city did give us a lease."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,460",
+				"to": "00:06:17,420"
+			},
+			"offsets": {
+				"from": 374460,
+				"to": 377420
+			},
+			"text": " But they told us, you know, this is a temporary plot."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,520",
+				"to": "00:06:18,540"
+			},
+			"offsets": {
+				"from": 377520,
+				"to": 378540
+			},
+			"text": " You can't stay here."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,590",
+				"to": "00:06:22,630"
+			},
+			"offsets": {
+				"from": 379590,
+				"to": 382630
+			},
+			"text": " We ended up staying there from 1990 till 1998."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,030",
+				"to": "00:06:29,490"
+			},
+			"offsets": {
+				"from": 383030,
+				"to": 389490
+			},
+			"text": " Well, so Paul started this garden and the people who were building this garden with him were volunteers from the shelter."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,740",
+				"to": "00:06:33,800"
+			},
+			"offsets": {
+				"from": 390740,
+				"to": 393800
+			},
+			"text": " And then how did this grow into a job training program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,190",
+				"to": "00:06:40,470"
+			},
+			"offsets": {
+				"from": 394190,
+				"to": 400470
+			},
+			"text": " So I came after the first year, so I don't know all the details of the ins and outs of that first year."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,120",
+				"to": "00:06:54,680"
+			},
+			"offsets": {
+				"from": 401120,
+				"to": 414680
+			},
+			"text": " So the project got involved with a consultant who said that all of the initial programs that Lynn had put together were really strong and viable, but that we needed to serve more people."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,830",
+				"to": "00:06:59,950"
+			},
+			"offsets": {
+				"from": 415830,
+				"to": 419950
+			},
+			"text": " So the project looked into having new sites."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,680",
+				"to": "00:07:10,690"
+			},
+			"offsets": {
+				"from": 420680,
+				"to": 430690
+			},
+			"text": " By that time, we had already started a CSA program and had a number of people coming every week during the harvest season to pick up CSA shares."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,690",
+				"to": "00:07:18,050"
+			},
+			"offsets": {
+				"from": 430690,
+				"to": 438050
+			},
+			"text": " We were actually the first CSA in our county and we decided to start two new farm sites."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,330",
+				"to": "00:07:19,930"
+			},
+			"offsets": {
+				"from": 438330,
+				"to": 439930
+			},
+			"text": " That must have been around 1994."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,630",
+				"to": "00:07:23,670"
+			},
+			"offsets": {
+				"from": 440630,
+				"to": 443670
+			},
+			"text": " One was at Natural Bridges Farm, which is where we're farming now."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,220",
+				"to": "00:07:28,680"
+			},
+			"offsets": {
+				"from": 444220,
+				"to": 448680
+			},
+			"text": " And one was down near Depot Park, which is where our current office is."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,490",
+				"to": "00:07:34,370"
+			},
+			"offsets": {
+				"from": 449490,
+				"to": 454370
+			},
+			"text": " And we decided to start providing employment for people during the rainy season."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,370",
+				"to": "00:07:45,470"
+			},
+			"offsets": {
+				"from": 454370,
+				"to": 465470
+			},
+			"text": " And that spawned the whole Women's Organic Flower Enterprise activities, which is creating wreaths and candles and other gift products that were sold during the holidays."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,020",
+				"to": "00:07:57,540"
+			},
+			"offsets": {
+				"from": 467020,
+				"to": 477540
+			},
+			"text": " And we had a garden just for the Women's Organic Flower Enterprise and just for the CSA to try to get a strong grasp on what did it take to run the CSA?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,760",
+				"to": "00:07:59,840"
+			},
+			"offsets": {
+				"from": 477760,
+				"to": 479840
+			},
+			"text": " And what did it take to run the WOLF program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,340",
+				"to": "00:08:03,360"
+			},
+			"offsets": {
+				"from": 480340,
+				"to": 483360
+			},
+			"text": " So I want to hear about how all the programs work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,360",
+				"to": "00:08:09,730"
+			},
+			"offsets": {
+				"from": 483360,
+				"to": 489730
+			},
+			"text": " But I think first I want to hear about you and how how did you start doing this work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,770",
+				"to": "00:08:10,810"
+			},
+			"offsets": {
+				"from": 489770,
+				"to": 490810
+			},
+			"text": " What brought you to it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,810",
+				"to": "00:08:22,810"
+			},
+			"offsets": {
+				"from": 490810,
+				"to": 502810
+			},
+			"text": " So I had my background was in biology and I had done some research and published a paper with my professor and sort of thought that that was the direction I was going,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,170",
+				"to": "00:08:28,060"
+			},
+			"offsets": {
+				"from": 503170,
+				"to": 508060
+			},
+			"text": " that I was going to study science, get a Ph.D. and do research and perhaps teach."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,540",
+				"to": "00:08:33,940"
+			},
+			"offsets": {
+				"from": 508540,
+				"to": 513940
+			},
+			"text": " And when I had my first child, I realized I didn't want to continue to do that anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,940",
+				"to": "00:08:43,030"
+			},
+			"offsets": {
+				"from": 513940,
+				"to": 523030
+			},
+			"text": " I felt a really strong desire to give back to the community and to do something with helping people meet basic needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,200",
+				"to": "00:08:52,180"
+			},
+			"offsets": {
+				"from": 524200,
+				"to": 532180
+			},
+			"text": " And while I was raising my children, I did some reading and found out about this man who really inspired me, Miles Horton."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,940",
+				"to": "00:09:00,820"
+			},
+			"offsets": {
+				"from": 532940,
+				"to": 540820
+			},
+			"text": " And he started the Highlander Folk School, which was all about creating social change through the grassroots."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,960",
+				"to": "00:09:12,880"
+			},
+			"offsets": {
+				"from": 540960,
+				"to": 552880
+			},
+			"text": " And his idea was that a person who is not actually experiencing a social problem, that their most effective role is to bring people together"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,880",
+				"to": "00:09:16,900"
+			},
+			"offsets": {
+				"from": 552880,
+				"to": 556900
+			},
+			"text": " and help them find their own solutions to the problem that they're experiencing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,100",
+				"to": "00:09:24,300"
+			},
+			"offsets": {
+				"from": 558100,
+				"to": 564300
+			},
+			"text": " And so I was I was looking for a way to be around those principles."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,640",
+				"to": "00:09:32,920"
+			},
+			"offsets": {
+				"from": 564640,
+				"to": 572920
+			},
+			"text": " And I was doing an internship at the Resource Center for Nonviolence here in Santa Cruz, and I found Homeless Garden Project."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,540",
+				"to": "00:09:36,720"
+			},
+			"offsets": {
+				"from": 573540,
+				"to": 576720
+			},
+			"text": " And it was very early in its first year."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,890",
+				"to": "00:09:39,620"
+			},
+			"offsets": {
+				"from": 576890,
+				"to": 579620
+			},
+			"text": " And I thought this is exactly what I want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,700",
+				"to": "00:09:44,030"
+			},
+			"offsets": {
+				"from": 579700,
+				"to": 584030
+			},
+			"text": " This exactly embodies all these principles that I want to work with."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,690",
+				"to": "00:09:48,650"
+			},
+			"offsets": {
+				"from": 584690,
+				"to": 588650
+			},
+			"text": " And I went out there and totally believed in what I saw."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,770",
+				"to": "00:09:51,910"
+			},
+			"offsets": {
+				"from": 588770,
+				"to": 591910
+			},
+			"text": " And it affirmed everything that I thought I would see there."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,910",
+				"to": "00:10:02,190"
+			},
+			"offsets": {
+				"from": 591910,
+				"to": 602190
+			},
+			"text": " And I realized that it was a thriving, pretty complete activity in itself, but that nobody really knew about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,430",
+				"to": "00:10:09,740"
+			},
+			"offsets": {
+				"from": 602430,
+				"to": 609740
+			},
+			"text": " So I thought, well, why don't I do a newsletter and, you know, use the voices of people who are working on the farm"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,740",
+				"to": "00:10:17,060"
+			},
+			"offsets": {
+				"from": 609740,
+				"to": 617060
+			},
+			"text": " and to tell their own stories of their own homelessness and how the farm is helping them to re-engage with the community"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,060",
+				"to": "00:10:24,500"
+			},
+			"offsets": {
+				"from": 617060,
+				"to": 624500
+			},
+			"text": " and become a member of the community and not feel stigmatized by their homelessness and not feel excluded."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,150",
+				"to": "00:10:29,130"
+			},
+			"offsets": {
+				"from": 625150,
+				"to": 629130
+			},
+			"text": " So we had at that time, which we still have, we had a weekly circle meeting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,130",
+				"to": "00:10:35,190"
+			},
+			"offsets": {
+				"from": 629130,
+				"to": 635190
+			},
+			"text": " And I went to circle meeting with my invitation to join me in writing this newsletter."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,500",
+				"to": "00:10:41,790"
+			},
+			"offsets": {
+				"from": 635500,
+				"to": 641790
+			},
+			"text": " And I was pretty sure that everybody was going to barrage me with their interest in writing something for the newsletter."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,010",
+				"to": "00:10:49,350"
+			},
+			"offsets": {
+				"from": 642010,
+				"to": 649350
+			},
+			"text": " And there was only one person, Bill Tracy, an amazing veteran, Vietnam War veteran."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,350",
+				"to": "00:10:52,980"
+			},
+			"offsets": {
+				"from": 649350,
+				"to": 652980
+			},
+			"text": " And he and I worked together very closely."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,850",
+				"to": "00:10:57,710"
+			},
+			"offsets": {
+				"from": 653850,
+				"to": 657710
+			},
+			"text": " He wrote a very beautiful piece called A Day in the Life of the Homeless Garden Project."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,810",
+				"to": "00:11:02,010"
+			},
+			"offsets": {
+				"from": 658810,
+				"to": 662010
+			},
+			"text": " He was an incredible writer, an incredibly smart man."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,310",
+				"to": "00:11:05,440"
+			},
+			"offsets": {
+				"from": 662310,
+				"to": 665440
+			},
+			"text": " And he had the same birthday as me, so we had a lot to share."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,890",
+				"to": "00:11:10,060"
+			},
+			"offsets": {
+				"from": 665890,
+				"to": 670060
+			},
+			"text": " He was working through a lot of things when he was at Homeless Garden Project."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,100",
+				"to": "00:11:19,840"
+			},
+			"offsets": {
+				"from": 671100,
+				"to": 679840
+			},
+			"text": " He eventually left Homeless Garden Project, found a housing situation, and sort of had his own landscaping business"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,840",
+				"to": "00:11:22,940"
+			},
+			"offsets": {
+				"from": 679840,
+				"to": 682940
+			},
+			"text": " and did really well for a period of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,940",
+				"to": "00:11:27,950"
+			},
+			"offsets": {
+				"from": 682940,
+				"to": 687950
+			},
+			"text": " He has since died, and I was able to be there right before he died and see him."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,280",
+				"to": "00:11:29,650"
+			},
+			"offsets": {
+				"from": 688280,
+				"to": 689650
+			},
+			"text": " We had a really deep connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,870",
+				"to": "00:11:32,130"
+			},
+			"offsets": {
+				"from": 689870,
+				"to": 692130
+			},
+			"text": " He's a very important person to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,100",
+				"to": "00:11:42,050"
+			},
+			"offsets": {
+				"from": 693100,
+				"to": 702050
+			},
+			"text": " But for the other voices at the farm, I was able to interview a lot of people and then transcribe their interviews"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,050",
+				"to": "00:11:49,710"
+			},
+			"offsets": {
+				"from": 702050,
+				"to": 709710
+			},
+			"text": " and include a lot more voices in the initial newsletter that we did that was published in the comic news."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,710",
+				"to": "00:11:54,230"
+			},
+			"offsets": {
+				"from": 709710,
+				"to": 714230
+			},
+			"text": " And there was nobody at that time working one-on-one with the trainees."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,690",
+				"to": "00:11:58,370"
+			},
+			"offsets": {
+				"from": 714690,
+				"to": 718370
+			},
+			"text": " And so the project eventually hired me to continue doing that work."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,370",
+				"to": "00:12:00,900"
+			},
+			"offsets": {
+				"from": 718370,
+				"to": 720900
+			},
+			"text": " What was it like to hear all these stories?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,620",
+				"to": "00:12:06,040"
+			},
+			"offsets": {
+				"from": 721620,
+				"to": 726040
+			},
+			"text": " Well, since I was a little girl, I had wondered about the contradictions."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,440",
+				"to": "00:12:12,900"
+			},
+			"offsets": {
+				"from": 727440,
+				"to": 732900
+			},
+			"text": " You know, I attended Catholic school and was taught, treat others the way that you would want to be treated."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,240",
+				"to": "00:12:16,200"
+			},
+			"offsets": {
+				"from": 733240,
+				"to": 736200
+			},
+			"text": " And, you know, it was a very well-to-do school."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,520",
+				"to": "00:12:18,580"
+			},
+			"offsets": {
+				"from": 736520,
+				"to": 738580
+			},
+			"text": " And then we drove through the ghetto to get there."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,580",
+				"to": "00:12:25,980"
+			},
+			"offsets": {
+				"from": 738580,
+				"to": 745980
+			},
+			"text": " And I had always wondered about that contradiction and felt that there was some real hypocrisy there."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,240",
+				"to": "00:12:31,040"
+			},
+			"offsets": {
+				"from": 746240,
+				"to": 751040
+			},
+			"text": " And I'd also gone to school in Berkeley, and there was a lot of homelessness in Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,380",
+				"to": "00:12:37,700"
+			},
+			"offsets": {
+				"from": 751380,
+				"to": 757700
+			},
+			"text": " And I felt a desire to do something about it, but I really didn't have anything, any way to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,970",
+				"to": "00:12:43,600"
+			},
+			"offsets": {
+				"from": 757970,
+				"to": 763600
+			},
+			"text": " So actually meeting people who were homeless and hearing their stories really humanized them for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,000",
+				"to": "00:12:49,680"
+			},
+			"offsets": {
+				"from": 764000,
+				"to": 769680
+			},
+			"text": " And it was a huge education for me about the challenges that people were facing."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,360",
+				"to": "00:12:55,320"
+			},
+			"offsets": {
+				"from": 770360,
+				"to": 775320
+			},
+			"text": " And it also made me aware of my own stereotyping, even though I wanted to do something about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,320",
+				"to": "00:13:02,530"
+			},
+			"offsets": {
+				"from": 775320,
+				"to": 782530
+			},
+			"text": " My own stereotyping about why people were homeless, and, you know, why don't they just do something about it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,690",
+				"to": "00:13:06,290"
+			},
+			"offsets": {
+				"from": 782690,
+				"to": 786290
+			},
+			"text": " And what could my role be in helping people?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,710",
+				"to": "00:13:13,490"
+			},
+			"offsets": {
+				"from": 786710,
+				"to": 793490
+			},
+			"text": " And the capacity that people have to make change in their own lives, which is truly inspiring."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,510",
+				"to": "00:13:21,860"
+			},
+			"offsets": {
+				"from": 794510,
+				"to": 801860
+			},
+			"text": " Well, before we started recording, we were talking a little bit about how Homeless Garden Project has shifted their goals"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,860",
+				"to": "00:13:25,710"
+			},
+			"offsets": {
+				"from": 801860,
+				"to": 805710
+			},
+			"text": " from an overall goal of well-being to job training."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,050",
+				"to": "00:13:34,480"
+			},
+			"offsets": {
+				"from": 806050,
+				"to": 814480
+			},
+			"text": " Yeah, so in the early days of the project, you know, the project was sort of finding what its goals were"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,480",
+				"to": "00:13:40,630"
+			},
+			"offsets": {
+				"from": 814480,
+				"to": 820630
+			},
+			"text": " and finding how to speak about the changes that were happening for people on the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,030",
+				"to": "00:13:46,840"
+			},
+			"offsets": {
+				"from": 821030,
+				"to": 826840
+			},
+			"text": " And at the same time, the project had goals for our enterprises and goals for our farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,840",
+				"to": "00:13:50,000"
+			},
+			"offsets": {
+				"from": 826840,
+				"to": 830000
+			},
+			"text": " And those all three kind of moved forward together."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,640",
+				"to": "00:13:53,380"
+			},
+			"offsets": {
+				"from": 830640,
+				"to": 833380
+			},
+			"text": " We knew that the farm provided sanctuary to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,860",
+				"to": "00:13:56,130"
+			},
+			"offsets": {
+				"from": 833860,
+				"to": 836130
+			},
+			"text": " We knew that that was a real value."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:56,760",
+				"to": "00:14:05,680"
+			},
+			"offsets": {
+				"from": 836760,
+				"to": 845680
+			},
+			"text": " One of the professors that we work with up at UCSC, Heather Bullock, and her student, who is now a PhD herself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,370",
+				"to": "00:14:10,750"
+			},
+			"offsets": {
+				"from": 846370,
+				"to": 850750
+			},
+			"text": " published a paper about stigmatization and social exclusion."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,710",
+				"to": "00:14:18,630"
+			},
+			"offsets": {
+				"from": 851710,
+				"to": 858630
+			},
+			"text": " And, you know, for some of us who don't live with exclusion or stigmatization or stereotyping,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,010",
+				"to": "00:14:24,590"
+			},
+			"offsets": {
+				"from": 859010,
+				"to": 864590
+			},
+			"text": " it might be hard to really understand how deeply important having a space away from that is."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,490",
+				"to": "00:14:28,030"
+			},
+			"offsets": {
+				"from": 865490,
+				"to": 868030
+			},
+			"text": " But their paper is really nice at describing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,150",
+				"to": "00:14:29,690"
+			},
+			"offsets": {
+				"from": 868150,
+				"to": 869690
+			},
+			"text": " So maybe I'll give you the link to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,890",
+				"to": "00:14:32,550"
+			},
+			"offsets": {
+				"from": 869890,
+				"to": 872550
+			},
+			"text": " We knew that people were increasing in their well-being."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,750",
+				"to": "00:14:39,890"
+			},
+			"offsets": {
+				"from": 872750,
+				"to": 879890
+			},
+			"text": " And our model at the beginning was that people would define well-being in ways most meaningful to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,670",
+				"to": "00:14:43,630"
+			},
+			"offsets": {
+				"from": 880670,
+				"to": 883630
+			},
+			"text": " So for one person, it might mean becoming sober."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,630",
+				"to": "00:14:47,270"
+			},
+			"offsets": {
+				"from": 883630,
+				"to": 887270
+			},
+			"text": " And for another person, it might mean getting into housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,870",
+				"to": "00:14:50,770"
+			},
+			"offsets": {
+				"from": 887870,
+				"to": 890770
+			},
+			"text": " So we were having all of the trainees set goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,110",
+				"to": "00:14:54,790"
+			},
+			"offsets": {
+				"from": 891110,
+				"to": 894790
+			},
+			"text": " And then if they met the goal, we felt that we had been successful."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,910",
+				"to": "00:15:01,810"
+			},
+			"offsets": {
+				"from": 895910,
+				"to": 901810
+			},
+			"text": " And Heather also helped us to develop a matrix that we use to measure well-being."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,750",
+				"to": "00:15:11,400"
+			},
+			"offsets": {
+				"from": 902750,
+				"to": 911400
+			},
+			"text": " And so we would use that matrix when people first enter the project and when they left to see what kinds of changes had happened during their time here."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,400",
+				"to": "00:15:16,020"
+			},
+			"offsets": {
+				"from": 911400,
+				"to": 916020
+			},
+			"text": " But we were also all along trying to help people get jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,550",
+				"to": "00:15:23,850"
+			},
+			"offsets": {
+				"from": 916550,
+				"to": 923850
+			},
+			"text": " And I was able, on behalf of the Homeless Grime Project, to participate with the National Transitional Jobs Network"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,850",
+				"to": "00:15:29,280"
+			},
+			"offsets": {
+				"from": 923850,
+				"to": 929280
+			},
+			"text": " in an initiative they started a few years ago, must have been around 2007,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,760",
+				"to": "00:15:33,760"
+			},
+			"offsets": {
+				"from": 929760,
+				"to": 933760
+			},
+			"text": " called Working to End Homelessness, National Community of Practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,640",
+				"to": "00:15:45,170"
+			},
+			"offsets": {
+				"from": 934640,
+				"to": 945170
+			},
+			"text": " And they gathered together 22 organizations from all over the country who used transitional jobs as a way to end homelessness for their participants."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,020",
+				"to": "00:15:48,340"
+			},
+			"offsets": {
+				"from": 946020,
+				"to": 948340
+			},
+			"text": " And we did phone calls every month."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,540",
+				"to": "00:15:51,240"
+			},
+			"offsets": {
+				"from": 948540,
+				"to": 951240
+			},
+			"text": " And there was always a theme, a learning theme."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,500",
+				"to": "00:15:53,020"
+			},
+			"offsets": {
+				"from": 951500,
+				"to": 953020
+			},
+			"text": " And then it ended in a conference."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,680",
+				"to": "00:15:58,300"
+			},
+			"offsets": {
+				"from": 953680,
+				"to": 958300
+			},
+			"text": " It was a really rich experience for me to talk to other people who were doing a similar thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,300",
+				"to": "00:16:04,510"
+			},
+			"offsets": {
+				"from": 958300,
+				"to": 964510
+			},
+			"text": " and to learn from their experiences and to sort of take myself outside of the project"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,510",
+				"to": "00:16:08,200"
+			},
+			"offsets": {
+				"from": 964510,
+				"to": 968200
+			},
+			"text": " and look onto it from a different perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,510",
+				"to": "00:16:15,060"
+			},
+			"offsets": {
+				"from": 969510,
+				"to": 975060
+			},
+			"text": " And when I came back from that conference, I started talking to our staff and our board"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,060",
+				"to": "00:16:21,480"
+			},
+			"offsets": {
+				"from": 975060,
+				"to": 981480
+			},
+			"text": " about changing our goals from just being well-being to the people we get jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,250",
+				"to": "00:16:28,720"
+			},
+			"offsets": {
+				"from": 982250,
+				"to": 988720
+			},
+			"text": " And my thought was that we had always had that goal, but we hadn't explicitly articulated it"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,720",
+				"to": "00:16:30,900"
+			},
+			"offsets": {
+				"from": 988720,
+				"to": 990900
+			},
+			"text": " and that there was a real power to doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:30,900",
+				"to": "00:16:34,520"
+			},
+			"offsets": {
+				"from": 990900,
+				"to": 994520
+			},
+			"text": " So we articulated that as a goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,520",
+				"to": "00:16:46,620"
+			},
+			"offsets": {
+				"from": 994520,
+				"to": 1006620
+			},
+			"text": " And then every year since, our program has developed in alignment with that goal to find structures and methods to support people to get employment."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,620",
+				"to": "00:16:49,530"
+			},
+			"offsets": {
+				"from": 1006620,
+				"to": 1009530
+			},
+			"text": " It changed our hiring practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,530",
+				"to": "00:16:51,350"
+			},
+			"offsets": {
+				"from": 1009530,
+				"to": 1011350
+			},
+			"text": " It changed our outreach practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:52,450",
+				"to": "00:17:01,860"
+			},
+			"offsets": {
+				"from": 1012450,
+				"to": 1021860
+			},
+			"text": " We started a social work program that's considered a best practice for hiring people with the term that's used is barriers to employment."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:02,080",
+				"to": "00:17:05,460"
+			},
+			"offsets": {
+				"from": 1022080,
+				"to": 1025460
+			},
+			"text": " It's such a contradiction in this field."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:05,780",
+				"to": "00:17:09,140"
+			},
+			"offsets": {
+				"from": 1025780,
+				"to": 1029140
+			},
+			"text": " We work really hard to be a strength-based organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,640",
+				"to": "00:17:12,300"
+			},
+			"offsets": {
+				"from": 1029640,
+				"to": 1032300
+			},
+			"text": " And I hate using that term, barriers to employment."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,480",
+				"to": "00:17:17,230"
+			},
+			"offsets": {
+				"from": 1032480,
+				"to": 1037230
+			},
+			"text": " So people who are homeless, you know, do face a lot of barriers to employment."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,880",
+				"to": "00:17:20,140"
+			},
+			"offsets": {
+				"from": 1037880,
+				"to": 1040140
+			},
+			"text": " There's a lot of time spent on basic survival."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,730",
+				"to": "00:17:25,090"
+			},
+			"offsets": {
+				"from": 1040730,
+				"to": 1045090
+			},
+			"text": " There's a lack of stability because people are addressing basic survival needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,210",
+				"to": "00:17:26,310"
+			},
+			"offsets": {
+				"from": 1045210,
+				"to": 1046310
+			},
+			"text": " Where am I going to sleep tonight?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,580",
+				"to": "00:17:27,980"
+			},
+			"offsets": {
+				"from": 1046580,
+				"to": 1047980
+			},
+			"text": " How am I going to get food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,120",
+				"to": "00:17:30,370"
+			},
+			"offsets": {
+				"from": 1049120,
+				"to": 1050370
+			},
+			"text": " Where can I use a bathroom?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,590",
+				"to": "00:17:31,530"
+			},
+			"offsets": {
+				"from": 1050590,
+				"to": 1051530
+			},
+			"text": " How can I take a shower?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,000",
+				"to": "00:17:34,160"
+			},
+			"offsets": {
+				"from": 1052000,
+				"to": 1054160
+			},
+			"text": " You know, where can I get mail sent?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,500",
+				"to": "00:17:37,490"
+			},
+			"offsets": {
+				"from": 1054500,
+				"to": 1057490
+			},
+			"text": " How can I get to a computer and write a resume?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:38,130",
+				"to": "00:17:41,300"
+			},
+			"offsets": {
+				"from": 1058130,
+				"to": 1061300
+			},
+			"text": " Sometimes people have legal issues that they need to resolve."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,110",
+				"to": "00:17:50,190"
+			},
+			"offsets": {
+				"from": 1062110,
+				"to": 1070190
+			},
+			"text": " And there's a real catch-22 that people get involved in when they want to get a job so that they can get a house, but they need a house to get a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:50,790",
+				"to": "00:17:56,430"
+			},
+			"offsets": {
+				"from": 1070790,
+				"to": 1076430
+			},
+			"text": " So it is a best practice to offer support services to help people set goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,430",
+				"to": "00:18:09,140"
+			},
+			"offsets": {
+				"from": 1076430,
+				"to": 1089140
+			},
+			"text": " You know, for what is their path for getting into housing, getting some of their basic needs met, and using our program for one year so that they can get a job in permanent housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,380",
+				"to": "00:18:13,460"
+			},
+			"offsets": {
+				"from": 1089380,
+				"to": 1093460
+			},
+			"text": " And the social workers don't act as experts on trainees' lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,740",
+				"to": "00:18:15,220"
+			},
+			"offsets": {
+				"from": 1093740,
+				"to": 1095220
+			},
+			"text": " The trainee is the expert."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,220",
+				"to": "00:18:29,360"
+			},
+			"offsets": {
+				"from": 1095220,
+				"to": 1109360
+			},
+			"text": " So there's a sense of empowerment just in that very process of providing an ally who is supporting the trainee to find their own path, and then supporting the trainee in meeting their own goals that they set."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,360",
+				"to": "00:18:34,960"
+			},
+			"offsets": {
+				"from": 1109360,
+				"to": 1114960
+			},
+			"text": " So we developed that after we switched our goal from just well-being to getting a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,940",
+				"to": "00:18:41,680"
+			},
+			"offsets": {
+				"from": 1115940,
+				"to": 1121680
+			},
+			"text": " And we went from a three-year program to a two-year program, and then finally to a one-year program."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,080",
+				"to": "00:18:54,050"
+			},
+			"offsets": {
+				"from": 1122080,
+				"to": 1134050
+			},
+			"text": " And the reason why we did that is what we learned is that transitional jobs programs are on average about six months long, and the span is from three months to nine months."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,860",
+				"to": "00:19:02,120"
+			},
+			"offsets": {
+				"from": 1134860,
+				"to": 1142120
+			},
+			"text": " And we wanted to find a way to serve more people, and we realized if our program length was shorter, we could serve more people."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,120",
+				"to": "00:19:13,600"
+			},
+			"offsets": {
+				"from": 1142120,
+				"to": 1153600
+			},
+			"text": " And we also noticed that people fall in love with the farm, and it's hard to leave, and it didn't seem like those next two years were helping people to learn more skills"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,600",
+				"to": "00:19:25,240"
+			},
+			"offsets": {
+				"from": 1153600,
+				"to": 1165240
+			},
+			"text": " so that they could get a job, and that it seemed that people could accomplish that job goal in a year, and actually make that transition more easily than if they sort of hung on for three years."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,740",
+				"to": "00:19:32,730"
+			},
+			"offsets": {
+				"from": 1165740,
+				"to": 1172730
+			},
+			"text": " Can you talk about the work that people actually do at Homeless Garden Project, and what is job training?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,070",
+				"to": "00:19:36,350"
+			},
+			"offsets": {
+				"from": 1173070,
+				"to": 1176350
+			},
+			"text": " Like, how is a garden a place that job training happens?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,670",
+				"to": "00:19:37,430"
+			},
+			"offsets": {
+				"from": 1176670,
+				"to": 1177430
+			},
+			"text": " What goes on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,430",
+				"to": "00:19:37,870"
+			},
+			"offsets": {
+				"from": 1177430,
+				"to": 1177870
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,050",
+				"to": "00:19:44,010"
+			},
+			"offsets": {
+				"from": 1178050,
+				"to": 1184010
+			},
+			"text": " So our work is really seasonal, but I'll focus for this discussion here on the farming season."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,310",
+				"to": "00:19:52,850"
+			},
+			"offsets": {
+				"from": 1184310,
+				"to": 1192850
+			},
+			"text": " So we have 17 positions, and we have a farm manager and a production lead and training and education supervisor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,850",
+				"to": "00:19:58,030"
+			},
+			"offsets": {
+				"from": 1192850,
+				"to": 1198030
+			},
+			"text": " and they all work together with our 17 trainees and a whole bunch of volunteers."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,030",
+				"to": "00:20:09,960"
+			},
+			"offsets": {
+				"from": 1198030,
+				"to": 1209960
+			},
+			"text": " We also have a volunteer coordinator to do all of the farming work involved in operating our CSA in our farm stand and in growing the raw materials that we use in our value-added enterprise."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:11,110",
+				"to": "00:20:13,750"
+			},
+			"offsets": {
+				"from": 1211110,
+				"to": 1213750
+			},
+			"text": " The trainees work Tuesday through Friday, 9 to 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,280",
+				"to": "00:20:21,040"
+			},
+			"offsets": {
+				"from": 1214280,
+				"to": 1221040
+			},
+			"text": " There are occasionally opportunities for extra work, and Tuesdays we start off with a circle meeting,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,040",
+				"to": "00:20:30,350"
+			},
+			"offsets": {
+				"from": 1221040,
+				"to": 1230350
+			},
+			"text": " which is where everybody, who I just mentioned, sits in a circle, and our training and education supervisor will pose a question."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,710",
+				"to": "00:20:38,310"
+			},
+			"offsets": {
+				"from": 1230710,
+				"to": 1238310
+			},
+			"text": " It's usually a question that has some relationship to well-being, and it might be something like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,490",
+				"to": "00:20:45,110"
+			},
+			"offsets": {
+				"from": 1238490,
+				"to": 1245110
+			},
+			"text": " how do you deal with challenges, or what are some goals that you're inspired by right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,350",
+				"to": "00:20:49,330"
+			},
+			"offsets": {
+				"from": 1245350,
+				"to": 1249330
+			},
+			"text": " And then we go around in a circle, and everybody will answer that question."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,330",
+				"to": "00:20:57,120"
+			},
+			"offsets": {
+				"from": 1249330,
+				"to": 1257120
+			},
+			"text": " And it's a nice way to reconnect with each other, and it's an opportunity for people to get to know each other,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,160",
+				"to": "00:21:00,460"
+			},
+			"offsets": {
+				"from": 1257160,
+				"to": 1260460
+			},
+			"text": " even if they may not work closely that day or that week."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,600",
+				"to": "00:21:02,950"
+			},
+			"offsets": {
+				"from": 1260600,
+				"to": 1262950
+			},
+			"text": " It's an opportunity to do public speaking."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,150",
+				"to": "00:21:06,470"
+			},
+			"offsets": {
+				"from": 1264150,
+				"to": 1266470
+			},
+			"text": " It's followed up by some announcements."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,190",
+				"to": "00:21:15,450"
+			},
+			"offsets": {
+				"from": 1267190,
+				"to": 1275450
+			},
+			"text": " We have a social worker who comes and reads job openings that are—a social worker checks for job openings every week"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,450",
+				"to": "00:21:24,620"
+			},
+			"offsets": {
+				"from": 1275450,
+				"to": 1284620
+			},
+			"text": " and then reads out maybe six to ten openings so that the conversation at the farm is very much about, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:24,620",
+				"to": "00:21:30,030"
+			},
+			"offsets": {
+				"from": 1284620,
+				"to": 1290030
+			},
+			"text": " the larger community and the idea that this is a transitional jobs program,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,700",
+				"to": "00:21:35,980"
+			},
+			"offsets": {
+				"from": 1290700,
+				"to": 1295980
+			},
+			"text": " and the goal is for people to get into jobs, and there are jobs in the community that are available."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,980",
+				"to": "00:21:44,160"
+			},
+			"offsets": {
+				"from": 1296980,
+				"to": 1304160
+			},
+			"text": " And someone, you know, even somebody who's just started for the first month and is still settling into their program,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,400",
+				"to": "00:21:47,660"
+			},
+			"offsets": {
+				"from": 1304400,
+				"to": 1307660
+			},
+			"text": " they can think about, oh, would I want that job?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,720",
+				"to": "00:21:51,100"
+			},
+			"offsets": {
+				"from": 1307720,
+				"to": 1311100
+			},
+			"text": " Or, oh, that job actually sounds like something I might want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,340",
+				"to": "00:21:53,700"
+			},
+			"offsets": {
+				"from": 1311340,
+				"to": 1313700
+			},
+			"text": " So that's Tuesday mornings, the first hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,700",
+				"to": "00:21:57,520"
+			},
+			"offsets": {
+				"from": 1313700,
+				"to": 1317520
+			},
+			"text": " We always have stretch every morning before we start work,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,310",
+				"to": "00:22:05,810"
+			},
+			"offsets": {
+				"from": 1318310,
+				"to": 1325810
+			},
+			"text": " and our farm manager and the training supervisor and the production lead talk to our trainees about what the day's priorities are."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,970",
+				"to": "00:22:08,330"
+			},
+			"offsets": {
+				"from": 1325970,
+				"to": 1328330
+			},
+			"text": " There's a chalkboard when we're doing harvests,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,530",
+				"to": "00:22:15,010"
+			},
+			"offsets": {
+				"from": 1328530,
+				"to": 1335010
+			},
+			"text": " and each person will take one of the items that needs to be harvested and cross it off and then go harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,010",
+				"to": "00:22:21,380"
+			},
+			"offsets": {
+				"from": 1335010,
+				"to": 1341380
+			},
+			"text": " We have divided all of the farm tasks into areas so that the trainees have posts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,130",
+				"to": "00:22:24,330"
+			},
+			"offsets": {
+				"from": 1342130,
+				"to": 1344330
+			},
+			"text": " and they're in their posts for two months."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,230",
+				"to": "00:22:29,870"
+			},
+			"offsets": {
+				"from": 1345230,
+				"to": 1349870
+			},
+			"text": " There's a kitchen post, and those people work with volunteers to cook lunch."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,670",
+				"to": "00:22:36,670"
+			},
+			"offsets": {
+				"from": 1350670,
+				"to": 1356670
+			},
+			"text": " We serve a lunch every day, Tuesday through Friday at noon, using produce grown from the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,830",
+				"to": "00:22:44,030"
+			},
+			"offsets": {
+				"from": 1356830,
+				"to": 1364030
+			},
+			"text": " And we sometimes serve up to 50 people at those lunches, including our trainees and staff and volunteers."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,610",
+				"to": "00:22:53,150"
+			},
+			"offsets": {
+				"from": 1364610,
+				"to": 1373150
+			},
+			"text": " There's a farm stand post, and that person greets volunteers and works with customers and answers questions of any kind."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,200",
+				"to": "00:22:58,820"
+			},
+			"offsets": {
+				"from": 1374200,
+				"to": 1378820
+			},
+			"text": " We have some value-added products there at the farm stand, so they might be selling them."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,820",
+				"to": "00:23:05,690"
+			},
+			"offsets": {
+				"from": 1378820,
+				"to": 1385690
+			},
+			"text": " There might be a family coming out to harvest strawberries, so they'll direct them to how to do that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,850",
+				"to": "00:23:10,390"
+			},
+			"offsets": {
+				"from": 1385850,
+				"to": 1390390
+			},
+			"text": " and then take the customer's money and use all the proper cash handling procedures."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,400",
+				"to": "00:23:12,770"
+			},
+			"offsets": {
+				"from": 1391400,
+				"to": 1392770
+			},
+			"text": " There's a greenhouse crew."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,100",
+				"to": "00:23:13,980"
+			},
+			"offsets": {
+				"from": 1393100,
+				"to": 1393980
+			},
+			"text": " That's my favorite."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,590",
+				"to": "00:23:20,430"
+			},
+			"offsets": {
+				"from": 1394590,
+				"to": 1400430
+			},
+			"text": " That crew will work to start all the seedlings that are on the sowing list for that week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:20,650",
+				"to": "00:23:25,500"
+			},
+			"offsets": {
+				"from": 1400650,
+				"to": 1405500
+			},
+			"text": " and the sowing list is based off our crop plan that our farm manager puts together."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,500",
+				"to": "00:23:33,440"
+			},
+			"offsets": {
+				"from": 1405500,
+				"to": 1413440
+			},
+			"text": " Not all farms start their own seedlings, but we do, and it's a really great training skill to have,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,720",
+				"to": "00:23:38,020"
+			},
+			"offsets": {
+				"from": 1413720,
+				"to": 1418020
+			},
+			"text": " and it's very detail-oriented, and it includes a lot of record-keeping."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,580",
+				"to": "00:23:42,680"
+			},
+			"offsets": {
+				"from": 1418580,
+				"to": 1422680
+			},
+			"text": " There's a vegetable production crew, and there's many people on that crew."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,140",
+				"to": "00:23:51,000"
+			},
+			"offsets": {
+				"from": 1423140,
+				"to": 1431000
+			},
+			"text": " It includes people doing irrigation, building beds, tending the beds, harvesting, doing pest management,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,400",
+				"to": "00:23:57,120"
+			},
+			"offsets": {
+				"from": 1431400,
+				"to": 1437120
+			},
+			"text": " and then there's a flower production crew, and that crew is similar to the vegetable production crew,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,120",
+				"to": "00:24:05,110"
+			},
+			"offsets": {
+				"from": 1437120,
+				"to": 1445110
+			},
+			"text": " but they're focusing on the flowers, including the flowers that we're harvesting to dry for our value-added enterprise."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,770",
+				"to": "00:24:13,180"
+			},
+			"offsets": {
+				"from": 1445770,
+				"to": 1453180
+			},
+			"text": " It's wonderful to, from the street onto the farm, into that bustle of activity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,800",
+				"to": "00:24:21,690"
+			},
+			"offsets": {
+				"from": 1453800,
+				"to": 1461690
+			},
+			"text": " and people working together so harmoniously and towards a common goal, but each person with their different roles."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,030",
+				"to": "00:24:24,730"
+			},
+			"offsets": {
+				"from": 1462030,
+				"to": 1464730
+			},
+			"text": " And then the volunteers are integrated into that as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,930",
+				"to": "00:24:29,890"
+			},
+			"offsets": {
+				"from": 1464930,
+				"to": 1469890
+			},
+			"text": " Last year, we had 2,500 people who volunteered at our project during the year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,280",
+				"to": "00:24:33,180"
+			},
+			"offsets": {
+				"from": 1470280,
+				"to": 1473180
+			},
+			"text": " and, you know, sometimes it's a big, large group coming."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,580",
+				"to": "00:24:40,030"
+			},
+			"offsets": {
+				"from": 1473580,
+				"to": 1480030
+			},
+			"text": " Sometimes it's an intern who's doing a six-month internship with us and is working 32 hours a week."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,270",
+				"to": "00:24:45,830"
+			},
+			"offsets": {
+				"from": 1480270,
+				"to": 1485830
+			},
+			"text": " Sometimes it's a volunteer who comes one time and maybe was visiting from out of town and doesn't come again."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,830",
+				"to": "00:24:49,710"
+			},
+			"offsets": {
+				"from": 1485830,
+				"to": 1489710
+			},
+			"text": " Can you tell me about the different ways that community members can participate?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:50,110",
+				"to": "00:24:54,450"
+			},
+			"offsets": {
+				"from": 1490110,
+				"to": 1494450
+			},
+			"text": " Yeah. One of the main ways community members participate is through volunteering."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,450",
+				"to": "00:25:03,590"
+			},
+			"offsets": {
+				"from": 1494450,
+				"to": 1503590
+			},
+			"text": " We also have community members who are CSA members and come every week during the 23-week harvest season and pick up their shares."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,130",
+				"to": "00:25:10,150"
+			},
+			"offsets": {
+				"from": 1504130,
+				"to": 1510150
+			},
+			"text": " We have two kinds of shares, the you-pick share and the shares that we harvest ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,910",
+				"to": "00:25:14,630"
+			},
+			"offsets": {
+				"from": 1510910,
+				"to": 1514630
+			},
+			"text": " And our harvest season runs from the end of May through the end of October."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,200",
+				"to": "00:25:17,380"
+			},
+			"offsets": {
+				"from": 1515200,
+				"to": 1517380
+			},
+			"text": " CSA members bring their families."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,740",
+				"to": "00:25:20,720"
+			},
+			"offsets": {
+				"from": 1517740,
+				"to": 1520720
+			},
+			"text": " They bring visitors from out of town to the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,180",
+				"to": "00:25:26,980"
+			},
+			"offsets": {
+				"from": 1521180,
+				"to": 1526980
+			},
+			"text": " They're really deeply invested in what we do, and we're so grateful for their partnership."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,980",
+				"to": "00:25:30,820"
+			},
+			"offsets": {
+				"from": 1526980,
+				"to": 1530820
+			},
+			"text": " So another way is to be a customer at our downtown store."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,960",
+				"to": "00:25:34,860"
+			},
+			"offsets": {
+				"from": 1530960,
+				"to": 1534860
+			},
+			"text": " That's currently open every Friday, Saturday, and Sunday."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,260",
+				"to": "00:25:41,400"
+			},
+			"offsets": {
+				"from": 1535260,
+				"to": 1541400
+			},
+			"text": " And then in November, we'll begin to be open seven days a week, 10 hours a day through Christmas time."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,420",
+				"to": "00:25:45,840"
+			},
+			"offsets": {
+				"from": 1542420,
+				"to": 1545840
+			},
+			"text": " People can buy from our online store as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,800",
+				"to": "00:25:48,620"
+			},
+			"offsets": {
+				"from": 1546800,
+				"to": 1548620
+			},
+			"text": " And then, of course, people can be donors."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,620",
+				"to": "00:25:57,740"
+			},
+			"offsets": {
+				"from": 1548620,
+				"to": 1557740
+			},
+			"text": " We have various fundraising campaigns, and more than 65% of our income comes from donations from individuals."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,280",
+				"to": "00:26:02,910"
+			},
+			"offsets": {
+				"from": 1558280,
+				"to": 1562910
+			},
+			"text": " One of the programs that we have that people can donate to is called Feed to Birds."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,310",
+				"to": "00:26:12,140"
+			},
+			"offsets": {
+				"from": 1563310,
+				"to": 1572140
+			},
+			"text": " And in that program, donors help to set aside shares that we distribute to agencies that work with low-income people."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,040",
+				"to": "00:26:21,870"
+			},
+			"offsets": {
+				"from": 1573040,
+				"to": 1581870
+			},
+			"text": " This year, we're working with 10 different agencies, and we hope to distribute 5,000 pounds of food to them during the 23 weeks that they'll partner with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,870",
+				"to": "00:26:29,350"
+			},
+			"offsets": {
+				"from": 1581870,
+				"to": 1589350
+			},
+			"text": " And the agencies range from the Boys and Girls Club of Santa Cruz County, the Housing and Urban Development Veteran Administration,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,550",
+				"to": "00:26:31,430"
+			},
+			"offsets": {
+				"from": 1589550,
+				"to": 1591430
+			},
+			"text": " and Supportive Housing Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,430",
+				"to": "00:26:34,730"
+			},
+			"offsets": {
+				"from": 1591430,
+				"to": 1594730
+			},
+			"text": " So those are the two newest programs that we're working with."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,810",
+				"to": "00:26:44,900"
+			},
+			"offsets": {
+				"from": 1594810,
+				"to": 1604900
+			},
+			"text": " So we're distributing food grown by our trainees to low-income children in our community and to veterans who are just getting into housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,160",
+				"to": "00:26:49,400"
+			},
+			"offsets": {
+				"from": 1605160,
+				"to": 1609400
+			},
+			"text": " We also support the River Street Shelter that way and the Santa Cruz AIDS Project."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,680",
+				"to": "00:26:54,940"
+			},
+			"offsets": {
+				"from": 1609680,
+				"to": 1614940
+			},
+			"text": " We work with a program that engages foster youth that are transitioning out of foster care."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,940",
+				"to": "00:26:57,560"
+			},
+			"offsets": {
+				"from": 1614940,
+				"to": 1617560
+			},
+			"text": " We have a really sweet partnership with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:57,920",
+				"to": "00:27:00,640"
+			},
+			"offsets": {
+				"from": 1617920,
+				"to": 1620640
+			},
+			"text": " The youth that they serve are so inspiring."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:00,820",
+				"to": "00:27:06,800"
+			},
+			"offsets": {
+				"from": 1620820,
+				"to": 1626800
+			},
+			"text": " They come to some of our events, and there's a photo show of some of them using and cooking the food that we grow."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,000",
+				"to": "00:27:10,520"
+			},
+			"offsets": {
+				"from": 1627000,
+				"to": 1630520
+			},
+			"text": " We did a health fair with these agencies this year."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,600",
+				"to": "00:27:12,100"
+			},
+			"offsets": {
+				"from": 1630600,
+				"to": 1632100
+			},
+			"text": " It was called a food and wellness fair."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,400",
+				"to": "00:27:14,930"
+			},
+			"offsets": {
+				"from": 1632400,
+				"to": 1634930
+			},
+			"text": " They all came and talked about how they use the food."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,570",
+				"to": "00:27:24,750"
+			},
+			"offsets": {
+				"from": 1635570,
+				"to": 1644750
+			},
+			"text": " We had a demonstration about how to grow vegetables at your own home in a container so that people could increase their consumption of fresh fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,750",
+				"to": "00:27:29,890"
+			},
+			"offsets": {
+				"from": 1644750,
+				"to": 1649890
+			},
+			"text": " The Dominican Hospital Mobile Health Van came out and did health screenings."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,640",
+				"to": "00:27:39,420"
+			},
+			"offsets": {
+				"from": 1650640,
+				"to": 1659420
+			},
+			"text": " And three agencies did cooking demonstrations about how to cook organic produce in tasty ways that are affordable."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,780",
+				"to": "00:27:53,190"
+			},
+			"offsets": {
+				"from": 1659780,
+				"to": 1673190
+			},
+			"text": " And Leanne Brown, who wrote this fantastic cookbook called Good and Cheap, How to Eat Well on $4 a Day, she donated books to us, so we were able to give those books out to the people who participated that day."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,190",
+				"to": "00:28:02,250"
+			},
+			"offsets": {
+				"from": 1673190,
+				"to": 1682250
+			},
+			"text": " We have a dinner series called the Sustained Dinner Series, and chefs from the community come, and each chef cooks one of four courses."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,710",
+				"to": "00:28:07,520"
+			},
+			"offsets": {
+				"from": 1682710,
+				"to": 1687520
+			},
+			"text": " Our most recent dinner, we had 160 guests, and we always have a speaker."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,700",
+				"to": "00:28:19,340"
+			},
+			"offsets": {
+				"from": 1687700,
+				"to": 1699340
+			},
+			"text": " This last dinner, it was the secretary of the California Department of Food and Agriculture, and she came and spoke about the importance of local agriculture in our economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,060",
+				"to": "00:28:30,090"
+			},
+			"offsets": {
+				"from": 1700060,
+				"to": 1710090
+			},
+			"text": " And then one of our trainees spoke at that event as well about her experience falling into homelessness and how the project has served her."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,480",
+				"to": "00:28:35,090"
+			},
+			"offsets": {
+				"from": 1711480,
+				"to": 1715090
+			},
+			"text": " Those are always the most inspiring and fun parts of the event for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,090",
+				"to": "00:28:39,290"
+			},
+			"offsets": {
+				"from": 1715090,
+				"to": 1719290
+			},
+			"text": " Well, thank you for being on the show today, and we're going to do something a little different."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:39,370",
+				"to": "00:28:48,250"
+			},
+			"offsets": {
+				"from": 1719370,
+				"to": 1728250
+			},
+			"text": " And with this episode, we're also going to interview someone who is a trainee at the Homeless Garden Project and hear their story."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:48,510",
+				"to": "00:28:53,070"
+			},
+			"offsets": {
+				"from": 1728510,
+				"to": 1733070
+			},
+			"text": " So I'm really looking forward to that, and we'll get a whole nother perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,510",
+				"to": "00:28:53,970"
+			},
+			"offsets": {
+				"from": 1733510,
+				"to": 1733970
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,520",
+				"to": "00:28:57,040"
+			},
+			"offsets": {
+				"from": 1734520,
+				"to": 1737040
+			},
+			"text": " I can say one more way that people can be involved."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,220",
+				"to": "00:28:57,500"
+			},
+			"offsets": {
+				"from": 1737220,
+				"to": 1737500
+			},
+			"text": " Great."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,500",
+				"to": "00:29:11,490"
+			},
+			"offsets": {
+				"from": 1737500,
+				"to": 1751490
+			},
+			"text": " We're really looking for employers who want to join our Employer Ally Network and who are interested in learning more about who our trainees are and what kinds of jobs they're looking for and might have jobs to offer to our trainees."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,830",
+				"to": "00:29:12,210"
+			},
+			"offsets": {
+				"from": 1751830,
+				"to": 1752210
+			},
+			"text": " Wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,450",
+				"to": "00:29:18,070"
+			},
+			"offsets": {
+				"from": 1752450,
+				"to": 1758070
+			},
+			"text": " And is there any other way that we should know how to follow along with what's going on with Homeless Garden Project?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,540",
+				"to": "00:29:20,080"
+			},
+			"offsets": {
+				"from": 1758540,
+				"to": 1760080
+			},
+			"text": " Yes, we have two websites."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,260",
+				"to": "00:29:33,100"
+			},
+			"offsets": {
+				"from": 1760260,
+				"to": 1773100
+			},
+			"text": " We have our regular HomelessGardenProject.org website, and then we also have one called Store.HomelessGardenProject.org that talks about how to visit our downtown store."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,100",
+				"to": "00:29:38,640"
+			},
+			"offsets": {
+				"from": 1773100,
+				"to": 1778640
+			},
+			"text": " It has a link to our online store, and it also talks about all of the events that we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,880",
+				"to": "00:29:51,970"
+			},
+			"offsets": {
+				"from": 1778880,
+				"to": 1791970
+			},
+			"text": " And then finally, we have a Facebook page, and there's a lot of ways to get a feeling for the day-to-day of what's happening on the farm and to just celebrate the farm and the people that we're serving."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:52,110",
+				"to": "00:29:52,390"
+			},
+			"offsets": {
+				"from": 1792110,
+				"to": 1792390
+			},
+			"text": " Perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:52,670",
+				"to": "00:29:56,470"
+			},
+			"offsets": {
+				"from": 1792670,
+				"to": 1796470
+			},
+			"text": " Well, I'll make sure to include those in the notes with the episode."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:56,730",
+				"to": "00:29:58,230"
+			},
+			"offsets": {
+				"from": 1796730,
+				"to": 1798230
+			},
+			"text": " So thank you so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,920",
+				"to": "00:29:59,360"
+			},
+			"offsets": {
+				"from": 1798920,
+				"to": 1799360
+			},
+			"text": " Absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,560",
+				"to": "00:30:00,280"
+			},
+			"offsets": {
+				"from": 1799560,
+				"to": 1800280
+			},
+			"text": " Thank you, Chelsea."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,820",
+				"to": "00:30:16,820"
+			},
+			"offsets": {
+				"from": 1800820,
+				"to": 1816820
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,230",
+				"to": "00:30:22,430"
+			},
+			"offsets": {
+				"from": 1817230,
+				"to": 1822430
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,710",
+				"to": "00:30:27,100"
+			},
+			"offsets": {
+				"from": 1822710,
+				"to": 1827100
+			},
+			"text": " And you can learn more at DeliciousRevolutionShow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,100",
+				"to": "00:30:32,630"
+			},
+			"offsets": {
+				"from": 1827100,
+				"to": 1832630
+			},
+			"text": " There, we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,000",
+				"to": "00:30:35,180"
+			},
+			"offsets": {
+				"from": 1833000,
+				"to": 1835180
+			},
+			"text": " You can find us on Facebook and Twitter, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,600",
+				"to": "00:30:43,940"
+			},
+			"offsets": {
+				"from": 1835600,
+				"to": 1843940
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,220",
+				"to": "00:30:47,820"
+			},
+			"offsets": {
+				"from": 1844220,
+				"to": 1847820
+			},
+			"text": " Visit www.calhom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,960",
+				"to": "00:30:53,820"
+			},
+			"offsets": {
+				"from": 1847960,
+				"to": 1853820
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

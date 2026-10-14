@@ -4,3 +4,8 @@
 __pycache__/
 archive/audio/
 *.part
+# Failed and superseded Whisper pilot runs
+transcripts/raw/
+transcripts/pilot/
+transcripts/pilot2/
+transcripts/pilot-turbo/

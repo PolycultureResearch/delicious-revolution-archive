@@ -1,0 +1,4234 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:08,260",
+				"to": "00:00:36,750"
+			},
+			"offsets": {
+				"from": 8260,
+				"to": 36750
+			},
+			"text": " Legend has it that the produce used to come in and there was like maybe a dozen farmers, let's say, that she was working with and she just had connections with chefs in the Bay Area that were, you know, 1979, you're talking probably not that many folks that were just starting to get into this whole idea of supporting small local farmers and a farm-to-table movement, but like Alice Waters and Bob Klein and that whole crew, but they used to gather the produce under an oak tree and then on a Thursday afternoon, no refrigeration, nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,750",
+				"to": "00:00:56,190"
+			},
+			"offsets": {
+				"from": 36750,
+				"to": 56190
+			},
+			"text": " And then on Thursday night, they'd go drive down to the city and deliver everything. They wanted to continue and wanted to support local farmers that were growing beautiful product. And obviously, as you know, when you get to be in the midst of such beautiful food that is artisanally grown, you become almost addicted to it. And just to be surrounded by it is kind of like gives you this buzz, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,640",
+				"to": "00:01:08,370"
+			},
+			"offsets": {
+				"from": 57640,
+				"to": 68370
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,530",
+				"to": "00:01:09,470"
+			},
+			"offsets": {
+				"from": 68530,
+				"to": 69470
+			},
+			"text": " And I'm Devon Samson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,730",
+				"to": "00:01:23,520"
+			},
+			"offsets": {
+				"from": 69730,
+				"to": 83520
+			},
+			"text": " We talk with people who work in and think about all aspects of food, including farmers, chefs, artists, and activists. On the second season, we bring you in-depth conversations with some amazing people who work with food in incredible ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,240",
+				"to": "00:01:30,620"
+			},
+			"offsets": {
+				"from": 84240,
+				"to": 90620
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app. Just search for Delicious Revolution and you'll find us."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,740",
+				"to": "00:01:36,900"
+			},
+			"offsets": {
+				"from": 90740,
+				"to": 96900
+			},
+			"text": " Our website is deliciousrevolutionshow.com, where we have pictures, links, and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,960",
+				"to": "00:01:45,540"
+			},
+			"offsets": {
+				"from": 96960,
+				"to": 105540
+			},
+			"text": " If you have a food story of your own, we'd love to hear it. Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,130",
+				"to": "00:01:53,980"
+			},
+			"offsets": {
+				"from": 106130,
+				"to": 113980
+			},
+			"text": " Delicious Revolution is brought to you by Satori Travel. If you're a traveler, and especially if you're thinking about going to Mexico or Japan, you've got to check it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,350",
+				"to": "00:02:00,490"
+			},
+			"offsets": {
+				"from": 114350,
+				"to": 120490
+			},
+			"text": " They offer unique guidebooks, custom-tailored trips, and a concierge service for planning your next great adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,970",
+				"to": "00:02:03,680"
+			},
+			"offsets": {
+				"from": 120970,
+				"to": 123680
+			},
+			"text": " Find out more at SatoriSatori.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,680",
+				"to": "00:02:18,170"
+			},
+			"offsets": {
+				"from": 123680,
+				"to": 138170
+			},
+			"text": " Tim Page runs the Farmers' Exchange of Earthly Delights, also known as Feed Sonoma, a produce distribution company that works very closely with 50 small-scale farmers in Sonoma County, California."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,720",
+				"to": "00:02:22,870"
+			},
+			"offsets": {
+				"from": 138720,
+				"to": 142870
+			},
+			"text": " Tim grew up in Orange County, where he witnessed the disappearance of farmlands firsthand."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,390",
+				"to": "00:02:31,570"
+			},
+			"offsets": {
+				"from": 143390,
+				"to": 151570
+			},
+			"text": " And that inspired Feed's dedication to creating a food system with efficient practices, pristine raw ingredients, and all while practicing the maximization of our resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,790",
+				"to": "00:02:40,410"
+			},
+			"offsets": {
+				"from": 151790,
+				"to": 160410
+			},
+			"text": " Chelsea talks with Tim about the origins of this business under an oak tree, supporting a community of farmers, and what to do with the ridiculous abundance of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,600",
+				"to": "00:02:46,240"
+			},
+			"offsets": {
+				"from": 161600,
+				"to": 166240
+			},
+			"text": " Thank you for having me, and thank you for having Feed Sonoma."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,440",
+				"to": "00:02:57,730"
+			},
+			"offsets": {
+				"from": 166440,
+				"to": 177730
+			},
+			"text": " It's really an honor, because I feel like we're in such a time where it's so important to have a community of people coming together to share stories and tell stories of what's happening in our community."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,870",
+				"to": "00:02:58,850"
+			},
+			"offsets": {
+				"from": 177870,
+				"to": 178850
+			},
+			"text": " So thank you for doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,350",
+				"to": "00:03:04,570"
+			},
+			"offsets": {
+				"from": 179350,
+				"to": 184570
+			},
+			"text": " Well, maybe let's start with when did Feed start, and how did you get here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,790",
+				"to": "00:03:05,770"
+			},
+			"offsets": {
+				"from": 184790,
+				"to": 185770
+			},
+			"text": " Yeah, great question."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,350",
+				"to": "00:03:17,140"
+			},
+			"offsets": {
+				"from": 186350,
+				"to": 197140
+			},
+			"text": " I mean, how I got here, that could take up the whole 45 minutes or an hour, because, I mean, I think that's what we have here in these types of communities of multiple small groups of people coming together."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,340",
+				"to": "00:03:27,460"
+			},
+			"offsets": {
+				"from": 197340,
+				"to": 207460
+			},
+			"text": " You have such a wide array of stories of each individual, how they got to where they are, and we all have such a unique evolution, and mine kind of fits that mold."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,460",
+				"to": "00:03:39,910"
+			},
+			"offsets": {
+				"from": 207460,
+				"to": 219910
+			},
+			"text": " But as far as Feed Sonoma is concerned, Feed is actually, we've been in existence since June 1st of 2011, but in reality, the whole, the business has been in continuous operation since 1979."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,630",
+				"to": "00:03:50,910"
+			},
+			"offsets": {
+				"from": 220630,
+				"to": 230910
+			},
+			"text": " And it's started, it's always been like a real mom-and-pop grassroots, you know, basically just like a, started in 1979, it was called Ocean Resources International for some reason."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,130",
+				"to": "00:04:02,520"
+			},
+			"offsets": {
+				"from": 231130,
+				"to": 242520
+			},
+			"text": " I'm not sure why the name, but a woman named Ina Chun, and here in West County, West Sebastopol, and the legend has it, because I still haven't ever met her, I would like to someday, because she is still living in the area."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,100",
+				"to": "00:04:20,950"
+			},
+			"offsets": {
+				"from": 243100,
+				"to": 260950
+			},
+			"text": " But the legend has it that the produce used to come in, and there was like maybe a dozen farmers, let's say, that she was working with, and she just had connections with chefs in the Bay Area that were, you know, 1979, you're talking probably not that many folks that were just starting to get into this whole idea of supporting small local farmers and a farm-to-table movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,950",
+				"to": "00:04:32,440"
+			},
+			"offsets": {
+				"from": 260950,
+				"to": 272440
+			},
+			"text": " But like Alice Waters and Bob Klein and that whole crew, but they used to gather the produce under an oak tree, and then on a Thursday afternoon, no refrigeration, nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,740",
+				"to": "00:04:40,360"
+			},
+			"offsets": {
+				"from": 272740,
+				"to": 280360
+			},
+			"text": " And then on Thursday night, they'd go drive down to the city and deliver everything, because they'd either get there before the restaurant closed, or they had keys, and they could drop it off or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,360",
+				"to": "00:04:55,720"
+			},
+			"offsets": {
+				"from": 280360,
+				"to": 295720
+			},
+			"text": " But anyway, then she sold the business to a couple, Susan Stover and Tony Sidoti, and they were growing specialty greens and herbs for Ina and for that business, and Ina just wanted to move on."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,880",
+				"to": "00:05:03,870"
+			},
+			"offsets": {
+				"from": 295880,
+				"to": 303870
+			},
+			"text": " And so they, Susan and Tony bought the business from them, but never was really an intention of, you know, being part of this food movement that we have now."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,010",
+				"to": "00:05:09,750"
+			},
+			"offsets": {
+				"from": 304010,
+				"to": 309750
+			},
+			"text": " It was more just they wanted to continue and wanted to support local farmers that were growing beautiful product."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,890",
+				"to": "00:05:18,080"
+			},
+			"offsets": {
+				"from": 309890,
+				"to": 318080
+			},
+			"text": " And obviously, as you know, when you get to be in the midst of such beautiful food that is artisanally grown, you become almost addicted to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,220",
+				"to": "00:05:21,500"
+			},
+			"offsets": {
+				"from": 318220,
+				"to": 321500
+			},
+			"text": " And just to be surrounded by it is kind of like gives you this buzz, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,920",
+				"to": "00:05:27,770"
+			},
+			"offsets": {
+				"from": 321920,
+				"to": 327770
+			},
+			"text": " And so I think they just wanted to be part of that, and they're obviously looking to just survive like any of us are doing as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,870",
+				"to": "00:05:42,820"
+			},
+			"offsets": {
+				"from": 327870,
+				"to": 342820
+			},
+			"text": " But Susan and Tony stewarded the business from 1994 until 2011, and then when they were just looking to move on as well, you know, driving a delivery truck around San Francisco can be stressful and a little laborious."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,250",
+				"to": "00:05:58,320"
+			},
+			"offsets": {
+				"from": 343250,
+				"to": 358320
+			},
+			"text": " But they were looking to move on, and just so happened at that particular point in time, for my personal self, I was kind of looking to be able to create something that felt like it was going to be meaningful to be able to steward to the next generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,300",
+				"to": "00:06:04,240"
+			},
+			"offsets": {
+				"from": 359300,
+				"to": 364240
+			},
+			"text": " I had just, you know, become a father, basically, and was starting a family of my own."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,900",
+				"to": "00:06:14,870"
+			},
+			"offsets": {
+				"from": 364900,
+				"to": 374870
+			},
+			"text": " And I met a friend named Michelle Dubin, who is a small farmer here in West Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,390",
+				"to": "00:06:30,520"
+			},
+			"offsets": {
+				"from": 375390,
+				"to": 390520
+			},
+			"text": " And she had been going to these kind of food advocacy meetings, the Food Systems Alliance and that type of thing, and really was just kind of wanting to help give small farmers an ability to sell more food."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,520",
+				"to": "00:06:40,980"
+			},
+			"offsets": {
+				"from": 390520,
+				"to": 400980
+			},
+			"text": " And so we kind of got together the winter of 2010 going into 2011 and started to formulate how we could create a business that would help small farmers sell more food."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,100",
+				"to": "00:06:45,440"
+			},
+			"offsets": {
+				"from": 401100,
+				"to": 405440
+			},
+			"text": " And then lo and behold, we discovered that Susan and Tony were selling their business, which was called Terrace."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,500",
+				"to": "00:06:47,560"
+			},
+			"offsets": {
+				"from": 405500,
+				"to": 407560
+			},
+			"text": " It had now become Terrace Sonoma Produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,380",
+				"to": "00:06:57,360"
+			},
+			"offsets": {
+				"from": 408380,
+				"to": 417360
+			},
+			"text": " And so Michelle and I partnered up and basically purchased that business from Susan and Tony, and then that became Feed Sonoma on June 1st of 2011."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,360",
+				"to": "00:07:06,640"
+			},
+			"offsets": {
+				"from": 417360,
+				"to": 426640
+			},
+			"text": " So, you know, we have this amazing foundation that we have, you know, really focusing on the quality of how the food is grown."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,800",
+				"to": "00:07:19,500"
+			},
+			"offsets": {
+				"from": 426800,
+				"to": 439500
+			},
+			"text": " You know, I hear the term like ecologically sound and, you know, really supporting that because in our type of area, we have, you know, with this type of a farm community where the average size farm is maybe 10 acres, let's say."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,500",
+				"to": "00:07:29,980"
+			},
+			"offsets": {
+				"from": 439500,
+				"to": 449980
+			},
+			"text": " And there's a lot of direct contact between small farms and individuals, maybe at farm markets or CSAs, then not every farm is going to be certified organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,280",
+				"to": "00:07:46,400"
+			},
+			"offsets": {
+				"from": 451280,
+				"to": 466400
+			},
+			"text": " But also all the farms that we work with are either certified organic, which is only about 45 percent of the farms, 40 percent of the farms, or they're just what we call beyond organic, which is this kind of nebulous term that gets used a lot because it doesn't really have an auditable definition."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,090",
+				"to": "00:07:53,340"
+			},
+			"offsets": {
+				"from": 467090,
+				"to": 473340
+			},
+			"text": " But we just basically choose to support farms that are growing and are at least using organic practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,860",
+				"to": "00:08:10,900"
+			},
+			"offsets": {
+				"from": 473860,
+				"to": 490900
+			},
+			"text": " And pretty much all of the farms that we work with are also incorporating farm practices that we would deem beyond organic, such as, you know, making a point of planting flowers that attract beneficial insects or, you know, rotating crops or, you know, making their own compost or cover cropping or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,040",
+				"to": "00:08:12,720"
+			},
+			"offsets": {
+				"from": 491040,
+				"to": 492720
+			},
+			"text": " I mean, I know you know all this stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,840",
+				"to": "00:08:15,360"
+			},
+			"offsets": {
+				"from": 492840,
+				"to": 495360
+			},
+			"text": " And so, but that's the main focus of what we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,440",
+				"to": "00:08:17,620"
+			},
+			"offsets": {
+				"from": 495440,
+				"to": 497620
+			},
+			"text": " We don't work with farms that use chemicals or GMOs."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,620",
+				"to": "00:08:19,640"
+			},
+			"offsets": {
+				"from": 497620,
+				"to": 499640
+			},
+			"text": " And so that's kind of the focus of where we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,720",
+				"to": "00:08:22,970"
+			},
+			"offsets": {
+				"from": 499720,
+				"to": 502970
+			},
+			"text": " But yeah, it started in, basically, feed started on June 1st, 2011."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,680",
+				"to": "00:08:35,920"
+			},
+			"offsets": {
+				"from": 503680,
+				"to": 515920
+			},
+			"text": " Well, I would love to come back and talk about what those farming practices are, because I think that's actually a really interesting part of working with farmers on what a definition of an ecologically sound farm is."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,920",
+				"to": "00:08:39,340"
+			},
+			"offsets": {
+				"from": 516920,
+				"to": 519340
+			},
+			"text": " But first, I want to know, how many farms do you work with?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,700",
+				"to": "00:08:40,790"
+			},
+			"offsets": {
+				"from": 519700,
+				"to": 520790
+			},
+			"text": " Yeah, good question."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,790",
+				"to": "00:08:57,650"
+			},
+			"offsets": {
+				"from": 520790,
+				"to": 537650
+			},
+			"text": " So, and I'll go back to June 1st, 2011, when, when we took over, and I kind of came in and just took over all the day to day operations, basically, literally was receiving all the produce and labeling all the produce and loading the truck and driving the truck down and making deliveries and all that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,650",
+				"to": "00:09:06,550"
+			},
+			"offsets": {
+				"from": 537650,
+				"to": 546550
+			},
+			"text": " But we started back then with about 15 farms and about, we had one truck, 15 farms, one employee, basically, being me."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,110",
+				"to": "00:09:13,160"
+			},
+			"offsets": {
+				"from": 547110,
+				"to": 553160
+			},
+			"text": " And working with about maybe 25 clients, buyers, you know, it's all wholesale."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,380",
+				"to": "00:09:15,600"
+			},
+			"offsets": {
+				"from": 553380,
+				"to": 555600
+			},
+			"text": " So, chefs, caterers, markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,640",
+				"to": "00:09:22,710"
+			},
+			"offsets": {
+				"from": 556640,
+				"to": 562710
+			},
+			"text": " But now, over the course of a year now, like in 2015, we'll work with a little over 60 farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,900",
+				"to": "00:09:27,600"
+			},
+			"offsets": {
+				"from": 563900,
+				"to": 567600
+			},
+			"text": " Like, I think right now on our website, we have 62 farms listed on there."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:27,680",
+				"to": "00:09:32,700"
+			},
+			"offsets": {
+				"from": 567680,
+				"to": 572700
+			},
+			"text": " But that's, it kind of always changes, you know, in our type of zone, too, because of the size of our farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,000",
+				"to": "00:09:41,120"
+			},
+			"offsets": {
+				"from": 573000,
+				"to": 581120
+			},
+			"text": " You know, a couple of farmers might just decide to move on, or maybe they lost their land because there's this leasehold land issue, you know, for young farmers in our community."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,120",
+				"to": "00:09:46,150"
+			},
+			"offsets": {
+				"from": 581120,
+				"to": 586150
+			},
+			"text": " Or, obviously, on the positive side, we do have new farmers that are coming into the community as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,220",
+				"to": "00:09:57,840"
+			},
+			"offsets": {
+				"from": 587220,
+				"to": 597840
+			},
+			"text": " So, yeah, so now, at the end of 2015, we have three going on four trucks, you know, about 15 employees, you know, a lot of them part-time, and about 60 farms, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,020",
+				"to": "00:10:02,910"
+			},
+			"offsets": {
+				"from": 598020,
+				"to": 602910
+			},
+			"text": " And then, I would say on the buy side, you know, consistently maybe like 85 buyers."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,010",
+				"to": "00:10:11,260"
+			},
+			"offsets": {
+				"from": 603010,
+				"to": 611260
+			},
+			"text": " So, we're not a huge business by any means, but all the growth has come organically, meaning within the community, you know, really haven't done any sales or marketing."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,290",
+				"to": "00:10:13,730"
+			},
+			"offsets": {
+				"from": 612290,
+				"to": 613730
+			},
+			"text": " You know, exercises at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:13,730",
+				"to": "00:10:20,760"
+			},
+			"offsets": {
+				"from": 613730,
+				"to": 620760
+			},
+			"text": " It's just been word of mouth, really, within the chef community, people telling their friends about where they're getting their awesome food."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,860",
+				"to": "00:10:29,060"
+			},
+			"offsets": {
+				"from": 620860,
+				"to": 629060
+			},
+			"text": " And then, of course, within the farm community, if a farmer feels like it's working using a model like Feed Sonoma, then, of course, that kind of spreads as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,010",
+				"to": "00:10:38,960"
+			},
+			"offsets": {
+				"from": 630010,
+				"to": 638960
+			},
+			"text": " Well, I know about you from Doralees at the cheese shop in Healdsburg, and I was a CSA member there for a while, and it was an amazing CSA."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,180",
+				"to": "00:10:40,240"
+			},
+			"offsets": {
+				"from": 639180,
+				"to": 640240
+			},
+			"text": " So, I'm a big fan."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,660",
+				"to": "00:10:52,160"
+			},
+			"offsets": {
+				"from": 640660,
+				"to": 652160
+			},
+			"text": " But let's talk about what a normal day looks like here, where, like, how does the produce get here, what happens when it shows up, and then how does it get to these, you know, two-year accounts?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,420",
+				"to": "00:10:52,660"
+			},
+			"offsets": {
+				"from": 652420,
+				"to": 652660
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,680",
+				"to": "00:10:54,580"
+			},
+			"offsets": {
+				"from": 653680,
+				"to": 654580
+			},
+			"text": " You know, it's interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,700",
+				"to": "00:11:09,760"
+			},
+			"offsets": {
+				"from": 654700,
+				"to": 669760
+			},
+			"text": " It's actually, we generally have two, I don't know how many days there are, but we have two cycles through the week, where it's everything that we do is harvest to order, meaning that what we're doing is aggregating information from the farmers with what, about what they have in the field to harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,770",
+				"to": "00:11:17,180"
+			},
+			"offsets": {
+				"from": 670770,
+				"to": 677180
+			},
+			"text": " And then we, you know, put that information into a list, send that out to all the buyers, you know, all the chefs and market buyers."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,300",
+				"to": "00:11:20,790"
+			},
+			"offsets": {
+				"from": 678300,
+				"to": 680790
+			},
+			"text": " So, for instance, today's Friday."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,930",
+				"to": "00:11:22,410"
+			},
+			"offsets": {
+				"from": 680930,
+				"to": 682410
+			},
+			"text": " We have trucks making deliveries today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,590",
+				"to": "00:11:26,430"
+			},
+			"offsets": {
+				"from": 682590,
+				"to": 686430
+			},
+			"text": " Our next cycle is going to be Monday harvest for Tuesday delivery."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,000",
+				"to": "00:11:35,540"
+			},
+			"offsets": {
+				"from": 688000,
+				"to": 695540
+			},
+			"text": " So, like, literally today, tomorrow, I'll be getting information from the farm community about what they have to harvest for feed on Monday."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,260",
+				"to": "00:11:47,800"
+			},
+			"offsets": {
+				"from": 696260,
+				"to": 707800
+			},
+			"text": " We'll send out a list midday, Sunday, and then it's this really quick cycle where by Sunday night, you know, the deadline is 4 in the morning on Monday, but Sunday night, all of our buyers will be placing their orders."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,260",
+				"to": "00:11:53,000"
+			},
+			"offsets": {
+				"from": 708260,
+				"to": 713000
+			},
+			"text": " So that first thing Monday morning, we can give the pick list to all the farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,540",
+				"to": "00:11:58,680"
+			},
+			"offsets": {
+				"from": 713540,
+				"to": 718680
+			},
+			"text": " And it's usually, like, a majority pick list because there's always going to be things that change throughout the morning on Monday."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,230",
+				"to": "00:12:06,900"
+			},
+			"offsets": {
+				"from": 720230,
+				"to": 726900
+			},
+			"text": " So once that happens, the farms are out harvesting and packing and organizing and getting all of the produce ready."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,460",
+				"to": "00:12:16,780"
+			},
+			"offsets": {
+				"from": 727460,
+				"to": 736780
+			},
+			"text": " And then the majority of farms will actually then, in the afternoon and evening, will deliver their food here to our warehouse, our little hub here."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,440",
+				"to": "00:12:22,220"
+			},
+			"offsets": {
+				"from": 737440,
+				"to": 742220
+			},
+			"text": " And then we also have one truck that goes out and picks up produce from a handful of farms as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,660",
+				"to": "00:12:23,680"
+			},
+			"offsets": {
+				"from": 742660,
+				"to": 743680
+			},
+			"text": " So the produce comes in."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,780",
+				"to": "00:12:25,520"
+			},
+			"offsets": {
+				"from": 743780,
+				"to": 745520
+			},
+			"text": " It's coming in farm-specific."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,820",
+				"to": "00:12:27,120"
+			},
+			"offsets": {
+				"from": 745820,
+				"to": 747120
+			},
+			"text": " Everything's coming in per farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,160",
+				"to": "00:12:36,510"
+			},
+			"offsets": {
+				"from": 747160,
+				"to": 756510
+			},
+			"text": " And then within the warehouse here, everything then gets kind of organized and turned into a buyer-specific, put on pallets and getting ready to be put on trucks."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,810",
+				"to": "00:12:40,790"
+			},
+			"offsets": {
+				"from": 756810,
+				"to": 760790
+			},
+			"text": " And then basically that will happen on Monday night."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,970",
+				"to": "00:12:47,320"
+			},
+			"offsets": {
+				"from": 760970,
+				"to": 767320
+			},
+			"text": " And then Tuesday morning, our first driver shows up here at, like, 2.30 in the morning and takes off, and he heads down to San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,940",
+				"to": "00:12:55,680"
+			},
+			"offsets": {
+				"from": 767940,
+				"to": 775680
+			},
+			"text": " And then our other two drivers will come in at about 4, and they'll help each other load their trucks."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,820",
+				"to": "00:13:01,160"
+			},
+			"offsets": {
+				"from": 775820,
+				"to": 781160
+			},
+			"text": " And the second truck goes down to Marin in the East Bay, and then the third truck stays here in Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,580",
+				"to": "00:13:03,000"
+			},
+			"offsets": {
+				"from": 781580,
+				"to": 783000
+			},
+			"text": " And that's kind of how it happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,000",
+				"to": "00:13:14,870"
+			},
+			"offsets": {
+				"from": 783000,
+				"to": 794870
+			},
+			"text": " And my role in that is to obviously spread the word and kind of, you know, get people excited and kind of do my best, even though we're all kind of maxed out."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,970",
+				"to": "00:13:18,170"
+			},
+			"offsets": {
+				"from": 794970,
+				"to": 798170
+			},
+			"text": " But, you know, tell a few stories here and there and get people excited about what's happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,770",
+				"to": "00:13:26,200"
+			},
+			"offsets": {
+				"from": 798770,
+				"to": 806200
+			},
+			"text": " But also, main role for me is on Monday morning, this coming Monday, is kind of coordinating the harvest, if you will."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,660",
+				"to": "00:13:35,340"
+			},
+			"offsets": {
+				"from": 806660,
+				"to": 815340
+			},
+			"text": " Like, basically, because all the information is coming in, if there's any edits to an order, or if a chef wants to add something to the order, or whatever it might be, that information has to be translated."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,560",
+				"to": "00:13:46,150"
+			},
+			"offsets": {
+				"from": 815560,
+				"to": 826150
+			},
+			"text": " So, you use this word micro-distributor, and I don't really know exactly how a regular produce distributor works."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,330",
+				"to": "00:13:51,610"
+			},
+			"offsets": {
+				"from": 826330,
+				"to": 831610
+			},
+			"text": " So, maybe you could talk about what's different with your model and what regular produce distribution looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,870",
+				"to": "00:13:52,610"
+			},
+			"offsets": {
+				"from": 831870,
+				"to": 832610
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,330",
+				"to": "00:13:57,840"
+			},
+			"offsets": {
+				"from": 833330,
+				"to": 837840
+			},
+			"text": " Well, I'll just say that we actually call ourselves like a micro-regional."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,880",
+				"to": "00:14:02,310"
+			},
+			"offsets": {
+				"from": 838880,
+				"to": 842310
+			},
+			"text": " We call it micro-regional produce aggregation and distribution."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,630",
+				"to": "00:14:10,970"
+			},
+			"offsets": {
+				"from": 842630,
+				"to": 850970
+			},
+			"text": " So, it's this long-winded term, but micro-regional, really, we use that term because we're focusing on a distinct micro-region, such as Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,970",
+				"to": "00:14:26,790"
+			},
+			"offsets": {
+				"from": 850970,
+				"to": 866790
+			},
+			"text": " So, really, it stems from the idea that creating a very vibrant and efficient food system moving forward is going to be about kind of tapping into what indigenous peoples have always done, which is honoring their particular watershed."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,980",
+				"to": "00:14:40,190"
+			},
+			"offsets": {
+				"from": 867980,
+				"to": 880190
+			},
+			"text": " And so, as a food system, when you do that, you can basically focus on the areas that have the ability to support growing maybe perishable greens, let's say."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,270",
+				"to": "00:14:43,090"
+			},
+			"offsets": {
+				"from": 880270,
+				"to": 883090
+			},
+			"text": " Like, you have the soil type and the climate and the water availability."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,500",
+				"to": "00:14:51,260"
+			},
+			"offsets": {
+				"from": 883500,
+				"to": 891260
+			},
+			"text": " And that generally is going to be in kind of concentrated areas, almost like if you look at a relief map, you know, where you'd have the green, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,260",
+				"to": "00:15:12,130"
+			},
+			"offsets": {
+				"from": 891260,
+				"to": 912130
+			},
+			"text": " And so, focusing on particular micro-regions within those areas as a food system, but also feed Sonoma, which is the function of aggregation from the farms and distribution to a consumer, that is simply going to mirror that kind of biological function."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,800",
+				"to": "00:15:20,450"
+			},
+			"offsets": {
+				"from": 912800,
+				"to": 920450
+			},
+			"text": " And so, that's our goal is to create this really efficient business model since we have to operate within these current constructs of our modern society."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,450",
+				"to": "00:15:29,840"
+			},
+			"offsets": {
+				"from": 920450,
+				"to": 929840
+			},
+			"text": " So, we have to have a business that can pay its bills, but to conduct business in a way that actually can mirror the organic biological function."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,820",
+				"to": "00:15:46,110"
+			},
+			"offsets": {
+				"from": 930820,
+				"to": 946110
+			},
+			"text": " So, and then also in doing that, now, once again, since I don't have like all these scientific studies and I, you know, can't be quoted on all these different facts or whatever, but I like to, I do like to think that in using our own intuition that we all have."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,110",
+				"to": "00:16:00,080"
+			},
+			"offsets": {
+				"from": 946110,
+				"to": 960080
+			},
+			"text": " It's like, I, for me personally, I just think we know that we become more efficient and more abundant when we focus on a community level and then figure out a way to have those communities work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,490",
+				"to": "00:16:10,400"
+			},
+			"offsets": {
+				"from": 961490,
+				"to": 970400
+			},
+			"text": " And so, from a business standpoint, that allows us to be really efficient because we can have a, with this harvest order model, we don't have to inventory product, for instance."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,940",
+				"to": "00:16:15,080"
+			},
+			"offsets": {
+				"from": 970940,
+				"to": 975080
+			},
+			"text": " So, because everything that a buyer orders is getting harvested for that specific order."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,560",
+				"to": "00:16:22,870"
+			},
+			"offsets": {
+				"from": 975560,
+				"to": 982870
+			},
+			"text": " And so, when you do that, you have a smaller infrastructure here at our warehouse, you know, less cold storage because you don't have to keep stuff for long periods of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,110",
+				"to": "00:16:34,270"
+			},
+			"offsets": {
+				"from": 984110,
+				"to": 994270
+			},
+			"text": " So, basically, you can create the infrastructure of this function that is Feed Sonoma for this farm community that is more efficient, you know, it has less overhead, less smaller carbon footprint and all that."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,390",
+				"to": "00:16:36,920"
+			},
+			"offsets": {
+				"from": 994390,
+				"to": 996920
+			},
+			"text": " And so, you know, you don't have to get 20 trucks."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:36,960",
+				"to": "00:16:39,940"
+			},
+			"offsets": {
+				"from": 996960,
+				"to": 999940
+			},
+			"text": " You can probably figure out how to be really dynamic with a smaller scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:40,100",
+				"to": "00:16:45,370"
+			},
+			"offsets": {
+				"from": 1000100,
+				"to": 1005370
+			},
+			"text": " Like, right now, we're going to get our fourth truck in the spring, and I don't really see needing to go beyond that."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,490",
+				"to": "00:16:51,190"
+			},
+			"offsets": {
+				"from": 1005490,
+				"to": 1011190
+			},
+			"text": " You know, once we kind of have that in place, then we just look at maybe adding another harvest and delivery day and kind of using that."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,190",
+				"to": "00:16:55,810"
+			},
+			"offsets": {
+				"from": 1011190,
+				"to": 1015810
+			},
+			"text": " And then, knowing that we're at the tip of the iceberg is a food community here in the Bay Area."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,910",
+				"to": "00:16:59,230"
+			},
+			"offsets": {
+				"from": 1015910,
+				"to": 1019230
+			},
+			"text": " I mean, we have an amazing community of farmers and people that support those farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,350",
+				"to": "00:16:59,890"
+			},
+			"offsets": {
+				"from": 1019350,
+				"to": 1019890
+			},
+			"text": " Don't get me wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,610",
+				"to": "00:17:11,890"
+			},
+			"offsets": {
+				"from": 1020610,
+				"to": 1031890
+			},
+			"text": " But we also vastly, if we were actually able to guarantee that all the farmers were actually selling all their food, which we still don't even do, even though the supply is so far below the potential demand."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,880",
+				"to": "00:17:20,990"
+			},
+			"offsets": {
+				"from": 1032880,
+				"to": 1040990
+			},
+			"text": " But even if we maxed out what the farmers are doing right now, we know that we only are growing maybe 10% of the food that's actually purchased in Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,990",
+				"to": "00:17:22,510"
+			},
+			"offsets": {
+				"from": 1040990,
+				"to": 1042510
+			},
+			"text": " So we're at the tip of the iceberg, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,670",
+				"to": "00:17:26,270"
+			},
+			"offsets": {
+				"from": 1043670,
+				"to": 1046270
+			},
+			"text": " So anyway, that's kind of another long story."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,430",
+				"to": "00:17:31,190"
+			},
+			"offsets": {
+				"from": 1046430,
+				"to": 1051190
+			},
+			"text": " But that's generally what micro-regional produce distribution is to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,610",
+				"to": "00:17:49,230"
+			},
+			"offsets": {
+				"from": 1051610,
+				"to": 1069230
+			},
+			"text": " I think, you know, I don't necessarily have enough knowledge of kind of standard distribution simply because from a personal standpoint, I kind of – I know that there's a – has been a necessity."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,390",
+				"to": "00:17:51,670"
+			},
+			"offsets": {
+				"from": 1069390,
+				"to": 1071670
+			},
+			"text": " There's kind of this push to, like, say no to certain things."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,670",
+				"to": "00:17:57,740"
+			},
+			"offsets": {
+				"from": 1071670,
+				"to": 1077740
+			},
+			"text": " Like, you kind of have to – like, you're going to say no more war, you know, no GMOs, for instance, or whatever it might be."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,860",
+				"to": "00:18:02,380"
+			},
+			"offsets": {
+				"from": 1077860,
+				"to": 1082380
+			},
+			"text": " And that's – I totally, obviously, honor the people that are out there making that stand."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,030",
+				"to": "00:18:08,630"
+			},
+			"offsets": {
+				"from": 1083030,
+				"to": 1088630
+			},
+			"text": " For me personally, I've just found myself really doing well in a place where I can just focus on the yes part."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,630",
+				"to": "00:18:22,160"
+			},
+			"offsets": {
+				"from": 1088630,
+				"to": 1102160
+			},
+			"text": " And so ultimately, that's what we're doing here at Feed is simply looking at something that intuitively seems to be obvious because this is how – this just mirrors how life kind of functions on its own."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,450",
+				"to": "00:18:38,250"
+			},
+			"offsets": {
+				"from": 1104450,
+				"to": 1118250
+			},
+			"text": " And so just basically believing that if we put a lot of energy and truthfulness into an endeavor that seems to be in and of its own right truthful in nature, that that's what life supports."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,250",
+				"to": "00:18:48,000"
+			},
+			"offsets": {
+				"from": 1118250,
+				"to": 1128000
+			},
+			"text": " And so, yeah, I just think that as far as, like, big distribution goes, it happens in so many various different ways as far as, like, potentially not having as fresh food."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,080",
+				"to": "00:18:53,660"
+			},
+			"offsets": {
+				"from": 1128080,
+				"to": 1133660
+			},
+			"text": " You know, it sits in cold storage for longer or it has to travel greater distances from growing regions that are super far away."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,100",
+				"to": "00:19:09,330"
+			},
+			"offsets": {
+				"from": 1134100,
+				"to": 1149330
+			},
+			"text": " But ultimately, that's also – at this moment in time, that's still necessary because we don't even have the – even if we were to shut that off right now because we say, oh, it's inefficient, we wouldn't have enough food here, you know, without it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,450",
+				"to": "00:19:16,910"
+			},
+			"offsets": {
+				"from": 1149450,
+				"to": 1156910
+			},
+			"text": " So ultimately, I just think that it's where a lot of us are being called to just simply create that which is needed and focus on that."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,050",
+				"to": "00:19:20,990"
+			},
+			"offsets": {
+				"from": 1157050,
+				"to": 1160990
+			},
+			"text": " And that sounds like a response to infrastructure in a certain way, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,210",
+				"to": "00:19:23,230"
+			},
+			"offsets": {
+				"from": 1161210,
+				"to": 1163230
+			},
+			"text": " So affordable."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,870",
+				"to": "00:19:27,090"
+			},
+			"offsets": {
+				"from": 1163870,
+				"to": 1167090
+			},
+			"text": " But it's because he buys from everybody, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,210",
+				"to": "00:19:29,450"
+			},
+			"offsets": {
+				"from": 1167210,
+				"to": 1169450
+			},
+			"text": " From backyards, from huge farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,670",
+				"to": "00:19:32,090"
+			},
+			"offsets": {
+				"from": 1169670,
+				"to": 1172090
+			},
+			"text": " I mean, he just buys a lot of produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,370",
+				"to": "00:19:34,530"
+			},
+			"offsets": {
+				"from": 1172370,
+				"to": 1174530
+			},
+			"text": " And what does that look like as a business model?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,570",
+				"to": "00:19:36,290"
+			},
+			"offsets": {
+				"from": 1174570,
+				"to": 1176290
+			},
+			"text": " Because it sounds like you kind of do that too."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,490",
+				"to": "00:19:39,090"
+			},
+			"offsets": {
+				"from": 1176490,
+				"to": 1179090
+			},
+			"text": " Like, every week is a totally different week, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:39,310",
+				"to": "00:19:39,990"
+			},
+			"offsets": {
+				"from": 1179310,
+				"to": 1179990
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,190",
+				"to": "00:19:46,300"
+			},
+			"offsets": {
+				"from": 1180190,
+				"to": 1186300
+			},
+			"text": " And maybe just to kind of keep that theme of financial viability as well, it does happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,420",
+				"to": "00:20:00,010"
+			},
+			"offsets": {
+				"from": 1186420,
+				"to": 1200010
+			},
+			"text": " Obviously, we have – of those 60 farms, let's say, we might have the largest farm, which is, you know, farming on a total of maybe 115 acres, down to we have farms that we work with that might be farming on half an acre."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,010",
+				"to": "00:20:15,950"
+			},
+			"offsets": {
+				"from": 1200010,
+				"to": 1215950
+			},
+			"text": " So, yeah, it's an incredible mix, which makes it incredibly rich, which also allows us to have an incredibly diverse list, which from a farm community that's trying to sell their food – this is kind of marketing without saying it, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,430",
+				"to": "00:20:24,750"
+			},
+			"offsets": {
+				"from": 1216430,
+				"to": 1224750
+			},
+			"text": " It's like it makes it a better sell when you have items on your list to a buyer that no one else has."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,350",
+				"to": "00:20:36,290"
+			},
+			"offsets": {
+				"from": 1225350,
+				"to": 1236290
+			},
+			"text": " So, ultimately, yeah, it's challenging, of course, because on those half-acre farms, really, the only way that that can work on a wholesale level is if they're growing something that no one else has."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,020",
+				"to": "00:20:41,440"
+			},
+			"offsets": {
+				"from": 1237020,
+				"to": 1241440
+			},
+			"text": " So, that's what we really try to focus on with farms of that scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,920",
+				"to": "00:20:43,880"
+			},
+			"offsets": {
+				"from": 1241920,
+				"to": 1243880
+			},
+			"text": " Can you give me an example of how that works?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,140",
+				"to": "00:20:44,640"
+			},
+			"offsets": {
+				"from": 1244140,
+				"to": 1244640
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,980",
+				"to": "00:20:48,430"
+			},
+			"offsets": {
+				"from": 1244980,
+				"to": 1248430
+			},
+			"text": " So, for instance, you know, let's face it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,430",
+				"to": "00:20:57,290"
+			},
+			"offsets": {
+				"from": 1248430,
+				"to": 1257290
+			},
+			"text": " In restaurants, like in the chef world or whatever it might be, even at the market, foods go through periods of being fads to a certain extent."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,450",
+				"to": "00:21:00,450"
+			},
+			"offsets": {
+				"from": 1257450,
+				"to": 1260450
+			},
+			"text": " You know, things are really popular for a year or two, and then they kind of fall out of favor."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,050",
+				"to": "00:21:04,250"
+			},
+			"offsets": {
+				"from": 1261050,
+				"to": 1264250
+			},
+			"text": " Well, that happens in the restaurants, obviously."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,490",
+				"to": "00:21:13,110"
+			},
+			"offsets": {
+				"from": 1264490,
+				"to": 1273110
+			},
+			"text": " There's, like, certain items that for one or two years or three years, they might – all of a sudden, everybody might want it because of this new application that can be used or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,130",
+				"to": "00:21:30,180"
+			},
+			"offsets": {
+				"from": 1273130,
+				"to": 1290180
+			},
+			"text": " And so – but a lot of times, what happens is whether it's, like, an heirloom bean or something like that, like a shelling bean, let's say, or even, like, a Romano-style bean or whatever it might be, something that needs to be trellised, there's a lot of hand labor that goes into that."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,240",
+				"to": "00:21:36,830"
+			},
+			"offsets": {
+				"from": 1290240,
+				"to": 1296830
+			},
+			"text": " The harvest of something like that is really – it takes a lot of hours to pick, like, you know, five pounds of a product, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,270",
+				"to": "00:22:01,110"
+			},
+			"offsets": {
+				"from": 1297270,
+				"to": 1321110
+			},
+			"text": " So – but to that extent, what happens is, is usually on these farms of smaller scale, there's a lot more hand labor going into the crops, a lot more attention, which, if you believe in energetics of things, which I think most people that we do, I would say in our community, whether it's the farmers or the buyers, I would call all of us, even feed, I would call all of us artists to a certain extent."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,190",
+				"to": "00:22:02,930"
+			},
+			"offsets": {
+				"from": 1321190,
+				"to": 1322930
+			},
+			"text": " We are practicing an art form."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,410",
+				"to": "00:22:09,610"
+			},
+			"offsets": {
+				"from": 1323410,
+				"to": 1329610
+			},
+			"text": " And so when you see that, you know, it's like going to a museum and seeing a beautiful painting."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,750",
+				"to": "00:22:19,830"
+			},
+			"offsets": {
+				"from": 1329750,
+				"to": 1339830
+			},
+			"text": " Well, when someone is giving all of their attention, their love, their energy to growing something because it's their passion, then that, I believe, gets felt by the plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,910",
+				"to": "00:22:23,890"
+			},
+			"offsets": {
+				"from": 1339910,
+				"to": 1343890
+			},
+			"text": " You know, it receives that and potentially can show that in what it's producing."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,490",
+				"to": "00:22:32,220"
+			},
+			"offsets": {
+				"from": 1344490,
+				"to": 1352220
+			},
+			"text": " And so, anyway, long story short is that, yeah, the smallest farms are usually focusing on growing maybe two or three items."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,220",
+				"to": "00:22:44,720"
+			},
+			"offsets": {
+				"from": 1352220,
+				"to": 1364720
+			},
+			"text": " Like, we have – our smallest farm is literally – is growing two different types of Romano-style beans and a couple different types of baby cucumbers, and that's it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,000",
+				"to": "00:23:04,680"
+			},
+			"offsets": {
+				"from": 1365000,
+				"to": 1384680
+			},
+			"text": " But no one else grows them, and so basically, it's not an automatic thing, but when Marianne tells me what she has available in the field, it's almost guaranteed that it's going to sell because of the quantity not necessarily being that difficult to get out there to a community of buyers."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,680",
+				"to": "00:23:11,960"
+			},
+			"offsets": {
+				"from": 1384680,
+				"to": 1391960
+			},
+			"text": " That's required feed to, you know, expand its buying power, you know, including more buyers in the mix, like adding another truck or whatever it might be."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,610",
+				"to": "00:23:29,160"
+			},
+			"offsets": {
+				"from": 1392610,
+				"to": 1409160
+			},
+			"text": " But, you know, that seems to be a fairly successful model for a small-scale farm is focusing on a handful of items that are really heirloom artisanal quality that maybe not many other people grow, and then plugging those into a buying populace that is looking for that type of product."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,160",
+				"to": "00:23:36,590"
+			},
+			"offsets": {
+				"from": 1409160,
+				"to": 1416590
+			},
+			"text": " Well, let's talk about how your business is really modeled around seeing diversity as an asset, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,650",
+				"to": "00:23:42,980"
+			},
+			"offsets": {
+				"from": 1416650,
+				"to": 1422980
+			},
+			"text": " So you have a huge range of clients, like, I think, right, from – who are they?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,980",
+				"to": "00:23:50,340"
+			},
+			"offsets": {
+				"from": 1422980,
+				"to": 1430340
+			},
+			"text": " And then also, like, how do you select farmers, or how do they select you, and both ends of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,500",
+				"to": "00:23:57,080"
+			},
+			"offsets": {
+				"from": 1430500,
+				"to": 1437080
+			},
+			"text": " And then I'd also like to hear about what a diversity of income streams means for this business working."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,520",
+				"to": "00:24:00,210"
+			},
+			"offsets": {
+				"from": 1438520,
+				"to": 1440210
+			},
+			"text": " Yeah, let's see."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:00,560",
+				"to": "00:24:18,120"
+			},
+			"offsets": {
+				"from": 1440560,
+				"to": 1458120
+			},
+			"text": " I would say that as far as, like, our buying populace, like our client base, it's probably 80% restaurants, maybe 85% restaurants, another 5% being caterers, and another 10% being markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,120",
+				"to": "00:24:25,210"
+			},
+			"offsets": {
+				"from": 1458120,
+				"to": 1465210
+			},
+			"text": " But in those market clientele, it's mostly, like, the boutique markets, like the Buy Right or Good Earth in Fairfax or Monterey Market."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,010",
+				"to": "00:24:30,530"
+			},
+			"offsets": {
+				"from": 1466010,
+				"to": 1470530
+			},
+			"text": " We also do have a good presence with Oliver's here in Sonoma County, and I do see that growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,750",
+				"to": "00:24:36,950"
+			},
+			"offsets": {
+				"from": 1470750,
+				"to": 1476950
+			},
+			"text": " They're definitely making a point of wanting to focus on supporting local farms a lot more."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,410",
+				"to": "00:24:46,380"
+			},
+			"offsets": {
+				"from": 1477410,
+				"to": 1486380
+			},
+			"text": " So that would only work in an economy like we have in the Bay Area, where there's a lot of high-end food buyers and a lot of farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:47,220",
+				"to": "00:24:50,340"
+			},
+			"offsets": {
+				"from": 1487220,
+				"to": 1490340
+			},
+			"text": " Do you see this model working in other places in the world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,130",
+				"to": "00:24:57,680"
+			},
+			"offsets": {
+				"from": 1491130,
+				"to": 1497680
+			},
+			"text": " Yeah, I mean, I think that it, I think that it, once again, I think that it has a long way to go here in the Bay Area."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,840",
+				"to": "00:25:10,040"
+			},
+			"offsets": {
+				"from": 1497840,
+				"to": 1510040
+			},
+			"text": " Like, I think the Bay Area is a perfect place for that, because, and I think that it can work in other areas, because I believe that, so first off, our society has been built up relatively inefficiently."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,120",
+				"to": "00:25:19,540"
+			},
+			"offsets": {
+				"from": 1510120,
+				"to": 1519540
+			},
+			"text": " You have, like, these huge population-dense urban areas that may or may not have the ability to even be able to have food brought to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,540",
+				"to": "00:25:24,260"
+			},
+			"offsets": {
+				"from": 1519540,
+				"to": 1524260
+			},
+			"text": " Like, let's say a city like Phoenix, let's say it's like a million people living in the desert, you know, kind of inefficient."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,620",
+				"to": "00:25:26,380"
+			},
+			"offsets": {
+				"from": 1524620,
+				"to": 1526380
+			},
+			"text": " You know, nothing against them, of course."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,760",
+				"to": "00:25:34,110"
+			},
+			"offsets": {
+				"from": 1526760,
+				"to": 1534110
+			},
+			"text": " But even an area like San Francisco, where you might have, you know, 800,000 or 900,000 people living in San Francisco proper."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,570",
+				"to": "00:25:40,790"
+			},
+			"offsets": {
+				"from": 1534570,
+				"to": 1540790
+			},
+			"text": " But once again, there's no way that you could grow that food within the city limits just because of the lack of resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,790",
+				"to": "00:25:47,380"
+			},
+			"offsets": {
+				"from": 1540790,
+				"to": 1547380
+			},
+			"text": " So I do feel that it may not work in every area, but I do see it working in a lot of areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,520",
+				"to": "00:25:53,380"
+			},
+			"offsets": {
+				"from": 1547520,
+				"to": 1553380
+			},
+			"text": " And I do, it's always, it's going to be necessary in the Bay Area because of, one, topography."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,770",
+				"to": "00:25:56,030"
+			},
+			"offsets": {
+				"from": 1553770,
+				"to": 1556030
+			},
+			"text": " So you look at Sonoma County and do the topography."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,570",
+				"to": "00:26:04,760"
+			},
+			"offsets": {
+				"from": 1556570,
+				"to": 1564760
+			},
+			"text": " It's really, it would be really challenging to have a lot of really big row cropping farms here because of the limited resource of, like, flat, you know, land, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,000",
+				"to": "00:26:07,420"
+			},
+			"offsets": {
+				"from": 1565000,
+				"to": 1567420
+			},
+			"text": " There's, especially here in West County, it's very hilly."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,360",
+				"to": "00:26:10,640"
+			},
+			"offsets": {
+				"from": 1568360,
+				"to": 1570640
+			},
+			"text": " But also then you have the cost of the land, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,640",
+				"to": "00:26:20,530"
+			},
+			"offsets": {
+				"from": 1570640,
+				"to": 1580530
+			},
+			"text": " And that's going to obviously dictate the ability of a vegetable farm to exist because the revenues per row foot simply don't allow big land purchases by young farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,710",
+				"to": "00:26:31,940"
+			},
+			"offsets": {
+				"from": 1580710,
+				"to": 1591940
+			},
+			"text": " So, yeah, I do believe that this type of model is actually really necessary in these areas where cost of land is high and topography may not lend itself to large scale farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,940",
+				"to": "00:26:43,070"
+			},
+			"offsets": {
+				"from": 1591940,
+				"to": 1603070
+			},
+			"text": " And I think that that probably exists in a lot of outlying urban areas, you know, in suburban areas, basically, where there's still population, but there's enough space to where at least you could have small farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,290",
+				"to": "00:26:59,770"
+			},
+			"offsets": {
+				"from": 1603290,
+				"to": 1619770
+			},
+			"text": " And once again, I just, I also feel that it ultimately becomes a lot more efficient because of the bare bones infrastructure that we were talking about before, where I think that resources can be used in a more wise manner."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:00,190",
+				"to": "00:27:05,700"
+			},
+			"offsets": {
+				"from": 1620190,
+				"to": 1625700
+			},
+			"text": " You know, I don't think that we need to go think about reinventing the wheel and creating brand new systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,700",
+				"to": "00:27:14,900"
+			},
+			"offsets": {
+				"from": 1625700,
+				"to": 1634900
+			},
+			"text": " I think that, like we were talking about before we started recording, I think it's really more about how do we utilize the resources that we do have, the infrastructure that we do have."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,010",
+				"to": "00:27:20,720"
+			},
+			"offsets": {
+				"from": 1635010,
+				"to": 1640720
+			},
+			"text": " In a more efficient manner that ultimately leads to a ridiculous amount of abundance."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:20,960",
+				"to": "00:27:26,740"
+			},
+			"offsets": {
+				"from": 1640960,
+				"to": 1646740
+			},
+			"text": " I mean, I think if you look at it, you've been to the farm markets, you know, farmers, I'm sure it's the food that's on your table at home."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:28,060",
+				"to": "00:27:34,110"
+			},
+			"offsets": {
+				"from": 1648060,
+				"to": 1654110
+			},
+			"text": " You've seen that if that was the only food available, it's amazingly beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:34,310",
+				"to": "00:27:35,510"
+			},
+			"offsets": {
+				"from": 1654310,
+				"to": 1655510
+			},
+			"text": " It's amazingly vibrant."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,510",
+				"to": "00:27:45,050"
+			},
+			"offsets": {
+				"from": 1655510,
+				"to": 1665050
+			},
+			"text": " And I think that's really important for people to understand that the baseline of sustainability in a micro region like the Bay Area or Sonoma County is ridiculously abundant."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,310",
+				"to": "00:27:47,450"
+			},
+			"offsets": {
+				"from": 1665310,
+				"to": 1667450
+			},
+			"text": " I mean, that's all I can say about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,550",
+				"to": "00:27:54,910"
+			},
+			"offsets": {
+				"from": 1667550,
+				"to": 1674910
+			},
+			"text": " I mean, it's going to lend itself to having the most amazing – people can't even imagine how good the food system would be if they actually just dedicated a little energy to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,910",
+				"to": "00:28:02,070"
+			},
+			"offsets": {
+				"from": 1674910,
+				"to": 1682070
+			},
+			"text": " Well, when I hear you talk about that, I think about – well, I went through a whole – there's a whole lot of thoughts."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,170",
+				"to": "00:28:16,180"
+			},
+			"offsets": {
+				"from": 1682170,
+				"to": 1696180
+			},
+			"text": " One of them was disasters and food security and thinking about these local hubs and places for distribution that are really different than something like Safeway, for example."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,410",
+				"to": "00:28:28,710"
+			},
+			"offsets": {
+				"from": 1697410,
+				"to": 1708710
+			},
+			"text": " And I think in a certain way that are even different than something like the farmer's market that happens once a week but usually in a public place and there's not that much infrastructure around it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,830",
+				"to": "00:28:46,530"
+			},
+			"offsets": {
+				"from": 1708830,
+				"to": 1726530
+			},
+			"text": " So, to me, when I hear you talk about who your clients are and kind of like where you think things go, I kind of see the wheels turning in your head of what would be your wildest dream of how you would feed your community the system that you work on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:46,790",
+				"to": "00:28:47,270"
+			},
+			"offsets": {
+				"from": 1726790,
+				"to": 1727270
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,830",
+				"to": "00:29:00,330"
+			},
+			"offsets": {
+				"from": 1727830,
+				"to": 1740330
+			},
+			"text": " And also, just to continue on that, honoring the current infrastructure piece, like you mentioned Safeway, for instance, that's like a really big piece is how do we – I mean, we have cold storage, for instance, in all these markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,100",
+				"to": "00:29:05,710"
+			},
+			"offsets": {
+				"from": 1741100,
+				"to": 1745710
+			},
+			"text": " You know, how do we just try to encourage them to do a better job of sourcing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,170",
+				"to": "00:29:12,740"
+			},
+			"offsets": {
+				"from": 1746170,
+				"to": 1752740
+			},
+			"text": " And I think ultimately a lot of that comes from the public, you know, demanding that to be available, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,140",
+				"to": "00:29:14,380"
+			},
+			"offsets": {
+				"from": 1753140,
+				"to": 1754380
+			},
+			"text": " So, there's that aspect."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,260",
+				"to": "00:29:16,740"
+			},
+			"offsets": {
+				"from": 1755260,
+				"to": 1756740
+			},
+			"text": " What do you see that looking like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,300",
+				"to": "00:29:25,820"
+			},
+			"offsets": {
+				"from": 1757300,
+				"to": 1765820
+			},
+			"text": " Oh, well, I basically – I mean, this is a complicated issue because a lot of times it just simply comes down to economics."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,000",
+				"to": "00:29:33,410"
+			},
+			"offsets": {
+				"from": 1766000,
+				"to": 1773410
+			},
+			"text": " I think that in a consumer-based society, which is what we are, consumer-centric, everything is based on price, really."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,550",
+				"to": "00:29:35,550"
+			},
+			"offsets": {
+				"from": 1773550,
+				"to": 1775550
+			},
+			"text": " I mean, that's like usually the underlying factor."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,980",
+				"to": "00:29:39,840"
+			},
+			"offsets": {
+				"from": 1775980,
+				"to": 1779840
+			},
+			"text": " Quality, those types of things don't necessarily weigh as heavily as price."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,280",
+				"to": "00:29:48,750"
+			},
+			"offsets": {
+				"from": 1780280,
+				"to": 1788750
+			},
+			"text": " And so, ultimately, I think that, as you know, here in Sonoma County, the cost of goods is really high, you know, with the land price and the cost of labor and all that stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:48,970",
+				"to": "00:29:49,950"
+			},
+			"offsets": {
+				"from": 1788970,
+				"to": 1789950
+			},
+			"text": " And, you know, that's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,990",
+				"to": "00:29:50,670"
+			},
+			"offsets": {
+				"from": 1789990,
+				"to": 1790670
+			},
+			"text": " It is what it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,130",
+				"to": "00:30:02,650"
+			},
+			"offsets": {
+				"from": 1791130,
+				"to": 1802650
+			},
+			"text": " But I think that ultimately when people decide to move to a place like Sonoma County or live in the Bay Area, knowing that you have to spend a certain amount of money to just sit at the – you know, you got to pay this ante just to buy the property if you're going to buy the house or whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,650",
+				"to": "00:30:04,050"
+			},
+			"offsets": {
+				"from": 1802650,
+				"to": 1804050
+			},
+			"text": " That's if you can afford to buy the house."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,730",
+				"to": "00:30:13,880"
+			},
+			"offsets": {
+				"from": 1804730,
+				"to": 1813880
+			},
+			"text": " That ultimately there needs to be, as a culture, as a society, kind of a willingness to understand that there's all – it continues."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:14,060",
+				"to": "00:30:15,980"
+			},
+			"offsets": {
+				"from": 1814060,
+				"to": 1815980
+			},
+			"text": " You don't just buy the house and say you've done your part."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,690",
+				"to": "00:30:19,870"
+			},
+			"offsets": {
+				"from": 1816690,
+				"to": 1819870
+			},
+			"text": " You know, it continues with investing."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,480",
+				"to": "00:30:25,520"
+			},
+			"offsets": {
+				"from": 1820480,
+				"to": 1825520
+			},
+			"text": " You know, I say that with my fingers up, like in quotes, investing in your farm community simply by buying the food from the farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,720",
+				"to": "00:30:36,770"
+			},
+			"offsets": {
+				"from": 1825720,
+				"to": 1836770
+			},
+			"text": " So I think that in a lot of ways it's a societal shift because I'm sure that markets out there, even Safeway, for instance, I'm sure that they would carry a ton more locally grown food if they knew that it would sell."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,750",
+				"to": "00:30:40,330"
+			},
+			"offsets": {
+				"from": 1837750,
+				"to": 1840330
+			},
+			"text": " But it's, you know, it's a risk for them because of the price."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,410",
+				"to": "00:30:42,870"
+			},
+			"offsets": {
+				"from": 1840410,
+				"to": 1842870
+			},
+			"text": " The price is higher and most people aren't adjusted to that yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,870",
+				"to": "00:30:49,880"
+			},
+			"offsets": {
+				"from": 1842870,
+				"to": 1849880
+			},
+			"text": " So somehow – and I do believe it's through education and storytelling, like what you guys are doing – it's a really important method."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,020",
+				"to": "00:30:56,070"
+			},
+			"offsets": {
+				"from": 1850020,
+				"to": 1856070
+			},
+			"text": " I mean, it kind of goes hand in hand with making the food available to buyers in an easier fashion."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:56,750",
+				"to": "00:31:00,770"
+			},
+			"offsets": {
+				"from": 1856750,
+				"to": 1860770
+			},
+			"text": " But yeah, and then as far as, like, kind of how would I envision that happening?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,890",
+				"to": "00:31:05,070"
+			},
+			"offsets": {
+				"from": 1860890,
+				"to": 1865070
+			},
+			"text": " Like what's – and then also to go back to your – the prior question, which was what was my wildest dream?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,210",
+				"to": "00:31:16,710"
+			},
+			"offsets": {
+				"from": 1865210,
+				"to": 1876710
+			},
+			"text": " I mean, I think that one of the main focuses of Feed Sonoma is also to potentially be able to create a replicable model, you know, thinking that there's probably going to be a core set of values for these types of communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,590",
+				"to": "00:31:36,000"
+			},
+			"offsets": {
+				"from": 1877590,
+				"to": 1896000
+			},
+			"text": " If you have a community of farms, like on our scale, like the San Francisco Bay Area with all these different factors that determine the size of a farm potentially and where they are, there's most likely going to be a core set of values that every community needs to have in place, you know, to be able to achieve this idea of aggregation and distribution to represent the farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,000",
+				"to": "00:31:40,880"
+			},
+			"offsets": {
+				"from": 1896000,
+				"to": 1900880
+			},
+			"text": " So that the farmers – and the point of that being so the farmers can stay on the farm if that's what they want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,320",
+				"to": "00:31:49,220"
+			},
+			"offsets": {
+				"from": 1901320,
+				"to": 1909220
+			},
+			"text": " But yeah, and then knowing that every other community, even though there might be this core set of values, there's also going to be some particular unique features based on whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,360",
+				"to": "00:31:50,300"
+			},
+			"offsets": {
+				"from": 1909360,
+				"to": 1910300
+			},
+			"text": " It might be microclimates."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,400",
+				"to": "00:31:51,640"
+			},
+			"offsets": {
+				"from": 1910400,
+				"to": 1911640
+			},
+			"text": " It might be farmer personalities."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,060",
+				"to": "00:31:53,700"
+			},
+			"offsets": {
+				"from": 1912060,
+				"to": 1913700
+			},
+			"text": " It might be the size of the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,820",
+				"to": "00:31:56,480"
+			},
+			"offsets": {
+				"from": 1913820,
+				"to": 1916480
+			},
+			"text": " It might be what they're – you know, just what they're growing basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,580",
+				"to": "00:32:01,680"
+			},
+			"offsets": {
+				"from": 1917580,
+				"to": 1921680
+			},
+			"text": " But that a model like Feed Sonoma could work in other communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,860",
+				"to": "00:32:03,380"
+			},
+			"offsets": {
+				"from": 1921860,
+				"to": 1923380
+			},
+			"text": " And so that's definitely on the radar."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,380",
+				"to": "00:32:20,300"
+			},
+			"offsets": {
+				"from": 1923380,
+				"to": 1940300
+			},
+			"text": " I mean, not from any sort of ownership or, you know, franchise modality or anything like that, but simply believing that if this model works, then I could see myself or us helping other communities to create a similar model."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:20,300",
+				"to": "00:32:30,630"
+			},
+			"offsets": {
+				"from": 1940300,
+				"to": 1950630
+			},
+			"text": " Also, knowing that if we have more organizations like this working together, it only makes the movement, if you will, or the effect of how we're actually evolving the food system that much stronger."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:31,770",
+				"to": "00:32:35,790"
+			},
+			"offsets": {
+				"from": 1951770,
+				"to": 1955790
+			},
+			"text": " And what do you see for consumers who just can't afford this kind of food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:36,110",
+				"to": "00:32:39,210"
+			},
+			"offsets": {
+				"from": 1956110,
+				"to": 1959210
+			},
+			"text": " I mean, how do you see that fitting into a model like this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,330",
+				"to": "00:32:40,450"
+			},
+			"offsets": {
+				"from": 1959330,
+				"to": 1960450
+			},
+			"text": " Yeah, it's a total conundrum."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:40,790",
+				"to": "00:32:46,930"
+			},
+			"offsets": {
+				"from": 1960790,
+				"to": 1966930
+			},
+			"text": " I mean, it's a dilemma right now because of that – just the basic economics of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,690",
+				"to": "00:32:55,470"
+			},
+			"offsets": {
+				"from": 1967690,
+				"to": 1975470
+			},
+			"text": " If the cost of good is high, the farmer has to make a certain amount of money on their crop or else they can't pay their bills basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,330",
+				"to": "00:32:59,900"
+			},
+			"offsets": {
+				"from": 1976330,
+				"to": 1979900
+			},
+			"text": " And yeah, it's not a just world, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,380",
+				"to": "00:33:02,380"
+			},
+			"offsets": {
+				"from": 1980380,
+				"to": 1982380
+			},
+			"text": " I'm not sure what the solutions are."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,640",
+				"to": "00:33:12,040"
+			},
+			"offsets": {
+				"from": 1982640,
+				"to": 1992040
+			},
+			"text": " I heard in one of your prior podcasts with Joey Smith at Let's Go Farm, his idea about, you know, promoting farms to dedicate to food bank situations."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,460",
+				"to": "00:33:16,560"
+			},
+			"offsets": {
+				"from": 1992460,
+				"to": 1996560
+			},
+			"text": " And – but still, that's not even addressing the in-between, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,700",
+				"to": "00:33:19,010"
+			},
+			"offsets": {
+				"from": 1996700,
+				"to": 1999010
+			},
+			"text": " And yeah, it's not an easy question."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,550",
+				"to": "00:33:27,820"
+			},
+			"offsets": {
+				"from": 1999550,
+				"to": 2007820
+			},
+			"text": " It's – I think that ultimately it may – the burden in that regard from a societal standpoint may not fall solely upon the farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,820",
+				"to": "00:33:43,290"
+			},
+			"offsets": {
+				"from": 2007820,
+				"to": 2023290
+			},
+			"text": " I think that ultimately that – because reasons for that happening are so varied, a lot of times in those types of environments people might not even necessarily have or think that they have the time to even cook meals."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,480",
+				"to": "00:33:59,700"
+			},
+			"offsets": {
+				"from": 2024480,
+				"to": 2039700
+			},
+			"text": " And so, you know, due to maybe two parents working full-time jobs and having to commute and all that stuff that's happening and getting home and the kids have to do homework and it's just like, oh, let's just grab that thing from Trader Joe's and stick it in the microwave or whatever it is, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:00,180",
+				"to": "00:34:14,930"
+			},
+			"offsets": {
+				"from": 2040180,
+				"to": 2054930
+			},
+			"text": " And so, it's such a multi-level dilemma that I think that trying to figure it out simply within the farm community would be an injustice to the farms, basically, because they still have to pay their bills."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,810",
+				"to": "00:34:18,530"
+			},
+			"offsets": {
+				"from": 2055810,
+				"to": 2058530
+			},
+			"text": " So, basically, what I'm saying is I don't have the answer for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:18,750",
+				"to": "00:34:23,240"
+			},
+			"offsets": {
+				"from": 2058750,
+				"to": 2063240
+			},
+			"text": " Like, I can't even begin to fathom what a solution would look like in 10 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,940",
+				"to": "00:34:37,260"
+			},
+			"offsets": {
+				"from": 2063940,
+				"to": 2077260
+			},
+			"text": " But I do know that the folks that can support the local food system that do have the means to do it, we need to basically be able to ensure – we need to be able to tell the local farm community that you're going to sell everything that you're going to grow that's worthy of selling."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,640",
+				"to": "00:34:40,140"
+			},
+			"offsets": {
+				"from": 2079640,
+				"to": 2080140
+			},
+			"text": " Excuse me."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,510",
+				"to": "00:34:46,320"
+			},
+			"offsets": {
+				"from": 2080510,
+				"to": 2086320
+			},
+			"text": " We need to be able to tell our farm community that that is possible, to be able to give them the confidence that they're going to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,940",
+				"to": "00:35:05,740"
+			},
+			"offsets": {
+				"from": 2087940,
+				"to": 2105740
+			},
+			"text": " And then from that confidence, from that foundation of financial sustainability, then we can call on the next generation of farmers and then we can start invoking potential next-step solutions to those types of dilemmas, getting fresh food to the, you know, quote-unquote food deserts that are out there where people don't have access to that type of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:06,100",
+				"to": "00:35:17,840"
+			},
+			"offsets": {
+				"from": 2106100,
+				"to": 2117840
+			},
+			"text": " But once again, it's like there's so many different factors coming into play, you know, people trying to achieve a lot in life and not having the time to even spend with their family or, like we were talking about, not even having the time to cook."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,940",
+				"to": "00:35:27,680"
+			},
+			"offsets": {
+				"from": 2117940,
+				"to": 2127680
+			},
+			"text": " And so, there's so many factors that get put in to how that gets created, how that problem gets created that I definitely do not have an answer to that question."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,780",
+				"to": "00:35:28,780"
+			},
+			"offsets": {
+				"from": 2127780,
+				"to": 2128780
+			},
+			"text": " I really honestly don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,840",
+				"to": "00:35:35,440"
+			},
+			"offsets": {
+				"from": 2128840,
+				"to": 2135440
+			},
+			"text": " I just know that we need to at least ensure the current farm community at least be able to give them an opportunity to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,440",
+				"to": "00:35:37,910"
+			},
+			"offsets": {
+				"from": 2135440,
+				"to": 2137910
+			},
+			"text": " Well, so let's talk about that a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,050",
+				"to": "00:35:58,180"
+			},
+			"offsets": {
+				"from": 2138050,
+				"to": 2158180
+			},
+			"text": " Here, we're having, in Sonoma County, as you probably heard a little bit through Katie, and I'm sure lots of the farmers that you work with, people have a hard time having access to land and having a guarantee that these businesses and farms that they invest in can last, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,300",
+				"to": "00:35:59,340"
+			},
+			"offsets": {
+				"from": 2158300,
+				"to": 2159340
+			},
+			"text": " It's too expensive."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,180",
+				"to": "00:36:11,220"
+			},
+			"offsets": {
+				"from": 2161180,
+				"to": 2171220
+			},
+			"text": " So how does Feed Sonoma, or what do you think about that, like in terms of making models that ensure that we do have farmers in our communities?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,550",
+				"to": "00:36:16,540"
+			},
+			"offsets": {
+				"from": 2171550,
+				"to": 2176540
+			},
+			"text": " Yeah, it's a great question because it's actually ultimately Feed Sonoma is nothing if there's no farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:16,800",
+				"to": "00:36:32,080"
+			},
+			"offsets": {
+				"from": 2176800,
+				"to": 2192080
+			},
+			"text": " I mean, obviously, we already have a more challenging time in the winter because simple fact is there's not as much food being grown in Sonoma County in the winter as there is in October or, you know, July, August, whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,990",
+				"to": "00:36:45,360"
+			},
+			"offsets": {
+				"from": 2193990,
+				"to": 2205360
+			},
+			"text": " So, yeah, once again, that's another quandary for sure, and I think that that's an issue that's being talked about a lot right now in our community as far as land access goes."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,990",
+				"to": "00:37:03,630"
+			},
+			"offsets": {
+				"from": 2206990,
+				"to": 2223630
+			},
+			"text": " I think that it's going to be a group effort, basically looking at organizations like the Sonoma Land Trust, potentially being able to use some of the land that they are protecting for to be able to actually have farmers on the land producing food and revenues there."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,590",
+				"to": "00:37:24,110"
+			},
+			"offsets": {
+				"from": 2224590,
+				"to": 2244110
+			},
+			"text": " I think, but you're talking about a huge dilemma where you have a community, we're having a new younger population of farmers coming in now because obviously the generation of farmers that actually own their land, it's kind of disappearing because just simply because of age."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:24,450",
+				"to": "00:37:38,780"
+			},
+			"offsets": {
+				"from": 2244450,
+				"to": 2258780
+			},
+			"text": " And most farmers nowadays are having to lease their land from a landowner that that particular person might be totally fired up and obviously in it, you know, 100% wanting to support that farm and have them on their land."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,860",
+				"to": "00:37:50,880"
+			},
+			"offsets": {
+				"from": 2258860,
+				"to": 2270880
+			},
+			"text": " I mean, of course, they're leasing it already to them, but life can happen, you know, happens to anybody where even the best intention might, for whatever unforeseen reason, might have to sell their land, let's say."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:51,400",
+				"to": "00:37:56,600"
+			},
+			"offsets": {
+				"from": 2271400,
+				"to": 2276600
+			},
+			"text": " And when that happens, maybe the new owner comes in and doesn't necessarily want that same farm to be in existence."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,900",
+				"to": "00:38:01,120"
+			},
+			"offsets": {
+				"from": 2276900,
+				"to": 2281120
+			},
+			"text": " And so, yeah, it's a real problem where most young farmers now don't own their land."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:01,220",
+				"to": "00:38:03,040"
+			},
+			"offsets": {
+				"from": 2281220,
+				"to": 2283040
+			},
+			"text": " They're having to lease it from someone else."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,040",
+				"to": "00:38:15,920"
+			},
+			"offsets": {
+				"from": 2283040,
+				"to": 2295920
+			},
+			"text": " And so this is just another aspect of our environment nowadays where it's going to take now a new culture of landowners who become stewards."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:16,840",
+				"to": "00:38:26,610"
+			},
+			"offsets": {
+				"from": 2296840,
+				"to": 2306610
+			},
+			"text": " And so folks that look at an area like Sonoma County where there is still open space and there is still, you know, potentially acreage, not only as an investment."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,270",
+				"to": "00:38:31,450"
+			},
+			"offsets": {
+				"from": 2308270,
+				"to": 2311450
+			},
+			"text": " From a financial standpoint, but as an investment in their community."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,490",
+				"to": "00:38:33,530"
+			},
+			"offsets": {
+				"from": 2311490,
+				"to": 2313530
+			},
+			"text": " And so I believe it's possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,530",
+				"to": "00:38:52,180"
+			},
+			"offsets": {
+				"from": 2313530,
+				"to": 2332180
+			},
+			"text": " Like, I totally believe it's possible for folks because I believe that there's a young population now that has the financial means in the San Francisco Bay Area that not only are making a good living in that regard monetarily, but that are also relatively more plugged into what is happening with the evolution of our society as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,980",
+				"to": "00:38:58,760"
+			},
+			"offsets": {
+				"from": 2332980,
+				"to": 2338760
+			},
+			"text": " And so, yeah, I mean, you see yourself yourself as a conduit between those populations."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:59,070",
+				"to": "00:39:00,850"
+			},
+			"offsets": {
+				"from": 2339070,
+				"to": 2340850
+			},
+			"text": " Yeah, I would like to think so."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,950",
+				"to": "00:39:08,470"
+			},
+			"offsets": {
+				"from": 2340950,
+				"to": 2348470
+			},
+			"text": " I mean, I think ultimately with feed, we've you know, you get to a certain point where you get a little bit more efficient, you know, as a business, let's say."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,470",
+				"to": "00:39:13,600"
+			},
+			"offsets": {
+				"from": 2348470,
+				"to": 2353600
+			},
+			"text": " And you have a wonderful staff on board that is making things work really well."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:13,780",
+				"to": "00:39:25,370"
+			},
+			"offsets": {
+				"from": 2353780,
+				"to": 2365370
+			},
+			"text": " And it's not just one employee anymore and allows us to begin to be involved a little bit more with some of those bigger picture items, you know, potentially like a policy directive."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,370",
+				"to": "00:39:49,770"
+			},
+			"offsets": {
+				"from": 2365370,
+				"to": 2389770
+			},
+			"text": " And, you know, not necessarily from potentially spearheading it most likely, but I definitely do see it as being a conduit of, you know, bringing people together that because we have such a dynamic community already that where we can bring those types of people together that then begin mingling with the folks in our communities that are maybe like a nonprofit or an NGO that that is 100 percent."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,770",
+				"to": "00:39:57,770"
+			},
+			"offsets": {
+				"from": 2389770,
+				"to": 2397770
+			},
+			"text": " Their task is to be involved with the policy of, you know, protecting land or whatever it might be, or water rights or all that stuff that needs to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,070",
+				"to": "00:40:02,790"
+			},
+			"offsets": {
+				"from": 2398070,
+				"to": 2402790
+			},
+			"text": " But, yeah, I definitely see us being a really important connector in that regard, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,790",
+				"to": "00:40:12,740"
+			},
+			"offsets": {
+				"from": 2402790,
+				"to": 2412740
+			},
+			"text": " Well, I think maybe we should wrap it up in thinking about, like, do you think that making a livelihood is an act of advocacy for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:13,810",
+				"to": "00:40:25,360"
+			},
+			"offsets": {
+				"from": 2413810,
+				"to": 2425360
+			},
+			"text": " Yeah. Yeah. Yeah. We were talking about this before, too. And this also came from your conversation with Joey Smith talking about being a he was talking about spending time as a farmer and spending time as an advocate."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,360",
+				"to": "00:40:39,620"
+			},
+			"offsets": {
+				"from": 2425360,
+				"to": 2439620
+			},
+			"text": " And, yeah, I mean, that was I really appreciated those words because it made me realize that generally in our in our community of folks that we are involved with and the people here at feed simply by doing our work."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:39,620",
+				"to": "00:40:56,040"
+			},
+			"offsets": {
+				"from": 2439620,
+				"to": 2456040
+			},
+			"text": " We have become advocates, meaning that every the intention that I have brought to feed every single day since I started has been basically to steward something for my children and for all children."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:56,040",
+				"to": "00:41:10,020"
+			},
+			"offsets": {
+				"from": 2456040,
+				"to": 2470020
+			},
+			"text": " But for my children, you know, when I look my kids in the eye, I like I cannot imagine looking my kids, my children in the eye and not wanting to go out every day and be able to tell them that I'm helping to create something that was better than we found it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,100",
+				"to": "00:41:13,410"
+			},
+			"offsets": {
+				"from": 2470100,
+				"to": 2473410
+			},
+			"text": " And that we're going to give that to them, you know, as a food system, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:13,910",
+				"to": "00:41:30,740"
+			},
+			"offsets": {
+				"from": 2473910,
+				"to": 2490740
+			},
+			"text": " And so, yeah, I think that when we're talking about, you know, feed helping farmers sell more food, you know, feed helping farmers become financially sustainable, you know, feed connecting people in the food community with, you know, an organization that might be working on, you know, increasing land access."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,740",
+				"to": "00:41:51,870"
+			},
+			"offsets": {
+				"from": 2490740,
+				"to": 2511870
+			},
+			"text": " And, you know, every single aspect of what we're doing, you know, creating a more efficient food system, you know, figuring out how to utilize infrastructure in a more efficient manner, you know, creating a baseline of sustainability that's ridiculously abundant, you know, saying yes to a ecologically sound way of farming, which is, you know, saying no to GMOs and all that type of stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,870",
+				"to": "00:41:58,090"
+			},
+			"offsets": {
+				"from": 2511870,
+				"to": 2518090
+			},
+			"text": " But by doing all those acts, I mean, that's 100% being an advocate for life, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,750",
+				"to": "00:42:05,430"
+			},
+			"offsets": {
+				"from": 2518750,
+				"to": 2525430
+			},
+			"text": " And, you know, once again, I think we all come from similar seed, if not the same seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,280",
+				"to": "00:42:09,230"
+			},
+			"offsets": {
+				"from": 2526280,
+				"to": 2529230
+			},
+			"text": " And so we all have our roots in the same same earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:09,490",
+				"to": "00:42:11,130"
+			},
+			"offsets": {
+				"from": 2529490,
+				"to": 2531130
+			},
+			"text": " You know, we're all here together."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,130",
+				"to": "00:42:18,200"
+			},
+			"offsets": {
+				"from": 2531130,
+				"to": 2538200
+			},
+			"text": " Like nobody's more blessed than anybody else, per se, or nobody's more deserving than anybody else, per se."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,200",
+				"to": "00:42:26,750"
+			},
+			"offsets": {
+				"from": 2538200,
+				"to": 2546750
+			},
+			"text": " So I think that when we devote ourselves to a foundational element, such as food, like there's air, food, water."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,910",
+				"to": "00:42:30,090"
+			},
+			"offsets": {
+				"from": 2546910,
+				"to": 2550090
+			},
+			"text": " I mean, we could talk about others, too, obviously, community, love, and all those."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,210",
+				"to": "00:42:37,230"
+			},
+			"offsets": {
+				"from": 2550210,
+				"to": 2557230
+			},
+			"text": " But air, food, and water, when you devote yourself to a foundational element, you become an advocate, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:37,570",
+				"to": "00:42:39,230"
+			},
+			"offsets": {
+				"from": 2557570,
+				"to": 2559230
+			},
+			"text": " And I think that's what we're doing now."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,290",
+				"to": "00:42:42,420"
+			},
+			"offsets": {
+				"from": 2559290,
+				"to": 2562420
+			},
+			"text": " That's kind of the current generation is how do we create business?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,590",
+				"to": "00:42:44,750"
+			},
+			"offsets": {
+				"from": 2562590,
+				"to": 2564750
+			},
+			"text": " Because we need to, not because I want to."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:45,420",
+				"to": "00:42:51,590"
+			},
+			"offsets": {
+				"from": 2565420,
+				"to": 2571590
+			},
+			"text": " Like I don't really give a rip about the business aspect of it, like the money part and all that stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:51,590",
+				"to": "00:42:54,850"
+			},
+			"offsets": {
+				"from": 2571590,
+				"to": 2574850
+			},
+			"text": " But I'm more than happy to figure out a solution that makes that work."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:54,910",
+				"to": "00:43:06,870"
+			},
+			"offsets": {
+				"from": 2574910,
+				"to": 2586870
+			},
+			"text": " But how do we create business that can allow for this evolution to happen where business mirrors that organic biological function?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,730",
+				"to": "00:43:10,190"
+			},
+			"offsets": {
+				"from": 2587730,
+				"to": 2590190
+			},
+			"text": " And so that's kind of really what this is."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:10,230",
+				"to": "00:43:11,690"
+			},
+			"offsets": {
+				"from": 2590230,
+				"to": 2591690
+			},
+			"text": " It's like we're a case study, of course."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:11,770",
+				"to": "00:43:13,050"
+			},
+			"offsets": {
+				"from": 2591770,
+				"to": 2593050
+			},
+			"text": " We don't know that this is going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:13,330",
+				"to": "00:43:13,810"
+			},
+			"offsets": {
+				"from": 2593330,
+				"to": 2593810
+			},
+			"text": " None of us do."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,070",
+				"to": "00:43:14,950"
+			},
+			"offsets": {
+				"from": 2594070,
+				"to": 2594950
+			},
+			"text": " You know, none of the farmers do."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:15,300",
+				"to": "00:43:15,760"
+			},
+			"offsets": {
+				"from": 2595300,
+				"to": 2595760
+			},
+			"text": " None of us do."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:15,860",
+				"to": "00:43:18,170"
+			},
+			"offsets": {
+				"from": 2595860,
+				"to": 2598170
+			},
+			"text": " I mean, all the time it feels like we're on a knife edge, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:18,490",
+				"to": "00:43:19,710"
+			},
+			"offsets": {
+				"from": 2598490,
+				"to": 2599710
+			},
+			"text": " It's a little bit pointy up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:20,800",
+				"to": "00:43:24,450"
+			},
+			"offsets": {
+				"from": 2600800,
+				"to": 2604450
+			},
+			"text": " So, I mean, it's a constant case study, but it's also really exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:25,140",
+				"to": "00:43:26,060"
+			},
+			"offsets": {
+				"from": 2605140,
+				"to": 2606060
+			},
+			"text": " I mean, you get fired up."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:26,100",
+				"to": "00:43:26,740"
+			},
+			"offsets": {
+				"from": 2606100,
+				"to": 2606740
+			},
+			"text": " I get fired up."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:26,820",
+				"to": "00:43:33,600"
+			},
+			"offsets": {
+				"from": 2606820,
+				"to": 2613600
+			},
+			"text": " It's, you know, it's really exciting knowing that we are, in our subtle way, we're evolving how things happen on the planet."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,700",
+				"to": "00:43:39,690"
+			},
+			"offsets": {
+				"from": 2613700,
+				"to": 2619690
+			},
+			"text": " And I do believe that I can wake up in the morning and look my children in the eye and say that we're doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:39,770",
+				"to": "00:43:45,670"
+			},
+			"offsets": {
+				"from": 2619770,
+				"to": 2625670
+			},
+			"text": " I mean, I feel like we are creating something that is going to be better and more vibrant than the way we found it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:45,810",
+				"to": "00:43:47,350"
+			},
+			"offsets": {
+				"from": 2625810,
+				"to": 2627350
+			},
+			"text": " And we all want to hit the home run."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,550",
+				"to": "00:43:52,280"
+			},
+			"offsets": {
+				"from": 2627550,
+				"to": 2632280
+			},
+			"text": " You know, we all want to have, like, 100% locally sustainable food system and make that happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:52,580",
+				"to": "00:43:54,040"
+			},
+			"offsets": {
+				"from": 2632580,
+				"to": 2634040
+			},
+			"text": " I mean, that's great."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:54,080",
+				"to": "00:43:54,460"
+			},
+			"offsets": {
+				"from": 2634080,
+				"to": 2634460
+			},
+			"text": " It's awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:54,720",
+				"to": "00:43:56,000"
+			},
+			"offsets": {
+				"from": 2634720,
+				"to": 2636000
+			},
+			"text": " I mean, that's the indigenous dream."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,160",
+				"to": "00:43:57,020"
+			},
+			"offsets": {
+				"from": 2636160,
+				"to": 2637020
+			},
+			"text": " We have that right."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:57,100",
+				"to": "00:43:57,740"
+			},
+			"offsets": {
+				"from": 2637100,
+				"to": 2637740
+			},
+			"text": " We're all indigenous."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:59,050",
+				"to": "00:44:00,740"
+			},
+			"offsets": {
+				"from": 2639050,
+				"to": 2640740
+			},
+			"text": " But it's also going to take some time."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:01,130",
+				"to": "00:44:05,740"
+			},
+			"offsets": {
+				"from": 2641130,
+				"to": 2645740
+			},
+			"text": " You know, I think enlightenment, that can happen in a snap of a finger."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:06,040",
+				"to": "00:44:07,970"
+			},
+			"offsets": {
+				"from": 2646040,
+				"to": 2647970
+			},
+			"text": " You know, all of a sudden it's like, whoa, I got it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:08,230",
+				"to": "00:44:09,270"
+			},
+			"offsets": {
+				"from": 2648230,
+				"to": 2649270
+			},
+			"text": " And it's always in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,330",
+				"to": "00:44:10,090"
+			},
+			"offsets": {
+				"from": 2649330,
+				"to": 2650090
+			},
+			"text": " Like, you can feel it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:10,190",
+				"to": "00:44:15,330"
+			},
+			"offsets": {
+				"from": 2650190,
+				"to": 2655330
+			},
+			"text": " You know, you sat underneath that Bodhi tree and, you know, you feel enlightened."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:15,450",
+				"to": "00:44:26,970"
+			},
+			"offsets": {
+				"from": 2655450,
+				"to": 2666970
+			},
+			"text": " But it's also to enact that type of change in a brick and mortar world, in the physical world, especially one in which the constructs may not exactly make sense, you know, from that type of conscious sustainability."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,410",
+				"to": "00:44:28,610"
+			},
+			"offsets": {
+				"from": 2667410,
+				"to": 2668610
+			},
+			"text": " It's like it's going to take some time."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:29,000",
+				"to": "00:44:37,180"
+			},
+			"offsets": {
+				"from": 2669000,
+				"to": 2677180
+			},
+			"text": " So and especially because we're it really does feel like knowing that our resources are so scarce now and limited in order to honor those."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:37,180",
+				"to": "00:44:40,200"
+			},
+			"offsets": {
+				"from": 2677180,
+				"to": 2680200
+			},
+			"text": " It makes the most sense to work with the current infrastructure."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:40,360",
+				"to": "00:44:41,320"
+			},
+			"offsets": {
+				"from": 2680360,
+				"to": 2681320
+			},
+			"text": " And that's going to take time, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:41,700",
+				"to": "00:44:43,620"
+			},
+			"offsets": {
+				"from": 2681700,
+				"to": 2683620
+			},
+			"text": " They're not all made out of silly putty."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:44,140",
+				"to": "00:44:45,340"
+			},
+			"offsets": {
+				"from": 2684140,
+				"to": 2685340
+			},
+			"text": " That's why they call it brick and mortar."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:45,980",
+				"to": "00:44:47,260"
+			},
+			"offsets": {
+				"from": 2685980,
+				"to": 2687260
+			},
+			"text": " Well, thanks so much, Tim."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,320",
+				"to": "00:44:48,820"
+			},
+			"offsets": {
+				"from": 2687320,
+				"to": 2688820
+			},
+			"text": " It's been great having you on the show today."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:49,230",
+				"to": "00:44:50,130"
+			},
+			"offsets": {
+				"from": 2689230,
+				"to": 2690130
+			},
+			"text": " Yeah, thank you so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,210",
+				"to": "00:45:00,750"
+			},
+			"offsets": {
+				"from": 2690210,
+				"to": 2700750
+			},
+			"text": " And really, I just want to say thank you from all of our community, too, because this ultimately feed is only here because of the farms and because of the folks that are out there buying the food from the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:00,890",
+				"to": "00:45:04,270"
+			},
+			"offsets": {
+				"from": 2700890,
+				"to": 2704270
+			},
+			"text": " So really, I mean, you're saying thank you to a whole lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:04,470",
+				"to": "00:45:06,570"
+			},
+			"offsets": {
+				"from": 2704470,
+				"to": 2706570
+			},
+			"text": " So from them, I say thank you as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,910",
+				"to": "00:45:14,390"
+			},
+			"offsets": {
+				"from": 2707910,
+				"to": 2714390
+			},
+			"text": " Delicious Revolution is a show about food, culture and place produced by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:14,590",
+				"to": "00:45:19,380"
+			},
+			"offsets": {
+				"from": 2714590,
+				"to": 2719380
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:19,920",
+				"to": "00:45:22,840"
+			},
+			"offsets": {
+				"from": 2719920,
+				"to": 2722840
+			},
+			"text": " If you have a food story of your own, we'd love to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:23,110",
+				"to": "00:45:27,950"
+			},
+			"offsets": {
+				"from": 2723110,
+				"to": 2727950
+			},
+			"text": " Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:28,430",
+				"to": "00:45:31,340"
+			},
+			"offsets": {
+				"from": 2728430,
+				"to": 2731340
+			},
+			"text": " Of course, you can get in touch with us in lots of different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,680",
+				"to": "00:45:34,920"
+			},
+			"offsets": {
+				"from": 2731680,
+				"to": 2734920
+			},
+			"text": " And they are all on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:35,020",
+				"to": "00:45:44,600"
+			},
+			"offsets": {
+				"from": 2735020,
+				"to": 2744600
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:44,940",
+				"to": "00:45:45,760"
+			},
+			"offsets": {
+				"from": 2744940,
+				"to": 2745760
+			},
+			"text": " Thanks for listening."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,450",
+				"to": "00:45:50,540"
+			},
+			"offsets": {
+				"from": 2747450,
+				"to": 2750540
+			},
+			"text": " Delicious Revolution is brought to you by Satori Travel."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:50,720",
+				"to": "00:45:55,600"
+			},
+			"offsets": {
+				"from": 2750720,
+				"to": 2755600
+			},
+			"text": " If you're a traveler, and especially if you're thinking about going to Mexico or Japan, you've got to check it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:55,970",
+				"to": "00:46:02,110"
+			},
+			"offsets": {
+				"from": 2755970,
+				"to": 2762110
+			},
+			"text": " They offer unique guidebooks, custom tailored trips and a concierge service for planning your next great adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:02,880",
+				"to": "00:46:05,340"
+			},
+			"offsets": {
+				"from": 2762880,
+				"to": 2765340
+			},
+			"text": " Find out more at SatoriSatori.com."
+		}
+	]
+}

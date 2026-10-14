@@ -1,0 +1,4828 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:03,140",
+				"to": "00:00:11,550"
+			},
+			"offsets": {
+				"from": 3140,
+				"to": 11550
+			},
+			"text": " The idea of planting fruit trees in public space up until like two or three years ago was just like, no way, that's not happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,550",
+				"to": "00:00:21,630"
+			},
+			"offsets": {
+				"from": 11550,
+				"to": 21630
+			},
+			"text": " And basically the arguments were, you know, a child could get their eyes poked out, they could climb and fall, they're going to throw that fruit at somebody, there's somebody that's going to slip on the fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,630",
+				"to": "00:00:27,950"
+			},
+			"offsets": {
+				"from": 21630,
+				"to": 27950
+			},
+			"text": " There's all these reasons why people say that fruit can't be in the parkways in cities or in public parks."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,950",
+				"to": "00:00:40,140"
+			},
+			"offsets": {
+				"from": 27950,
+				"to": 40140
+			},
+			"text": " So, when we planted a public fruit park in Delaware Park with the LA County Arts Commission, it was a year long of meetings, like trying to defend fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,140",
+				"to": "00:00:54,080"
+			},
+			"offsets": {
+				"from": 40140,
+				"to": 54080
+			},
+			"text": " The moment when we realized that fruit is unique on the planet, that everyone can relate to it, that the smallest child and their grandparents are both the experts of the taste of what a strawberry is."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,080",
+				"to": "00:01:10,850"
+			},
+			"offsets": {
+				"from": 54080,
+				"to": 70850
+			},
+			"text": " We realized that fruit and fruit trees and public space could actually be a material that we could apply all of these skills of art making from, you know, I don't know, Austin and I our whole lives, since we were teenagers, we were always artists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,850",
+				"to": "00:01:29,060"
+			},
+			"offsets": {
+				"from": 70850,
+				"to": 89060
+			},
+			"text": " So, we were able to take things that we learned in photography or other skills and start, I don't know how to put it exactly, but where instead of fruit being the subject of something or public space being the site, we started understanding, oh my God, this could be like clay and collage and papier-mâché."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,440",
+				"to": "00:01:31,880"
+			},
+			"offsets": {
+				"from": 89440,
+				"to": 91880
+			},
+			"text": " And that allowed us to really play with the public."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,290",
+				"to": "00:01:36,290"
+			},
+			"offsets": {
+				"from": 92290,
+				"to": 96290
+			},
+			"text": " Instead of the public, again, being an audience, we could think of it as being a collaboration."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,180",
+				"to": "00:01:44,680"
+			},
+			"offsets": {
+				"from": 99180,
+				"to": 104680
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,840",
+				"to": "00:01:45,680"
+			},
+			"offsets": {
+				"from": 104840,
+				"to": 105680
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,680",
+				"to": "00:01:51,800"
+			},
+			"offsets": {
+				"from": 105680,
+				"to": 111800
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,330",
+				"to": "00:01:55,090"
+			},
+			"offsets": {
+				"from": 112330,
+				"to": 115090
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,670",
+				"to": "00:02:05,720"
+			},
+			"offsets": {
+				"from": 115670,
+				"to": 125720
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,980",
+				"to": "00:02:08,580"
+			},
+			"offsets": {
+				"from": 125980,
+				"to": 128580
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,780",
+				"to": "00:02:15,160"
+			},
+			"offsets": {
+				"from": 128780,
+				"to": 135160
+			},
+			"text": " Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,160",
+				"to": "00:02:22,660"
+			},
+			"offsets": {
+				"from": 135160,
+				"to": 142660
+			},
+			"text": " Fallen Fruit is an art collaboration conceived in 2004 by David Berms, Matthias Wegener, and Austin Young."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,960",
+				"to": "00:02:28,660"
+			},
+			"offsets": {
+				"from": 142960,
+				"to": 148660
+			},
+			"text": " Fallen Fruit began by mapping fruit trees growing on or over public property in Los Angeles."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,320",
+				"to": "00:02:38,140"
+			},
+			"offsets": {
+				"from": 149320,
+				"to": 158140
+			},
+			"text": " The collaboration has expanded to include serialized public projects and site-specific installations and happenings in various cities around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,260",
+				"to": "00:02:49,810"
+			},
+			"offsets": {
+				"from": 158260,
+				"to": 169810
+			},
+			"text": " By always working with fruit as a material or media, the projects reimagine public interactions with the margins of urban space, systems of community, and narrative real-time experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,090",
+				"to": "00:03:03,290"
+			},
+			"offsets": {
+				"from": 170090,
+				"to": 183290
+			},
+			"text": " Fallen Fruit's visual work includes an ongoing series of narrative photographs, wallpapers, everyday objects, and video works that explore the social and political implications of our relationship to fruit and the world around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,290",
+				"to": "00:03:11,920"
+			},
+			"offsets": {
+				"from": 183290,
+				"to": 191920
+			},
+			"text": " Their current project, The Endless Orchard, is a massive collaborative effort to plant fruit trees in shared spaces around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,590",
+				"to": "00:03:16,820"
+			},
+			"offsets": {
+				"from": 192590,
+				"to": 196820
+			},
+			"text": " Hi guys, welcome to the show. So nice to have you both here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,080",
+				"to": "00:03:18,540"
+			},
+			"offsets": {
+				"from": 197080,
+				"to": 198540
+			},
+			"text": " Hey, it's great to be here."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,840",
+				"to": "00:03:20,390"
+			},
+			"offsets": {
+				"from": 198840,
+				"to": 200390
+			},
+			"text": " Hi, good to hear from you."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,550",
+				"to": "00:03:24,970"
+			},
+			"offsets": {
+				"from": 202550,
+				"to": 204970
+			},
+			"text": " David, sounds like you're in your car."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,610",
+				"to": "00:03:28,370"
+			},
+			"offsets": {
+				"from": 205610,
+				"to": 208370
+			},
+			"text": " Well, that's perfect. You're in L.A. and you're in a car."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,450",
+				"to": "00:03:31,230"
+			},
+			"offsets": {
+				"from": 208450,
+				"to": 211230
+			},
+			"text": " No, it's the way it goes, but I do nicer clothes on a bike."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,670",
+				"to": "00:03:31,970"
+			},
+			"offsets": {
+				"from": 211670,
+				"to": 211970
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,320",
+				"to": "00:03:46,060"
+			},
+			"offsets": {
+				"from": 214320,
+				"to": 226060
+			},
+			"text": " But, you know, when you're in L.A., it's really strange, depending on where you are, because I would talk to somebody who was walking in L.A., and people actually stopped him and asked him if he was okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,680",
+				"to": "00:03:47,610"
+			},
+			"offsets": {
+				"from": 226680,
+				"to": 227610
+			},
+			"text": " What? Really?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,110",
+				"to": "00:03:57,530"
+			},
+			"offsets": {
+				"from": 228110,
+				"to": 237530
+			},
+			"text": " Yeah, it's just like, you know, he's in a suit, like, walking to, like, a talk or something, and then, you know, people stopped and said, are you okay? What are you doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,680",
+				"to": "00:04:03,530"
+			},
+			"offsets": {
+				"from": 238680,
+				"to": 243530
+			},
+			"text": " And he's like, well, I'm going to an audition, so I had to wear this."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,340",
+				"to": "00:04:09,180"
+			},
+			"offsets": {
+				"from": 246340,
+				"to": 249180
+			},
+			"text": " Someone's filming me walking, actually. What do you guys think?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,180",
+				"to": "00:04:20,290"
+			},
+			"offsets": {
+				"from": 249180,
+				"to": 260290
+			},
+			"text": " I think that walking is, like, a newer thing in L.A. You know, it's becoming more of a walking city, but it wasn't ever before."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,070",
+				"to": "00:04:24,240"
+			},
+			"offsets": {
+				"from": 261070,
+				"to": 264240
+			},
+			"text": " I feel like we could talk about L.A. for a whole hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,720",
+				"to": "00:04:30,540"
+			},
+			"offsets": {
+				"from": 264720,
+				"to": 270540
+			},
+			"text": " No, but that's really how our project started, too, was thinking about that. Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,290",
+				"to": "00:04:35,630"
+			},
+			"offsets": {
+				"from": 271290,
+				"to": 275630
+			},
+			"text": " Well, why don't you tell me? So your project started, Fallen Fruit started what year?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,630",
+				"to": "00:04:59,580"
+			},
+			"offsets": {
+				"from": 275630,
+				"to": 299580
+			},
+			"text": " Fallen Fruit started in 2004, and it was in response to a call for submissions or projects for a publication called the Journal of Aesthetics and Protest, and the basic idea of the call, kind of paraphrase it, was, is it possible to use the agency of activism without the idea of opposition?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,900",
+				"to": "00:05:08,410"
+			},
+			"offsets": {
+				"from": 299900,
+				"to": 308410
+			},
+			"text": " Like, is it possible to make something that isn't against anything? And that was the kind of spark that started Fallen Fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,410",
+				"to": "00:05:23,670"
+			},
+			"offsets": {
+				"from": 308410,
+				"to": 323670
+			},
+			"text": " I think it was something that maybe we didn't even understand what a great project starting, using that as a starting philosophy would create."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,310",
+				"to": "00:05:33,290"
+			},
+			"offsets": {
+				"from": 324310,
+				"to": 333290
+			},
+			"text": " But at the time, there were three of us. There were three founders for Fallen Fruit, Matthias Wigner and David Burns and myself, Austin Young."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,950",
+				"to": "00:05:45,450"
+			},
+			"offsets": {
+				"from": 333950,
+				"to": 345450
+			},
+			"text": " And so we thought about, we were thinking about our neighborhood and how there were all these fruit trees growing around, and we thought we'd map them."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,030",
+				"to": "00:05:53,290"
+			},
+			"offsets": {
+				"from": 346030,
+				"to": 353290
+			},
+			"text": " And we decided to only map the ones that were accessible by the public or maybe on public space or hanging over public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,650",
+				"to": "00:05:55,430"
+			},
+			"offsets": {
+				"from": 353650,
+				"to": 355430
+			},
+			"text": " That was really the beginning of the project."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,430",
+				"to": "00:06:14,130"
+			},
+			"offsets": {
+				"from": 355430,
+				"to": 374130
+			},
+			"text": " And then we also thought about it as a way to, hey, you know, get out of your car, people, you know, instead of driving three blocks to get a lemon, which people do all the time, you know, just walk down the street and pick a lemon and maybe say hi to a friend."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,130",
+				"to": "00:06:20,750"
+			},
+			"offsets": {
+				"from": 374130,
+				"to": 380750
+			},
+			"text": " So we thought about it as a way to, that could bring people together, you know, like we don't even know our neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,010",
+				"to": "00:06:24,570"
+			},
+			"offsets": {
+				"from": 381010,
+				"to": 384570
+			},
+			"text": " So let's, so let's, let's actually go out and talk to them while we're picking fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,930",
+				"to": "00:06:29,960"
+			},
+			"offsets": {
+				"from": 384930,
+				"to": 389960
+			},
+			"text": " And it kind of like, as soon as we came up with the idea, we were really excited."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,260",
+				"to": "00:06:36,480"
+			},
+			"offsets": {
+				"from": 390260,
+				"to": 396480
+			},
+			"text": " And so we thought, oh, we're going to, we're going to map every city in the world and we're going to, you know, we'll make a website."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,780",
+				"to": "00:06:42,210"
+			},
+			"offsets": {
+				"from": 396780,
+				"to": 402210
+			},
+			"text": " And it just seemed like such an amazing idea where we thought we'll just take this farther."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,530",
+				"to": "00:06:44,770"
+			},
+			"offsets": {
+				"from": 402530,
+				"to": 404770
+			},
+			"text": " So we kept on going with the project."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,860",
+				"to": "00:06:51,690"
+			},
+			"offsets": {
+				"from": 405860,
+				"to": 411690
+			},
+			"text": " So I kind of imagine like the three of you walking around for some reason, it's at night."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,690",
+				"to": "00:06:57,700"
+			},
+			"offsets": {
+				"from": 411690,
+				"to": 417700
+			},
+			"text": " It's a warm night in LA and you're like, keep finding fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,920",
+				"to": "00:07:00,720"
+			},
+			"offsets": {
+				"from": 417920,
+				"to": 420720
+			},
+			"text": " And then you're just snacking and eating and walking."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,900",
+				"to": "00:07:02,060"
+			},
+			"offsets": {
+				"from": 420900,
+				"to": 422060
+			},
+			"text": " Is that what happened?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,200",
+				"to": "00:07:05,240"
+			},
+			"offsets": {
+				"from": 422200,
+				"to": 425240
+			},
+			"text": " Like, what was the first time you went and picked fruit altogether?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,580",
+				"to": "00:07:08,640"
+			},
+			"offsets": {
+				"from": 425580,
+				"to": 428640
+			},
+			"text": " Well, we, we didn't really go out and make a picnic."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,800",
+				"to": "00:07:10,460"
+			},
+			"offsets": {
+				"from": 428800,
+				"to": 430460
+			},
+			"text": " That's not what happened."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,680",
+				"to": "00:07:18,370"
+			},
+			"offsets": {
+				"from": 430680,
+				"to": 438370
+			},
+			"text": " We were thinking about the neighborhood that we lived in, which is Silver Lake and things that were common between us."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,370",
+				"to": "00:07:26,310"
+			},
+			"offsets": {
+				"from": 438370,
+				"to": 446310
+			},
+			"text": " And sometimes we would call each other or text each other and find out if, hey, are there still any lemons down on that particular tree?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,510",
+				"to": "00:07:29,210"
+			},
+			"offsets": {
+				"from": 446510,
+				"to": 449210
+			},
+			"text": " Or are the loquats ripe over there yet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,700",
+				"to": "00:07:30,990"
+			},
+			"offsets": {
+				"from": 449700,
+				"to": 450990
+			},
+			"text": " Like, we would do that anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,550",
+				"to": "00:07:38,050"
+			},
+			"offsets": {
+				"from": 451550,
+				"to": 458050
+			},
+			"text": " So for the first map, I mean, we didn't really know how to make a map that was a walkable distance."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,290",
+				"to": "00:07:40,350"
+			},
+			"offsets": {
+				"from": 458290,
+				"to": 460350
+			},
+			"text": " We figured it out by making it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,050",
+				"to": "00:07:47,970"
+			},
+			"offsets": {
+				"from": 461050,
+				"to": 467970
+			},
+			"text": " And what we learned for the Silver Lake map was time there was over 100 fruit trees in five city blocks."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,200",
+				"to": "00:07:49,520"
+			},
+			"offsets": {
+				"from": 468200,
+				"to": 469520
+			},
+			"text": " It was shocking to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,780",
+				"to": "00:07:52,660"
+			},
+			"offsets": {
+				"from": 469780,
+				"to": 472660
+			},
+			"text": " We were totally surprised that the neighborhood was so abundant."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,200",
+				"to": "00:07:57,300"
+			},
+			"offsets": {
+				"from": 473200,
+				"to": 477300
+			},
+			"text": " Also, to put it in more context as well, like, you know, this is before YouTube."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,660",
+				"to": "00:08:06,680"
+			},
+			"offsets": {
+				"from": 477660,
+				"to": 486680
+			},
+			"text": " This is before, like, this was, we actually came to this project before Vanity Fair released their green magazine."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,680",
+				"to": "00:08:15,200"
+			},
+			"offsets": {
+				"from": 486680,
+				"to": 495200
+			},
+			"text": " It was, like, it was just on the edge of the green movement or thinking about sustainability or thinking about fruit in public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,520",
+				"to": "00:08:21,080"
+			},
+			"offsets": {
+				"from": 495520,
+				"to": 501080
+			},
+			"text": " So everyone who sort of we talked to about the project, they got so excited about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,420",
+				"to": "00:08:26,260"
+			},
+			"offsets": {
+				"from": 501420,
+				"to": 506260
+			},
+			"text": " And then people would want to come and join us on and look for fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,340",
+				"to": "00:08:36,140"
+			},
+			"offsets": {
+				"from": 506340,
+				"to": 516140
+			},
+			"text": " So we started doing these nocturnal fruit forages, which is funny that you saw us in the dark because we would invite people and tons of people would come."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,300",
+				"to": "00:08:42,400"
+			},
+			"offsets": {
+				"from": 516300,
+				"to": 522400
+			},
+			"text": " And we would go around and, you know, pick bananas and avocados."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,440",
+				"to": "00:08:47,460"
+			},
+			"offsets": {
+				"from": 523440,
+				"to": 527460
+			},
+			"text": " And people would get so excited, they would get nervous to pick a fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,930",
+				"to": "00:08:49,470"
+			},
+			"offsets": {
+				"from": 527930,
+				"to": 529470
+			},
+			"text": " And then they'd laugh."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,730",
+				"to": "00:08:50,550"
+			},
+			"offsets": {
+				"from": 529730,
+				"to": 530550
+			},
+			"text": " It was really fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,550",
+				"to": "00:09:01,210"
+			},
+			"offsets": {
+				"from": 530550,
+				"to": 541210
+			},
+			"text": " Well, the reason I ask is because I have all these maps in my head of places that I've lived and all the trees that are there, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,370",
+				"to": "00:09:08,680"
+			},
+			"offsets": {
+				"from": 541370,
+				"to": 548680
+			},
+			"text": " So where I currently live, there's, like, this nectarine tree that's going off right now and the peach tree on the PG&E property."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,600",
+				"to": "00:09:15,070"
+			},
+			"offsets": {
+				"from": 549600,
+				"to": 555070
+			},
+			"text": " And, you know, like, I have my whole route over the course of a whole year."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,550",
+				"to": "00:09:15,890"
+			},
+			"offsets": {
+				"from": 555550,
+				"to": 555890
+			},
+			"text": " Amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,890",
+				"to": "00:09:24,330"
+			},
+			"offsets": {
+				"from": 555890,
+				"to": 564330
+			},
+			"text": " And it's funny because it's a map that's, like, made by myself, but it's also made in conjunction with all my neighbors, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,430",
+				"to": "00:09:30,350"
+			},
+			"offsets": {
+				"from": 564430,
+				"to": 570350
+			},
+			"text": " Where, like, some of those trees, I'm like, well, I can pick a couple of peaches if the neighbor's not home."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,530",
+				"to": "00:09:32,210"
+			},
+			"offsets": {
+				"from": 570530,
+				"to": 572210
+			},
+			"text": " Some of them are in public spaces."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,910",
+				"to": "00:09:37,210"
+			},
+			"offsets": {
+				"from": 572910,
+				"to": 577210
+			},
+			"text": " You know, but it's, like, something that I can't make by myself, actually."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,450",
+				"to": "00:09:41,130"
+			},
+			"offsets": {
+				"from": 577450,
+				"to": 581130
+			},
+			"text": " So I was curious, kind of, like, what's your process like that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,470",
+				"to": "00:09:48,660"
+			},
+			"offsets": {
+				"from": 581470,
+				"to": 588660
+			},
+			"text": " Like, what is public space and where do those, how do you define what that is in terms of where those fruit trees hang?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,940",
+				"to": "00:09:50,620"
+			},
+			"offsets": {
+				"from": 588940,
+				"to": 590620
+			},
+			"text": " There's some controversy, I think."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,620",
+				"to": "00:09:54,760"
+			},
+			"offsets": {
+				"from": 590620,
+				"to": 594760
+			},
+			"text": " Yeah, but, you know, conceptually, public space is complicated."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,580",
+				"to": "00:09:59,390"
+			},
+			"offsets": {
+				"from": 595580,
+				"to": 599390
+			},
+			"text": " And in actuality, it's less complicated than interpretive."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,730",
+				"to": "00:10:02,670"
+			},
+			"offsets": {
+				"from": 599730,
+				"to": 602670
+			},
+			"text": " In concept, it's actually vague."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,010",
+				"to": "00:10:04,850"
+			},
+			"offsets": {
+				"from": 603010,
+				"to": 604850
+			},
+			"text": " It's a gray area in the law."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,220",
+				"to": "00:10:07,840"
+			},
+			"offsets": {
+				"from": 605220,
+				"to": 607840
+			},
+			"text": " There isn't a legal definition of public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,490",
+				"to": "00:10:14,180"
+			},
+			"offsets": {
+				"from": 609490,
+				"to": 614180
+			},
+			"text": " The way that we interpret it and perceive it, there's no national law."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,300",
+				"to": "00:10:16,080"
+			},
+			"offsets": {
+				"from": 614300,
+				"to": 616080
+			},
+			"text": " There's no state law about this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,290",
+				"to": "00:10:20,860"
+			},
+			"offsets": {
+				"from": 616290,
+				"to": 620860
+			},
+			"text": " There are city laws about what a sidewalk can be used for and things like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,980",
+				"to": "00:10:22,600"
+			},
+			"offsets": {
+				"from": 620980,
+				"to": 622600
+			},
+			"text": " But it's all different in every city."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,870",
+				"to": "00:10:27,590"
+			},
+			"offsets": {
+				"from": 622870,
+				"to": 627590
+			},
+			"text": " What's more interesting about it, really, conceptually, is that it's common law or common sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,320",
+				"to": "00:10:33,930"
+			},
+			"offsets": {
+				"from": 628320,
+				"to": 633930
+			},
+			"text": " And there are legal definitions about what private property is, for example, things behind a fence."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,190",
+				"to": "00:10:37,030"
+			},
+			"offsets": {
+				"from": 634190,
+				"to": 637030
+			},
+			"text": " But there isn't a lot of definitions about public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,230",
+				"to": "00:10:39,610"
+			},
+			"offsets": {
+				"from": 637230,
+				"to": 639610
+			},
+			"text": " I'm sure Austin has some, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,750",
+				"to": "00:10:41,430"
+			},
+			"offsets": {
+				"from": 639750,
+				"to": 641430
+			},
+			"text": " That's kind of an overarching concept."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,950",
+				"to": "00:10:46,390"
+			},
+			"offsets": {
+				"from": 641950,
+				"to": 646390
+			},
+			"text": " We definitely only mapped fruit that was growing in public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,390",
+				"to": "00:10:53,650"
+			},
+			"offsets": {
+				"from": 646390,
+				"to": 653650
+			},
+			"text": " Or if it was growing, if a tree was growing in somebody else's yard, then that branches well over a sidewalk."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,230",
+				"to": "00:11:02,330"
+			},
+			"offsets": {
+				"from": 654230,
+				"to": 662330
+			},
+			"text": " So, and then we also, you know, think that you shouldn't pick fruit that's beyond the fence or within private property."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,110",
+				"to": "00:11:05,090"
+			},
+			"offsets": {
+				"from": 663110,
+				"to": 665090
+			},
+			"text": " Okay, that was my question."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,280",
+				"to": "00:11:08,010"
+			},
+			"offsets": {
+				"from": 665280,
+				"to": 668010
+			},
+			"text": " It's where the fence starts and stops that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,250",
+				"to": "00:11:13,110"
+			},
+			"offsets": {
+				"from": 668250,
+				"to": 673110
+			},
+			"text": " And so, like, if someone really goes at it with their pruning, the next year you might be out of luck."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,450",
+				"to": "00:11:15,050"
+			},
+			"offsets": {
+				"from": 673450,
+				"to": 675050
+			},
+			"text": " Yeah, matter of fact, that's happened before."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,210",
+				"to": "00:11:19,880"
+			},
+			"offsets": {
+				"from": 675210,
+				"to": 679880
+			},
+			"text": " There was this amazing avocado tree near Silver Lake."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,140",
+				"to": "00:11:23,180"
+			},
+			"offsets": {
+				"from": 680140,
+				"to": 683180
+			},
+			"text": " And we used to go pick it, and we used to go pick it, and it was filled with avocados."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,740",
+				"to": "00:11:27,020"
+			},
+			"offsets": {
+				"from": 683740,
+				"to": 687020
+			},
+			"text": " And then one day we came by, and the neighbor seemed really angry."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,400",
+				"to": "00:11:30,030"
+			},
+			"offsets": {
+				"from": 687400,
+				"to": 690030
+			},
+			"text": " And so he just chopped the thing down."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,260",
+				"to": "00:11:32,300"
+			},
+			"offsets": {
+				"from": 691260,
+				"to": 692300
+			},
+			"text": " It's kind of sad."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,540",
+				"to": "00:11:36,200"
+			},
+			"offsets": {
+				"from": 692540,
+				"to": 696200
+			},
+			"text": " It's really sad, but it just goes to show you how some people feel about sharing."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,820",
+				"to": "00:11:43,040"
+			},
+			"offsets": {
+				"from": 696820,
+				"to": 703040
+			},
+			"text": " You know, it's like, that tree was actually huge and had, you know, hundreds of pounds of avocados on it a year."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,460",
+				"to": "00:11:47,500"
+			},
+			"offsets": {
+				"from": 703460,
+				"to": 707500
+			},
+			"text": " And he could probably eat, you know, a small portion of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,140",
+				"to": "00:11:55,210"
+			},
+			"offsets": {
+				"from": 708140,
+				"to": 715210
+			},
+			"text": " But some people love to share, and I think it's always good, too, you know, to ask."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,680",
+				"to": "00:12:01,900"
+			},
+			"offsets": {
+				"from": 716680,
+				"to": 721900
+			},
+			"text": " And often, if you ask somebody who has a tree in their yard, they'll just say, yeah, pick it, please."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,900",
+				"to": "00:12:05,680"
+			},
+			"offsets": {
+				"from": 723900,
+				"to": 725680
+			},
+			"text": " Yeah, I mean, which is a common response."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,800",
+				"to": "00:12:09,960"
+			},
+			"offsets": {
+				"from": 725800,
+				"to": 729960
+			},
+			"text": " Like, what are you going to do with 400 pounds of avocados that all get ripe at the same time, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,000",
+				"to": "00:12:10,600"
+			},
+			"offsets": {
+				"from": 730000,
+				"to": 730600
+			},
+			"text": " It's a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,840",
+				"to": "00:12:11,220"
+			},
+			"offsets": {
+				"from": 730840,
+				"to": 731220
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,340",
+				"to": "00:12:12,040"
+			},
+			"offsets": {
+				"from": 731340,
+				"to": 732040
+			},
+			"text": " For one person."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,770",
+				"to": "00:12:19,330"
+			},
+			"offsets": {
+				"from": 733770,
+				"to": 739330
+			},
+			"text": " So when I was preparing to talk to you guys, in one of the videos that you sent me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,330",
+				"to": "00:12:25,930"
+			},
+			"offsets": {
+				"from": 739330,
+				"to": 745930
+			},
+			"text": " I think, Austin, it was you that said, you know, a fruit tree is not more dangerous than any other tree,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,680",
+				"to": "00:12:32,720"
+			},
+			"offsets": {
+				"from": 746680,
+				"to": 752720
+			},
+			"text": " which, like, made me laugh for, like, the rest of the day, like, about this idea that, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,880",
+				"to": "00:12:37,460"
+			},
+			"offsets": {
+				"from": 752880,
+				"to": 757460
+			},
+			"text": " there's all these dangerous trees all around, and especially, like, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,540",
+				"to": "00:12:41,080"
+			},
+			"offsets": {
+				"from": 757540,
+				"to": 761080
+			},
+			"text": " those plum trees in the middle of summer can get really slippery."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,320",
+				"to": "00:12:41,860"
+			},
+			"offsets": {
+				"from": 761320,
+				"to": 761860
+			},
+			"text": " I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,040",
+				"to": "00:12:42,280"
+			},
+			"offsets": {
+				"from": 762040,
+				"to": 762280
+			},
+			"text": " I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,280",
+				"to": "00:12:48,240"
+			},
+			"offsets": {
+				"from": 762280,
+				"to": 768240
+			},
+			"text": " You can, I just imagine, like, a fruit doctor or something who goes around, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,860",
+				"to": "00:12:51,080"
+			},
+			"offsets": {
+				"from": 768860,
+				"to": 771080
+			},
+			"text": " helping people with fruit injuries."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,270",
+				"to": "00:12:52,590"
+			},
+			"offsets": {
+				"from": 772270,
+				"to": 772590
+			},
+			"text": " Totally."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,890",
+				"to": "00:12:53,150"
+			},
+			"offsets": {
+				"from": 772890,
+				"to": 773150
+			},
+			"text": " Yep."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,310",
+				"to": "00:12:58,010"
+			},
+			"offsets": {
+				"from": 773310,
+				"to": 778010
+			},
+			"text": " Because there must be a lot of people with their eyes poked out and broken limbs."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,220",
+				"to": "00:12:59,850"
+			},
+			"offsets": {
+				"from": 779220,
+				"to": 779850
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,950",
+				"to": "00:13:04,590"
+			},
+			"offsets": {
+				"from": 779950,
+				"to": 784590
+			},
+			"text": " I mean, speaking from experience, my stomach has hurt before when I've eaten too much fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,890",
+				"to": "00:13:06,450"
+			},
+			"offsets": {
+				"from": 784890,
+				"to": 786450
+			},
+			"text": " So that is dangerous."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,690",
+				"to": "00:13:07,210"
+			},
+			"offsets": {
+				"from": 786690,
+				"to": 787210
+			},
+			"text": " It's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,900",
+				"to": "00:13:10,710"
+			},
+			"offsets": {
+				"from": 787900,
+				"to": 790710
+			},
+			"text": " But what did you mean when you said that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,110",
+				"to": "00:13:13,030"
+			},
+			"offsets": {
+				"from": 791110,
+				"to": 793030
+			},
+			"text": " Well, I think I literally meant that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,030",
+				"to": "00:13:22,380"
+			},
+			"offsets": {
+				"from": 793030,
+				"to": 802380
+			},
+			"text": " I mean, when we've planted fruit, and, you know, the idea of planting fruit trees in public space up until, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,460",
+				"to": "00:13:25,060"
+			},
+			"offsets": {
+				"from": 802460,
+				"to": 805060
+			},
+			"text": " two or three years ago was just, like, no way."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,120",
+				"to": "00:13:25,860"
+			},
+			"offsets": {
+				"from": 805120,
+				"to": 805860
+			},
+			"text": " That's not happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,800",
+				"to": "00:13:31,900"
+			},
+			"offsets": {
+				"from": 806800,
+				"to": 811900
+			},
+			"text": " And basically the arguments were, you know, a child could get their eyes poked out."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:32,620",
+				"to": "00:13:34,400"
+			},
+			"offsets": {
+				"from": 812620,
+				"to": 814400
+			},
+			"text": " They could climb and fall."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,520",
+				"to": "00:13:36,140"
+			},
+			"offsets": {
+				"from": 814520,
+				"to": 816140
+			},
+			"text": " They're going to throw that fruit at somebody."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,640",
+				"to": "00:13:38,100"
+			},
+			"offsets": {
+				"from": 816640,
+				"to": 818100
+			},
+			"text": " There's somebody who's going to slip on the fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,620",
+				"to": "00:13:40,660"
+			},
+			"offsets": {
+				"from": 818620,
+				"to": 820660
+			},
+			"text": " There's all these fears that come."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,000",
+				"to": "00:13:46,780"
+			},
+			"offsets": {
+				"from": 821000,
+				"to": 826780
+			},
+			"text": " There's all these reasons why people say that fruit can't be in the parkways in cities or in public parks."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,280",
+				"to": "00:13:57,670"
+			},
+			"offsets": {
+				"from": 827280,
+				"to": 837670
+			},
+			"text": " So when we planted a public fruit park in Delaware Park with the L.A. County Arts Commission in 2012,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,270",
+				"to": "00:14:04,180"
+			},
+			"offsets": {
+				"from": 838270,
+				"to": 844180
+			},
+			"text": " it was a year long of meetings, like, trying to defend fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,630",
+				"to": "00:14:07,200"
+			},
+			"offsets": {
+				"from": 844630,
+				"to": 847200
+			},
+			"text": " So that's really where that statement came from."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,240",
+				"to": "00:14:13,080"
+			},
+			"offsets": {
+				"from": 847240,
+				"to": 853080
+			},
+			"text": " It was, like, I feel like, you know, trying to stand up for a fruit tree all the time"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,080",
+				"to": "00:14:16,100"
+			},
+			"offsets": {
+				"from": 853080,
+				"to": 856100
+			},
+			"text": " and, like, a fruit tree's rights to exist in cities."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,100",
+				"to": "00:14:21,780"
+			},
+			"offsets": {
+				"from": 856100,
+				"to": 861780
+			},
+			"text": " And it seems so strange because they're really beautiful and they have beautiful flowers"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,780",
+				"to": "00:14:24,540"
+			},
+			"offsets": {
+				"from": 861780,
+				"to": 864540
+			},
+			"text": " and they taste good and they just keep on giving."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,820",
+				"to": "00:14:32,900"
+			},
+			"offsets": {
+				"from": 865820,
+				"to": 872900
+			},
+			"text": " So now in Los Angeles, people are definitely more interested and excited about having fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,200",
+				"to": "00:14:40,370"
+			},
+			"offsets": {
+				"from": 873200,
+				"to": 880370
+			},
+			"text": " And they've recently changed the laws in the parkways where people can now plant fruit trees with a permit."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,350",
+				"to": "00:14:44,320"
+			},
+			"offsets": {
+				"from": 881350,
+				"to": 884320
+			},
+			"text": " So that sort of idea is changing slowly."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,540",
+				"to": "00:14:49,820"
+			},
+			"offsets": {
+				"from": 884540,
+				"to": 889820
+			},
+			"text": " Okay, so you guys started, you were making maps, or you made a map of your neighborhood,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,140",
+				"to": "00:14:51,780"
+			},
+			"offsets": {
+				"from": 890140,
+				"to": 891780
+			},
+			"text": " which was Silver Lake in Los Angeles."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,370",
+				"to": "00:14:55,090"
+			},
+			"offsets": {
+				"from": 892370,
+				"to": 895090
+			},
+			"text": " And then what happened after that and how did that lead?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,460",
+				"to": "00:14:59,700"
+			},
+			"offsets": {
+				"from": 895460,
+				"to": 899700
+			},
+			"text": " You were just talking about now there's a public fruit park that you guys have planted."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,880",
+				"to": "00:15:06,980"
+			},
+			"offsets": {
+				"from": 899880,
+				"to": 906980
+			},
+			"text": " Well, I think quickly after the first map, realizing that there could be more,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,140",
+				"to": "00:15:14,100"
+			},
+			"offsets": {
+				"from": 907140,
+				"to": 914100
+			},
+			"text": " we had fantasies of making public fruit parks and transforming the city into, like, a communal garden"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,100",
+				"to": "00:15:19,320"
+			},
+			"offsets": {
+				"from": 914100,
+				"to": 919320
+			},
+			"text": " or adding a new neighborhood resource where you could just not be hungry because you were there."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,030",
+				"to": "00:15:24,890"
+			},
+			"offsets": {
+				"from": 920030,
+				"to": 924890
+			},
+			"text": " And in Southern California, you can do that so that a neighborhood is ever-bearing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,370",
+				"to": "00:15:28,070"
+			},
+			"offsets": {
+				"from": 925370,
+				"to": 928070
+			},
+			"text": " meaning every month of the year there could be something right."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,270",
+				"to": "00:15:29,410"
+			},
+			"offsets": {
+				"from": 928270,
+				"to": 929410
+			},
+			"text": " That's not hard to organize."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,360",
+				"to": "00:15:36,960"
+			},
+			"offsets": {
+				"from": 930360,
+				"to": 936960
+			},
+			"text": " And journeying to get to make a fruit park took the good part of 10 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,960",
+				"to": "00:15:44,260"
+			},
+			"offsets": {
+				"from": 936960,
+				"to": 944260
+			},
+			"text": " It was a lot of work and a lot of different projects that built a vocabulary or a lexicon of work"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,260",
+				"to": "00:15:52,950"
+			},
+			"offsets": {
+				"from": 944260,
+				"to": 952950
+			},
+			"text": " that allowed, you know, the city and county to understand that this could be really a new idea for urban base."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,770",
+				"to": "00:15:54,650"
+			},
+			"offsets": {
+				"from": 953770,
+				"to": 954650
+			},
+			"text": " It took a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,890",
+				"to": "00:15:57,510"
+			},
+			"offsets": {
+				"from": 954890,
+				"to": 957510
+			},
+			"text": " We visited a lot of places and mapped a lot of neighborhoods."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:57,510",
+				"to": "00:16:09,180"
+			},
+			"offsets": {
+				"from": 957510,
+				"to": 969180
+			},
+			"text": " Yeah, and also, you know, also, also, we have a lot of public artworks that fit into the realm of social practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,180",
+				"to": "00:16:15,640"
+			},
+			"offsets": {
+				"from": 969180,
+				"to": 975640
+			},
+			"text": " So we, so we, the, we were doing the public fruit jams and fruit tree adoptions"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,640",
+				"to": "00:16:23,750"
+			},
+			"offsets": {
+				"from": 975640,
+				"to": 983750
+			},
+			"text": " and all kinds of ways that we sort of activate people in this, around this idea of sharing fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,090",
+				"to": "00:16:29,270"
+			},
+			"offsets": {
+				"from": 984090,
+				"to": 989270
+			},
+			"text": " And now we've got new projects that we're doing, like Lemonade Stand,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,630",
+				"to": "00:16:36,590"
+			},
+			"offsets": {
+				"from": 989630,
+				"to": 996590
+			},
+			"text": " where we invite people to have a glass of lemonade if they will draw a self-portrait on a lemon."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,370",
+				"to": "00:16:42,970"
+			},
+			"offsets": {
+				"from": 997370,
+				"to": 1002970
+			},
+			"text": " So it's like these kind of actions with the public that we're really excited about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:43,050",
+				"to": "00:16:46,290"
+			},
+			"offsets": {
+				"from": 1003050,
+				"to": 1006290
+			},
+			"text": " and we continue to do those as well as artworks."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,790",
+				"to": "00:16:51,510"
+			},
+			"offsets": {
+				"from": 1006790,
+				"to": 1011510
+			},
+			"text": " So one thing I think about is when you guys, you were both talking about this a little bit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,510",
+				"to": "00:16:55,970"
+			},
+			"offsets": {
+				"from": 1011510,
+				"to": 1015970
+			},
+			"text": " but when you started in 2004, it was a pretty different world in terms of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,120",
+				"to": "00:17:03,000"
+			},
+			"offsets": {
+				"from": 1017120,
+				"to": 1023000
+			},
+			"text": " well, definitely with technology, but, but also in terms of like where the food movement was at, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,000",
+				"to": "00:17:04,080"
+			},
+			"offsets": {
+				"from": 1023000,
+				"to": 1024080
+			},
+			"text": " People were just starting."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,580",
+				"to": "00:17:11,480"
+			},
+			"offsets": {
+				"from": 1024580,
+				"to": 1031480
+			},
+			"text": " It was, yeah, it was non-existent, you know, like the whole, it was, it was an, like, we were really,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,800",
+				"to": "00:17:14,560"
+			},
+			"offsets": {
+				"from": 1031800,
+				"to": 1034560
+			},
+			"text": " we definitely were on the forefront of that whole thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,560",
+				"to": "00:17:27,210"
+			},
+			"offsets": {
+				"from": 1034560,
+				"to": 1047210
+			},
+			"text": " And I think that's really why Fallen Fruit also gained popularity as a, as an artwork, as a movement,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,210",
+				"to": "00:17:35,740"
+			},
+			"offsets": {
+				"from": 1047210,
+				"to": 1055740
+			},
+			"text": " because we, we got, we would get interviews with NPR or different things, like just the idea was exciting to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,740",
+				"to": "00:17:41,320"
+			},
+			"offsets": {
+				"from": 1055740,
+				"to": 1061320
+			},
+			"text": " I was going to say, you know, it goes back to the philosophy of Fallen Fruit that, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,320",
+				"to": "00:17:46,940"
+			},
+			"offsets": {
+				"from": 1061320,
+				"to": 1066940
+			},
+			"text": " we're really passionate about the idea of sharing, you know, an urban experience is authentic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,940",
+				"to": "00:17:52,600"
+			},
+			"offsets": {
+				"from": 1066940,
+				"to": 1072600
+			},
+			"text": " and everyone has one, and we share it, whether we're conscious of it or unconscious."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,000",
+				"to": "00:18:00,230"
+			},
+			"offsets": {
+				"from": 1073000,
+				"to": 1080230
+			},
+			"text": " And then to consciously make a decision that you can create resources as a person that shares with other people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,230",
+				"to": "00:18:07,110"
+			},
+			"offsets": {
+				"from": 1080230,
+				"to": 1087110
+			},
+			"text": " people you may never know, to us, it's a radical idea, this sense of sharing at this profound level"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,110",
+				"to": "00:18:13,880"
+			},
+			"offsets": {
+				"from": 1087110,
+				"to": 1093880
+			},
+			"text": " that goes beyond you and your family and friends, that it goes into the future to people that you are guaranteed to never know."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,070",
+				"to": "00:18:17,460"
+			},
+			"offsets": {
+				"from": 1094070,
+				"to": 1097460
+			},
+			"text": " To us, that fundamentally is part of the core messaging of Fallen Fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:18,020",
+				"to": "00:18:23,050"
+			},
+			"offsets": {
+				"from": 1098020,
+				"to": 1103050
+			},
+			"text": " Well, and so, I guess I'm kind of interested in, like, were you emerging artists at this time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,130",
+				"to": "00:18:29,100"
+			},
+			"offsets": {
+				"from": 1103130,
+				"to": 1109100
+			},
+			"text": " kind of growing into your careers, and how has that kind of followed along with being part of a food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,450",
+				"to": "00:18:34,030"
+			},
+			"offsets": {
+				"from": 1109450,
+				"to": 1114030
+			},
+			"text": " That's a great question. It's interesting. I don't know if we've ever exactly been at that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,330",
+				"to": "00:18:46,020"
+			},
+			"offsets": {
+				"from": 1115330,
+				"to": 1126020
+			},
+			"text": " I think I was, God, how, we started Fallen Fruit in 2004, so I have a pretty solid career as, I don't know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:46,080",
+				"to": "00:18:51,890"
+			},
+			"offsets": {
+				"from": 1126080,
+				"to": 1131890
+			},
+			"text": " a photographer and video artist up until then, but so, the thing about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:51,890",
+				"to": "00:18:59,390"
+			},
+			"offsets": {
+				"from": 1131890,
+				"to": 1139390
+			},
+			"text": " Yeah, it was totally different for me. I was in graduate, so it was a pretty different world."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,390",
+				"to": "00:19:04,590"
+			},
+			"offsets": {
+				"from": 1139390,
+				"to": 1144590
+			},
+			"text": " I would say, I would say, I don't even know if this is an interesting thing to talk about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,770",
+				"to": "00:19:10,690"
+			},
+			"offsets": {
+				"from": 1144770,
+				"to": 1150690
+			},
+			"text": " but I would say one of the most amazing things, Dave and I and Matthias, too,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,250",
+				"to": "00:19:16,010"
+			},
+			"offsets": {
+				"from": 1151250,
+				"to": 1156010
+			},
+			"text": " you know, had always wanted to have a forum to express our art."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,740",
+				"to": "00:19:23,380"
+			},
+			"offsets": {
+				"from": 1156740,
+				"to": 1163380
+			},
+			"text": " And it was interesting that such a simple idea that we all had together became so popular."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,380",
+				"to": "00:19:31,260"
+			},
+			"offsets": {
+				"from": 1163380,
+				"to": 1171260
+			},
+			"text": " And then, you know, by 2010, we got a year-long show, exhibition, and curatorial project at LACMA."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,860",
+				"to": "00:19:38,540"
+			},
+			"offsets": {
+				"from": 1171860,
+				"to": 1178540
+			},
+			"text": " I mean, and then we just had a series of big shows, and there couldn't be anything more exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,780",
+				"to": "00:19:50,440"
+			},
+			"offsets": {
+				"from": 1178780,
+				"to": 1190440
+			},
+			"text": " But the thing I have to say is that the intention behind it was so, it was and is so, I don't know, pure in a way."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,860",
+				"to": "00:19:52,140"
+			},
+			"offsets": {
+				"from": 1190860,
+				"to": 1192140
+			},
+			"text": " I mean, that's what I would say."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,500",
+				"to": "00:19:59,780"
+			},
+			"offsets": {
+				"from": 1192500,
+				"to": 1199780
+			},
+			"text": " Like, we really do love what we're doing, and we love the idea of planting fruit trees in public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,780",
+				"to": "00:20:06,570"
+			},
+			"offsets": {
+				"from": 1199780,
+				"to": 1206570
+			},
+			"text": " So, I think that that makes sense to why the project would be successful."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,830",
+				"to": "00:20:13,260"
+			},
+			"offsets": {
+				"from": 1206830,
+				"to": 1213260
+			},
+			"text": " But, yeah, I mean, as an artist, like, we are doing exactly what we always wanted to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,850",
+				"to": "00:20:20,340"
+			},
+			"offsets": {
+				"from": 1213850,
+				"to": 1220340
+			},
+			"text": " And it felt, at the time, a little bit like, this is just cosmic luck, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,480",
+				"to": "00:20:23,460"
+			},
+			"offsets": {
+				"from": 1220480,
+				"to": 1223460
+			},
+			"text": " And at the same time, I would just say one more thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,560",
+				"to": "00:20:28,340"
+			},
+			"offsets": {
+				"from": 1223560,
+				"to": 1228340
+			},
+			"text": " At the same time, the LA art scene was just starting to take off in such an amazing way."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,980",
+				"to": "00:20:35,490"
+			},
+			"offsets": {
+				"from": 1228980,
+				"to": 1235490
+			},
+			"text": " And we were also part of that, like, Mark Allen machine project."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,490",
+				"to": "00:20:38,970"
+			},
+			"offsets": {
+				"from": 1235490,
+				"to": 1238970
+			},
+			"text": " We were doing fruit jams with Mark Allen."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,270",
+				"to": "00:20:42,770"
+			},
+			"offsets": {
+				"from": 1239270,
+				"to": 1242770
+			},
+			"text": " And so, it was just kind of like being in the right place at the right time."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,390",
+				"to": "00:20:48,940"
+			},
+			"offsets": {
+				"from": 1243390,
+				"to": 1248940
+			},
+			"text": " I guess I asked that question because I'm interested in this idea of imaginative possibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,400",
+				"to": "00:20:56,840"
+			},
+			"offsets": {
+				"from": 1249400,
+				"to": 1256840
+			},
+			"text": " And it seems like, for the two of you, fruit trees have this incredible imaginative possibility that just kind of keeps giving."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,880",
+				"to": "00:21:01,640"
+			},
+			"offsets": {
+				"from": 1256880,
+				"to": 1261640
+			},
+			"text": " Yeah, I think the point that you're bringing up is really interesting for us to speak to."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,640",
+				"to": "00:21:10,390"
+			},
+			"offsets": {
+				"from": 1261640,
+				"to": 1270390
+			},
+			"text": " One of the things that we ended up doing is having this profound shift of understanding after a few years,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,450",
+				"to": "00:21:24,140"
+			},
+			"offsets": {
+				"from": 1270450,
+				"to": 1284140
+			},
+			"text": " where we realized that fruit and fruit trees and public space could actually be a material that we could apply all of these skills of art making from, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:24,300",
+				"to": "00:21:27,980"
+			},
+			"offsets": {
+				"from": 1284300,
+				"to": 1287980
+			},
+			"text": " I don't know, Austin and I, our whole lives, since we were teenagers, we were always artists."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,980",
+				"to": "00:21:42,400"
+			},
+			"offsets": {
+				"from": 1287980,
+				"to": 1302400
+			},
+			"text": " So, we were able to take things that we learned in photography or other skills and performance and whatever and start thinking about it in a more, I don't know how to put it exactly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,560",
+				"to": "00:21:48,470"
+			},
+			"offsets": {
+				"from": 1302560,
+				"to": 1308470
+			},
+			"text": " but where instead of fruit being the subject of something or public space being the site, we started understanding,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,650",
+				"to": "00:22:00,890"
+			},
+			"offsets": {
+				"from": 1308650,
+				"to": 1320890
+			},
+			"text": " oh my God, this could be like clay and collage and paper mache, that we could actually just completely sort of approach the idea of what we're doing in a really different way than a lot of other people might think."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,890",
+				"to": "00:22:07,970"
+			},
+			"offsets": {
+				"from": 1320890,
+				"to": 1327970
+			},
+			"text": " Well, and that allowed us to really play with the public instead of the public, again, being an audience, we could think of it as being a collaboration."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,970",
+				"to": "00:22:16,890"
+			},
+			"offsets": {
+				"from": 1327970,
+				"to": 1336890
+			},
+			"text": " Well, and that is exactly like what stands out to me about your work and this ongoing collaboration is using food as this place for a creative medium."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,270",
+				"to": "00:22:21,120"
+			},
+			"offsets": {
+				"from": 1337270,
+				"to": 1341120
+			},
+			"text": " So, it's a little bit complicated to talk about, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,180",
+				"to": "00:22:27,560"
+			},
+			"offsets": {
+				"from": 1341180,
+				"to": 1347560
+			},
+			"text": " Because I think that it somehow exists somewhere between this idea of fruit and public space and play."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:28,000",
+				"to": "00:22:35,450"
+			},
+			"offsets": {
+				"from": 1348000,
+				"to": 1355450
+			},
+			"text": " Like, you guys are very playful in your work, but you're actually getting at some pretty serious things."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,570",
+				"to": "00:22:43,290"
+			},
+			"offsets": {
+				"from": 1355570,
+				"to": 1363290
+			},
+			"text": " There was a moment when we realized that fruit is big on the planet, that everyone can relate to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,240",
+				"to": "00:22:52,160"
+			},
+			"offsets": {
+				"from": 1364240,
+				"to": 1372160
+			},
+			"text": " And in its most primary sort of primal form, it's always the trees don't want anything back from you."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,160",
+				"to": "00:23:00,840"
+			},
+			"offsets": {
+				"from": 1372160,
+				"to": 1380840
+			},
+			"text": " And in that way, we understood that the smallest child and their grandparents are both the experts of the taste of what a strawberry is."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,020",
+				"to": "00:23:08,440"
+			},
+			"offsets": {
+				"from": 1381020,
+				"to": 1388440
+			},
+			"text": " Or, you know, we all eat the same bananas, regardless if we're rich or we're poor, or we come from one part of the world or another."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,190",
+				"to": "00:23:10,850"
+			},
+			"offsets": {
+				"from": 1389190,
+				"to": 1390850
+			},
+			"text": " It's a unique material."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,350",
+				"to": "00:23:21,280"
+			},
+			"offsets": {
+				"from": 1391350,
+				"to": 1401280
+			},
+			"text": " And that allowed us to really actually expand the idea of playing and not have to worry about being so academic in our approach or something like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,120",
+				"to": "00:23:22,360"
+			},
+			"offsets": {
+				"from": 1402120,
+				"to": 1402360
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,760",
+				"to": "00:23:31,740"
+			},
+			"offsets": {
+				"from": 1402760,
+				"to": 1411740
+			},
+			"text": " That, to me, feels like a really different approach to, like, what an urban food system is than, I don't know, than I think than the way that city planners are approaching it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:31,740",
+				"to": "00:23:35,120"
+			},
+			"offsets": {
+				"from": 1411740,
+				"to": 1415120
+			},
+			"text": " Or even, you know, urban food activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,300",
+				"to": "00:23:35,940"
+			},
+			"offsets": {
+				"from": 1415300,
+				"to": 1415940
+			},
+			"text": " Oh, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,180",
+				"to": "00:23:38,580"
+			},
+			"offsets": {
+				"from": 1416180,
+				"to": 1418580
+			},
+			"text": " Yeah, I think they're, yeah, I totally agree with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,720",
+				"to": "00:23:44,420"
+			},
+			"offsets": {
+				"from": 1418720,
+				"to": 1424420
+			},
+			"text": " So, it's actually amazing to, because we work with urban planners and food activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,820",
+				"to": "00:23:48,710"
+			},
+			"offsets": {
+				"from": 1424820,
+				"to": 1428710
+			},
+			"text": " So, yeah, we're in a completely different space than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,130",
+				"to": "00:24:00,050"
+			},
+			"offsets": {
+				"from": 1429130,
+				"to": 1440050
+			},
+			"text": " And it really, I think, does come down to the idea that Dave and I love to play when we're working."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:00,530",
+				"to": "00:24:07,940"
+			},
+			"offsets": {
+				"from": 1440530,
+				"to": 1447940
+			},
+			"text": " We also have a clear understanding that our work is really profound, but that we present it in a really playful way."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,620",
+				"to": "00:24:17,860"
+			},
+			"offsets": {
+				"from": 1448620,
+				"to": 1457860
+			},
+			"text": " And I think that it might be kind of obvious what we're hinting at in an artwork, but we kind of talk about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,860",
+				"to": "00:24:20,680"
+			},
+			"offsets": {
+				"from": 1457860,
+				"to": 1460680
+			},
+			"text": " We'll talk about it in ways that just makes it look like fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,680",
+				"to": "00:24:32,630"
+			},
+			"offsets": {
+				"from": 1460680,
+				"to": 1472630
+			},
+			"text": " And this is, it's a really conscious thing that we do in that we really want to, we really want to make our project for everyone and bring people together and have a good time."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,630",
+				"to": "00:24:42,790"
+			},
+			"offsets": {
+				"from": 1472630,
+				"to": 1482790
+			},
+			"text": " But then, if, I don't know if it sounds cliche or what, but we do, then we just leave space for people to not even imagine that it's art."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,880",
+				"to": "00:24:49,030"
+			},
+			"offsets": {
+				"from": 1483880,
+				"to": 1489030
+			},
+			"text": " But just, maybe they're just doing, you know, eating a watermelon, but..."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,850",
+				"to": "00:24:53,090"
+			},
+			"offsets": {
+				"from": 1489850,
+				"to": 1493090
+			},
+			"text": " I'm getting so excited about what Austin's saying."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,390",
+				"to": "00:24:54,330"
+			},
+			"offsets": {
+				"from": 1493390,
+				"to": 1494330
+			},
+			"text": " I'm smiling."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,740",
+				"to": "00:24:56,320"
+			},
+			"offsets": {
+				"from": 1494740,
+				"to": 1496320
+			},
+			"text": " And you can't see that."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,820",
+				"to": "00:25:00,730"
+			},
+			"offsets": {
+				"from": 1497820,
+				"to": 1500730
+			},
+			"text": " I love that Austin says this."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:00,730",
+				"to": "00:25:16,450"
+			},
+			"offsets": {
+				"from": 1500730,
+				"to": 1516450
+			},
+			"text": " And I think it's one of my personal favorite things about what we get to do at Fallen Fruit is that we're so concerned about leaving the space for their own theory and their own ideas and their own..."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,450",
+				"to": "00:25:19,230"
+			},
+			"offsets": {
+				"from": 1516450,
+				"to": 1519230
+			},
+			"text": " People don't even understand it's art."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,420",
+				"to": "00:25:20,540"
+			},
+			"offsets": {
+				"from": 1519420,
+				"to": 1520540
+			},
+			"text": " And they don't need to."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:20,660",
+				"to": "00:25:21,300"
+			},
+			"offsets": {
+				"from": 1520660,
+				"to": 1521300
+			},
+			"text": " Who cares?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,120",
+				"to": "00:25:26,710"
+			},
+			"offsets": {
+				"from": 1522120,
+				"to": 1526710
+			},
+			"text": " And it's okay if the watermelon's a watermelon, but it also might be art at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,790",
+				"to": "00:25:30,690"
+			},
+			"offsets": {
+				"from": 1526790,
+				"to": 1530690
+			},
+			"text": " It's really one of the greatest pleasures in working on Fallen Fruit Zone."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,750",
+				"to": "00:25:32,790"
+			},
+			"offsets": {
+				"from": 1530750,
+				"to": 1532790
+			},
+			"text": " Sorry to interrupt you often."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,050",
+				"to": "00:25:34,740"
+			},
+			"offsets": {
+				"from": 1533050,
+				"to": 1534740
+			},
+			"text": " I just, I love it so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,820",
+				"to": "00:25:35,780"
+			},
+			"offsets": {
+				"from": 1534820,
+				"to": 1535780
+			},
+			"text": " I had to jump in."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,780",
+				"to": "00:25:37,640"
+			},
+			"offsets": {
+				"from": 1535780,
+				"to": 1537640
+			},
+			"text": " Tell me how you do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,800",
+				"to": "00:25:40,140"
+			},
+			"offsets": {
+				"from": 1537800,
+				"to": 1540140
+			},
+			"text": " Tell me how that's happened with these projects over time."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,380",
+				"to": "00:25:41,920"
+			},
+			"offsets": {
+				"from": 1540380,
+				"to": 1541920
+			},
+			"text": " Like, what about with public fruit jams?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,960",
+				"to": "00:25:47,020"
+			},
+			"offsets": {
+				"from": 1541960,
+				"to": 1547020
+			},
+			"text": " Well, the public fruit jam was interesting because I think that's how we learned how to collaborate with the public."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,030",
+				"to": "00:25:55,200"
+			},
+			"offsets": {
+				"from": 1548030,
+				"to": 1555200
+			},
+			"text": " And it was a really important project for Fallen Fruit in our making, learning and making."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,990",
+				"to": "00:26:00,710"
+			},
+			"offsets": {
+				"from": 1555990,
+				"to": 1560710
+			},
+			"text": " One of the things that was so important about the jam being successful is that nobody ever used recipes."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,370",
+				"to": "00:26:04,060"
+			},
+			"offsets": {
+				"from": 1561370,
+				"to": 1564060
+			},
+			"text": " We didn't have recipes and we don't have ingredients."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,710",
+				"to": "00:26:07,920"
+			},
+			"offsets": {
+				"from": 1564710,
+				"to": 1567920
+			},
+			"text": " We had materials and we had ratios and guidelines."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,920",
+				"to": "00:26:12,780"
+			},
+			"offsets": {
+				"from": 1567920,
+				"to": 1572780
+			},
+			"text": " And the way people learned how to make jam was to hang out with somebody else they didn't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,170",
+				"to": "00:26:22,220"
+			},
+			"offsets": {
+				"from": 1573170,
+				"to": 1582220
+			},
+			"text": " It wasn't really a process of learning how to be an expert jam maker or a master class or anything like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,400",
+				"to": "00:26:28,960"
+			},
+			"offsets": {
+				"from": 1582400,
+				"to": 1588960
+			},
+			"text": " It was kind of a frenzy that was fueled by, you know, public fruit and fructose and a little bit of pectin."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,960",
+				"to": "00:26:56,120"
+			},
+			"offsets": {
+				"from": 1588960,
+				"to": 1616120
+			},
+			"text": " Then it was amazing because what would happen when people would sit down together with people they don't know and start cutting fruit is that people would start talking about, you know, their family history and how maybe their grandmother used to store apples in her basement wrapped in paper or different recipes their family had or memories of fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,120",
+				"to": "00:27:03,200"
+			},
+			"offsets": {
+				"from": 1616120,
+				"to": 1623200
+			},
+			"text": " So, so we, so we kind of started to get this understanding how embedded fruit is in culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,360",
+				"to": "00:27:04,170"
+			},
+			"offsets": {
+				"from": 1623360,
+				"to": 1624170
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,290",
+				"to": "00:27:09,830"
+			},
+			"offsets": {
+				"from": 1624290,
+				"to": 1629830
+			},
+			"text": " And in that you have all of these things and you have all these people together, but you're not really sure what the outcome is going to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,030",
+				"to": "00:27:13,090"
+			},
+			"offsets": {
+				"from": 1630030,
+				"to": 1633090
+			},
+			"text": " It seems like you guys set up a lot of situations like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,210",
+				"to": "00:27:13,450"
+			},
+			"offsets": {
+				"from": 1633210,
+				"to": 1633450
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,650",
+				"to": "00:27:19,250"
+			},
+			"offsets": {
+				"from": 1633650,
+				"to": 1639250
+			},
+			"text": " And then, then what the outcome would inevitably be would be like new friends were made."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,470",
+				"to": "00:27:21,170"
+			},
+			"offsets": {
+				"from": 1639470,
+				"to": 1641170
+			},
+			"text": " People had a great time."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,430",
+				"to": "00:27:23,990"
+			},
+			"offsets": {
+				"from": 1642430,
+				"to": 1643990
+			},
+			"text": " New relationships formed."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,990",
+				"to": "00:27:37,790"
+			},
+			"offsets": {
+				"from": 1643990,
+				"to": 1657790
+			},
+			"text": " So we had really decided that the art is not the jam itself or the jars of jam, but the art was just the idea of bringing these people together and how they interacted."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,090",
+				"to": "00:27:42,620"
+			},
+			"offsets": {
+				"from": 1658090,
+				"to": 1662620
+			},
+			"text": " Well, so let's talk about the public fruit park and how that came about."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:42,760",
+				"to": "00:27:45,820"
+			},
+			"offsets": {
+				"from": 1662760,
+				"to": 1665820
+			},
+			"text": " You guys did a lot of work in so many places, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,860",
+				"to": "00:27:55,380"
+			},
+			"offsets": {
+				"from": 1665860,
+				"to": 1675380
+			},
+			"text": " All over the world and you were making these maps and you were having these public fruit jams, but were you always kind of thinking about what would it be like to have this public fruit park?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,380",
+				"to": "00:28:07,560"
+			},
+			"offsets": {
+				"from": 1675380,
+				"to": 1687560
+			},
+			"text": " Yeah, I mean, we, we wanted that so badly, pretty much at any opportunity that we were presented where we might flirt with the idea, we did it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,780",
+				"to": "00:28:22,730"
+			},
+			"offsets": {
+				"from": 1687780,
+				"to": 1702730
+			},
+			"text": " So, for example, the first attempt, the first expression of what could be a public fruit park, we were invited to do a project in Colonia Federal, which is at the border of the U.S. and Mexico and Tijuana."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,730",
+				"to": "00:28:30,760"
+			},
+			"offsets": {
+				"from": 1702730,
+				"to": 1710760
+			},
+			"text": " And it's the, um, the neighborhood literally on the border fence and we were invited to do an art project."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,880",
+				"to": "00:28:41,090"
+			},
+			"offsets": {
+				"from": 1710880,
+				"to": 1721090
+			},
+			"text": " So what we put forward was to plant fruit trees on the border in barrels could be moved because people don't live there very long."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,190",
+				"to": "00:28:44,600"
+			},
+			"offsets": {
+				"from": 1721190,
+				"to": 1724600
+			},
+			"text": " They might stay for a few months and then they go across the border."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:44,700",
+				"to": "00:28:47,880"
+			},
+			"offsets": {
+				"from": 1724700,
+				"to": 1727880
+			},
+			"text": " So it's very transient and it historically has always been that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,880",
+				"to": "00:28:55,570"
+			},
+			"offsets": {
+				"from": 1727880,
+				"to": 1735570
+			},
+			"text": " So we put fruit trees in containers and gifted them to the neighborhood and then the residents could push them to their friend's house down the block when they leave."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,590",
+				"to": "00:28:59,610"
+			},
+			"offsets": {
+				"from": 1735590,
+				"to": 1739610
+			},
+			"text": " So the trees could carry on in a way the neighborhood already behaved."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,380",
+				"to": "00:29:01,140"
+			},
+			"offsets": {
+				"from": 1740380,
+				"to": 1741140
+			},
+			"text": " That's pretty amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,400",
+				"to": "00:29:03,700"
+			},
+			"offsets": {
+				"from": 1741400,
+				"to": 1743700
+			},
+			"text": " What, when ended up happening with those trees?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,840",
+				"to": "00:29:10,500"
+			},
+			"offsets": {
+				"from": 1743840,
+				"to": 1750500
+			},
+			"text": " The trees are still really, yeah, they're doing really well and they're really, they're happy and growing as people have really taken care of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,430",
+				"to": "00:29:11,810"
+			},
+			"offsets": {
+				"from": 1751430,
+				"to": 1751810
+			},
+			"text": " I bet."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,990",
+				"to": "00:29:14,570"
+			},
+			"offsets": {
+				"from": 1751990,
+				"to": 1754570
+			},
+			"text": " That seems like such a nice way to call a place home."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,840",
+				"to": "00:29:17,420"
+			},
+			"offsets": {
+				"from": 1755840,
+				"to": 1757420
+			},
+			"text": " So, so that was the first iteration."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,420",
+				"to": "00:29:20,940"
+			},
+			"offsets": {
+				"from": 1757420,
+				"to": 1760940
+			},
+			"text": " And then how did this come about in L.A.?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,940",
+				"to": "00:29:42,430"
+			},
+			"offsets": {
+				"from": 1760940,
+				"to": 1782430
+			},
+			"text": " Let's see, what, it's the L.A. County Arts Commission invited us to apply to do a piece at Delaware Park and, and so awarded the project and they, they helped guide us through the whole, the whole process, which really, a lot of it was going to several meetings with different, different parts of city government."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,750",
+				"to": "00:29:45,870"
+			},
+			"offsets": {
+				"from": 1782750,
+				"to": 1785870
+			},
+			"text": " So it was a, it was, that was a really great experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,150",
+				"to": "00:29:49,300"
+			},
+			"offsets": {
+				"from": 1786150,
+				"to": 1789300
+			},
+			"text": " That was our first, first big park with the city."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,630",
+				"to": "00:29:51,220"
+			},
+			"offsets": {
+				"from": 1789630,
+				"to": 1791220
+			},
+			"text": " Are there more?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,380",
+				"to": "00:29:51,620"
+			},
+			"offsets": {
+				"from": 1791380,
+				"to": 1791620
+			},
+			"text": " Oh yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,940",
+				"to": "00:30:02,390"
+			},
+			"offsets": {
+				"from": 1791940,
+				"to": 1802390
+			},
+			"text": " Since Del Air Park in 2012, we, um, we installed a trailhead at, or Park to Playa at, um, Stalker and La Brea."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,120",
+				"to": "00:30:07,770"
+			},
+			"offsets": {
+				"from": 1803120,
+				"to": 1807770
+			},
+			"text": " Um, well, there's about 40 fruit trees in the park."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,770",
+				"to": "00:30:27,300"
+			},
+			"offsets": {
+				"from": 1807770,
+				"to": 1827300
+			},
+			"text": " Yeah, we have, we have, um, opening, I think in November of this year is Stoneview Nature Center, which we, we were the artists awarded to design the artwork and, and the park with the landscape architect and the architect."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,300",
+				"to": "00:30:33,270"
+			},
+			"offsets": {
+				"from": 1827300,
+				"to": 1833270
+			},
+			"text": " So there's, we've created a series of fruit tree installations in the park."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,470",
+				"to": "00:30:34,630"
+			},
+			"offsets": {
+				"from": 1833470,
+				"to": 1834630
+			},
+			"text": " It's pretty, it's pretty awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:34,630",
+				"to": "00:30:39,150"
+			},
+			"offsets": {
+				"from": 1834630,
+				"to": 1839150
+			},
+			"text": " And that's going to be fun to, when that opens, uh, that's another piece."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,250",
+				"to": "00:30:42,750"
+			},
+			"offsets": {
+				"from": 1839250,
+				"to": 1842750
+			},
+			"text": " And then we're, we're working on our endless orchard project."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,890",
+				"to": "00:30:53,810"
+			},
+			"offsets": {
+				"from": 1842890,
+				"to": 1853810
+			},
+			"text": " So leading up to that, we were able to plant fruit trees in Lafayette park and MacArthur park, uh, with hearts of Los Angeles."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,810",
+				"to": "00:30:56,950"
+			},
+			"offsets": {
+				"from": 1853810,
+				"to": 1856950
+			},
+			"text": " This is this great school program in Westlake district."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:56,950",
+				"to": "00:31:07,390"
+			},
+			"offsets": {
+				"from": 1856950,
+				"to": 1867390
+			},
+			"text": " And then we, we, we've, we've put a bunch of fruit trees in barrels and, and on the margins of public space around the Los Angeles state historic park."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,390",
+				"to": "00:31:08,310"
+			},
+			"offsets": {
+				"from": 1867390,
+				"to": 1868310
+			},
+			"text": " That's going to be opening."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,770",
+				"to": "00:31:10,720"
+			},
+			"offsets": {
+				"from": 1868770,
+				"to": 1870720
+			},
+			"text": " Um, and we did that with community."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:10,720",
+				"to": "00:31:23,890"
+			},
+			"offsets": {
+				"from": 1870720,
+				"to": 1883890
+			},
+			"text": " We actually went, we actually went door to door and got people to agree to take care of fruit trees, plant them, water them, and share them with anybody who passes by."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,090",
+				"to": "00:31:33,810"
+			},
+			"offsets": {
+				"from": 1884090,
+				"to": 1893810
+			},
+			"text": " So, I don't know, we've probably planted about a 150 fruit trees around, around that area in Chinatown, downtown LA."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,640",
+				"to": "00:31:37,190"
+			},
+			"offsets": {
+				"from": 1894640,
+				"to": 1897190
+			},
+			"text": " And how do you decide what trees to plant?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,470",
+				"to": "00:31:39,010"
+			},
+			"offsets": {
+				"from": 1897470,
+				"to": 1899010
+			},
+			"text": " You mean varieties or?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,170",
+				"to": "00:31:39,370"
+			},
+			"offsets": {
+				"from": 1899170,
+				"to": 1899370
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,490",
+				"to": "00:31:41,930"
+			},
+			"offsets": {
+				"from": 1899490,
+				"to": 1901930
+			},
+			"text": " Well, I mean, we don't just work in Los Angeles."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,130",
+				"to": "00:31:46,790"
+			},
+			"offsets": {
+				"from": 1902130,
+				"to": 1906790
+			},
+			"text": " We work in a lot of different geographies, but we always want to pick trees that are going to do well."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,030",
+				"to": "00:31:49,670"
+			},
+			"offsets": {
+				"from": 1907030,
+				"to": 1909670
+			},
+			"text": " So, we think about a variety of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,460",
+				"to": "00:32:02,510"
+			},
+			"offsets": {
+				"from": 1911460,
+				"to": 1922510
+			},
+			"text": " Quality of fruit is important to us, so we don't want to pick things that are going to not be as sweet as they could be, or maybe a drought tolerant for Southern California, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,750",
+				"to": "00:32:12,850"
+			},
+			"offsets": {
+				"from": 1923750,
+				"to": 1932850
+			},
+			"text": " One of the things that people don't realize that we spend a lot of energy on is making sure that there's a really big variety so that things all don't get ripe at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,100",
+				"to": "00:32:14,320"
+			},
+			"offsets": {
+				"from": 1933100,
+				"to": 1934320
+			},
+			"text": " I mean, that's not interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:14,440",
+				"to": "00:32:15,340"
+			},
+			"offsets": {
+				"from": 1934440,
+				"to": 1935340
+			},
+			"text": " That's an orchard."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,480",
+				"to": "00:32:17,440"
+			},
+			"offsets": {
+				"from": 1935480,
+				"to": 1937440
+			},
+			"text": " That's a commercial crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,030",
+				"to": "00:32:20,550"
+			},
+			"offsets": {
+				"from": 1938030,
+				"to": 1940550
+			},
+			"text": " What we're interested in is changing your experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,330",
+				"to": "00:32:27,470"
+			},
+			"offsets": {
+				"from": 1942330,
+				"to": 1947470
+			},
+			"text": " So, we like to make sure that fruit trees are ripe as much of the year as possible in a neighborhood."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,980",
+				"to": "00:32:31,720"
+			},
+			"offsets": {
+				"from": 1947980,
+				"to": 1951720
+			},
+			"text": " Right now, we've also gotten really excited about drought tolerant fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,140",
+				"to": "00:32:37,350"
+			},
+			"offsets": {
+				"from": 1952140,
+				"to": 1957350
+			},
+			"text": " So, we've been looking at propagating dragon fruit and tunas."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,550",
+				"to": "00:32:43,090"
+			},
+			"offsets": {
+				"from": 1957550,
+				"to": 1963090
+			},
+			"text": " We're thinking about maybe planting pineapple around, which does really well in this climate."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,260",
+				"to": "00:32:45,740"
+			},
+			"offsets": {
+				"from": 1964260,
+				"to": 1965740
+			},
+			"text": " They're small, but they grow."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,120",
+				"to": "00:32:53,990"
+			},
+			"offsets": {
+				"from": 1967120,
+				"to": 1973990
+			},
+			"text": " So, we're kind of like thinking about how can we plant fruit trees that maybe don't need as much water and care."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,990",
+				"to": "00:33:05,200"
+			},
+			"offsets": {
+				"from": 1973990,
+				"to": 1985200
+			},
+			"text": " Yeah, pomegranates, and of course, we're working with these more water, how do you describe that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:06,620",
+				"to": "00:33:07,600"
+			},
+			"offsets": {
+				"from": 1986620,
+				"to": 1987600
+			},
+			"text": " Embracing, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,900",
+				"to": "00:33:12,400"
+			},
+			"offsets": {
+				"from": 1988900,
+				"to": 1992400
+			},
+			"text": " Yeah, I don't know, drought friendly fruit, something."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,020",
+				"to": "00:33:14,380"
+			},
+			"offsets": {
+				"from": 1993020,
+				"to": 1994380
+			},
+			"text": " Yeah, yeah, something like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,480",
+				"to": "00:33:18,330"
+			},
+			"offsets": {
+				"from": 1994480,
+				"to": 1998330
+			},
+			"text": " Like, things that just aren't really hard on our infrastructure."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,730",
+				"to": "00:33:20,610"
+			},
+			"offsets": {
+				"from": 1998730,
+				"to": 2000610
+			},
+			"text": " We're really exploring that right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,890",
+				"to": "00:33:24,410"
+			},
+			"offsets": {
+				"from": 2000890,
+				"to": 2004410
+			},
+			"text": " Yeah, we're loving the idea of desert fruits."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,410",
+				"to": "00:33:45,260"
+			},
+			"offsets": {
+				"from": 2004410,
+				"to": 2025260
+			},
+			"text": " Well, so, my grandpa was raised in Long Beach, and he grew up during the Depression, and he famously told this story of crawling through the orange orchards on his belly, like picking up oranges with his brothers so they would have enough food to eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,430",
+				"to": "00:33:52,070"
+			},
+			"offsets": {
+				"from": 2026430,
+				"to": 2032070
+			},
+			"text": " And, you know, when I think about LA, I think about LA is this amazingly diverse place, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,170",
+				"to": "00:33:54,230"
+			},
+			"offsets": {
+				"from": 2032170,
+				"to": 2034230
+			},
+			"text": " It's got people from all over the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:54,950",
+				"to": "00:34:12,370"
+			},
+			"offsets": {
+				"from": 2034950,
+				"to": 2052370
+			},
+			"text": " And I think, I don't know, because it's such a car city, like we were talking about at the beginning of this interview, I don't have this great imagination of, like, people's backyards or these public places where people cultivate food, and especially fruit trees from all the places they've come in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,370",
+				"to": "00:34:16,690"
+			},
+			"offsets": {
+				"from": 2052370,
+				"to": 2056690
+			},
+			"text": " But, you know, like, through hearing you guys, obviously they do."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:17,010",
+				"to": "00:34:24,590"
+			},
+			"offsets": {
+				"from": 2057010,
+				"to": 2064590
+			},
+			"text": " And how do these trees and how do these varieties that you pick and how do these fruits that grow relate to these neighborhoods that they're in?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,950",
+				"to": "00:34:29,460"
+			},
+			"offsets": {
+				"from": 2065950,
+				"to": 2069460
+			},
+			"text": " Well, Silver Lake is just filled with fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:29,620",
+				"to": "00:34:33,480"
+			},
+			"offsets": {
+				"from": 2069620,
+				"to": 2073480
+			},
+			"text": " There's different cultures who tend to like different fruits."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,480",
+				"to": "00:34:37,480"
+			},
+			"offsets": {
+				"from": 2073480,
+				"to": 2077480
+			},
+			"text": " Like, what is it, the Calamondan limes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,360",
+				"to": "00:34:39,320"
+			},
+			"offsets": {
+				"from": 2078360,
+				"to": 2079320
+			},
+			"text": " Filipino lime."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,620",
+				"to": "00:34:43,520"
+			},
+			"offsets": {
+				"from": 2079620,
+				"to": 2083520
+			},
+			"text": " The common name is Filipino lime or Calamondi or Calamondan."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,700",
+				"to": "00:34:44,260"
+			},
+			"offsets": {
+				"from": 2083700,
+				"to": 2084260
+			},
+			"text": " Sorry to interrupt."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,640",
+				"to": "00:34:44,880"
+			},
+			"offsets": {
+				"from": 2084640,
+				"to": 2084880
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,380",
+				"to": "00:34:47,580"
+			},
+			"offsets": {
+				"from": 2085380,
+				"to": 2087580
+			},
+			"text": " Or, like, there's tons of loquats around."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,720",
+				"to": "00:34:49,420"
+			},
+			"offsets": {
+				"from": 2087720,
+				"to": 2089420
+			},
+			"text": " Like, there's tons of loquats."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,120",
+				"to": "00:34:56,540"
+			},
+			"offsets": {
+				"from": 2090120,
+				"to": 2096540
+			},
+			"text": " And I can imagine, I don't know, I mean, who, I don't know who's into loquats."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,620",
+				"to": "00:34:57,900"
+			},
+			"offsets": {
+				"from": 2096620,
+				"to": 2097900
+			},
+			"text": " Like, is it Chinese, Korean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:59,620",
+				"to": "00:35:04,600"
+			},
+			"offsets": {
+				"from": 2099620,
+				"to": 2104600
+			},
+			"text": " There's a lot of lemons, oranges, mandarins, avocados."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:06,050",
+				"to": "00:35:17,940"
+			},
+			"offsets": {
+				"from": 2106050,
+				"to": 2117940
+			},
+			"text": " So, I think it's interesting when you go around, like, a neighborhood like Beverly Hills, you really don't find much fruit on the edge of people's property."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,670",
+				"to": "00:35:24,020"
+			},
+			"offsets": {
+				"from": 2118670,
+				"to": 2124020
+			},
+			"text": " It seems to be these more diverse neighborhoods that have a lot of fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,020",
+				"to": "00:35:31,230"
+			},
+			"offsets": {
+				"from": 2124020,
+				"to": 2131230
+			},
+			"text": " Well, it's also really interesting as, like, a social study is that you can see the history of a neighborhood by fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,720",
+				"to": "00:35:37,230"
+			},
+			"offsets": {
+				"from": 2131720,
+				"to": 2137230
+			},
+			"text": " Even in cities away from Los Angeles, long ago, we were doing a project in Austria."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:37,870",
+				"to": "00:35:45,780"
+			},
+			"offsets": {
+				"from": 2137870,
+				"to": 2145780
+			},
+			"text": " And after World War II, a neighborhood became very, it was required that it became very self-sufficient."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,350",
+				"to": "00:35:49,020"
+			},
+			"offsets": {
+				"from": 2146350,
+				"to": 2149020
+			},
+			"text": " And so, we mapped it because there were so many fruit trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,020",
+				"to": "00:35:55,060"
+			},
+			"offsets": {
+				"from": 2149020,
+				"to": 2155060
+			},
+			"text": " And, of course, in Austria, there are apple trees and quinn and maybe some grapes and things like this."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,140",
+				"to": "00:36:01,260"
+			},
+			"offsets": {
+				"from": 2155140,
+				"to": 2161260
+			},
+			"text": " But there were so many trees that were planted by people who lived there that existed in public space."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,320",
+				"to": "00:36:02,400"
+			},
+			"offsets": {
+				"from": 2161320,
+				"to": 2162400
+			},
+			"text": " It was really quite remarkable."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,160",
+				"to": "00:36:06,530"
+			},
+			"offsets": {
+				"from": 2163160,
+				"to": 2166530
+			},
+			"text": " And so, it's an economic history, an cultural history."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,830",
+				"to": "00:36:10,350"
+			},
+			"offsets": {
+				"from": 2166830,
+				"to": 2170350
+			},
+			"text": " And sometimes the varieties of trees really reflect that."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,830",
+				"to": "00:36:12,050"
+			},
+			"offsets": {
+				"from": 2171830,
+				"to": 2172050
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,360",
+				"to": "00:36:17,030"
+			},
+			"offsets": {
+				"from": 2173360,
+				"to": 2177030
+			},
+			"text": " I definitely think about that in neighborhoods that I've lived in."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,030",
+				"to": "00:36:21,170"
+			},
+			"offsets": {
+				"from": 2177030,
+				"to": 2181170
+			},
+			"text": " Yeah, and then there's actually, it's really exciting in L.A. because you've got history."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,090",
+				"to": "00:36:28,910"
+			},
+			"offsets": {
+				"from": 2182090,
+				"to": 2188910
+			},
+			"text": " Like, downtown L.A., there were all grapevines in certain areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:29,170",
+				"to": "00:36:32,090"
+			},
+			"offsets": {
+				"from": 2189170,
+				"to": 2192090
+			},
+			"text": " And some areas, it was orange groves and lemon groves."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,270",
+				"to": "00:36:35,370"
+			},
+			"offsets": {
+				"from": 2192270,
+				"to": 2195370
+			},
+			"text": " And so, there's still remnants of some of these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,230",
+				"to": "00:36:43,760"
+			},
+			"offsets": {
+				"from": 2196230,
+				"to": 2203760
+			},
+			"text": " And we sort of like the idea of putting things back where they might have been as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,760",
+				"to": "00:36:49,060"
+			},
+			"offsets": {
+				"from": 2203760,
+				"to": 2209060
+			},
+			"text": " And then, there was a grape that, there's a grape, there's one grape that's native to the area."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,740",
+				"to": "00:36:51,900"
+			},
+			"offsets": {
+				"from": 2209740,
+				"to": 2211900
+			},
+			"text": " Do you remember the name of the variety, Dave?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:52,270",
+				"to": "00:36:54,380"
+			},
+			"offsets": {
+				"from": 2212270,
+				"to": 2214380
+			},
+			"text": " No, I can't remember the name off the top of my head."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,420",
+				"to": "00:36:54,760"
+			},
+			"offsets": {
+				"from": 2214420,
+				"to": 2214760
+			},
+			"text": " I'm sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,850",
+				"to": "00:36:58,550"
+			},
+			"offsets": {
+				"from": 2215850,
+				"to": 2218550
+			},
+			"text": " So, that used to grow around the L.A. River."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,250",
+				"to": "00:36:59,490"
+			},
+			"offsets": {
+				"from": 2219250,
+				"to": 2219490
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,530",
+				"to": "00:37:03,430"
+			},
+			"offsets": {
+				"from": 2219530,
+				"to": 2223430
+			},
+			"text": " It'd be fun to think about putting some of those grapes back along the river."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,050",
+				"to": "00:37:04,640"
+			},
+			"offsets": {
+				"from": 2224050,
+				"to": 2224640
+			},
+			"text": " Totally."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,800",
+				"to": "00:37:07,880"
+			},
+			"offsets": {
+				"from": 2224800,
+				"to": 2227880
+			},
+			"text": " To kind of trace these cultural histories of these fruits, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,880",
+				"to": "00:37:08,120"
+			},
+			"offsets": {
+				"from": 2227880,
+				"to": 2228120
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,350",
+				"to": "00:37:10,130"
+			},
+			"offsets": {
+				"from": 2228350,
+				"to": 2230130
+			},
+			"text": " So, what's next for you guys?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,480",
+				"to": "00:37:27,960"
+			},
+			"offsets": {
+				"from": 2231480,
+				"to": 2247960
+			},
+			"text": " We've been working on our Endless Orchard app, which is going to be a way that anybody anywhere in the world could plant a fruit tree in front of their property or in public space and map it and share it."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,250",
+				"to": "00:37:28,660"
+			},
+			"offsets": {
+				"from": 2248250,
+				"to": 2248660
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,820",
+				"to": "00:37:33,830"
+			},
+			"offsets": {
+				"from": 2248820,
+				"to": 2253830
+			},
+			"text": " We're really thinking of it as being kind of the biggest collaborative project we've ever thought of."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,830",
+				"to": "00:37:41,010"
+			},
+			"offsets": {
+				"from": 2253830,
+				"to": 2261010
+			},
+			"text": " So, anyone can help make the project bigger and change it in their own way and transform their own neighborhood experiences."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:41,690",
+				"to": "00:37:42,400"
+			},
+			"offsets": {
+				"from": 2261690,
+				"to": 2262400
+			},
+			"text": " Cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,520",
+				"to": "00:37:43,760"
+			},
+			"offsets": {
+				"from": 2262520,
+				"to": 2263760
+			},
+			"text": " When's it going to be?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:44,100",
+				"to": "00:37:45,040"
+			},
+			"offsets": {
+				"from": 2264100,
+				"to": 2265040
+			},
+			"text": " When are you launching it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,200",
+				"to": "00:37:47,200"
+			},
+			"offsets": {
+				"from": 2265200,
+				"to": 2267200
+			},
+			"text": " We're going to have a beta version pretty soon."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,460",
+				"to": "00:37:49,980"
+			},
+			"offsets": {
+				"from": 2267460,
+				"to": 2269980
+			},
+			"text": " So, I think within a month."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,180",
+				"to": "00:37:57,530"
+			},
+			"offsets": {
+				"from": 2270180,
+				"to": 2277530
+			},
+			"text": " And then we're going to do some kind of celebration in downtown L.A. to officially launch it."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,760",
+				"to": "00:38:02,720"
+			},
+			"offsets": {
+				"from": 2278760,
+				"to": 2282720
+			},
+			"text": " That's why we've been planting fruit trees around L.A.'s State Historic Park."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,080",
+				"to": "00:38:06,100"
+			},
+			"offsets": {
+				"from": 2283080,
+				"to": 2286100
+			},
+			"text": " And we're actually going to make a piece inside the park."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:06,360",
+				"to": "00:38:09,640"
+			},
+			"offsets": {
+				"from": 2286360,
+				"to": 2289640
+			},
+			"text": " And we're going to call that the center of the Endless Orchard."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,990",
+				"to": "00:38:15,920"
+			},
+			"offsets": {
+				"from": 2290990,
+				"to": 2295920
+			},
+			"text": " So, we actually got awarded a creative capital for this project."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:16,320",
+				"to": "00:38:18,100"
+			},
+			"offsets": {
+				"from": 2296320,
+				"to": 2298100
+			},
+			"text": " And we've gotten a lot of support from the public."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:18,260",
+				"to": "00:38:19,160"
+			},
+			"offsets": {
+				"from": 2298260,
+				"to": 2299160
+			},
+			"text": " We did a big Kickstarter."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,520",
+				"to": "00:38:21,200"
+			},
+			"offsets": {
+				"from": 2299520,
+				"to": 2301200
+			},
+			"text": " And I've gotten some donations."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,700",
+				"to": "00:38:24,300"
+			},
+			"offsets": {
+				"from": 2302700,
+				"to": 2304300
+			},
+			"text": " It's been a lot of fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,420",
+				"to": "00:38:34,340"
+			},
+			"offsets": {
+				"from": 2304420,
+				"to": 2314340
+			},
+			"text": " So, we've been planting, reaching out to different communities, planting barrels with fruit trees, planting fruit trees in the ground."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,340",
+				"to": "00:38:41,220"
+			},
+			"offsets": {
+				"from": 2314340,
+				"to": 2321220
+			},
+			"text": " It's been sort of our focus for the last year really strongly."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:41,740",
+				"to": "00:38:43,340"
+			},
+			"offsets": {
+				"from": 2321740,
+				"to": 2323340
+			},
+			"text": " It sounds like a great project."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,500",
+				"to": "00:38:46,980"
+			},
+			"offsets": {
+				"from": 2323500,
+				"to": 2326980
+			},
+			"text": " You'll have to make sure to send me the links so we can include that with the show."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,340",
+				"to": "00:38:48,310"
+			},
+			"offsets": {
+				"from": 2327340,
+				"to": 2328310
+			},
+			"text": " Thanks, guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:48,600",
+				"to": "00:38:49,900"
+			},
+			"offsets": {
+				"from": 2328600,
+				"to": 2329900
+			},
+			"text": " It was so nice to talk to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,140",
+				"to": "00:38:50,780"
+			},
+			"offsets": {
+				"from": 2330140,
+				"to": 2330780
+			},
+			"text": " Thanks, Chelsea."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,020",
+				"to": "00:38:52,340"
+			},
+			"offsets": {
+				"from": 2331020,
+				"to": 2332340
+			},
+			"text": " It was great talking to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,880",
+				"to": "00:38:54,500"
+			},
+			"offsets": {
+				"from": 2332880,
+				"to": 2334500
+			},
+			"text": " You asked the best questions."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:54,620",
+				"to": "00:38:55,020"
+			},
+			"offsets": {
+				"from": 2334620,
+				"to": 2335020
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,370",
+				"to": "00:39:07,370"
+			},
+			"offsets": {
+				"from": 2344370,
+				"to": 2347370
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:07,790",
+				"to": "00:39:09,970"
+			},
+			"offsets": {
+				"from": 2347790,
+				"to": 2349970
+			},
+			"text": " Made by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:09,970",
+				"to": "00:39:15,580"
+			},
+			"offsets": {
+				"from": 2349970,
+				"to": 2355580
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,110",
+				"to": "00:39:20,250"
+			},
+			"offsets": {
+				"from": 2356110,
+				"to": 2360250
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,410",
+				"to": "00:39:25,800"
+			},
+			"offsets": {
+				"from": 2360410,
+				"to": 2365800
+			},
+			"text": " There, we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:26,150",
+				"to": "00:39:28,330"
+			},
+			"offsets": {
+				"from": 2366150,
+				"to": 2368330
+			},
+			"text": " You can find us on Facebook and Twitter, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,690",
+				"to": "00:39:37,070"
+			},
+			"offsets": {
+				"from": 2368690,
+				"to": 2377070
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,070",
+				"to": "00:39:40,970"
+			},
+			"offsets": {
+				"from": 2377070,
+				"to": 2380970
+			},
+			"text": " Visit www.calhome.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,310",
+				"to": "00:39:46,930"
+			},
+			"offsets": {
+				"from": 2381310,
+				"to": 2386930
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

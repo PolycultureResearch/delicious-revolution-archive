@@ -1,0 +1,5004 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,990",
+				"to": "00:00:28,770"
+			},
+			"offsets": {
+				"from": 990,
+				"to": 28770
+			},
+			"text": " I think that when we're able to still be conscious of the different power differentials and yet come together on a shared commitment and goal via dialogue and via relationship building, I think it's actually one of the most powerful things to do as just an individual and as a citizen and as a researcher."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,770",
+				"to": "00:00:45,500"
+			},
+			"offsets": {
+				"from": 28770,
+				"to": 45500
+			},
+			"text": " Um, and it's also, I think, one of the most hopeful things to do. I think, you know, we, we are committed to the work we do because we want to see change happen in the world where we see injustices, we see all these things happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,500",
+				"to": "00:00:54,570"
+			},
+			"offsets": {
+				"from": 45500,
+				"to": 54570
+			},
+			"text": " Um, it's, we're aware of the past and historical injustices that have created the present."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,570",
+				"to": "00:01:12,210"
+			},
+			"offsets": {
+				"from": 54570,
+				"to": 72210
+			},
+			"text": " Um, it would be a damn shame if we, if we then retreat to our own shells and not try to find some way to communicate across these differences to affect change together and to build relationships and to build communities and to build coalitions."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,210",
+				"to": "00:01:19,350"
+			},
+			"offsets": {
+				"from": 72210,
+				"to": 79350
+			},
+			"text": " Um, but what I find that everybody wants to do is everybody does want to build community and relationship around these issues that they care about."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,350",
+				"to": "00:01:24,770"
+			},
+			"offsets": {
+				"from": 79350,
+				"to": 84770
+			},
+			"text": " And so I think keeping that front and center as well is the key to, to the work I think that we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,880",
+				"to": "00:01:34,220"
+			},
+			"offsets": {
+				"from": 87880,
+				"to": 94220
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,220",
+				"to": "00:01:43,520"
+			},
+			"offsets": {
+				"from": 94220,
+				"to": 103520
+			},
+			"text": " We talk with people who work in and think about all aspects of the food movement, including farmers, chefs, artists, and activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,200",
+				"to": "00:01:46,920"
+			},
+			"offsets": {
+				"from": 104200,
+				"to": 106920
+			},
+			"text": " These people have a vision for a different food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,700",
+				"to": "00:01:53,870"
+			},
+			"offsets": {
+				"from": 107700,
+				"to": 113870
+			},
+			"text": " This first season of Delicious Revolution, we talk to friends who are deeply engaged with many aspects of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,010",
+				"to": "00:01:58,640"
+			},
+			"offsets": {
+				"from": 114010,
+				"to": 118640
+			},
+			"text": " These people have inspired us over many years with their thoughts and stories."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,640",
+				"to": "00:02:03,600"
+			},
+			"offsets": {
+				"from": 118640,
+				"to": 123600
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,820",
+				"to": "00:02:07,410"
+			},
+			"offsets": {
+				"from": 123820,
+				"to": 127410
+			},
+			"text": " And you can find us at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,090",
+				"to": "00:02:17,160"
+			},
+			"offsets": {
+				"from": 128090,
+				"to": 137160
+			},
+			"text": " Brian Dowder-Ribe is a food systems researcher and an assistant professor at the University of San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,500",
+				"to": "00:02:22,820"
+			},
+			"offsets": {
+				"from": 137500,
+				"to": 142820
+			},
+			"text": " We met in the environmental studies program at UC Santa Cruz, where we both received PhDs."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,380",
+				"to": "00:02:36,180"
+			},
+			"offsets": {
+				"from": 143380,
+				"to": 156180
+			},
+			"text": " There, Brian's research took place in Burkina Faso, and he looked closely at the introduction of genetically modified cotton and the impact on both the state and on farmers' lives, and also the impacts of liberalization on farmer livelihoods."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,180",
+				"to": "00:02:44,240"
+			},
+			"offsets": {
+				"from": 156180,
+				"to": 164240
+			},
+			"text": " At the same time, with a group of other PhD students at UC Santa Cruz, Brian co-founded the New Roots Institute for the Study of Food Systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,540",
+				"to": "00:02:57,370"
+			},
+			"offsets": {
+				"from": 164540,
+				"to": 177370
+			},
+			"text": " He then worked as a postdoc at Columbia University's Earth Institute and looking at community gardens in East Harlem, and then for three years at the University of Peace, a United Nations-affiliated university in Costa Rica."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,650",
+				"to": "00:03:05,200"
+			},
+			"offsets": {
+				"from": 177650,
+				"to": 185200
+			},
+			"text": " He and his family recently returned to Northern California, where he grew up, for a tenure-track position at the University of San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,370",
+				"to": "00:03:21,870"
+			},
+			"offsets": {
+				"from": 185370,
+				"to": 201870
+			},
+			"text": " We've seen each other at so many conferences and meetings over the last year, at a conference on food sovereignty at Yale, then at a food and agriculture organization conference in Rome, then at the Association of American Geographers meeting in Chicago."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,610",
+				"to": "00:03:27,790"
+			},
+			"offsets": {
+				"from": 202610,
+				"to": 207790
+			},
+			"text": " And it's happened so many times that when I wrote Brian with a request for this interview, we joked that it was strange when we didn't see each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,430",
+				"to": "00:03:33,510"
+			},
+			"offsets": {
+				"from": 208430,
+				"to": 213510
+			},
+			"text": " And that exchange took place while I was presenting in Mexico City, and he was presenting in Nova Scotia."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,730",
+				"to": "00:03:42,580"
+			},
+			"offsets": {
+				"from": 214730,
+				"to": 222580
+			},
+			"text": " He has one of the best perspectives of perhaps anyone I know on institutional change in the food system on the international stage."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,740",
+				"to": "00:03:51,600"
+			},
+			"offsets": {
+				"from": 222740,
+				"to": 231600
+			},
+			"text": " He's cultivated relationships with farmers and farming communities in several countries, and keeps investigating the interplay between farmers' lives and changing politics and policy."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,060",
+				"to": "00:03:53,720"
+			},
+			"offsets": {
+				"from": 232060,
+				"to": 233720
+			},
+			"text": " So, Brian, welcome to Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,590",
+				"to": "00:03:57,540"
+			},
+			"offsets": {
+				"from": 234590,
+				"to": 237540
+			},
+			"text": " It is a pleasure to be here with you, Devin. Thanks for inviting me."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,820",
+				"to": "00:03:58,600"
+			},
+			"offsets": {
+				"from": 237820,
+				"to": 238600
+			},
+			"text": " Hey, thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,180",
+				"to": "00:04:08,630"
+			},
+			"offsets": {
+				"from": 239180,
+				"to": 248630
+			},
+			"text": " We're talking via Skype, and you are in your office at University of San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,990",
+				"to": "00:04:12,030"
+			},
+			"offsets": {
+				"from": 248990,
+				"to": 252030
+			},
+			"text": " In my dungeon windowless office in San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,350",
+				"to": "00:04:13,990"
+			},
+			"offsets": {
+				"from": 253350,
+				"to": 253990
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,430",
+				"to": "00:04:22,210"
+			},
+			"offsets": {
+				"from": 254430,
+				"to": 262210
+			},
+			"text": " Well, I think I thought of a bunch of questions to ask you, and I think I'll start with probably the hardest one, just to jump right into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,990",
+				"to": "00:04:25,390"
+			},
+			"offsets": {
+				"from": 262990,
+				"to": 265390
+			},
+			"text": " Is there an international food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,430",
+				"to": "00:04:32,570"
+			},
+			"offsets": {
+				"from": 267430,
+				"to": 272570
+			},
+			"text": " Yeah, that's a nice, easy introduction to the podcast, isn't it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,970",
+				"to": "00:04:37,690"
+			},
+			"offsets": {
+				"from": 274970,
+				"to": 277690
+			},
+			"text": " You know, I'm tempted to say, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,630",
+				"to": "00:04:41,530"
+			},
+			"offsets": {
+				"from": 278630,
+				"to": 281530
+			},
+			"text": " And I'm also tempted to say yes and no."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,850",
+				"to": "00:04:50,160"
+			},
+			"offsets": {
+				"from": 282850,
+				"to": 290160
+			},
+			"text": " And I think, why don't I start with yes, because there's a growing consciousness around food in so many different places."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,420",
+				"to": "00:05:07,390"
+			},
+			"offsets": {
+				"from": 291420,
+				"to": 307390
+			},
+			"text": " And this is leading towards the building of organizations that are increasingly networking at regional and international levels and coalition building around common interests and ideas about food and agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,720",
+				"to": "00:05:15,160"
+			},
+			"offsets": {
+				"from": 308720,
+				"to": 315160
+			},
+			"text": " But I'm also kind of like, well, international, what would it mean for there to be an international food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,220",
+				"to": "00:05:17,690"
+			},
+			"offsets": {
+				"from": 316220,
+				"to": 317690
+			},
+			"text": " And what would that look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,850",
+				"to": "00:05:22,490"
+			},
+			"offsets": {
+				"from": 317850,
+				"to": 322490
+			},
+			"text": " And I would imagine that it would be very representative geographically."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,360",
+				"to": "00:05:29,980"
+			},
+			"offsets": {
+				"from": 323360,
+				"to": 329980
+			},
+			"text": " And unfortunately, I don't think we're quite there yet about that broad representation geographically in terms of an international food movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,150",
+				"to": "00:05:42,160"
+			},
+			"offsets": {
+				"from": 331150,
+				"to": 342160
+			},
+			"text": " And also the term movement, when I think of movement, I'm thinking about organizations that are coming together from all around the world and around a common umbrella cause."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,420",
+				"to": "00:06:07,220"
+			},
+			"offsets": {
+				"from": 342420,
+				"to": 367220
+			},
+			"text": " And while I think that there's good representation from certain aspects of foodism, so to speak, gastronomy or food justice, coming together around a common idea of what a food system should look like and then relating that to an international public insofar as it relates to equity and justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,220",
+				"to": "00:06:15,690"
+			},
+			"offsets": {
+				"from": 367220,
+				"to": 375690
+			},
+			"text": " I think that's a tall order, but I'm very hopeful that we're moving that direction and hopefully we'll continue to get closer to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,020",
+				"to": "00:06:17,500"
+			},
+			"offsets": {
+				"from": 377020,
+				"to": 377500
+			},
+			"text": " Great, Brian."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,880",
+				"to": "00:06:24,210"
+			},
+			"offsets": {
+				"from": 377880,
+				"to": 384210
+			},
+			"text": " I guess part of why I wanted to lead off with that is that you've been thinking about food for a long time now."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,390",
+				"to": "00:06:36,540"
+			},
+			"offsets": {
+				"from": 384390,
+				"to": 396540
+			},
+			"text": " Did that, and there's this energy around talking about food and researching food and focusing on food systems that's kind of grown up over that time that you've been researching food."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,360",
+				"to": "00:06:39,520"
+			},
+			"offsets": {
+				"from": 397360,
+				"to": 399520
+			},
+			"text": " So I guess I kind of want to start at the beginning."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,700",
+				"to": "00:06:43,300"
+			},
+			"offsets": {
+				"from": 399700,
+				"to": 403300
+			},
+			"text": " Did your interest in food and farming start with the Peace Corps?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,540",
+				"to": "00:06:45,640"
+			},
+			"offsets": {
+				"from": 404540,
+				"to": 405640
+			},
+			"text": " It did, actually."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,450",
+				"to": "00:07:02,970"
+			},
+			"offsets": {
+				"from": 407450,
+				"to": 422970
+			},
+			"text": " You know, my childhood was very, you know, I'm raising a two-and-a-half-year-old right now, and I look at him and I look at the diversity of foods he's eating at two-and-a-half, and I didn't have nearly that diversity of food in my diet when I was 16."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,190",
+				"to": "00:07:05,750"
+			},
+			"offsets": {
+				"from": 424190,
+				"to": 425750
+			},
+			"text": " I didn't eat vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,130",
+				"to": "00:07:09,350"
+			},
+			"offsets": {
+				"from": 426130,
+				"to": 429350
+			},
+			"text": " I was a very meat and potatoes kind of a guy, and that's how I was raised."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,890",
+				"to": "00:07:21,590"
+			},
+			"offsets": {
+				"from": 430890,
+				"to": 441590
+			},
+			"text": " But by a stroke of luck, I was sent to Togo in the Peace Corps, and I had an intense interest in the environment and in ecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,590",
+				"to": "00:07:27,640"
+			},
+			"offsets": {
+				"from": 441590,
+				"to": 447640
+			},
+			"text": " And so I was put into an environmentally-oriented program, which actually ended up being an agriculturally-oriented program."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,620",
+				"to": "00:07:46,560"
+			},
+			"offsets": {
+				"from": 448620,
+				"to": 466560
+			},
+			"text": " And really where my intense interest in the intersection of food and justice and equity came about was living in this rural community in northern Togo with folks who were growing all their own food, who were, you know, been growing their food for a very long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,560",
+				"to": "00:07:52,400"
+			},
+			"offsets": {
+				"from": 466560,
+				"to": 472400
+			},
+			"text": " And learning from them, learning with them about different ways to grow food together."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,300",
+				"to": "00:08:03,440"
+			},
+			"offsets": {
+				"from": 474300,
+				"to": 483440
+			},
+			"text": " And so it was really out of seeing their struggles with, you know, reproducing their livelihoods via agricultural production."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,720",
+				"to": "00:08:09,550"
+			},
+			"offsets": {
+				"from": 484720,
+				"to": 489550
+			},
+			"text": " That's really where, gosh, my interest just skyrocketed."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,610",
+				"to": "00:08:11,090"
+			},
+			"offsets": {
+				"from": 489610,
+				"to": 491090
+			},
+			"text": " I started farming myself there."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,170",
+				"to": "00:08:25,200"
+			},
+			"offsets": {
+				"from": 491170,
+				"to": 505200
+			},
+			"text": " I had my own farm there that I worked with women's cooperatives in producing corn and peanuts and sorghum and soy, both for household consumption and for sale."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,120",
+				"to": "00:08:30,180"
+			},
+			"offsets": {
+				"from": 508120,
+				"to": 510180
+			},
+			"text": " And, yeah, that's really where I got in."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,180",
+				"to": "00:08:44,950"
+			},
+			"offsets": {
+				"from": 510180,
+				"to": 524950
+			},
+			"text": " So I farmed there for two years and then worked with this community, really learning much more from them than I ever could have imagined about different ways of farming and doing agriculture in Sahelian or sub-Sahelian Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,590",
+				"to": "00:08:49,810"
+			},
+			"offsets": {
+				"from": 527590,
+				"to": 529810
+			},
+			"text": " So remind me where we're going with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,950",
+				"to": "00:08:50,350"
+			},
+			"offsets": {
+				"from": 529950,
+				"to": 530350
+			},
+			"text": " Yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,390",
+				"to": "00:08:55,550"
+			},
+			"offsets": {
+				"from": 530390,
+				"to": 535550
+			},
+			"text": " So I guess where we're going is that's your first introduction."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,690",
+				"to": "00:08:57,490"
+			},
+			"offsets": {
+				"from": 535690,
+				"to": 537490
+			},
+			"text": " That's your first interest in food."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,650",
+				"to": "00:08:59,390"
+			},
+			"offsets": {
+				"from": 537650,
+				"to": 539390
+			},
+			"text": " What caught your interest there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,390",
+				"to": "00:09:04,250"
+			},
+			"offsets": {
+				"from": 539390,
+				"to": 544250
+			},
+			"text": " What about the way people farmed and the way people talked about food was what grabbed you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,330",
+				"to": "00:09:06,450"
+			},
+			"offsets": {
+				"from": 545330,
+				"to": 546450
+			},
+			"text": " Gosh, there's so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,970",
+				"to": "00:09:19,600"
+			},
+			"offsets": {
+				"from": 546970,
+				"to": 559600
+			},
+			"text": " I was fascinated by how labor was divided and used in agricultural production, how, you know, how segmented was in certain ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,700",
+				"to": "00:09:21,540"
+			},
+			"offsets": {
+				"from": 559700,
+				"to": 561540
+			},
+			"text": " Women would do all the sowing of seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,730",
+				"to": "00:09:31,310"
+			},
+			"offsets": {
+				"from": 562730,
+				"to": 571310
+			},
+			"text": " There were different kind of cooperative labor groups that would trade between different agricultural patches operated by household."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,910",
+				"to": "00:09:42,470"
+			},
+			"offsets": {
+				"from": 571910,
+				"to": 582470
+			},
+			"text": " So one day you'd be, you know, 20 some odd men would be working on this gentleman's field while the next day they would go to the other field."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,790",
+				"to": "00:09:56,610"
+			},
+			"offsets": {
+				"from": 582790,
+				"to": 596610
+			},
+			"text": " And in order to repay the cooperative work group, that household would prepare food and sorghum beer as a way to both feed and also to show this reciprocity in the work that folks were doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,070",
+				"to": "00:10:04,350"
+			},
+			"offsets": {
+				"from": 597070,
+				"to": 604350
+			},
+			"text": " Um, I was also just fascinated in how it connected to their, um, spiritual and mystical beliefs as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,900",
+				"to": "00:10:17,360"
+			},
+			"offsets": {
+				"from": 604900,
+				"to": 617360
+			},
+			"text": " Um, the moon cycles, this was an ethnic group, the Kabye, that where each moon cycle had a name and the moon cycle corresponded to particular aspects of the agricultural calendar."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,360",
+				"to": "00:10:21,500"
+			},
+			"offsets": {
+				"from": 617360,
+				"to": 621500
+			},
+			"text": " So there was the weeding moon and the planting moon and so forth."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,410",
+				"to": "00:10:31,220"
+			},
+			"offsets": {
+				"from": 622410,
+				"to": 631220
+			},
+			"text": " And sorghum beer was kind of their spiritual, um, like it's the thing that, um, it was used in ceremonies and whatnot."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,500",
+				"to": "00:10:37,320"
+			},
+			"offsets": {
+				"from": 631500,
+				"to": 637320
+			},
+			"text": " And you would bury your, your elders in fields that where you would end up growing your sorghum."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,580",
+				"to": "00:10:42,260"
+			},
+			"offsets": {
+				"from": 637580,
+				"to": 642260
+			},
+			"text": " And so you were literally, you were drinking your ancestors."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,260",
+				"to": "00:10:47,010"
+			},
+			"offsets": {
+				"from": 642260,
+				"to": 647010
+			},
+			"text": " And so before you would have a, a, um, a gourd full of sorghum beer, you would pour it out on the ground."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,310",
+				"to": "00:10:55,470"
+			},
+			"offsets": {
+				"from": 647310,
+				"to": 655470
+			},
+			"text": " And thanks to the ancestors in the ground and both the, the beer came from the seeds and you're also pouring it back into the soil where the ancestors lay."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,470",
+				"to": "00:11:04,700"
+			},
+			"offsets": {
+				"from": 655470,
+				"to": 664700
+			},
+			"text": " And so it was just wrapped up in these, um, very interesting, just ways of viewing life, households, family, ancestors that I found fascinating."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,790",
+				"to": "00:11:05,890"
+			},
+			"offsets": {
+				"from": 665790,
+				"to": 665890
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,410",
+				"to": "00:11:16,800"
+			},
+			"offsets": {
+				"from": 666410,
+				"to": 676800
+			},
+			"text": " And so at some point after two years of farming, um, and drinking sorghum beer, you decide, you decide that you, you want to get a PhD?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,790",
+				"to": "00:11:26,070"
+			},
+			"offsets": {
+				"from": 677790,
+				"to": 686070
+			},
+			"text": " Yeah, I was, I mean, one of the things that I haven't mentioned yet about the living there was cotton and the importance of cotton to the livelihoods of folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,390",
+				"to": "00:11:40,720"
+			},
+			"offsets": {
+				"from": 686390,
+				"to": 700720
+			},
+			"text": " Cotton was really the, the engine by which colonial and post-colonial governments wanted to develop these areas, not just for the lint that they were going to extract from, uh, you know, smallholder villages,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,720",
+				"to": "00:11:48,480"
+			},
+			"offsets": {
+				"from": 700720,
+				"to": 708480
+			},
+			"text": " but also via the agricultural, improved agricultural techniques they would introduce via the cotton system."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,460",
+				"to": "00:11:57,620"
+			},
+			"offsets": {
+				"from": 709460,
+				"to": 717620
+			},
+			"text": " And so I was really interested in that because, you know, I'm sitting in a household and I lived with a family over those two years."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,620",
+				"to": "00:12:11,790"
+			},
+			"offsets": {
+				"from": 717620,
+				"to": 731790
+			},
+			"text": " And came very close, obviously, um, with everybody there in the community and, you know, I'd see the kids come home and they would be playing with the old pesticide bottles, um, and filling up sorghum beer"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,790",
+				"to": "00:12:21,160"
+			},
+			"offsets": {
+				"from": 731790,
+				"to": 741160
+			},
+			"text": " And, um, spraying these, um, spraying these endosulfons on food crops that were then eaten and consumed in the household."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,320",
+				"to": "00:12:25,430"
+			},
+			"offsets": {
+				"from": 741320,
+				"to": 745430
+			},
+			"text": " So on the one hand, it's just, gosh, you know, what is, what is happening here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,590",
+				"to": "00:12:44,330"
+			},
+			"offsets": {
+				"from": 745590,
+				"to": 764330
+			},
+			"text": " What are all of the ways that the introduction of cotton into these systems as a cash crop is just altering, you know, household dynamics, um, livelihood dynamics, food production, um, agricultural production techniques."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,330",
+				"to": "00:12:47,130"
+			},
+			"offsets": {
+				"from": 764330,
+				"to": 767130
+			},
+			"text": " And so I really wanted to learn more about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,880",
+				"to": "00:12:51,380"
+			},
+			"offsets": {
+				"from": 767880,
+				"to": 771380
+			},
+			"text": " And that was one of the driving forces to go back and, and get my PhD."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,680",
+				"to": "00:12:56,440"
+			},
+			"offsets": {
+				"from": 771680,
+				"to": 776440
+			},
+			"text": " And it happened to coincide with the introduction of genetically engineered cotton."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,970",
+				"to": "00:13:00,850"
+			},
+			"offsets": {
+				"from": 776970,
+				"to": 780850
+			},
+			"text": " Um, and so that's kind of where my interests, um, kind of ran."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,850",
+				"to": "00:13:06,230"
+			},
+			"offsets": {
+				"from": 780850,
+				"to": 786230
+			},
+			"text": " So cotton, when was cotton introduced to, to that area?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,650",
+				"to": "00:13:12,410"
+			},
+			"offsets": {
+				"from": 786650,
+				"to": 792410
+			},
+			"text": " Well, cotton was, is, was there long before Europeans, um, set foot there."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,510",
+				"to": "00:13:21,940"
+			},
+			"offsets": {
+				"from": 792510,
+				"to": 801940
+			},
+			"text": " And cotton used to be grown mostly by women in polycultures with yams and sorghum and forneo, a, a, um, a grain."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,690",
+				"to": "00:13:25,610"
+			},
+			"offsets": {
+				"from": 802690,
+				"to": 805610
+			},
+			"text": " Forneo is a small, like rice-like crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,950",
+				"to": "00:13:30,540"
+			},
+			"offsets": {
+				"from": 806950,
+				"to": 810540
+			},
+			"text": " Um, and again, it was a female crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,120",
+				"to": "00:13:33,920"
+			},
+			"offsets": {
+				"from": 811120,
+				"to": 813920
+			},
+			"text": " We're talking about perennial forms of cotton."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,920",
+				"to": "00:13:37,860"
+			},
+			"offsets": {
+				"from": 813920,
+				"to": 817860
+			},
+			"text": " So these cotton, uh, varieties would grow over a number of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,720",
+				"to": "00:13:41,040"
+			},
+			"offsets": {
+				"from": 818720,
+				"to": 821040
+			},
+			"text": " Um, so it wasn't an annual crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,370",
+				"to": "00:13:47,050"
+			},
+			"offsets": {
+				"from": 821370,
+				"to": 827050
+			},
+			"text": " It would produce really, um, mostly between the second and fifth year of being planted."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,370",
+				"to": "00:13:54,180"
+			},
+			"offsets": {
+				"from": 827370,
+				"to": 834180
+			},
+			"text": " Um, and then there was a thriving trade in this lint and the weaving of lint all throughout West, West Africa into textiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,180",
+				"to": "00:14:04,670"
+			},
+			"offsets": {
+				"from": 834180,
+				"to": 844670
+			},
+			"text": " And so, um, in that sense, cotton had been there for a long time and was part of these very traditional agricultural, um, production strategies."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,890",
+				"to": "00:14:17,010"
+			},
+			"offsets": {
+				"from": 844890,
+				"to": 857010
+			},
+			"text": " Most of which were absolutely not completely obliterated, but, uh, gone by the time that I was living in, um, West Africa in the late nineties."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,010",
+				"to": "00:14:23,540"
+			},
+			"offsets": {
+				"from": 857010,
+				"to": 863540
+			},
+			"text": " Um, and what happened was, um, you know, I was living in Francophone Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,540",
+				"to": "00:14:30,890"
+			},
+			"offsets": {
+				"from": 863540,
+				"to": 870890
+			},
+			"text": " So the French, um, really wanted to increase, uh, cotton productivity in their colonies."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,890",
+				"to": "00:14:35,170"
+			},
+			"offsets": {
+				"from": 870890,
+				"to": 875170
+			},
+			"text": " Um, in some instances there was forced labor camps."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,520",
+				"to": "00:14:37,770"
+			},
+			"offsets": {
+				"from": 875520,
+				"to": 877770
+			},
+			"text": " Um, there was the introduction of new varieties."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,770",
+				"to": "00:14:48,400"
+			},
+			"offsets": {
+				"from": 877770,
+				"to": 888400
+			},
+			"text": " Um, and what they essentially did was they, they burned all old traditional cotton varieties because the seeds ended up at the gins."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,400",
+				"to": "00:14:51,620"
+			},
+			"offsets": {
+				"from": 888400,
+				"to": 891620
+			},
+			"text": " And so they burned them all and then introduced improved varieties."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,820",
+				"to": "00:14:55,000"
+			},
+			"offsets": {
+				"from": 891820,
+				"to": 895000
+			},
+			"text": " Now these new improved varieties were annuals."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,000",
+				"to": "00:14:58,170"
+			},
+			"offsets": {
+				"from": 895000,
+				"to": 898170
+			},
+			"text": " They were no longer perennials and it was a cash crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:58,170",
+				"to": "00:15:01,670"
+			},
+			"offsets": {
+				"from": 898170,
+				"to": 901670
+			},
+			"text": " So it shifted from being a female oriented crop to a male oriented crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,670",
+				"to": "00:15:16,240"
+			},
+			"offsets": {
+				"from": 901670,
+				"to": 916240
+			},
+			"text": " And then essentially from about the fifties, sixties onwards, it was also part of a technological package introduced into these villages, uh, with fertilizers and pesticides and improved, um, animal traction techniques."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,240",
+				"to": "00:15:21,130"
+			},
+			"offsets": {
+				"from": 916240,
+				"to": 921130
+			},
+			"text": " So these are the ways that agriculture was being transformed, um, in these areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,130",
+				"to": "00:15:48,740"
+			},
+			"offsets": {
+				"from": 921130,
+				"to": 948740
+			},
+			"text": " And so you actually have pockets of places, not even pockets, very large, uh, expanses of places where you see, um, in, in West Africa today, where you see, um, smallholder farmers who've never been to school, who are adopting very, um, um, you know, modern agricultural techniques, even tractors, um, using household labor, um, adopting herbicides."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,760",
+				"to": "00:16:01,200"
+			},
+			"offsets": {
+				"from": 948760,
+				"to": 961200
+			},
+			"text": " Herbicides, genetically engineered seeds, um, you know, fertilizers, very, uh, very modern agricultural techniques that you wouldn't kind of connect to, um, a peasant farmers in rural Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,200",
+				"to": "00:16:17,600"
+			},
+			"offsets": {
+				"from": 961200,
+				"to": 977600
+			},
+			"text": " Um, but nonetheless, it was the product of this concerted effort by both colonial and post-colonial governments to, to extract cotton lint really from these rural communities and integrate them and do this, um, kind of modern mode of development."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,600",
+				"to": "00:16:27,710"
+			},
+			"offsets": {
+				"from": 977600,
+				"to": 987710
+			},
+			"text": " So when we talk about introduction of cotton, it's not so much the crop as the, the model and the economics that were introduced at some point."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,170",
+				"to": "00:16:28,670"
+			},
+			"offsets": {
+				"from": 988170,
+				"to": 988670
+			},
+			"text": " Yeah, exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,790",
+				"to": "00:16:34,840"
+			},
+			"offsets": {
+				"from": 988790,
+				"to": 994840
+			},
+			"text": " It's this, um, it, it really is this, um, this package and it's this improved variety as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:36,190",
+				"to": "00:16:36,800"
+			},
+			"offsets": {
+				"from": 996190,
+				"to": 996800
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:36,940",
+				"to": "00:17:00,530"
+			},
+			"offsets": {
+				"from": 996940,
+				"to": 1020530
+			},
+			"text": " And so I guess, um, you've been talking or, and writings, um, about GMOs specifically and, um, the mixed, I guess the success and then the unraveling of that success of GMO adoption in cotton in West Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,530",
+				"to": "00:17:15,180"
+			},
+			"offsets": {
+				"from": 1020530,
+				"to": 1035180
+			},
+			"text": " Um, is that, does that, does that, does what happened with GMOs kind of follow the same trajectory of that earlier introduction of a package of agricultural technologies?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,360",
+				"to": "00:17:17,760"
+			},
+			"offsets": {
+				"from": 1035360,
+				"to": 1037760
+			},
+			"text": " Um, that's a good question."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,760",
+				"to": "00:17:40,080"
+			},
+			"offsets": {
+				"from": 1037760,
+				"to": 1060080
+			},
+			"text": " It's, um, it's interesting because it's really hard to understand the introduction of, um, genetically engineered cotton in West Africa without understanding the kind of historical trajectories of how agriculture and cotton production were produced over the last several decades in these areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,750",
+				"to": "00:17:43,260"
+			},
+			"offsets": {
+				"from": 1060750,
+				"to": 1063260
+			},
+			"text": " Um, and there's a really good reason for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,260",
+				"to": "00:17:59,380"
+			},
+			"offsets": {
+				"from": 1063260,
+				"to": 1079380
+			},
+			"text": " Um, it's because it's really the institutional dynamics of the cotton industry that are driving both the introduction of this crop and now, which we're reporting in an article that will be published in January, um, the refusal of this crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,380",
+				"to": "00:18:03,020"
+			},
+			"offsets": {
+				"from": 1079380,
+				"to": 1083020
+			},
+			"text": " And so let me just add a couple of particulars to this story here."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,790",
+				"to": "00:18:12,420"
+			},
+			"offsets": {
+				"from": 1083790,
+				"to": 1092420
+			},
+			"text": " Um, Burkina Faso, we're, we're speaking, when I'm speaking about genetically engineered cotton, I'm speaking about Burkina Faso."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,620",
+				"to": "00:18:20,440"
+			},
+			"offsets": {
+				"from": 1092620,
+				"to": 1100440
+			},
+			"text": " They're the largest adopter of genetically engineered, um, cotton and crops in, in, in Africa, in sub-Saharan Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,360",
+				"to": "00:18:23,820"
+			},
+			"offsets": {
+				"from": 1101360,
+				"to": 1103820
+			},
+			"text": " Um, Burkina Faso is dominated by smallholders."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,760",
+				"to": "00:18:26,660"
+			},
+			"offsets": {
+				"from": 1104760,
+				"to": 1106660
+			},
+			"text": " Um, they're not the first to adopt these crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,780",
+				"to": "00:18:33,250"
+			},
+			"offsets": {
+				"from": 1106780,
+				"to": 1113250
+			},
+			"text": " South Africa did much earlier, but they're predominantly used for large scale agribusiness commercial farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,430",
+				"to": "00:18:35,580"
+			},
+			"offsets": {
+				"from": 1113430,
+				"to": 1115580
+			},
+			"text": " So that's where Burkina Faso is different."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,700",
+				"to": "00:18:38,780"
+			},
+			"offsets": {
+				"from": 1115700,
+				"to": 1118780
+			},
+			"text": " You don't have this large scale agribusiness."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,120",
+				"to": "00:18:41,300"
+			},
+			"offsets": {
+				"from": 1119120,
+				"to": 1121300
+			},
+			"text": " So that's why it's such an interesting case."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,480",
+				"to": "00:18:45,500"
+			},
+			"offsets": {
+				"from": 1122480,
+				"to": 1125500
+			},
+			"text": " Um, and when we're talking about genetically engineered cotton,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,500",
+				"to": "00:18:47,780"
+			},
+			"offsets": {
+				"from": 1125500,
+				"to": 1127780
+			},
+			"text": " we're talking about one form of genetically engineered cotton."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,780",
+				"to": "00:18:52,220"
+			},
+			"offsets": {
+				"from": 1127780,
+				"to": 1132220
+			},
+			"text": " We're talking about insect resistant cotton, otherwise known as BT cotton."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,220",
+				"to": "00:18:59,310"
+			},
+			"offsets": {
+				"from": 1132220,
+				"to": 1139310
+			},
+			"text": " So there's a, a fungus that has been spliced into this, um, cotton that kills lots of, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,710",
+				"to": "00:19:00,990"
+			},
+			"offsets": {
+				"from": 1139710,
+				"to": 1140990
+			},
+			"text": " caterpillar like pests."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,990",
+				"to": "00:19:07,140"
+			},
+			"offsets": {
+				"from": 1140990,
+				"to": 1147140
+			},
+			"text": " And so, um, Monsanto, it's a Monsanto technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,320",
+				"to": "00:19:18,170"
+			},
+			"offsets": {
+				"from": 1147320,
+				"to": 1158170
+			},
+			"text": " And so, um, Monsanto was, you know, kind of backpedaling a little bit after some of the problems that were going on in India at the time of"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,170",
+				"to": "00:19:20,480"
+			},
+			"offsets": {
+				"from": 1158170,
+				"to": 1160480
+			},
+			"text": " BT cotton and its link."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,480",
+				"to": "00:19:25,610"
+			},
+			"offsets": {
+				"from": 1160480,
+				"to": 1165610
+			},
+			"text": " Although it's not, uh, the correct link, but it's linked to suicides in the popular press."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,530",
+				"to": "00:19:31,130"
+			},
+			"offsets": {
+				"from": 1166530,
+				"to": 1171130
+			},
+			"text": " Um, and also this issue with, there's a very, very highly privatized seed industry in India."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,130",
+				"to": "00:19:37,060"
+			},
+			"offsets": {
+				"from": 1171130,
+				"to": 1177060
+			},
+			"text": " And so when they were looking at Africa and they're looking at places where this technology could be adopted,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,060",
+				"to": "00:19:42,210"
+			},
+			"offsets": {
+				"from": 1177060,
+				"to": 1182210
+			},
+			"text": " they were immediately drawn to the Francophone West African, um, cotton sectors."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:42,570",
+				"to": "00:19:42,810"
+			},
+			"offsets": {
+				"from": 1182570,
+				"to": 1182810
+			},
+			"text": " Why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,530",
+				"to": "00:19:50,170"
+			},
+			"offsets": {
+				"from": 1183530,
+				"to": 1190170
+			},
+			"text": " Because they are vertically integrated and there's at least partially, but mostly state run."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,390",
+				"to": "00:19:58,130"
+			},
+			"offsets": {
+				"from": 1190390,
+				"to": 1198130
+			},
+			"text": " And so what this means is, is that there's only one actor that they really need to deal with because there's only one seed source."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,350",
+				"to": "00:19:59,990"
+			},
+			"offsets": {
+				"from": 1198350,
+				"to": 1199990
+			},
+			"text": " There's only one set of actors."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,990",
+				"to": "00:20:05,500"
+			},
+			"offsets": {
+				"from": 1199990,
+				"to": 1205500
+			},
+			"text": " There's not a, there's not like, you know, hundreds of different folks selling seeds on street corners."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,700",
+				"to": "00:20:11,650"
+			},
+			"offsets": {
+				"from": 1205700,
+				"to": 1211650
+			},
+			"text": " No, with cotton in Burkina Faso, there is one person giving you seeds and that's the cotton company."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,660",
+				"to": "00:20:18,360"
+			},
+			"offsets": {
+				"from": 1212660,
+				"to": 1218360
+			},
+			"text": " And so in, in this way, it was seen as this, okay, this is, this is going to be a lot easier for us to deal with."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,360",
+				"to": "00:20:20,640"
+			},
+			"offsets": {
+				"from": 1218360,
+				"to": 1220640
+			},
+			"text": " Cause we only need to deal with, you know, one person."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,530",
+				"to": "00:20:30,030"
+			},
+			"offsets": {
+				"from": 1221530,
+				"to": 1230030
+			},
+			"text": " Um, and so this allowed for, so once they had the buy-in of these elites, um, at the upper level of, in Burkina Faso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,030",
+				"to": "00:20:33,270"
+			},
+			"offsets": {
+				"from": 1230030,
+				"to": 1233270
+			},
+			"text": " it was very easy then to kind of drive this introduction throughout."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,730",
+				"to": "00:20:36,360"
+			},
+			"offsets": {
+				"from": 1233730,
+				"to": 1236360
+			},
+			"text": " So, um, farmers are given choice."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,460",
+				"to": "00:20:41,510"
+			},
+			"offsets": {
+				"from": 1236460,
+				"to": 1241510
+			},
+			"text": " You can choose between conventional and BTC, but there's really only one shop where they can get that."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,550",
+				"to": "00:20:42,550"
+			},
+			"offsets": {
+				"from": 1241550,
+				"to": 1242550
+			},
+			"text": " And that's the cotton company."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,260",
+				"to": "00:20:48,590"
+			},
+			"offsets": {
+				"from": 1243260,
+				"to": 1248590
+			},
+			"text": " So that's the first thing to kind of understand is it's vertically integrated state driven cotton company."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,590",
+				"to": "00:21:14,630"
+			},
+			"offsets": {
+				"from": 1248590,
+				"to": 1274630
+			},
+			"text": " And so what we found recently in our, in our research is that with, um, Matt Scherr, who, um, is at Dalhousie university in, in Nova Scotia is that Burkina Faso, these, the cotton, the, the genetically engineered cotton, though it appears to be, um, yielding more and increasing profits for most farmers, um, the cotton company doesn't like it."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,630",
+				"to": "00:21:20,810"
+			},
+			"offsets": {
+				"from": 1274630,
+				"to": 1280810
+			},
+			"text": " And the reason why the cotton company doesn't like it is because the quality of the lint is less."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,370",
+				"to": "00:21:30,370"
+			},
+			"offsets": {
+				"from": 1281370,
+				"to": 1290370
+			},
+			"text": " In two ways, both the fiber length is shorter and the amount of lint they can extract from the, uh, per cotton bowl is less."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,350",
+				"to": "00:21:35,690"
+			},
+			"offsets": {
+				"from": 1291350,
+				"to": 1295690
+			},
+			"text": " And so for those two reasons, the profits of the cotton company are actually going down."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:35,740",
+				"to": "00:21:40,930"
+			},
+			"offsets": {
+				"from": 1295740,
+				"to": 1300930
+			},
+			"text": " So the, they can't sell their cotton for as high of a price on the international market."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,930",
+				"to": "00:21:46,360"
+			},
+			"offsets": {
+				"from": 1300930,
+				"to": 1306360
+			},
+			"text": " And they don't have as much lint to sell because they're not able to extract it in the ginning process of that lint."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,100",
+				"to": "00:21:52,950"
+			},
+			"offsets": {
+				"from": 1307100,
+				"to": 1312950
+			},
+			"text": " And so you see the cotton company turning on genetically engineered cotton, not necessarily the farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,780",
+				"to": "00:22:06,880"
+			},
+			"offsets": {
+				"from": 1313780,
+				"to": 1326880
+			},
+			"text": " And so this is a kind of just a unique and interesting story that, that is unique to the world in terms of, um, GM crops, because you've never seen these, these kinds of, these types of dynamics play out in a particular place."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,880",
+				"to": "00:22:18,790"
+			},
+			"offsets": {
+				"from": 1326880,
+				"to": 1338790
+			},
+			"text": " So, so my thoughts reading that manuscript is that, well, first of all, I didn't know that, that we were the very high quality con cotton comes from West Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,190",
+				"to": "00:22:35,380"
+			},
+			"offsets": {
+				"from": 1339190,
+				"to": 1355380
+			},
+			"text": " Um, and, and second, that there's a, the results of the genetic Blythe and, um, and intentional breeding of those crops weren't what scientists expected."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,660",
+				"to": "00:22:42,830"
+			},
+			"offsets": {
+				"from": 1355660,
+				"to": 1362830
+			},
+			"text": " And so that got me, got me thinking about, um, like maybe that there's more complexity."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:42,830",
+				"to": "00:22:52,310"
+			},
+			"offsets": {
+				"from": 1362830,
+				"to": 1372310
+			},
+			"text": " I mean, you touch on this a little bit, but the complexity of gene expression, the complexity of landscapes where these crops are planted and the complexity of change over time."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,310",
+				"to": "00:23:06,420"
+			},
+			"offsets": {
+				"from": 1372310,
+				"to": 1386420
+			},
+			"text": " And, and also the complexity of a, of a international market for a commodity like cotton, um, is a little bit beyond what we normally think of when we think of, um, a clean slice, a splice of a gene into a crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,600",
+				"to": "00:23:08,440"
+			},
+			"offsets": {
+				"from": 1387600,
+				"to": 1388440
+			},
+			"text": " Oh, yeah, exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:08,620",
+				"to": "00:23:21,680"
+			},
+			"offsets": {
+				"from": 1388620,
+				"to": 1401680
+			},
+			"text": " I mean, you know what, the, the difference between how these technologies and techniques are portrayed and then their, their track record and, and, you know, on the ground are, are two very different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,680",
+				"to": "00:23:25,080"
+			},
+			"offsets": {
+				"from": 1401680,
+				"to": 1405080
+			},
+			"text": " Um, it's portrayed as this very exact thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,400",
+				"to": "00:23:29,980"
+			},
+			"offsets": {
+				"from": 1405400,
+				"to": 1409980
+			},
+			"text": " Um, when in fact, I mean, the Burkina Faso case is the perfect example."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,670",
+				"to": "00:23:33,390"
+			},
+			"offsets": {
+				"from": 1410670,
+				"to": 1413390
+			},
+			"text": " Um, they were doing field trials of this for several years."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,390",
+				"to": "00:23:40,060"
+			},
+			"offsets": {
+				"from": 1413390,
+				"to": 1420060
+			},
+			"text": " Then it's introduced out into the field and then, and we have quotes from scientists saying, we don't know what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,370",
+				"to": "00:23:41,570"
+			},
+			"offsets": {
+				"from": 1420370,
+				"to": 1421570
+			},
+			"text": " So you don't know what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,770",
+				"to": "00:23:46,850"
+			},
+			"offsets": {
+				"from": 1421770,
+				"to": 1426850
+			},
+			"text": " This is, this has been in the hands of farmers for like seven years and you don't know what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,850",
+				"to": "00:23:53,540"
+			},
+			"offsets": {
+				"from": 1426850,
+				"to": 1433540
+			},
+			"text": " Like, um, and the fact that, you know, this story hasn't been told yet is a little, it's, it's also a little troubling."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,540",
+				"to": "00:23:56,460"
+			},
+			"offsets": {
+				"from": 1433540,
+				"to": 1436460
+			},
+			"text": " Like, why hasn't this news been out earlier?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,780",
+				"to": "00:24:00,430"
+			},
+			"offsets": {
+				"from": 1436780,
+				"to": 1440430
+			},
+			"text": " And, um, why you are, it's 2015."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:00,430",
+				"to": "00:24:04,490"
+			},
+			"offsets": {
+				"from": 1440430,
+				"to": 1444490
+			},
+			"text": " This is, this has been in the hands of farmers and you've known about these issues since 2009."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,550",
+				"to": "00:24:08,520"
+			},
+			"offsets": {
+				"from": 1445550,
+				"to": 1448520
+			},
+			"text": " Um, hmm, seems a little murky here."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,520",
+				"to": "00:24:25,830"
+			},
+			"offsets": {
+				"from": 1448520,
+				"to": 1465830
+			},
+			"text": " And the other way that connects is the, the success stories that are told about, um, GM crops are, are, it's a similar kind of, um, similar spin as this, um, framing of the technology is this exact science."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,140",
+				"to": "00:24:30,470"
+			},
+			"offsets": {
+				"from": 1466140,
+				"to": 1470470
+			},
+			"text": " Um, what, what you see in the popular media is, oh, it's a success."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,590",
+				"to": "00:24:31,590"
+			},
+			"offsets": {
+				"from": 1470590,
+				"to": 1471590
+			},
+			"text": " It helps poor people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:31,970",
+				"to": "00:24:34,690"
+			},
+			"offsets": {
+				"from": 1471970,
+				"to": 1474690
+			},
+			"text": " You're, you're non-scientific if you think differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,460",
+				"to": "00:24:49,970"
+			},
+			"offsets": {
+				"from": 1475460,
+				"to": 1489970
+			},
+			"text": " Um, but what you see when you start to interrogate the empirical reality of these introductions is you see, okay, maybe it was a success, a very narrowly defined success, um, for a year or two or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,970",
+				"to": "00:24:58,420"
+			},
+			"offsets": {
+				"from": 1489970,
+				"to": 1498420
+			},
+			"text": " And then something happens and your success story turns out to be an utter failure, but what endures is this success story."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,230",
+				"to": "00:25:17,040"
+			},
+			"offsets": {
+				"from": 1499230,
+				"to": 1517040
+			},
+			"text": " You know, I think if you were to pull folks about RGM crops successful in Africa, you know, I think everybody would be like, yeah, when the two may, or for poor people, I should say, um, when the two major stories about that have ended in failure, South Africa and now Burkina Faso."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,040",
+				"to": "00:25:24,980"
+			},
+			"offsets": {
+				"from": 1517040,
+				"to": 1524980
+			},
+			"text": " So, um, we'll see how this news kind of seeps into the public consciousness about GM crops in Africa and see what comes of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,480",
+				"to": "00:25:30,140"
+			},
+			"offsets": {
+				"from": 1525480,
+				"to": 1530140
+			},
+			"text": " Um, it'll be really interesting to see over the, over the next few years, what happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,950",
+				"to": "00:25:50,000"
+			},
+			"offsets": {
+				"from": 1531950,
+				"to": 1550000
+			},
+			"text": " So there's, I think we've talked about this a little bit, but the, there's a polarity to the debate about GMOs and as recent kind of push towards, you know, labeling anyone who questions the efficacy of GMOs or the safety of GMOs as anti-scientific."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,000",
+				"to": "00:26:00,840"
+			},
+			"offsets": {
+				"from": 1550000,
+				"to": 1560840
+			},
+			"text": " And I'm preparing for another interview later today with Maiwa Montenegro, who just wrote a piece, um, and the popular press talking about this, but, um, so, so it's been on my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,210",
+				"to": "00:26:18,390"
+			},
+			"offsets": {
+				"from": 1561210,
+				"to": 1578390
+			},
+			"text": " Um, where do you see, is there room for a conversation about GMOs that's not so narrowly focused on whether they're good or whether they're bad, but there's like how they engage with a, with a food system?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,510",
+				"to": "00:26:34,350"
+			},
+			"offsets": {
+				"from": 1579510,
+				"to": 1594350
+			},
+			"text": " Hmm. Uh, great question. Um, I, you know, it's hard for that conversation to occur for precisely the reasons you outlined. It's so polemical. You know, we were, we were in Nova Scotia at this conference."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,350",
+				"to": "00:26:47,210"
+			},
+			"offsets": {
+				"from": 1594350,
+				"to": 1607210
+			},
+			"text": " The conference was titled, um, can GM crops help the poor and Matt Schner and others at Dalhousie got some funding from various sources to invite all these people from all over the world to come and just talk about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,210",
+				"to": "00:27:02,910"
+			},
+			"offsets": {
+				"from": 1607210,
+				"to": 1622910
+			},
+			"text": " Um, and it included, you know, a few people who were industry aligned, um, others who were supportive of GM crops, um, a lot of folks who weren't supportive of GM crops, then a lot of kind of critical social scientists who've done work on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,910",
+				"to": "00:27:22,150"
+			},
+			"offsets": {
+				"from": 1622910,
+				"to": 1642150
+			},
+			"text": " And it was really interesting because it was so hard, um, to really engage in a conversation that went a particular direction together because we're all wrapped up in our own ways of what, you know, what are the main problems?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,150",
+				"to": "00:27:41,670"
+			},
+			"offsets": {
+				"from": 1642150,
+				"to": 1661670
+			},
+			"text": " What are the solutions that need to occur for those problems? And so folks are just speaking different languages and they have different worldviews. And it's really, it's difficult to, um, to get beyond that, to, to just talk about the, the question you raised, how are these, how do these technologies interact in particular places?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,670",
+				"to": "00:28:13,670"
+			},
+			"offsets": {
+				"from": 1661670,
+				"to": 1693670
+			},
+			"text": " It seems like that if that question were asked more and talked about more, I think we'd have a much richer public debate about these technologies. And I think there are researchers who are trying to do that with their work. Unfortunately, oftentimes they just get siloed off into critical development studies journals, and then it doesn't go any further from there. Um, and so that's why I'm appreciative of, you know, Matt trying to get folks to talk across these, these different viewpoints."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,670",
+				"to": "00:28:26,450"
+			},
+			"offsets": {
+				"from": 1693670,
+				"to": 1706450
+			},
+			"text": " Um, and, um, and you Devin for having a podcast where we can talk about this and, um, just, just to get these ideas out further to, to engage more in a public conversation about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,450",
+				"to": "00:28:47,330"
+			},
+			"offsets": {
+				"from": 1706450,
+				"to": 1727330
+			},
+			"text": " So I want to talk just for a minute, a little bit more from, from the specifics of GMOs, move a little to a broader question about agroecology and its role in creating a world with less hunger. Um, and specifically about that meeting that we were both at in Rome. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,330",
+				"to": "00:28:52,730"
+			},
+			"offsets": {
+				"from": 1727330,
+				"to": 1732730
+			},
+			"text": " A year later, what's your impression of that meeting? What were you left with from it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,730",
+				"to": "00:29:15,670"
+			},
+			"offsets": {
+				"from": 1732730,
+				"to": 1755670
+			},
+			"text": " Good question. Um, well, I haven't heard anything since the meeting. Yeah. I, I have not heard one thing about agroecology and its relationship with development and, um, a new agroecology focus at the FAO. I haven't heard a thing and the, the silence. And have you heard anything though?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,480",
+				"to": "00:29:50,140"
+			},
+			"offsets": {
+				"from": 1756480,
+				"to": 1790140
+			},
+			"text": " No, no, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:50,140",
+				"to": "00:30:22,860"
+			},
+			"offsets": {
+				"from": 1790140,
+				"to": 1822860
+			},
+			"text": " It's reaching a point where, you know, the FAO director, secretary general is saying, you know, this is going to be essentially saying this is going to be our umbrella, um, to kind of move forward at the FAO. Um, and, you know, moving from kind of a sustainable intensification paradigm to this agroecology paradigm. And there was certainly some disagreements on how to define agroecology and what fit in under that, um, umbrella that were, that were very apparent at the meeting."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,860",
+				"to": "00:30:39,610"
+			},
+			"offsets": {
+				"from": 1822860,
+				"to": 1839610
+			},
+			"text": " Like things like GM crops. Like things like GM crops. Is that agroecology? Things like the, um, the old sustainable intensification. Is that agroecology? Um, but nonetheless, you were still hopeful that this new umbrella term with the birthing of a new umbrella term."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,610",
+				"to": "00:31:02,010"
+			},
+			"offsets": {
+				"from": 1839610,
+				"to": 1862010
+			},
+			"text": " There's a moment there where it, it brings certain people to the table who may not have been at the table before to make, um, to participate in decision-making, um, and policy-making in particular areas. And the fact that we haven't heard anything about that since, I don't know, signals to me that maybe that isn't really what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,010",
+				"to": "00:31:04,000"
+			},
+			"offsets": {
+				"from": 1862010,
+				"to": 1864000
+			},
+			"text": " Um, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,000",
+				"to": "00:31:21,050"
+			},
+			"offsets": {
+				"from": 1864000,
+				"to": 1881050
+			},
+			"text": " Well, when we were there, we, we, um, it felt monumental because we, because it's Rome, I think on one hand, and we're across the street from the Colosseum. On the other hand, that building where the food and agricultural organization is housed is huge and monolithic."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,050",
+				"to": "00:31:44,830"
+			},
+			"offsets": {
+				"from": 1881050,
+				"to": 1904830
+			},
+			"text": " And, and you walk into the room and it's full of simultaneous translators and every flag in the United Nations. And it feels monumental. Um, we also heard a lot of rumors that, that it was very controversial within the FAO to even host a meeting talking about agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,390",
+				"to": "00:32:09,630"
+			},
+			"offsets": {
+				"from": 1905390,
+				"to": 1929630
+			},
+			"text": " Um, that, um, there was pushback on that. There were limits set on, um, what people were supposed to talk about if GMOs were even supposed to be brought up. Of course they were, but I, the rumor was that the United States and, um, a few other countries were leaning heavily on the organizers of the conference, not to talk about GMOs, uh, and not to talk about land reform, even though we did have a meeting."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,630",
+				"to": "00:32:48,300"
+			},
+			"offsets": {
+				"from": 1929630,
+				"to": 1968300
+			},
+			"text": " Um, but I guess, I guess, I guess, I guess I'm interested in talking to you about this specifically because you've been in a lot of different parts of the world and you all, you keep your attention. You've worked with farmers directly, but you also always keep your attention on policy and the way that engage with was a global politics. Um, so, so does talking about agroecology in a forum like the FAO, um, doesn't matter. Does it, um, does the fact that we had a meeting about it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,400",
+				"to": "00:32:55,940"
+			},
+			"offsets": {
+				"from": 1968400,
+				"to": 1975940
+			},
+			"text": " There matter or what does that signal for the, for, um, for, um, for change in policy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:57,850",
+				"to": "00:33:16,860"
+			},
+			"offsets": {
+				"from": 1977850,
+				"to": 1996860
+			},
+			"text": " Yeah. Good question. Um, it should matter. Um, you know, it reminds me of the politics surrounding the, I, the IS AAA. Am I saying that right? I always get it mixed up with the organization that supports GM crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,860",
+				"to": "00:33:42,330"
+			},
+			"offsets": {
+				"from": 1996860,
+				"to": 2022330
+			},
+			"text": " Okay. Uh, the, Oh, the, Oh, the I double A STD report, the international, um, agriculture assessment for agriculture and science, technology and development, which, um, was published in 2008. Um, and it's suffered and it was supposed to be the statement about agriculture and how it relates to development, science and technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,330",
+				"to": "00:34:08,210"
+			},
+			"offsets": {
+				"from": 2022330,
+				"to": 2048210
+			},
+			"text": " Um, and the folks who were supporting this, including the FAO at the time, um, did went to great pains to get a broad coalition and, um, broad representation of people from all over the world, um, to participate in this report, um, including governments, US, everybody, Canada, industry, everything. Um, and what happened was the, the report ended up being published."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,480",
+				"to": "00:34:22,760"
+			},
+			"offsets": {
+				"from": 2048480,
+				"to": 2062760
+			},
+			"text": " Um, and then, uh, months, months later, even from the organizations who were supporting the creation of the report, like the World Bank and the FAO, it was as if the report never happened."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,730",
+				"to": "00:34:33,320"
+			},
+			"offsets": {
+				"from": 2063730,
+				"to": 2073320
+			},
+			"text": " Um, they were essentially just, just acted as though it didn't occur and continued forward with business as usual approaches."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,320",
+				"to": "00:34:38,770"
+			},
+			"offsets": {
+				"from": 2073320,
+				"to": 2078770
+			},
+			"text": " Um, what this report said was it was broadly supportive of agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,770",
+				"to": "00:34:50,920"
+			},
+			"offsets": {
+				"from": 2078770,
+				"to": 2090920
+			},
+			"text": " It was broadly pessimistic about, uh, GM crops, particularly because most of the first generation GM crops are really held privately."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,920",
+				"to": "00:34:57,200"
+			},
+			"offsets": {
+				"from": 2090920,
+				"to": 2097200
+			},
+			"text": " Um, the tech, the, the, um, the patents, uh, and whatnot are held privately."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,200",
+				"to": "00:35:07,290"
+			},
+			"offsets": {
+				"from": 2097200,
+				"to": 2107290
+			},
+			"text": " And so perhaps if there were GM crops, they were, you know, publicly developed and, um, publicly made, this would shift, you know, um, whether they could be tools for the poor."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,160",
+				"to": "00:35:10,940"
+			},
+			"offsets": {
+				"from": 2108160,
+				"to": 2110940
+			},
+			"text": " Um, and it was as if none of this happened."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,240",
+				"to": "00:35:18,660"
+			},
+			"offsets": {
+				"from": 2112240,
+				"to": 2118660
+			},
+			"text": " Um, and so I'm, I guess I'm concerned a bit that something similar could happen with agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:19,100",
+				"to": "00:35:24,350"
+			},
+			"offsets": {
+				"from": 2119100,
+				"to": 2124350
+			},
+			"text": " Um, what we did see at that conference was, it was very interesting to see who was there and who wasn't."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,350",
+				"to": "00:35:38,090"
+			},
+			"offsets": {
+				"from": 2124350,
+				"to": 2138090
+			},
+			"text": " Um, you had speeches from France, their ministry of agriculture, you had speeches from Costa Rica, their minister of agriculture, who was a very big fan of, of your, um, PhD supervisor and mentor of ours, Steve Gleesman."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,080",
+				"to": "00:35:45,090"
+			},
+			"offsets": {
+				"from": 2139080,
+				"to": 2145090
+			},
+			"text": " Um, you know, you had, you had the Brazilian representative from the Brazilian ministry of agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,830",
+				"to": "00:35:55,180"
+			},
+			"offsets": {
+				"from": 2145830,
+				"to": 2155180
+			},
+			"text": " Um, and so you were wondering, you know, are these forces, who's, who's going to be ending up pulling the levers at the FAO about what really happens behind the scenes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,200",
+				"to": "00:35:57,140"
+			},
+			"offsets": {
+				"from": 2155200,
+				"to": 2157140
+			},
+			"text": " As it relates to agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,810",
+				"to": "00:36:00,970"
+			},
+			"offsets": {
+				"from": 2157810,
+				"to": 2160970
+			},
+			"text": " Um, and so it should have an impact that they're there."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,090",
+				"to": "00:36:06,600"
+			},
+			"offsets": {
+				"from": 2161090,
+				"to": 2166600
+			},
+			"text": " It's a good sign that at least, um, there was enough momentum to have such a conference."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,780",
+				"to": "00:36:12,630"
+			},
+			"offsets": {
+				"from": 2166780,
+				"to": 2172630
+			},
+			"text": " Now, how it ends up in the backroom deals and then eventually an FAO policy on the ground."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,790",
+				"to": "00:36:14,730"
+			},
+			"offsets": {
+				"from": 2172790,
+				"to": 2174730
+			},
+			"text": " I haven't seen much on that yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,850",
+				"to": "00:36:17,590"
+			},
+			"offsets": {
+				"from": 2174850,
+				"to": 2177590
+			},
+			"text": " And I guess there's a big question mark to see where it goes."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,670",
+				"to": "00:36:18,790"
+			},
+			"offsets": {
+				"from": 2178670,
+				"to": 2178790
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,390",
+				"to": "00:36:20,210"
+			},
+			"offsets": {
+				"from": 2179390,
+				"to": 2180210
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,710",
+				"to": "00:36:28,720"
+			},
+			"offsets": {
+				"from": 2180710,
+				"to": 2188720
+			},
+			"text": " Um, yeah, I guess one of the things that I left with is it's the first time I'd been to a United Nations organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:28,740",
+				"to": "00:36:29,380"
+			},
+			"offsets": {
+				"from": 2188740,
+				"to": 2189380
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:29,460",
+				"to": "00:36:57,140"
+			},
+			"offsets": {
+				"from": 2189460,
+				"to": 2217140
+			},
+			"text": " And, and one of the things I was thinking at that conference is like how much support there is for, not for regulatory policy that they oversee, but for investigation and research and, um, sending the resources to places to, to figure out what the next, figure out some ways of doing agriculture differently or doing or supporting different kinds of food systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,140",
+				"to": "00:37:06,930"
+			},
+			"offsets": {
+				"from": 2217140,
+				"to": 2226930
+			},
+			"text": " Um, and just how much, if that did, if some of those resources did pivot towards agroecology, what a huge impact that could have in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,320",
+				"to": "00:37:09,820"
+			},
+			"offsets": {
+				"from": 2228320,
+				"to": 2229820
+			},
+			"text": " It could, it really could."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,160",
+				"to": "00:37:14,020"
+			},
+			"offsets": {
+				"from": 2230160,
+				"to": 2234020
+			},
+			"text": " And that would be something interesting for us to uncover a bit more."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,260",
+				"to": "00:37:15,300"
+			},
+			"offsets": {
+				"from": 2234260,
+				"to": 2235300
+			},
+			"text": " Is there such a pivot?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,420",
+				"to": "00:37:19,060"
+			},
+			"offsets": {
+				"from": 2235420,
+				"to": 2239060
+			},
+			"text": " And if so, how has that pivot been implemented in particular places?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,420",
+				"to": "00:37:20,520"
+			},
+			"offsets": {
+				"from": 2240420,
+				"to": 2240520
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,700",
+				"to": "00:37:31,710"
+			},
+			"offsets": {
+				"from": 2240700,
+				"to": 2251710
+			},
+			"text": " Um, particularly as it relates to agroecology, because agroecology, um, is, is strongest in the Americas, really."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,490",
+				"to": "00:37:33,370"
+			},
+			"offsets": {
+				"from": 2252490,
+				"to": 2253370
+			},
+			"text": " Um, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,630",
+				"to": "00:37:40,340"
+			},
+			"offsets": {
+				"from": 2253630,
+				"to": 2260340
+			},
+			"text": " In, you know, when I'm in West Africa, I don't hear people talking about agroecology that much."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,810",
+				"to": "00:37:53,110"
+			},
+			"offsets": {
+				"from": 2260810,
+				"to": 2273110
+			},
+			"text": " There may be, they may be practicing techniques that would fall under an umbrella, but they wouldn't be relating it to the term agroecology in, in their modes of production."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,110",
+				"to": "00:38:00,180"
+			},
+			"offsets": {
+				"from": 2273110,
+				"to": 2280180
+			},
+			"text": " Um, so, um, that would also be interesting to see in terms of regional differences."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,800",
+				"to": "00:38:10,270"
+			},
+			"offsets": {
+				"from": 2280800,
+				"to": 2290270
+			},
+			"text": " So there would be some sort of statement from above, but then how is that translated just into policy in general, but also how is that translated into policy regionally?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,270",
+				"to": "00:38:11,130"
+			},
+			"offsets": {
+				"from": 2290270,
+				"to": 2291130
+			},
+			"text": " Um, would be interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:11,690",
+				"to": "00:38:14,890"
+			},
+			"offsets": {
+				"from": 2291690,
+				"to": 2294890
+			},
+			"text": " Yeah, I just, I had this recent meeting in Mexico city."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:15,050",
+				"to": "00:38:25,510"
+			},
+			"offsets": {
+				"from": 2295050,
+				"to": 2305510
+			},
+			"text": " It was, people were talking agroecology and I even heard it come out of the mouth of the new ministry of agriculture, minister of agriculture in Mexico city, which I never thought would happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,690",
+				"to": "00:38:28,970"
+			},
+			"offsets": {
+				"from": 2305690,
+				"to": 2308970
+			},
+			"text": " So there's that energy to the idea of agroecology now."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,090",
+				"to": "00:38:34,130"
+			},
+			"offsets": {
+				"from": 2309090,
+				"to": 2314130
+			},
+			"text": " And I'm continually trying to figure out, well, wow, this is amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,130",
+				"to": "00:38:43,660"
+			},
+			"offsets": {
+				"from": 2314130,
+				"to": 2323660
+			},
+			"text": " I never thought I would hear this energy around the concept of agroecology on such a broad stage, but also it's like, we, you know, is it a word like sustainability?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,680",
+				"to": "00:38:51,730"
+			},
+			"offsets": {
+				"from": 2323680,
+				"to": 2331730
+			},
+			"text": " Sustainability or like resilience more recently that has kind of lost its meaning after reaching a very large audience?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,870",
+				"to": "00:38:53,050"
+			},
+			"offsets": {
+				"from": 2332870,
+				"to": 2333050
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,290",
+				"to": "00:38:54,890"
+			},
+			"offsets": {
+				"from": 2333290,
+				"to": 2334890
+			},
+			"text": " Yeah, that will happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:55,130",
+				"to": "00:38:55,910"
+			},
+			"offsets": {
+				"from": 2335130,
+				"to": 2335910
+			},
+			"text": " Yeah, I believe."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,070",
+				"to": "00:39:05,140"
+			},
+			"offsets": {
+				"from": 2336070,
+				"to": 2345140
+			},
+			"text": " But nonetheless, I still think that there's a power in, in, um, in the term because it still invokes and brings certain actors to the fore."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,700",
+				"to": "00:39:12,990"
+			},
+			"offsets": {
+				"from": 2345700,
+				"to": 2352990
+			},
+			"text": " Um, and so there will be a debate about what agroecology means, but there will still be aspects of agroecology that remain."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,990",
+				"to": "00:39:17,790"
+			},
+			"offsets": {
+				"from": 2352990,
+				"to": 2357790
+			},
+			"text": " So, um, in the ways that I believe you and I probably understand agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:19,800",
+				"to": "00:39:22,120"
+			},
+			"offsets": {
+				"from": 2359800,
+				"to": 2362120
+			},
+			"text": " Brent, we haven't talked much about Costa Rica yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,220",
+				"to": "00:39:26,160"
+			},
+			"offsets": {
+				"from": 2362220,
+				"to": 2366160
+			},
+			"text": " Can you, can you tell me some about, um, the university of peace and what you worked on there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:27,990",
+				"to": "00:39:29,370"
+			},
+			"offsets": {
+				"from": 2367990,
+				"to": 2369370
+			},
+			"text": " Uh, Pura Vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,070",
+				"to": "00:39:33,040"
+			},
+			"offsets": {
+				"from": 2371070,
+				"to": 2373040
+			},
+			"text": " Um, Costa Rica."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,500",
+				"to": "00:39:35,230"
+			},
+			"offsets": {
+				"from": 2373500,
+				"to": 2375230
+			},
+			"text": " Um, I love Costa Rica."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:35,550",
+				"to": "00:39:43,580"
+			},
+			"offsets": {
+				"from": 2375550,
+				"to": 2383580
+			},
+			"text": " Um, my son was born there, so I will always have a, uh, very close, um, connection to, to Costa Rica as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:43,580",
+				"to": "00:39:52,730"
+			},
+			"offsets": {
+				"from": 2383580,
+				"to": 2392730
+			},
+			"text": " Um, just very fortunate to, to have been able to work at the UN university for peace in, in, uh, in Costa Rica over the last three years."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,800",
+				"to": "00:39:56,900"
+			},
+			"offsets": {
+				"from": 2393800,
+				"to": 2396900
+			},
+			"text": " Um, so my wife and I moved down there, we had our, our baby boy."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,910",
+				"to": "00:40:05,770"
+			},
+			"offsets": {
+				"from": 2397910,
+				"to": 2405770
+			},
+			"text": " Um, and it was exciting place to be, particularly because we were able to, we had a lot of freedom at the university to kind of create new programs."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:05,770",
+				"to": "00:40:11,700"
+			},
+			"offsets": {
+				"from": 2405770,
+				"to": 2411700
+			},
+			"text": " And so we created a specialization in sustainable food systems to our master degree in environment and development."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,700",
+				"to": "00:40:16,820"
+			},
+			"offsets": {
+				"from": 2411700,
+				"to": 2416820
+			},
+			"text": " And so that allowed us to, um, start to develop some, some new courses."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,820",
+				"to": "00:40:28,910"
+			},
+			"offsets": {
+				"from": 2416820,
+				"to": 2428910
+			},
+			"text": " And one of the new courses that we developed was kind of this applied research class where it gave students the opportunity to actually get out into the field and, and do a project, um, a group project together."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:28,910",
+				"to": "00:40:36,640"
+			},
+			"offsets": {
+				"from": 2428910,
+				"to": 2436640
+			},
+			"text": " Um, and, um, actually today, it's funny today we just published the results from that project."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,820",
+				"to": "00:40:38,080"
+			},
+			"offsets": {
+				"from": 2436820,
+				"to": 2438080
+			},
+			"text": " Um, I sent you an earlier version."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,080",
+				"to": "00:40:38,520"
+			},
+			"offsets": {
+				"from": 2438080,
+				"to": 2438520
+			},
+			"text": " Oh yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,760",
+				"to": "00:40:39,000"
+			},
+			"offsets": {
+				"from": 2438760,
+				"to": 2439000
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:39,080",
+				"to": "00:40:40,860"
+			},
+			"offsets": {
+				"from": 2439080,
+				"to": 2440860
+			},
+			"text": " The final version was published today."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,440",
+				"to": "00:40:52,970"
+			},
+			"offsets": {
+				"from": 2441440,
+				"to": 2452970
+			},
+			"text": " Um, and this was something that's kind of grew out of the interests of our, our students and the, and, and my interest as well in farmers markets in Costa Rica."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,970",
+				"to": "00:40:58,380"
+			},
+			"offsets": {
+				"from": 2452970,
+				"to": 2458380
+			},
+			"text": " Um, Costa Rica has a very strong tradition of farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,310",
+				"to": "00:41:05,280"
+			},
+			"offsets": {
+				"from": 2459310,
+				"to": 2465280
+			},
+			"text": " Um, it's the number one place, um, that people prefer to get their fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:06,320",
+				"to": "00:41:12,240"
+			},
+			"offsets": {
+				"from": 2466320,
+				"to": 2472240
+			},
+			"text": " So for somebody, you know, sitting, listening in the United States, that just seems like revolutionary in a way."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,360",
+				"to": "00:41:23,340"
+			},
+			"offsets": {
+				"from": 2472360,
+				"to": 2483340
+			},
+			"text": " I mean, nobody gets all their fruits and vegetables from farmers markets here, you know, but literally you see over a quarter of the population, it's their preferred place to get, um, fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:24,050",
+				"to": "00:41:30,620"
+			},
+			"offsets": {
+				"from": 2484050,
+				"to": 2490620
+			},
+			"text": " Um, and it's also has a very heavy state involvement in the formation of the program."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,620",
+				"to": "00:41:31,800"
+			},
+			"offsets": {
+				"from": 2490620,
+				"to": 2491800
+			},
+			"text": " And then it's continuation."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:32,890",
+				"to": "00:41:43,690"
+			},
+			"offsets": {
+				"from": 2492890,
+				"to": 2503690
+			},
+			"text": " Um, it's not like a, you know, a nonprofit organization setting up a stand somewhere or some community organization saying, Hey, we want to have a farmer's market."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:43,690",
+				"to": "00:41:44,170"
+			},
+			"offsets": {
+				"from": 2503690,
+				"to": 2504170
+			},
+			"text": " No, no, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,190",
+				"to": "00:41:52,810"
+			},
+			"offsets": {
+				"from": 2504190,
+				"to": 2512810
+			},
+			"text": " It's actually the state via the ministry of agriculture, setting up farmer's markets, um, regulating them who can and can't be there."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,270",
+				"to": "00:42:00,060"
+			},
+			"offsets": {
+				"from": 2513270,
+				"to": 2520060
+			},
+			"text": " Um, only farmers of a particular size can send, um, a small size can, um, sell their produce there."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:00,220",
+				"to": "00:42:06,210"
+			},
+			"offsets": {
+				"from": 2520220,
+				"to": 2526210
+			},
+			"text": " So we were, we were just in our initial kind of, um, preliminary studies into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,270",
+				"to": "00:42:16,960"
+			},
+			"offsets": {
+				"from": 2526270,
+				"to": 2536960
+			},
+			"text": " We were fascinated by the stark differences in the organizational content of these farmers markets from the global North and in kind of who are they, they were servicing."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,960",
+				"to": "00:42:34,120"
+			},
+			"offsets": {
+				"from": 2536960,
+				"to": 2554120
+			},
+			"text": " I mean, um, an output of our research, I'm getting ahead of myself here a little bit, but, um, an output of our research demonstrated that almost 50% of the folks we surveyed who were attending these farmers markets were below the Costa Rican poverty line."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:34,120",
+				"to": "00:42:44,160"
+			},
+			"offsets": {
+				"from": 2554120,
+				"to": 2564160
+			},
+			"text": " Um, so this wasn't, you know, the, uh, you know, middle to upper middle class, um, foodie that was going to the farmer's market."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:44,340",
+				"to": "00:42:49,010"
+			},
+			"offsets": {
+				"from": 2564340,
+				"to": 2569010
+			},
+			"text": " Um, this was, you know, folks who were struggling to make ends meet were going to the farmer's market."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:49,010",
+				"to": "00:42:55,940"
+			},
+			"offsets": {
+				"from": 2569010,
+				"to": 2575940
+			},
+			"text": " Um, so just a totally different kind of social context and setting for, for farmer's markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,940",
+				"to": "00:43:07,800"
+			},
+			"offsets": {
+				"from": 2575940,
+				"to": 2587800
+			},
+			"text": " And so what, what was really driving our interest was, you know, we're reading all this stuff in our classes about farmer's markets and how they're exclusionary spaces and, um, up in the global North."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:08,490",
+				"to": "00:43:14,380"
+			},
+			"offsets": {
+				"from": 2588490,
+				"to": 2594380
+			},
+			"text": " Um, let's learn a bit more about what they're like here in Costa Rica and, and why they're like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,930",
+				"to": "00:43:21,960"
+			},
+			"offsets": {
+				"from": 2594930,
+				"to": 2601960
+			},
+			"text": " Um, and so, so because of that, we kind of had this central question that we, we wanted to answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:21,960",
+				"to": "00:43:39,420"
+			},
+			"offsets": {
+				"from": 2601960,
+				"to": 2619420
+			},
+			"text": " And that was can farmers markets can, and to what extent do farmers markets in urban Costa Rica, um, simultaneously address urban food security, um, and rural farm security."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:39,420",
+				"to": "00:43:47,010"
+			},
+			"offsets": {
+				"from": 2619420,
+				"to": 2627010
+			},
+			"text": " So we were really interested in this connection between food and farm security that potentially farmer's markets can play a role in doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,810",
+				"to": "00:43:51,330"
+			},
+			"offsets": {
+				"from": 2627810,
+				"to": 2631330
+			},
+			"text": " And I think, I mean, this is just kind of cut to the end of the story here."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,490",
+				"to": "00:44:10,530"
+			},
+			"offsets": {
+				"from": 2631490,
+				"to": 2650530
+			},
+			"text": " Um, I think what we found was they are playing a role in doing that, which would be different from, you know, farmer's markets in the global North, where you see a stronger role for ensuring that farms have a place to sell their produce, which is a very valuable thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:11,000",
+				"to": "00:44:19,880"
+			},
+			"offsets": {
+				"from": 2651000,
+				"to": 2659880
+			},
+			"text": " Um, and it's starting to move towards more urban food security issues with the acceptance of EBT cards and food stamps and that, that sort of thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:19,880",
+				"to": "00:44:30,290"
+			},
+			"offsets": {
+				"from": 2659880,
+				"to": 2670290
+			},
+			"text": " Um, but the, the social circumstances in which farmers markets are embedded in Costa Rica are very different, which leads them to be able to achieve, um, different social goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:30,510",
+				"to": "00:44:32,160"
+			},
+			"offsets": {
+				"from": 2670510,
+				"to": 2672160
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:32,570",
+				"to": "00:44:38,440"
+			},
+			"offsets": {
+				"from": 2672570,
+				"to": 2678440
+			},
+			"text": " Um, it's, so bring it back to California for us since you've just moved back."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:38,440",
+				"to": "00:44:46,850"
+			},
+			"offsets": {
+				"from": 2678440,
+				"to": 2686850
+			},
+			"text": " And, um, since that, that's, we're both here in Northern California that has, is very proud of its tradition of farmer's markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,030",
+				"to": "00:44:53,400"
+			},
+			"offsets": {
+				"from": 2687030,
+				"to": 2693400
+			},
+			"text": " Uh, what would need to happen to make farmer's markets a better tool for food security for the people buying the food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:54,770",
+				"to": "00:44:55,490"
+			},
+			"offsets": {
+				"from": 2694770,
+				"to": 2695490
+			},
+			"text": " Uh, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:55,730",
+				"to": "00:44:56,870"
+			},
+			"offsets": {
+				"from": 2695730,
+				"to": 2696870
+			},
+			"text": " Uh, great question."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:58,450",
+				"to": "00:45:01,910"
+			},
+			"offsets": {
+				"from": 2698450,
+				"to": 2701910
+			},
+			"text": " Um, I think a lot of that work's being done right now, to be honest."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,210",
+				"to": "00:45:06,710"
+			},
+			"offsets": {
+				"from": 2702210,
+				"to": 2706710
+			},
+			"text": " Um, there's great work, particularly in the Bay Area being done on that topic."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,030",
+				"to": "00:45:12,390"
+			},
+			"offsets": {
+				"from": 2707030,
+				"to": 2712390
+			},
+			"text": " Um, I was just, um, at a panel with, and I'm, gosh, what is that organization?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:12,890",
+				"to": "00:45:23,400"
+			},
+			"offsets": {
+				"from": 2712890,
+				"to": 2723400
+			},
+			"text": " The Ecology Center, um, in Berkeley, doing some really wonderful work on making, um, you know, food more accessible to, to the poor at urban farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:24,220",
+				"to": "00:45:28,280"
+			},
+			"offsets": {
+				"from": 2724220,
+				"to": 2728280
+			},
+			"text": " Um, so I think in the global North, you're dealing with different contexts."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:28,640",
+				"to": "00:45:36,520"
+			},
+			"offsets": {
+				"from": 2728640,
+				"to": 2736520
+			},
+			"text": " Um, it really involves, it needs some sort of government or foundation or NGO support to subsidize produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,520",
+				"to": "00:45:47,570"
+			},
+			"offsets": {
+				"from": 2736520,
+				"to": 2747570
+			},
+			"text": " Because, you know, what, it's, farmers markets in Costa Rica and farmers markets in California are operating in two totally different social contexts."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:48,230",
+				"to": "00:46:00,170"
+			},
+			"offsets": {
+				"from": 2748230,
+				"to": 2760170
+			},
+			"text": " And so, whereas you may be able in Costa Rica to find a happy medium point where price is sufficient for, for rural farmers, but also more affordable than supermarkets."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:00,170",
+				"to": "00:46:09,400"
+			},
+			"offsets": {
+				"from": 2760170,
+				"to": 2769400
+			},
+			"text": " So, um, but whereas you, it'd be very difficult to find such a price point here, given high real estate costs, labor costs, things of that sort."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:10,340",
+				"to": "00:46:24,040"
+			},
+			"offsets": {
+				"from": 2770340,
+				"to": 2784040
+			},
+			"text": " Um, the fortunate thing in the global North is you have governments who are willing, not as willing as they should be, but willing nonetheless to, to consider subsidizing, um, you know, the produce at these markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:24,040",
+				"to": "00:46:28,480"
+			},
+			"offsets": {
+				"from": 2784040,
+				"to": 2788480
+			},
+			"text": " Because that's really what needs to happen, um, for them to play this kind of a social advocacy role."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:28,480",
+				"to": "00:46:38,230"
+			},
+			"offsets": {
+				"from": 2788480,
+				"to": 2798230
+			},
+			"text": " Now, um, but that says nothing about the cultural exclusion that, that many people of color and poor feel at these farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:38,230",
+				"to": "00:46:52,750"
+			},
+			"offsets": {
+				"from": 2798230,
+				"to": 2812750
+			},
+			"text": " And so there's, there's, again, more work that needs to occur in those circumstances to make these culturally relevant, safe, interesting spaces for people of all, uh, backgrounds and ethnicities."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:53,350",
+				"to": "00:46:59,380"
+			},
+			"offsets": {
+				"from": 2813350,
+				"to": 2819380
+			},
+			"text": " Um, and, you know, that's an edge of the food movement that, um, is well understood in the Bay Area."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:59,380",
+				"to": "00:47:02,180"
+			},
+			"offsets": {
+				"from": 2819380,
+				"to": 2822180
+			},
+			"text": " And I think, um, you know, being addressed."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:03,350",
+				"to": "00:47:03,450"
+			},
+			"offsets": {
+				"from": 2823350,
+				"to": 2823450
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:03,450",
+				"to": "00:47:07,060"
+			},
+			"offsets": {
+				"from": 2823450,
+				"to": 2827060
+			},
+			"text": " It's, it's kind of what's happening as the food movement grows up."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:07,240",
+				"to": "00:47:25,880"
+			},
+			"offsets": {
+				"from": 2827240,
+				"to": 2845880
+			},
+			"text": " That's how I've been thinking about it, but, um, we, we, we, we think about the food movement more in the context of power relations, um, that are, that are part of the bigger questions about, about how things work."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:25,940",
+				"to": "00:47:27,780"
+			},
+			"offsets": {
+				"from": 2845940,
+				"to": 2847780
+			},
+			"text": " Yeah, exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:28,630",
+				"to": "00:47:32,730"
+			},
+			"offsets": {
+				"from": 2848630,
+				"to": 2852730
+			},
+			"text": " It kind of leads me to this, a more personal question that I wanted to ask you, Brian."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:33,190",
+				"to": "00:47:38,940"
+			},
+			"offsets": {
+				"from": 2853190,
+				"to": 2858940
+			},
+			"text": " You're approximately the same color and shape as me, tall white guy."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:39,280",
+				"to": "00:47:44,580"
+			},
+			"offsets": {
+				"from": 2859280,
+				"to": 2864580
+			},
+			"text": " And you spend a lot of time in, not so tall, not quite as tall as you."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:45,610",
+				"to": "00:47:46,250"
+			},
+			"offsets": {
+				"from": 2865610,
+				"to": 2866250
+			},
+			"text": " And tall."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:46,570",
+				"to": "00:47:48,850"
+			},
+			"offsets": {
+				"from": 2866570,
+				"to": 2868850
+			},
+			"text": " Well, you spend a lot of time in West Africa."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:48,930",
+				"to": "00:47:50,350"
+			},
+			"offsets": {
+				"from": 2868930,
+				"to": 2870350
+			},
+			"text": " You've spent a lot of time in Costa Rica."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:50,870",
+				"to": "00:47:57,510"
+			},
+			"offsets": {
+				"from": 2870870,
+				"to": 2877510
+			},
+			"text": " Um, and I know that not just social justice is important to you though."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:57,510",
+				"to": "00:48:03,990"
+			},
+			"offsets": {
+				"from": 2877510,
+				"to": 2883990
+			},
+			"text": " It is, but there's also that, that doing research that also, um, has an aspect of solidarity to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:03,990",
+				"to": "00:48:04,810"
+			},
+			"offsets": {
+				"from": 2883990,
+				"to": 2884810
+			},
+			"text": " It's important to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:04,810",
+				"to": "00:48:11,320"
+			},
+			"offsets": {
+				"from": 2884810,
+				"to": 2891320
+			},
+			"text": " And what have you, what have you learned about the practice of solidarity and over, over this time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:13,130",
+				"to": "00:48:14,190"
+			},
+			"offsets": {
+				"from": 2893130,
+				"to": 2894190
+			},
+			"text": " Oh, that's a great question."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:15,230",
+				"to": "00:48:18,810"
+			},
+			"offsets": {
+				"from": 2895230,
+				"to": 2898810
+			},
+			"text": " Um, I had to think of a harder question than when I started."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:19,760",
+				"to": "00:48:20,350"
+			},
+			"offsets": {
+				"from": 2899760,
+				"to": 2900350
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:20,470",
+				"to": "00:48:21,410"
+			},
+			"offsets": {
+				"from": 2900470,
+				"to": 2901410
+			},
+			"text": " Is that what you succeeded?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:22,350",
+				"to": "00:48:27,730"
+			},
+			"offsets": {
+				"from": 2902350,
+				"to": 2907730
+			},
+			"text": " Um, gosh, it's something that you, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:27,830",
+				"to": "00:48:32,330"
+			},
+			"offsets": {
+				"from": 2907830,
+				"to": 2912330
+			},
+			"text": " I, I, I'd be interested to hear how you, uh, respond as well to that question."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:32,610",
+				"to": "00:48:56,770"
+			},
+			"offsets": {
+				"from": 2912610,
+				"to": 2936770
+			},
+			"text": " Um, it's something that's, you know, continue to struggle with and grow on, you know, as I continue to attempt to do research that has a social significance and yet isn't neocolonial and, um, you know, um, you know, not absent of a positionality."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:57,280",
+				"to": "00:49:21,780"
+			},
+			"offsets": {
+				"from": 2937280,
+				"to": 2961780
+			},
+			"text": " Um, and so, well, I think what I find, what I always kind of come back to is in trying to do work in solidarity with folks from other places and with differential power and, uh, different colors, different ethnic backgrounds, different, um, socioeconomic statuses."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:21,780",
+				"to": "00:49:36,360"
+			},
+			"offsets": {
+				"from": 2961780,
+				"to": 2976360
+			},
+			"text": " I try to just try to meet people and try to build relationships and, um, and yet still remain conscious of my positionality while I'm, um, doing so."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:36,360",
+				"to": "00:49:44,940"
+			},
+			"offsets": {
+				"from": 2976360,
+				"to": 2984940
+			},
+			"text": " And that takes different forms in different places and I stumble and, um, you know, learn and get back up."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:45,680",
+				"to": "00:49:57,440"
+			},
+			"offsets": {
+				"from": 2985680,
+				"to": 2997440
+			},
+			"text": " Um, but I think that when we're able to, you know, still be conscious of the different, different, um, power differentiators."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:57,600",
+				"to": "00:50:06,250"
+			},
+			"offsets": {
+				"from": 2997600,
+				"to": 3006250
+			},
+			"text": " And yet come together on a shared commitment and goal, um, via dialogue and via relationship building."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:06,390",
+				"to": "00:50:14,290"
+			},
+			"offsets": {
+				"from": 3006390,
+				"to": 3014290
+			},
+			"text": " I think it's actually one of the most powerful things to do as just an individual and as a citizen and as a researcher."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:15,190",
+				"to": "00:50:18,740"
+			},
+			"offsets": {
+				"from": 3015190,
+				"to": 3018740
+			},
+			"text": " Um, and it's also, I think, one of the most hopeful things to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:18,800",
+				"to": "00:50:31,120"
+			},
+			"offsets": {
+				"from": 3018800,
+				"to": 3031120
+			},
+			"text": " I think, you know, we, we are committed to the work we do because we want to see change happen in the world where we see injustices, we see all these things happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:31,950",
+				"to": "00:50:40,180"
+			},
+			"offsets": {
+				"from": 3031950,
+				"to": 3040180
+			},
+			"text": " Um, it's, we're aware of the past and historical injustices that have created the present."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:40,180",
+				"to": "00:51:00,760"
+			},
+			"offsets": {
+				"from": 3040180,
+				"to": 3060760
+			},
+			"text": " Um, it would be a damn shame if we, if we then retreat to our own, um, you know, shells and not try to find some way to communicate across these differences to affect change together and to build relationships and to build communities and to build coalitions."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:01,510",
+				"to": "00:51:20,500"
+			},
+			"offsets": {
+				"from": 3061510,
+				"to": 3080500
+			},
+			"text": " Um, and so I just, I think I was more naive about this when I started, when I was 19 and started organizing around affirmative action as an undergraduates and trying to, uh, ensure that affirmative action was not dismantled at the university of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:20,500",
+				"to": "00:51:31,120"
+			},
+			"offsets": {
+				"from": 3080500,
+				"to": 3091120
+			},
+			"text": " And I think I was very, you know, kind of naive that we could just skip over all these power differentials, have a cross ethnic, you know, coalition that would, would affect this change."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:31,120",
+				"to": "00:51:46,390"
+			},
+			"offsets": {
+				"from": 3091120,
+				"to": 3106390
+			},
+			"text": " Um, and I think, you know, being involved in those sorts of social movements as an activist helped me to see that, yeah, I am a white dude that grew up, um, in West Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:46,390",
+				"to": "00:51:51,460"
+			},
+			"offsets": {
+				"from": 3106390,
+				"to": 3111460
+			},
+			"text": " And that confers a sense of privilege and, uh, and, and whatnot."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:51,660",
+				"to": "00:51:54,180"
+			},
+			"offsets": {
+				"from": 3111660,
+				"to": 3114180
+			},
+			"text": " And I need to bring that understanding with me wherever I go."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:54,280",
+				"to": "00:51:55,700"
+			},
+			"offsets": {
+				"from": 3114280,
+				"to": 3115700
+			},
+			"text": " And I need to remember that."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:56,400",
+				"to": "00:52:10,340"
+			},
+			"offsets": {
+				"from": 3116400,
+				"to": 3130340
+			},
+			"text": " Um, and I need to keep that front and center when I'm, you know, talking with folks who, you know, have come from their own life histories and, and, um, products of their own, you know, of, of, of particular histories."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:11,630",
+				"to": "00:52:18,380"
+			},
+			"offsets": {
+				"from": 3131630,
+				"to": 3138380
+			},
+			"text": " Um, but what I find that everybody wants to do is everybody does want to build community and relationship around these issues that they care about."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:18,460",
+				"to": "00:52:23,910"
+			},
+			"offsets": {
+				"from": 3138460,
+				"to": 3143910
+			},
+			"text": " And so I think keeping that front and center as well as the key to, to the work I think that we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:24,270",
+				"to": "00:52:40,940"
+			},
+			"offsets": {
+				"from": 3144270,
+				"to": 3160940
+			},
+			"text": " Um, yeah, Brian, I, I, I think I've had a really similar experience where it's like, um, I think it, the idea of difference in power and privilege can seem so daunting at times, but, and it is, it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:40,940",
+				"to": "00:52:55,010"
+			},
+			"offsets": {
+				"from": 3160940,
+				"to": 3175010
+			},
+			"text": " There are huge differences, but the practice and maybe the praxis of building coalitions and doing work together, um, they're, those are the stronger experiences for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:55,010",
+				"to": "00:53:15,440"
+			},
+			"offsets": {
+				"from": 3175010,
+				"to": 3195440
+			},
+			"text": " Um, that, um, yeah, I think that, I think that as we interact with real people on real movement building, and we do that in a way that's reflexive to the differences in power, um, amazing things keep happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:15,440",
+				"to": "00:53:22,810"
+			},
+			"offsets": {
+				"from": 3195440,
+				"to": 3202810
+			},
+			"text": " Amazing moments of solidarity keep happening as a way, as, and at the same time as plenty of moments of stumbling."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:24,550",
+				"to": "00:53:25,790"
+			},
+			"offsets": {
+				"from": 3204550,
+				"to": 3205790
+			},
+			"text": " I think that's really well said."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:25,870",
+				"to": "00:53:27,590"
+			},
+			"offsets": {
+				"from": 3205870,
+				"to": 3207590
+			},
+			"text": " I think you said it much better than I did, Devin."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:29,910",
+				"to": "00:53:30,590"
+			},
+			"offsets": {
+				"from": 3209910,
+				"to": 3210590
+			},
+			"text": " It's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:30,710",
+				"to": "00:53:42,290"
+			},
+			"offsets": {
+				"from": 3210710,
+				"to": 3222290
+			},
+			"text": " I mean, those moments where, I mean, when you're actively involved in building these relationships, I feel like, you know, people are interested in doing it there, you know, we're, we want to make change."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:42,290",
+				"to": "00:53:52,250"
+			},
+			"offsets": {
+				"from": 3222290,
+				"to": 3232250
+			},
+			"text": " And so there's this, there's this passion and drive to, to, to, to build coalition, to cut across communities, to, to affect the change that we want to do in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:52,250",
+				"to": "00:53:57,030"
+			},
+			"offsets": {
+				"from": 3232250,
+				"to": 3237030
+			},
+			"text": " And so, um, it's very, um, life affirming, I think."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:57,860",
+				"to": "00:53:58,340"
+			},
+			"offsets": {
+				"from": 3237860,
+				"to": 3238340
+			},
+			"text": " Yeah, I agree."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:58,440",
+				"to": "00:53:59,380"
+			},
+			"offsets": {
+				"from": 3238440,
+				"to": 3239380
+			},
+			"text": " And we've got to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:59,420",
+				"to": "00:54:06,390"
+			},
+			"offsets": {
+				"from": 3239420,
+				"to": 3246390
+			},
+			"text": " There's no, there's no one kind of person that can make the changes that we want to see in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:06,550",
+				"to": "00:54:09,430"
+			},
+			"offsets": {
+				"from": 3246550,
+				"to": 3249430
+			},
+			"text": " It has to be a coalition of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:10,600",
+				"to": "00:54:12,460"
+			},
+			"offsets": {
+				"from": 3250600,
+				"to": 3252460
+			},
+			"text": " Very, very much agree with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:14,620",
+				"to": "00:54:16,950"
+			},
+			"offsets": {
+				"from": 3254620,
+				"to": 3256950
+			},
+			"text": " So do you have a more difficult question?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:17,330",
+				"to": "00:54:19,270"
+			},
+			"offsets": {
+				"from": 3257330,
+				"to": 3259270
+			},
+			"text": " No, no, that's, that's all I got."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:19,610",
+				"to": "00:54:20,310"
+			},
+			"offsets": {
+				"from": 3259610,
+				"to": 3260310
+			},
+			"text": " That's all I got."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:20,310",
+				"to": "00:54:23,870"
+			},
+			"offsets": {
+				"from": 3260310,
+				"to": 3263870
+			},
+			"text": " Um, I, I want to say, well, you're just, you're back here in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:23,870",
+				"to": "00:54:27,950"
+			},
+			"offsets": {
+				"from": 3263870,
+				"to": 3267950
+			},
+			"text": " You're teaching, um, now in San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:28,780",
+				"to": "00:54:31,430"
+			},
+			"offsets": {
+				"from": 3268780,
+				"to": 3271430
+			},
+			"text": " Um, you're teaching new kinds of classes."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:31,570",
+				"to": "00:54:39,620"
+			},
+			"offsets": {
+				"from": 3271570,
+				"to": 3279620
+			},
+			"text": " What do you, what are some of the things that you hope, um, your students learn from you specifically?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:39,930",
+				"to": "00:54:50,720"
+			},
+			"offsets": {
+				"from": 3279930,
+				"to": 3290720
+			},
+			"text": " Yeah, I mean, not, not just to understand Gramsci or whatever, but like what, you know, what, what do people, what do you say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:50,760",
+				"to": "00:54:52,120"
+			},
+			"offsets": {
+				"from": 3290760,
+				"to": 3292120
+			},
+			"text": " It's the first day of class."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:52,200",
+				"to": "00:54:55,020"
+			},
+			"offsets": {
+				"from": 3292200,
+				"to": 3295020
+			},
+			"text": " What is it that, and you're looking out over your class?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:55,080",
+				"to": "00:54:58,190"
+			},
+			"offsets": {
+				"from": 3295080,
+				"to": 3298190
+			},
+			"text": " What do you hope that the students learn from you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:02,190",
+				"to": "00:55:02,550"
+			},
+			"offsets": {
+				"from": 3302190,
+				"to": 3302550
+			},
+			"text": " Hmm."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:02,830",
+				"to": "00:55:04,290"
+			},
+			"offsets": {
+				"from": 3302830,
+				"to": 3304290
+			},
+			"text": " Yeah, I think you outdid yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:06,030",
+				"to": "00:55:06,990"
+			},
+			"offsets": {
+				"from": 3306030,
+				"to": 3306990
+			},
+			"text": " This is a good one."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:07,070",
+				"to": "00:55:08,590"
+			},
+			"offsets": {
+				"from": 3307070,
+				"to": 3308590
+			},
+			"text": " This is really making me think."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:08,590",
+				"to": "00:55:17,600"
+			},
+			"offsets": {
+				"from": 3308590,
+				"to": 3317600
+			},
+			"text": " Um, well, maybe I'll start by saying it's so much fun to have worked at UPS and then also to work here because, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:17,620",
+				"to": "00:55:23,950"
+			},
+			"offsets": {
+				"from": 3317620,
+				"to": 3323950
+			},
+			"text": " the classroom that you're dealing with is, is so diverse, so many different perspectives."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:24,670",
+				"to": "00:55:28,980"
+			},
+			"offsets": {
+				"from": 3324670,
+				"to": 3328980
+			},
+			"text": " Um, UPS, there was 50 countries, but only 200 students."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:29,040",
+				"to": "00:55:32,150"
+			},
+			"offsets": {
+				"from": 3329040,
+				"to": 3332150
+			},
+			"text": " So you can just imagine the kind of diversity in the classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:32,150",
+				"to": "00:55:38,570"
+			},
+			"offsets": {
+				"from": 3332150,
+				"to": 3338570
+			},
+			"text": " And then USF is, I think it was just rated the seventh most diverse, uh, campus in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:38,570",
+				"to": "00:55:47,250"
+			},
+			"offsets": {
+				"from": 3338570,
+				"to": 3347250
+			},
+			"text": " And so it's, um, lots of international students, all different ethnic backgrounds, um, socioeconomic statuses in the room at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:47,250",
+				"to": "00:55:50,240"
+			},
+			"offsets": {
+				"from": 3347250,
+				"to": 3350240
+			},
+			"text": " And I feel like that leads to a very vibrant discussion."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:50,300",
+				"to": "00:55:58,220"
+			},
+			"offsets": {
+				"from": 3350300,
+				"to": 3358220
+			},
+			"text": " So on the one hand, I just want, I want folks in the room to have a, feel a safe space to engage, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:58,510",
+				"to": "00:56:08,170"
+			},
+			"offsets": {
+				"from": 3358510,
+				"to": 3368170
+			},
+			"text": " Um, this morning, uh, we, we got in a, a, uh, debate with, uh, the students in the class about, you know, who was to blame for the Rwanda genocide and whatnot."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:08,310",
+				"to": "00:56:15,660"
+			},
+			"offsets": {
+				"from": 3368310,
+				"to": 3375660
+			},
+			"text": " Uh, but we were debating and people were really, you know, fired up and, and, um, and presenting their points."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:15,980",
+				"to": "00:56:18,280"
+			},
+			"offsets": {
+				"from": 3375980,
+				"to": 3378280
+			},
+			"text": " And you had a lot of different perspectives in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:18,740",
+				"to": "00:56:31,070"
+			},
+			"offsets": {
+				"from": 3378740,
+				"to": 3391070
+			},
+			"text": " And, um, I think something comes out of that, that's, I think that's where learning, that's where I learned the most, um, is when we, we have this safe space to like really debate and talk about things."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:31,070",
+				"to": "00:56:46,210"
+			},
+			"offsets": {
+				"from": 3391070,
+				"to": 3406210
+			},
+			"text": " I mean, I'm thinking about this right now, Devin, I mean, us having this conversation is, is great because you never know where the conversation is going to go when you start learning things through the conversation that perhaps you didn't think of in the same way prior or kind of a new understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:46,210",
+				"to": "00:56:56,690"
+			},
+			"offsets": {
+				"from": 3406210,
+				"to": 3416690
+			},
+			"text": " And so that emergence, uh, of being in conversation and in dialogue, I think is one of the, the contextual settings that I want to build in the classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:56,690",
+				"to": "00:57:14,190"
+			},
+			"offsets": {
+				"from": 3416690,
+				"to": 3434190
+			},
+			"text": " I think, um, so, and then in terms of, on a related point, I think I want folks, I think to leave the class, um, feeling confident that they can engage in public debate about issues that they're really concerned over."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:14,190",
+				"to": "00:57:34,940"
+			},
+			"offsets": {
+				"from": 3434190,
+				"to": 3454940
+			},
+			"text": " And so, and so, so for me, it's about helping to locate and map out the different ways of thinking about a particular issue and then hoping that students can gain the analytical refinement of their arguments to kind of engage, um, people critically on the issues that they care about."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:34,940",
+				"to": "00:57:43,760"
+			},
+			"offsets": {
+				"from": 3454940,
+				"to": 3463760
+			},
+			"text": " So if it's GM crops in Africa, you know, who would tell you that they are good for the poor and how would you respond to that person?"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:44,320",
+				"to": "00:57:51,930"
+			},
+			"offsets": {
+				"from": 3464320,
+				"to": 3471930
+			},
+			"text": " You know, not in a flippant, non-empirical way, but in like a, a grounded, empirical, analytical fashion."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:52,720",
+				"to": "00:58:09,860"
+			},
+			"offsets": {
+				"from": 3472720,
+				"to": 3489860
+			},
+			"text": " Um, and I think by creating a space for the, for the kind of creation of engaged citizens on topics that they care about, I think that's probably what I most want to participate in the development of in the classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:09,980",
+				"to": "00:58:12,030"
+			},
+			"offsets": {
+				"from": 3489980,
+				"to": 3492030
+			},
+			"text": " Awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:12,190",
+				"to": "00:58:12,830"
+			},
+			"offsets": {
+				"from": 3492190,
+				"to": 3492830
+			},
+			"text": " Thank you, Brian."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:12,970",
+				"to": "00:58:22,620"
+			},
+			"offsets": {
+				"from": 3492970,
+				"to": 3502620
+			},
+			"text": " And that, that, that feels like a full circle and a good place to leave it, even though I have a million more things I want to ask you about, uh, I'll keep thinking of questions."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:23,180",
+				"to": "00:58:33,670"
+			},
+			"offsets": {
+				"from": 3503180,
+				"to": 3513670
+			},
+			"text": " Um, but, but thanks so much, um, for now it, how can people follow along with, um, work that you're doing or keep up with you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:58:34,980",
+				"to": "00:58:39,600"
+			},
+			"offsets": {
+				"from": 3514980,
+				"to": 3519600
+			},
+			"text": " Well, um, I just joined Twitter, um, and I love it."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:40,040",
+				"to": "00:58:46,490"
+			},
+			"offsets": {
+				"from": 3520040,
+				"to": 3526490
+			},
+			"text": " Um, and so, you know, it's at the B doubt Uribe on Twitter would be one way to follow."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:46,530",
+				"to": "00:58:55,970"
+			},
+			"offsets": {
+				"from": 3526530,
+				"to": 3535970
+			},
+			"text": " And I, I don't, I'm not one of those tweeters that tweets lots of stuff, you know, so don't expect too much stuff, but certainly expect the stuff that I find really important to come out on, on, on Twitter."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:55,970",
+				"to": "00:59:00,530"
+			},
+			"offsets": {
+				"from": 3535970,
+				"to": 3540530
+			},
+			"text": " And then, um, I think that would probably be the best way and always email me."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:00,710",
+				"to": "00:59:07,340"
+			},
+			"offsets": {
+				"from": 3540710,
+				"to": 3547340
+			},
+			"text": " Um, I love engaging with folks and talking more about these issues and seeing how to work together, um, around shared issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:07,520",
+				"to": "00:59:09,400"
+			},
+			"offsets": {
+				"from": 3547520,
+				"to": 3549400
+			},
+			"text": " So, um, that would be another way."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:09,790",
+				"to": "00:59:09,890"
+			},
+			"offsets": {
+				"from": 3549790,
+				"to": 3549890
+			},
+			"text": " Great."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:09,990",
+				"to": "00:59:10,450"
+			},
+			"offsets": {
+				"from": 3549990,
+				"to": 3550450
+			},
+			"text": " Thanks, Brian."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:10,530",
+				"to": "00:59:22,310"
+			},
+			"offsets": {
+				"from": 3550530,
+				"to": 3562310
+			},
+			"text": " And then we will have, um, as always that Twitter handle and, um, and links to some of Brian's recent work, uh, on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:22,650",
+				"to": "00:59:24,100"
+			},
+			"offsets": {
+				"from": 3562650,
+				"to": 3564100
+			},
+			"text": " Brian, thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:24,780",
+				"to": "00:59:26,090"
+			},
+			"offsets": {
+				"from": 3564780,
+				"to": 3566090
+			},
+			"text": " It's been such a pleasure."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:27,070",
+				"to": "00:59:40,220"
+			},
+			"offsets": {
+				"from": 3567070,
+				"to": 3580220
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place produced by Devin Sampson and me."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:40,400",
+				"to": "00:59:41,100"
+			},
+			"offsets": {
+				"from": 3580400,
+				"to": 3581100
+			},
+			"text": " Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:41,100",
+				"to": "00:59:51,150"
+			},
+			"offsets": {
+				"from": 3581100,
+				"to": 3591150
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app, and you can find us at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:51,380",
+				"to": "00:59:53,190"
+			},
+			"offsets": {
+				"from": 3591380,
+				"to": 3593190
+			},
+			"text": " You can get in touch with us there too."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:54,190",
+				"to": "01:00:03,250"
+			},
+			"offsets": {
+				"from": 3594190,
+				"to": 3603250
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:03,510",
+				"to": "01:00:04,480"
+			},
+			"offsets": {
+				"from": 3603510,
+				"to": 3604480
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

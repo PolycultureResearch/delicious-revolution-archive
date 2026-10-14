@@ -1,0 +1,4806 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,030",
+				"to": "00:00:05,630"
+			},
+			"offsets": {
+				"from": 30,
+				"to": 5630
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,630",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 5630,
+				"to": 11600
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:14,370"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 14370
+			},
+			"text": " What's your food movement? Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,370",
+				"to": "00:00:17,750"
+			},
+			"offsets": {
+				"from": 14370,
+				"to": 17750
+			},
+			"text": " DeliciousRevolutionShow.com"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,750",
+				"to": "00:00:33,010"
+			},
+			"offsets": {
+				"from": 17750,
+				"to": 33010
+			},
+			"text": " Much better your dining experience would be if your server or your chef could build their craft over 15 or 20 years or a lifetime as opposed to moving from restaurant to restaurant to restaurant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,010",
+				"to": "00:00:37,910"
+			},
+			"offsets": {
+				"from": 33010,
+				"to": 37910
+			},
+			"text": " continuously seeking better wages and working conditions for their families."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,910",
+				"to": "00:00:44,510"
+			},
+			"offsets": {
+				"from": 37910,
+				"to": 44510
+			},
+			"text": " So, I think that's why right now we're seeing the biggest rift I've ever seen in the history of this industry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,510",
+				"to": "00:00:48,710"
+			},
+			"offsets": {
+				"from": 44510,
+				"to": 48710
+			},
+			"text": " where all of these restaurants are moving towards us and towards the high road,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,710",
+				"to": "00:00:55,010"
+			},
+			"offsets": {
+				"from": 48710,
+				"to": 55010
+			},
+			"text": " because they're recognizing what we're recognizing that, ultimately, if we want a better industry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,010",
+				"to": "00:01:01,210"
+			},
+			"offsets": {
+				"from": 55010,
+				"to": 61210
+			},
+			"text": " we need to treat these people as professionals, we'll have a better dining experience, we'll have better profitability as employers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,210",
+				"to": "00:01:05,410"
+			},
+			"offsets": {
+				"from": 61210,
+				"to": 65410
+			},
+			"text": " Everybody will succeed if we treat these people as the professionals that they are."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,400",
+				"to": "00:01:14,940"
+			},
+			"offsets": {
+				"from": 66400,
+				"to": 74940
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,220",
+				"to": "00:01:16,020"
+			},
+			"offsets": {
+				"from": 75220,
+				"to": 76020
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,450",
+				"to": "00:01:17,630"
+			},
+			"offsets": {
+				"from": 76450,
+				"to": 77630
+			},
+			"text": " And I'm Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,060",
+				"to": "00:01:21,760"
+			},
+			"offsets": {
+				"from": 78060,
+				"to": 81760
+			},
+			"text": " We talk with people who work in and think about all aspects of food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,010",
+				"to": "00:01:28,180"
+			},
+			"offsets": {
+				"from": 82010,
+				"to": 88180
+			},
+			"text": " including farmers, chefs, artists, and activists, bringing you in-depth conversations with some amazing people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,180",
+				"to": "00:01:30,240"
+			},
+			"offsets": {
+				"from": 88180,
+				"to": 90240
+			},
+			"text": " On this third season of Delicious Revolution,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,660",
+				"to": "00:01:35,020"
+			},
+			"offsets": {
+				"from": 90660,
+				"to": 95020
+			},
+			"text": " we're bringing you stories and perspectives from the unseen places in food systems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,580",
+				"to": "00:01:40,480"
+			},
+			"offsets": {
+				"from": 95580,
+				"to": 100480
+			},
+			"text": " going behind kitchen doors, into underground nests of native bees, under the waves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,480",
+				"to": "00:01:44,360"
+			},
+			"offsets": {
+				"from": 100480,
+				"to": 104360
+			},
+			"text": " and to the far away origins of flavors we love, just to name a few."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,940",
+				"to": "00:01:50,470"
+			},
+			"offsets": {
+				"from": 104940,
+				"to": 110470
+			},
+			"text": " I'm speaking with people who work with food in places we normally cannot see, or don't notice."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,910",
+				"to": "00:01:53,080"
+			},
+			"offsets": {
+				"from": 110910,
+				"to": 113080
+			},
+			"text": " It's a season of unseen stories of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,220",
+				"to": "00:01:57,220"
+			},
+			"offsets": {
+				"from": 113220,
+				"to": 117220
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,560",
+				"to": "00:02:01,420"
+			},
+			"offsets": {
+				"from": 117560,
+				"to": 121420
+			},
+			"text": " Just search for Delicious Revolution wherever you get your podcasts, and you'll find us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,880",
+				"to": "00:02:08,920"
+			},
+			"offsets": {
+				"from": 121880,
+				"to": 128920
+			},
+			"text": " Our website is deliciousrevolutionshow.com, where we have pictures, links, and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,920",
+				"to": "00:02:20,530"
+			},
+			"offsets": {
+				"from": 128920,
+				"to": 140530
+			},
+			"text": " Saru Jayaraman is the co-founder and co-director of the Restaurant Opportunity Centers United, or ROC United,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,050",
+				"to": "00:02:25,350"
+			},
+			"offsets": {
+				"from": 141050,
+				"to": 145350
+			},
+			"text": " and she's the director of the Food and Labor Research Center at the University of California, Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,720",
+				"to": "00:02:30,450"
+			},
+			"offsets": {
+				"from": 145720,
+				"to": 150450
+			},
+			"text": " After 9-11, together with Displaced World Trade Center workers, she co-founded ROC in New York City,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,710",
+				"to": "00:02:35,590"
+			},
+			"offsets": {
+				"from": 150710,
+				"to": 155590
+			},
+			"text": " organizing restaurant workers to win workplace justice campaigns, conduct research and prefer policy work,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,690",
+				"to": "00:02:39,550"
+			},
+			"offsets": {
+				"from": 155690,
+				"to": 159550
+			},
+			"text": " partner with responsible restaurants, and launch cooperatively owned restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,610",
+				"to": "00:02:43,670"
+			},
+			"offsets": {
+				"from": 159610,
+				"to": 163670
+			},
+			"text": " ROC now has 10,000 members in 19 cities worldwide."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,950",
+				"to": "00:02:51,590"
+			},
+			"offsets": {
+				"from": 163950,
+				"to": 171590
+			},
+			"text": " Saru is the author of Behind the Kitchen Door, and more recently, Fort, a new standard for American dining."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,790",
+				"to": "00:02:54,450"
+			},
+			"offsets": {
+				"from": 171790,
+				"to": 174450
+			},
+			"text": " Here's Chelsea's interview with Saru Jayaraman."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,370",
+				"to": "00:02:59,440"
+			},
+			"offsets": {
+				"from": 175370,
+				"to": 179440
+			},
+			"text": " Well, let's start with, how did you start doing this work with restaurant workers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,110",
+				"to": "00:03:02,930"
+			},
+			"offsets": {
+				"from": 181110,
+				"to": 182930
+			},
+			"text": " Well, it was really about 9-11."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,270",
+				"to": "00:03:10,210"
+			},
+			"offsets": {
+				"from": 183270,
+				"to": 190210
+			},
+			"text": " I was an attorney and an organizer and actually had worked with some restaurant workers on labor issues,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,210",
+				"to": "00:03:14,610"
+			},
+			"offsets": {
+				"from": 190210,
+				"to": 194610
+			},
+			"text": " but on 9-11, there was a restaurant at the top of the World Trade Center, Tower One."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,030",
+				"to": "00:03:19,590"
+			},
+			"offsets": {
+				"from": 195030,
+				"to": 199590
+			},
+			"text": " On that morning, 73 workers died in the restaurant, and about 250 workers lost their jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,830",
+				"to": "00:03:23,590"
+			},
+			"offsets": {
+				"from": 199830,
+				"to": 203590
+			},
+			"text": " And I was asked to start a little relief center in the aftermath of the tragedy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,750",
+				"to": "00:03:27,450"
+			},
+			"offsets": {
+				"from": 203750,
+				"to": 207450
+			},
+			"text": " together with workers from Windows on the World, the restaurant at the top of the World Trade Center, survivors."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,450",
+				"to": "00:03:33,570"
+			},
+			"offsets": {
+				"from": 208450,
+				"to": 213570
+			},
+			"text": " And so myself and Fekak Mamdou, a surviving waiter from the restaurant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,810",
+				"to": "00:03:37,150"
+			},
+			"offsets": {
+				"from": 213810,
+				"to": 217150
+			},
+			"text": " started ROC as a little relief center, the Restaurant Opportunity Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,990",
+				"to": "00:03:41,510"
+			},
+			"offsets": {
+				"from": 217990,
+				"to": 221510
+			},
+			"text": " And what started as a little relief center for restaurant workers post-9-11"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,510",
+				"to": "00:03:46,810"
+			},
+			"offsets": {
+				"from": 221510,
+				"to": 226810
+			},
+			"text": " has grown 15 years later into a national organization of about 18,000 workers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,810",
+				"to": "00:03:52,010"
+			},
+			"offsets": {
+				"from": 226810,
+				"to": 232010
+			},
+			"text": " about 200 restaurant owners, and several thousand consumer members in about 15 states across the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,760",
+				"to": "00:03:55,400"
+			},
+			"offsets": {
+				"from": 233760,
+				"to": 235400
+			},
+			"text": " That's a lot to happen that fast."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,760",
+				"to": "00:03:59,180"
+			},
+			"offsets": {
+				"from": 235760,
+				"to": 239180
+			},
+			"text": " Yeah, it was really because of the demand in this industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,180",
+				"to": "00:04:02,740"
+			},
+			"offsets": {
+				"from": 239180,
+				"to": 242740
+			},
+			"text": " It's the second largest and absolute fastest growing sector of the U.S. economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,040",
+				"to": "00:04:07,180"
+			},
+			"offsets": {
+				"from": 243040,
+				"to": 247180
+			},
+			"text": " It's over 11 million workers, but it's also the absolute lowest paying and the least unionized."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,180",
+				"to": "00:04:14,740"
+			},
+			"offsets": {
+				"from": 247180,
+				"to": 254740
+			},
+			"text": " And so naturally, with such a large industry, the lowest wages in the country and nowhere to turn,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,380",
+				"to": "00:04:21,510"
+			},
+			"offsets": {
+				"from": 255380,
+				"to": 261510
+			},
+			"text": " the demand for our work just really drove the growth of the organization quite rapidly."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,670",
+				"to": "00:04:28,610"
+			},
+			"offsets": {
+				"from": 262670,
+				"to": 268610
+			},
+			"text": " Yeah, I was really interested in the labor politics of whether you're a union or whether you're not a union"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,610",
+				"to": "00:04:35,170"
+			},
+			"offsets": {
+				"from": 268610,
+				"to": 275170
+			},
+			"text": " and what, really what, you guys call it ROC, that's the, okay, Restaurant Opportunity Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,490",
+				"to": "00:04:38,970"
+			},
+			"offsets": {
+				"from": 275490,
+				"to": 278970
+			},
+			"text": " What are all the things you do and what are the kind of workers that you represent?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,640",
+				"to": "00:04:41,900"
+			},
+			"offsets": {
+				"from": 280640,
+				"to": 281900
+			},
+			"text": " So no, we're not a union."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,220",
+				"to": "00:04:45,540"
+			},
+			"offsets": {
+				"from": 282220,
+				"to": 285540
+			},
+			"text": " And part of the reason we're not a union is that we're actually not just a worker organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,540",
+				"to": "00:04:50,460"
+			},
+			"offsets": {
+				"from": 285540,
+				"to": 290460
+			},
+			"text": " We're workers, employers, and consumers in this industry fighting for better wages and working"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,460",
+				"to": "00:04:55,020"
+			},
+			"offsets": {
+				"from": 290460,
+				"to": 295020
+			},
+			"text": " conditions for restaurant workers that we see actually has positive impacts on employers and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,020",
+				"to": "00:05:00,500"
+			},
+			"offsets": {
+				"from": 295020,
+				"to": 300500
+			},
+			"text": " on consumers as well, which is why employers and consumers have joined forces with us to change"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,500",
+				"to": "00:05:01,120"
+			},
+			"offsets": {
+				"from": 300500,
+				"to": 301120
+			},
+			"text": " the industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,000",
+				"to": "00:05:07,400"
+			},
+			"offsets": {
+				"from": 302000,
+				"to": 307400
+			},
+			"text": " One of the things we do, we've done everything from campaigns to move restaurants that are"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,400",
+				"to": "00:05:12,320"
+			},
+			"offsets": {
+				"from": 307400,
+				"to": 312320
+			},
+			"text": " breaking the law and taking what we call the low road to profitability, to move them to the high"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,320",
+				"to": "00:05:15,480"
+			},
+			"offsets": {
+				"from": 312320,
+				"to": 315480
+			},
+			"text": " road, to pay back workers' wages and tips that have been stolen."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,680",
+				"to": "00:05:19,860"
+			},
+			"offsets": {
+				"from": 315680,
+				"to": 319860
+			},
+			"text": " So we've recuperated like $10 million in stolen tips and wages for thousands of workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,380",
+				"to": "00:05:24,100"
+			},
+			"offsets": {
+				"from": 320380,
+				"to": 324100
+			},
+			"text": " At the same time, we've promoted what we call the high road to profitability, and that has"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,100",
+				"to": "00:05:29,020"
+			},
+			"offsets": {
+				"from": 324100,
+				"to": 329020
+			},
+			"text": " included creating a national association called RAISE of restaurant owners that are doing the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,020",
+				"to": "00:05:31,440"
+			},
+			"offsets": {
+				"from": 329020,
+				"to": 331440
+			},
+			"text": " right thing, providing good wages and good working conditions."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,820",
+				"to": "00:05:36,060"
+			},
+			"offsets": {
+				"from": 331820,
+				"to": 336060
+			},
+			"text": " It's also included opening our own restaurants called Colors, one in New York, one in Detroit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,220",
+				"to": "00:05:38,020"
+			},
+			"offsets": {
+				"from": 336220,
+				"to": 338020
+			},
+			"text": " We're opening one here in Oakland pretty soon."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,540",
+				"to": "00:05:42,600"
+			},
+			"offsets": {
+				"from": 338540,
+				"to": 342600
+			},
+			"text": " And in these restaurants, training thousands of low-wage workers to move up the ladder into"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,600",
+				"to": "00:05:48,040"
+			},
+			"offsets": {
+				"from": 342600,
+				"to": 348040
+			},
+			"text": " livable wage, mostly fine dining server and bartending positions, and through that process,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,100",
+				"to": "00:05:50,780"
+			},
+			"offsets": {
+				"from": 348100,
+				"to": 350780
+			},
+			"text": " actually engaging them in the organizing and policy work."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,840",
+				"to": "00:05:53,460"
+			},
+			"offsets": {
+				"from": 350840,
+				"to": 353460
+			},
+			"text": " And that's the third piece of what we've done over the last many years."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,960",
+				"to": "00:05:54,940"
+			},
+			"offsets": {
+				"from": 353960,
+				"to": 354940
+			},
+			"text": " So much research."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,080",
+				"to": "00:05:56,280"
+			},
+			"offsets": {
+				"from": 355080,
+				"to": 356280
+			},
+			"text": " You know, I teach at UC Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,280",
+				"to": "00:05:58,800"
+			},
+			"offsets": {
+				"from": 356280,
+				"to": 358800
+			},
+			"text": " We've worked with about 100 academics around the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,900",
+				"to": "00:06:01,960"
+			},
+			"offsets": {
+				"from": 358900,
+				"to": 361960
+			},
+			"text": " We've published over 30 reports and three books on the industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,640",
+				"to": "00:06:05,760"
+			},
+			"offsets": {
+				"from": 362640,
+				"to": 365760
+			},
+			"text": " That's been the basis for local, state, and federal policy work."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,920",
+				"to": "00:06:08,220"
+			},
+			"offsets": {
+				"from": 365920,
+				"to": 368220
+			},
+			"text": " We've raised the minimum wage in a number of states."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,340",
+				"to": "00:06:11,240"
+			},
+			"offsets": {
+				"from": 368340,
+				"to": 371240
+			},
+			"text": " We've won paid sick days for workers in a number of states."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,100",
+				"to": "00:06:16,960"
+			},
+			"offsets": {
+				"from": 372100,
+				"to": 376960
+			},
+			"text": " And as you know, our current issue that we've been working on for the last several years is"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,960",
+				"to": "00:06:22,360"
+			},
+			"offsets": {
+				"from": 376960,
+				"to": 382360
+			},
+			"text": " to eliminate the lower wage for tipped workers in this country, still stuck at $2.13 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,590",
+				"to": "00:06:24,190"
+			},
+			"offsets": {
+				"from": 382590,
+				"to": 384190
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,620",
+				"to": "00:06:27,220"
+			},
+			"offsets": {
+				"from": 384620,
+				"to": 387220
+			},
+			"text": " That's a lot that's happened in 15 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,420",
+				"to": "00:06:30,660"
+			},
+			"offsets": {
+				"from": 387420,
+				"to": 390660
+			},
+			"text": " And it's because there's so many people involved in this industry, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,740",
+				"to": "00:06:30,920"
+			},
+			"offsets": {
+				"from": 390740,
+				"to": 390920
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,920",
+				"to": "00:06:33,180"
+			},
+			"offsets": {
+				"from": 390920,
+				"to": 393180
+			},
+			"text": " So how many people are involved in this industry?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,580",
+				"to": "00:06:36,300"
+			},
+			"offsets": {
+				"from": 393580,
+				"to": 396300
+			},
+			"text": " So it's 11 million people in the restaurant industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,500",
+				"to": "00:06:39,140"
+			},
+			"offsets": {
+				"from": 396500,
+				"to": 399140
+			},
+			"text": " One in 12 Americans currently works in the industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,300",
+				"to": "00:06:42,460"
+			},
+			"offsets": {
+				"from": 399300,
+				"to": 402460
+			},
+			"text": " One in two of us has worked in this industry at some point in our lifetime."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,680",
+				"to": "00:06:49,460"
+			},
+			"offsets": {
+				"from": 402680,
+				"to": 409460
+			},
+			"text": " For people who care about food, you know, the food system as a whole is one in six American workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,460",
+				"to": "00:06:54,600"
+			},
+			"offsets": {
+				"from": 410460,
+				"to": 414600
+			},
+			"text": " The restaurant industry is more than half of that entire food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,680",
+				"to": "00:06:59,060"
+			},
+			"offsets": {
+				"from": 414680,
+				"to": 419060
+			},
+			"text": " So 20 million workers in the entire food system, 11 million of which are in the restaurant industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,060",
+				"to": "00:07:05,840"
+			},
+			"offsets": {
+				"from": 419060,
+				"to": 425840
+			},
+			"text": " The restaurant industry is by far the largest segment of the food system and the second largest industry in the whole economy overall."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,680",
+				"to": "00:07:08,320"
+			},
+			"offsets": {
+				"from": 426680,
+				"to": 428320
+			},
+			"text": " And it just continues to grow."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,460",
+				"to": "00:07:09,800"
+			},
+			"offsets": {
+				"from": 428460,
+				"to": 429800
+			},
+			"text": " I'm sure you heard the data."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,940",
+				"to": "00:07:16,340"
+			},
+			"offsets": {
+				"from": 429940,
+				"to": 436340
+			},
+			"text": " Last year, we made world history becoming the first nation on Earth in which we now spend more money on eating out than we do on food eaten inside the home."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,340",
+				"to": "00:07:24,090"
+			},
+			"offsets": {
+				"from": 437340,
+				"to": 444090
+			},
+			"text": " The amount with which we eat out, the amount of money we spend on eating out increases every year in astronomical numbers."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,290",
+				"to": "00:07:26,750"
+			},
+			"offsets": {
+				"from": 444290,
+				"to": 446750
+			},
+			"text": " The industry is quite healthy and doing quite well."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,950",
+				"to": "00:07:33,690"
+			},
+			"offsets": {
+				"from": 446950,
+				"to": 453690
+			},
+			"text": " And yet, despite all of that size and growth, it is the absolute lowest paying employer in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,870",
+				"to": "00:07:37,830"
+			},
+			"offsets": {
+				"from": 453870,
+				"to": 457830
+			},
+			"text": " So every year, the U.S. Department of Labor puts out a list of the 10 lowest paying jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,290",
+				"to": "00:07:42,370"
+			},
+			"offsets": {
+				"from": 458290,
+				"to": 462370
+			},
+			"text": " Every year, seven of the 10 lowest paying jobs in America are restaurant jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,530",
+				"to": "00:07:45,890"
+			},
+			"offsets": {
+				"from": 462530,
+				"to": 465890
+			},
+			"text": " The two absolute lowest paying jobs in America are restaurant jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,290",
+				"to": "00:07:48,790"
+			},
+			"offsets": {
+				"from": 466290,
+				"to": 468790
+			},
+			"text": " The eighth lowest paying job is a farm worker position."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,030",
+				"to": "00:08:00,430"
+			},
+			"offsets": {
+				"from": 469030,
+				"to": 480430
+			},
+			"text": " So I like to say if eight of the 10 lowest paying jobs in America are food jobs, seven of which are restaurant jobs, it's important for people who care about food to understand that the food system is not a bad employer."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,530",
+				"to": "00:08:13,330"
+			},
+			"offsets": {
+				"from": 480530,
+				"to": 493330
+			},
+			"text": " They are the absolute worst employer in the United States, and the restaurant industry in particular in the food system in general drags down the entire economy for all workers because we really set the floor."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,330",
+				"to": "00:08:30,920"
+			},
+			"offsets": {
+				"from": 493330,
+				"to": 510920
+			},
+			"text": " The reason we set the floor is that our industry is notorious among all low-wage workers because restaurants are represented in Congress and in every state legislature by a trade lobby called the National Restaurant Association."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,300",
+				"to": "00:08:32,740"
+			},
+			"offsets": {
+				"from": 511300,
+				"to": 512740
+			},
+			"text": " We call it the other NRA."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,240",
+				"to": "00:08:35,700"
+			},
+			"offsets": {
+				"from": 513240,
+				"to": 515700
+			},
+			"text": " They've been named the 10th most powerful lobbying group in Congress."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,860",
+				"to": "00:08:38,900"
+			},
+			"offsets": {
+				"from": 515860,
+				"to": 518900
+			},
+			"text": " They're by far the most powerful employer lobby in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,380",
+				"to": "00:08:57,400"
+			},
+			"offsets": {
+				"from": 519380,
+				"to": 537400
+			},
+			"text": " And they have lobbied vitriolically and spent millions of dollars to keep the minimum wage as low as, I say, inhumanely possible, not just for the restaurant industry because that's who they primarily care about, but it ends up being as low as possible for all workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,180",
+				"to": "00:09:00,500"
+			},
+			"offsets": {
+				"from": 538180,
+				"to": 540500
+			},
+			"text": " And so that's how we set the floor."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,920",
+				"to": "00:09:05,300"
+			},
+			"offsets": {
+				"from": 540920,
+				"to": 545300
+			},
+			"text": " The chains that sort of set the standards in our industry don't set the standards for our industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,420",
+				"to": "00:09:07,840"
+			},
+			"offsets": {
+				"from": 545420,
+				"to": 547840
+			},
+			"text": " They set the standards for our country and our economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,000",
+				"to": "00:09:17,120"
+			},
+			"offsets": {
+				"from": 548000,
+				"to": 557120
+			},
+			"text": " And so in this way, food, you know, it doesn't just impact our nation all the ways I think your listeners may think about from the fact that we all eat and nutrition and health."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,280",
+				"to": "00:09:27,990"
+			},
+			"offsets": {
+				"from": 557280,
+				"to": 567990
+			},
+			"text": " It also is the biggest, frankly, floor, the biggest weighing down anchor on our economy as the lowest paying employer in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,210",
+				"to": "00:09:32,310"
+			},
+			"offsets": {
+				"from": 569210,
+				"to": 572310
+			},
+			"text": " And it's also the lowest common denominator in other ways, too, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,390",
+				"to": "00:09:35,850"
+			},
+			"offsets": {
+				"from": 572390,
+				"to": 575850
+			},
+			"text": " Restaurants are famous for hiring lots of undocumented immigrants."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,850",
+				"to": "00:09:38,890"
+			},
+			"offsets": {
+				"from": 575850,
+				"to": 578890
+			},
+			"text": " And so there's this kind of invisible economy going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,890",
+				"to": "00:09:42,850"
+			},
+			"offsets": {
+				"from": 578890,
+				"to": 582850
+			},
+			"text": " And can you talk about how those things all intersect within the work that you do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,590",
+				"to": "00:09:51,190"
+			},
+			"offsets": {
+				"from": 583590,
+				"to": 591190
+			},
+			"text": " Yeah, I mean, I think the restaurant industry is the largest employer of everybody, not just immigrants, but also women and people of color and formerly incarcerated folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,730",
+				"to": "00:09:54,450"
+			},
+			"offsets": {
+				"from": 591730,
+				"to": 594450
+			},
+			"text": " I mean, this is the industry that everybody works in."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,490",
+				"to": "00:09:57,290"
+			},
+			"offsets": {
+				"from": 594490,
+				"to": 597290
+			},
+			"text": " As I said, one in two of us have worked in this industry in our lifetime."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,690",
+				"to": "00:10:07,820"
+			},
+			"offsets": {
+				"from": 597690,
+				"to": 607820
+			},
+			"text": " So everybody has the potential, but there's incredibly severe racial segregation in our industry such that I said it's the lowest paying employer."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,820",
+				"to": "00:10:12,200"
+			},
+			"offsets": {
+				"from": 607820,
+				"to": 612200
+			},
+			"text": " We estimate that about 20% of the jobs actually are livable wage jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,400",
+				"to": "00:10:15,780"
+			},
+			"offsets": {
+				"from": 612400,
+				"to": 615780
+			},
+			"text": " They're fine dining server and bartending positions that are growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,040",
+				"to": "00:10:24,470"
+			},
+			"offsets": {
+				"from": 616040,
+				"to": 624470
+			},
+			"text": " You know, part of what's happening that I think your show is a part of is an explosion in foodie culture and the food interest in food."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,590",
+				"to": "00:10:28,570"
+			},
+			"offsets": {
+				"from": 624590,
+				"to": 628570
+			},
+			"text": " And that has exploded fine dining as a segment of our industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,770",
+				"to": "00:10:35,010"
+			},
+			"offsets": {
+				"from": 628770,
+				"to": 635010
+			},
+			"text": " And yet those fine dining jobs are held almost exclusively by white men, people of color, women of color."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,360",
+				"to": "00:10:41,890"
+			},
+			"offsets": {
+				"from": 635360,
+				"to": 641890
+			},
+			"text": " Those folks with records, immigrants are not able to get up to those wonderful fine dining, livable wage jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,010",
+				"to": "00:10:48,810"
+			},
+			"offsets": {
+				"from": 642010,
+				"to": 648810
+			},
+			"text": " They're segregated into lower level segments like fast food and casual restaurants, and they're segregated into lower level positions."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,810",
+				"to": "00:10:55,370"
+			},
+			"offsets": {
+				"from": 648810,
+				"to": 655370
+			},
+			"text": " So even if you find them in fine dining, you'll find them in the back of the house or in busser and runner positions."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,370",
+				"to": "00:11:05,690"
+			},
+			"offsets": {
+				"from": 656370,
+				"to": 665690
+			},
+			"text": " You know, very much a color line that gets literally darker the further back into the restaurant you go."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,970",
+				"to": "00:11:13,540"
+			},
+			"offsets": {
+				"from": 665970,
+				"to": 673540
+			},
+			"text": " You know, all of this has origins in our very racialized slave history in this country."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,800",
+				"to": "00:11:19,640"
+			},
+			"offsets": {
+				"from": 674800,
+				"to": 679640
+			},
+			"text": " You may know that even the tip minimum wage of $2.13 an hour is a legacy of slavery."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,630",
+				"to": "00:11:22,910"
+			},
+			"offsets": {
+				"from": 680630,
+				"to": 682910
+			},
+			"text": " You know, because tipping didn't originate in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,030",
+				"to": "00:11:24,410"
+			},
+			"offsets": {
+				"from": 683030,
+				"to": 684410
+			},
+			"text": " It originated in feudal Europe."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,890",
+				"to": "00:11:30,510"
+			},
+			"offsets": {
+				"from": 684890,
+				"to": 690510
+			},
+			"text": " And when it came to the States, it was rich Americans traveling to Europe in the 1850s and 1860s and coming back,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,930",
+				"to": "00:11:32,750"
+			},
+			"offsets": {
+				"from": 690930,
+				"to": 692750
+			},
+			"text": " trying to show off that they knew the rules of Europe."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,110",
+				"to": "00:11:39,670"
+			},
+			"offsets": {
+				"from": 693110,
+				"to": 699670
+			},
+			"text": " And when they did, there was a massive anti-tipping movement here in the States saying, you know, this is undemocratic."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,890",
+				"to": "00:11:40,550"
+			},
+			"offsets": {
+				"from": 699890,
+				"to": 700550
+			},
+			"text": " It's un-American."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,730",
+				"to": "00:11:42,530"
+			},
+			"offsets": {
+				"from": 700730,
+				"to": 702530
+			},
+			"text": " Employers should pay their workers, not customers."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,030",
+				"to": "00:11:47,820"
+			},
+			"offsets": {
+				"from": 703030,
+				"to": 707820
+			},
+			"text": " And that movement spread to Europe and succeeded in Europe, which said, this is a vestige of the feudal system."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,920",
+				"to": "00:11:48,780"
+			},
+			"offsets": {
+				"from": 707920,
+				"to": 708780
+			},
+			"text": " We reject it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,050",
+				"to": "00:11:51,530"
+			},
+			"offsets": {
+				"from": 709050,
+				"to": 711530
+			},
+			"text": " And which is why you see very little tipping in Europe today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,530",
+				"to": "00:12:01,290"
+			},
+			"offsets": {
+				"from": 711530,
+				"to": 721290
+			},
+			"text": " And here in the States, we actually mutated what happened in feudal Europe and made it much worse by saying, really, by the restaurant industry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,410",
+				"to": "00:12:04,150"
+			},
+			"offsets": {
+				"from": 721410,
+				"to": 724150
+			},
+			"text": " arguing that they should have the right to hire newly freed slaves."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,190",
+				"to": "00:12:08,850"
+			},
+			"offsets": {
+				"from": 724190,
+				"to": 728850
+			},
+			"text": " This is right after emancipation and not pay them anything and let them live on customer tips."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,850",
+				"to": "00:12:14,900"
+			},
+			"offsets": {
+				"from": 728850,
+				"to": 734900
+			},
+			"text": " I mean, these were, after all, black, valueless human beings who hadn't been paid for centuries."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,480",
+				"to": "00:12:22,920"
+			},
+			"offsets": {
+				"from": 735480,
+				"to": 742920
+			},
+			"text": " And so the idea of not paying them anything at all and letting them live on customer tips was a natural extension of where they had their value in society."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,480",
+				"to": "00:12:27,300"
+			},
+			"offsets": {
+				"from": 743480,
+				"to": 747300
+			},
+			"text": " And that idea was codified into the very first minimum wage law that passed in the United States,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,400",
+				"to": "00:12:30,920"
+			},
+			"offsets": {
+				"from": 747400,
+				"to": 750920
+			},
+			"text": " which said you have the right to the minimum wage either through wages or through tips,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,360",
+				"to": "00:12:38,640"
+			},
+			"offsets": {
+				"from": 751360,
+				"to": 758640
+			},
+			"text": " making the restaurant industry the only industry now on earth that gets away with saying we shouldn't have to pay anything at all to our workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,080",
+				"to": "00:12:41,660"
+			},
+			"offsets": {
+				"from": 759080,
+				"to": 761660
+			},
+			"text": " You, the customer, should pay our workers' wages for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,660",
+				"to": "00:12:50,860"
+			},
+			"offsets": {
+				"from": 761660,
+				"to": 770860
+			},
+			"text": " So we went from a $0 minimum wage in 1938 to a whopping $2.13 an hour in 2016, a $2 increase over a 100-year period."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,740",
+				"to": "00:12:57,540"
+			},
+			"offsets": {
+				"from": 771740,
+				"to": 777540
+			},
+			"text": " And the industry continues to argue that it should have to pay its own workers' wages, the industry would collapse."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,040",
+				"to": "00:13:02,940"
+			},
+			"offsets": {
+				"from": 778040,
+				"to": 782940
+			},
+			"text": " It disproportionately affects women of color who are the tipped workers working at the IHOPs and the Applebee's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,160",
+				"to": "00:13:05,500"
+			},
+			"offsets": {
+				"from": 783160,
+				"to": 785500
+			},
+			"text": " the majority of where tipped workers work."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,010",
+				"to": "00:13:14,090"
+			},
+			"offsets": {
+				"from": 786010,
+				"to": 794090
+			},
+			"text": " And all of this, from the very notion of a back of house and front of house to the idea that somebody could be paid $2 an hour,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,270",
+				"to": "00:13:18,690"
+			},
+			"offsets": {
+				"from": 794270,
+				"to": 798690
+			},
+			"text": " is all a legacy of a very racialized slave history in this country."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,990",
+				"to": "00:13:27,800"
+			},
+			"offsets": {
+				"from": 798990,
+				"to": 807800
+			},
+			"text": " While I was reading your book and eating out, I was like, wow, this is, I mean, these are these things I've seen my entire life."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,980",
+				"to": "00:13:32,110"
+			},
+			"offsets": {
+				"from": 807980,
+				"to": 812110
+			},
+			"text": " And, you know, I like to, like, fancy myself, like, fairly aware."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:32,330",
+				"to": "00:13:35,510"
+			},
+			"offsets": {
+				"from": 812330,
+				"to": 815510
+			},
+			"text": " And I have, you know, done anti-racist organizing and all these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,530",
+				"to": "00:13:40,120"
+			},
+			"offsets": {
+				"from": 815530,
+				"to": 820120
+			},
+			"text": " And it was this totally invisible thing that I ran into here."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,240",
+				"to": "00:13:41,740"
+			},
+			"offsets": {
+				"from": 820240,
+				"to": 821740
+			},
+			"text": " We were traveling internationally."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,920",
+				"to": "00:13:45,860"
+			},
+			"offsets": {
+				"from": 821920,
+				"to": 825860
+			},
+			"text": " I ran into other places and it just, I mean, it continues to blow my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,020",
+				"to": "00:13:48,860"
+			},
+			"offsets": {
+				"from": 826020,
+				"to": 828860
+			},
+			"text": " So, like, as a diner, what do I do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,040",
+				"to": "00:13:50,100"
+			},
+			"offsets": {
+				"from": 829040,
+				"to": 830100
+			},
+			"text": " How do I respond to this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,160",
+				"to": "00:13:51,620"
+			},
+			"offsets": {
+				"from": 830160,
+				"to": 831620
+			},
+			"text": " What conversation do I have?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,880",
+				"to": "00:13:55,820"
+			},
+			"offsets": {
+				"from": 831880,
+				"to": 835820
+			},
+			"text": " Because now, I mean, I've, while reading this book, you talk about having that conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,820",
+				"to": "00:13:58,940"
+			},
+			"offsets": {
+				"from": 835820,
+				"to": 838940
+			},
+			"text": " And I still feel, like, unsure of how to approach that."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,120",
+				"to": "00:14:06,240"
+			},
+			"offsets": {
+				"from": 840120,
+				"to": 846240
+			},
+			"text": " Well, you know, it's funny because after I wrote the first book, I went around the country and diners said, well, what can we do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,360",
+				"to": "00:14:07,260"
+			},
+			"offsets": {
+				"from": 846360,
+				"to": 847260
+			},
+			"text": " Where should we eat?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,340",
+				"to": "00:14:08,200"
+			},
+			"offsets": {
+				"from": 847340,
+				"to": 848200
+			},
+			"text": " How can we support?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,880",
+				"to": "00:14:18,700"
+			},
+			"offsets": {
+				"from": 848880,
+				"to": 858700
+			},
+			"text": " And that is actually the pathway that led to this new book because we created a guide and an app that tells diners how restaurants fare on issues of wages, benefits, and promotions."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,980",
+				"to": "00:14:29,780"
+			},
+			"offsets": {
+				"from": 858980,
+				"to": 869780
+			},
+			"text": " And our 200 restaurants around the country, from Danny Meyer and Tom Colicchio to Alice Waters, who are doing it right, get awards in our guide and our app and are profiled in the book."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,080",
+				"to": "00:14:36,330"
+			},
+			"offsets": {
+				"from": 870080,
+				"to": 876330
+			},
+			"text": " There are just not enough of them that are doing it differently yet for you to only eat at those restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,330",
+				"to": "00:14:43,490"
+			},
+			"offsets": {
+				"from": 876330,
+				"to": 883490
+			},
+			"text": " So it cannot just be you as a diner only eating at the restaurants that get the high road seal of approval."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,490",
+				"to": "00:14:46,950"
+			},
+			"offsets": {
+				"from": 883490,
+				"to": 886950
+			},
+			"text": " You would not eat out very much or you'd keep eating in the same places."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,310",
+				"to": "00:14:58,830"
+			},
+			"offsets": {
+				"from": 887310,
+				"to": 898830
+			},
+			"text": " And so instead, we need you as diners to approach your favorite restaurants, wherever they are, whoever they are, the owners and the managers, not the workers, and say, I love the food."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:58,930",
+				"to": "00:14:59,870"
+			},
+			"offsets": {
+				"from": 898930,
+				"to": 899870
+			},
+			"text": " I love coming here."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,950",
+				"to": "00:15:00,890"
+			},
+			"offsets": {
+				"from": 899950,
+				"to": 900890
+			},
+			"text": " I love the service."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,890",
+				"to": "00:15:06,050"
+			},
+			"offsets": {
+				"from": 900890,
+				"to": 906050
+			},
+			"text": " I want you to know as a regular customer, it's very important to me that you take the high road to profitability."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,330",
+				"to": "00:15:13,850"
+			},
+			"offsets": {
+				"from": 906330,
+				"to": 913850
+			},
+			"text": " You may be good on local and organic, but I need you to also be sustainable in other ways to the people in this restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,390",
+				"to": "00:15:20,530"
+			},
+			"offsets": {
+				"from": 914390,
+				"to": 920530
+			},
+			"text": " And so I encourage you to join the restaurant association that's taking the high road called Ray's."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,590",
+				"to": "00:15:29,630"
+			},
+			"offsets": {
+				"from": 920590,
+				"to": 929630
+			},
+			"text": " And actually, over the last year, this is how Alice Waters actually joined Ray's, was because a diner said you really need to consider joining this high road association."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,050",
+				"to": "00:15:33,870"
+			},
+			"offsets": {
+				"from": 930050,
+				"to": 933870
+			},
+			"text": " Blue Bottle Coffee joined over the last year because of consumers."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,470",
+				"to": "00:15:39,930"
+			},
+			"offsets": {
+				"from": 934470,
+				"to": 939930
+			},
+			"text": " So consumers have tremendous power to tell companies, we think you should follow a different path."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:40,510",
+				"to": "00:15:42,710"
+			},
+			"offsets": {
+				"from": 940510,
+				"to": 942710
+			},
+			"text": " And it's been working over the last many years."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,830",
+				"to": "00:15:48,640"
+			},
+			"offsets": {
+				"from": 942830,
+				"to": 948640
+			},
+			"text": " You know, we worked very closely with Danny Meyer as he moved to eliminate tipping in his restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,360",
+				"to": "00:16:00,140"
+			},
+			"offsets": {
+				"from": 949360,
+				"to": 960140
+			},
+			"text": " And that process was in part driven by aggregating a lot of consumer support for him making a pretty dramatic move."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,920",
+				"to": "00:16:13,000"
+			},
+			"offsets": {
+				"from": 960920,
+				"to": 973000
+			},
+			"text": " So I think consumers can play a huge role in speaking to your favorite restaurant owners and managers, letting them know that they should, you know, join the high road employer association, Ray's, be in touch with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:13,500",
+				"to": "00:16:25,020"
+			},
+			"offsets": {
+				"from": 973500,
+				"to": 985020
+			},
+			"text": " We also encourage diners to just read the book because it's important to get educated on these issues and share that information with others and ultimately to join us in fighting for policy change."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,020",
+				"to": "00:16:31,280"
+			},
+			"offsets": {
+				"from": 985020,
+				"to": 991280
+			},
+			"text": " So we have a website called onefairwage.com, which is all about getting rid of this lower wage for tipped workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,440",
+				"to": "00:16:37,740"
+			},
+			"offsets": {
+				"from": 991440,
+				"to": 997740
+			},
+			"text": " We're asking people to go to that site and input their information and it'll help you send a letter to your legislator saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,140",
+				"to": "00:16:40,660"
+			},
+			"offsets": {
+				"from": 998140,
+				"to": 1000660
+			},
+			"text": " we need to abolish this legacy of slavery as a consumer."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:40,860",
+				"to": "00:16:45,040"
+			},
+			"offsets": {
+				"from": 1000860,
+				"to": 1005040
+			},
+			"text": " I don't want to have to subsidize these multimillion dollar corporations with my tips."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,260",
+				"to": "00:16:53,480"
+			},
+			"offsets": {
+				"from": 1005260,
+				"to": 1013480
+			},
+			"text": " One of the things that I also thought about while reading your book is like working in rural Mexico, a big conversation there is about immigration, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,580",
+				"to": "00:16:58,840"
+			},
+			"offsets": {
+				"from": 1013580,
+				"to": 1018840
+			},
+			"text": " And so people really talking to us all the time about like, should I go, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,880",
+				"to": "00:17:06,010"
+			},
+			"offsets": {
+				"from": 1018880,
+				"to": 1026010
+			},
+			"text": " And then people who have come back who talk about the jobs they had and where we worked, it was, there were a lot of cooks, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,130",
+				"to": "00:17:18,950"
+			},
+			"offsets": {
+				"from": 1026130,
+				"to": 1038950
+			},
+			"text": " So we worked in Southern Mexico, which, you know, and they're mostly men who immigrated, who had never cooked once when they lived in Mexico and then came here and were professional cooks."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:19,470",
+				"to": "00:17:29,880"
+			},
+			"offsets": {
+				"from": 1039470,
+				"to": 1049880
+			},
+			"text": " And, and some of them moved back and some cook and some don't cook, but, but it was like this, such an interesting thing to me about, you know, these are very dear people to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,880",
+				"to": "00:17:37,070"
+			},
+			"offsets": {
+				"from": 1049880,
+				"to": 1057070
+			},
+			"text": " And there's such dignity in this work and I feel, and I'm not alone in this because they're, everybody eats out all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,210",
+				"to": "00:17:40,430"
+			},
+			"offsets": {
+				"from": 1057210,
+				"to": 1060430
+			},
+			"text": " So taken care of by these people all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,870",
+				"to": "00:17:55,030"
+			},
+			"offsets": {
+				"from": 1060870,
+				"to": 1075030
+			},
+			"text": " And yet I don't, because of this front of the house, back of the house thing, there's not the visibility and there's not that relationship in the same way that I feel like has really exploded with farm workers and, you know, even meat packing plants or these other things."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,030",
+				"to": "00:17:57,770"
+			},
+			"offsets": {
+				"from": 1075030,
+				"to": 1077770
+			},
+			"text": " They're kind of much less glamorous than cooking food."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,990",
+				"to": "00:17:59,310"
+			},
+			"offsets": {
+				"from": 1077990,
+				"to": 1079310
+			},
+			"text": " So that felt really interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,990",
+				"to": "00:18:08,430"
+			},
+			"offsets": {
+				"from": 1079990,
+				"to": 1088430
+			},
+			"text": " Well, I, I, it's interesting because, um, I think there's a disconnect, not just with the kitchen and the back of the house, but with all, all of these workers are completely invisible."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,430",
+				"to": "00:18:10,070"
+			},
+			"offsets": {
+				"from": 1088430,
+				"to": 1090070
+			},
+			"text": " In fact, they're trained to be invisible."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,070",
+				"to": "00:18:17,910"
+			},
+			"offsets": {
+				"from": 1090070,
+				"to": 1097910
+			},
+			"text": " The whole idea is you're the invisible hands that clear the table and anticipate the customer's needs before they even know that they need them."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:18,030",
+				"to": "00:18:34,170"
+			},
+			"offsets": {
+				"from": 1098030,
+				"to": 1114170
+			},
+			"text": " Uh, so it's not, but I, I think what's important is the more we recognize these individuals as skilled professionals and we pay them and treat them as the skilled professionals that they are, whether you're a server or a cook or a bartender, you are a skilled professional."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,310",
+				"to": "00:18:41,630"
+			},
+			"offsets": {
+				"from": 1114310,
+				"to": 1121630
+			},
+			"text": " And in other countries, you know, people go to school for several years to be hospitality professionals, and that's how we should view these workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,770",
+				"to": "00:18:42,790"
+			},
+			"offsets": {
+				"from": 1121770,
+				"to": 1122790
+			},
+			"text": " They are professionals."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,170",
+				"to": "00:18:48,230"
+			},
+			"offsets": {
+				"from": 1123170,
+				"to": 1128230
+			},
+			"text": " The more that we recognize people as professionals, the better dining experience we'll actually have."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,370",
+				"to": "00:19:03,050"
+			},
+			"offsets": {
+				"from": 1128370,
+				"to": 1143050
+			},
+			"text": " Because if you could allow somebody to build their profession, staying in one place, a place that provides livable wages, rather than experiencing the kind of turnover that our industry experiences, which is the highest turnover, has the highest turnover rate of almost any industry in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,230",
+				"to": "00:19:18,360"
+			},
+			"offsets": {
+				"from": 1143230,
+				"to": 1158360
+			},
+			"text": " Think how much better your dining experience would be if your server or your chef could build their craft over 15 or 20 years or a lifetime, as opposed to moving from restaurant to restaurant to restaurant, continuously seeking better wages and working conditions for their family."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,600",
+				"to": "00:19:46,040"
+			},
+			"offsets": {
+				"from": 1158600,
+				"to": 1186040
+			},
+			"text": " So I think that's why right now we're seeing the biggest rift I've ever seen in the history of this industry, where all of these restaurants are moving towards us and towards the high road, because they're recognizing what we're recognizing, that ultimately, if we want a better industry, we need to treat these people as professionals, we'll have a better dining experience, we'll have better profitability as employers, everybody will succeed if we treat these people as the professionals that they are."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,040",
+				"to": "00:19:55,390"
+			},
+			"offsets": {
+				"from": 1186040,
+				"to": 1195390
+			},
+			"text": " I'm just thinking about how funny it would be if you treated the people in your family, like as disposable as, you know, whoever cooks and cleans and cares for you at home."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,390",
+				"to": "00:19:59,690"
+			},
+			"offsets": {
+				"from": 1195390,
+				"to": 1199690
+			},
+			"text": " It's so funny because every restaurant owner likes to say, oh, it's fine, we're a family."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,030",
+				"to": "00:20:16,750"
+			},
+			"offsets": {
+				"from": 1200030,
+				"to": 1216750
+			},
+			"text": " And we always say, gosh, it's such a dysfunctional family, because, you know, what kind of a family pays people $2 and exploits them to the point that they can't survive, can't take care of themselves, experience severe mental and health issues as a result of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,770",
+				"to": "00:20:35,780"
+			},
+			"offsets": {
+				"from": 1216770,
+				"to": 1235780
+			},
+			"text": " Well, and then talking to Emma Rosenbush from Cala, she was talking about this practice of hiring formerly incarcerated people, and then they're just not being the resources to support them being hospitality professionals, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,860",
+				"to": "00:20:37,620"
+			},
+			"offsets": {
+				"from": 1235860,
+				"to": 1237620
+			},
+			"text": " So maybe you can talk about that a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,700",
+				"to": "00:20:38,780"
+			},
+			"offsets": {
+				"from": 1237700,
+				"to": 1238780
+			},
+			"text": " What are those resources?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,960",
+				"to": "00:20:40,880"
+			},
+			"offsets": {
+				"from": 1238960,
+				"to": 1240880
+			},
+			"text": " What do you guys offer for employers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,180",
+				"to": "00:20:43,280"
+			},
+			"offsets": {
+				"from": 1241180,
+				"to": 1243280
+			},
+			"text": " Because everybody needs help in it, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,420",
+				"to": "00:20:44,180"
+			},
+			"offsets": {
+				"from": 1243420,
+				"to": 1244180
+			},
+			"text": " Everybody needs help, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,670",
+				"to": "00:21:01,260"
+			},
+			"offsets": {
+				"from": 1244670,
+				"to": 1261260
+			},
+			"text": " Well, on the training side, we have a pretty comprehensive training program that helps workers advance, as I said, from coming out of prison or fast food or being a busser or dishwasher up a ladder into fine dining service and bartending."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,260",
+				"to": "00:21:10,380"
+			},
+			"offsets": {
+				"from": 1261260,
+				"to": 1270380
+			},
+			"text": " So we provide introduction to customer service, advanced fine dining service, all to help people move up a ladder into these livable wage jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,180",
+				"to": "00:21:26,500"
+			},
+			"offsets": {
+				"from": 1271180,
+				"to": 1286500
+			},
+			"text": " And for employers, we also provide training and technical assistance about how they could actually improve their wage structures, how they could desegregate their restaurants so that they have more people of color in the front, how they could provide childcare and all these other things."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,560",
+				"to": "00:21:28,780"
+			},
+			"offsets": {
+				"from": 1286560,
+				"to": 1288780
+			},
+			"text": " So we have a training and technical assistance program."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,300",
+				"to": "00:21:36,800"
+			},
+			"offsets": {
+				"from": 1289300,
+				"to": 1296800
+			},
+			"text": " And most importantly, a peer community of, like I said, 200 fabulous restaurant owners that are able to help one another learn."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,800",
+				"to": "00:21:43,480"
+			},
+			"offsets": {
+				"from": 1296800,
+				"to": 1303480
+			},
+			"text": " So your favorite restaurant owner that, you know, is just following the old standard, we don't think it's malicious, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,620",
+				"to": "00:21:45,720"
+			},
+			"offsets": {
+				"from": 1303620,
+				"to": 1305720
+			},
+			"text": " We think it's that they don't know a different way."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:45,900",
+				"to": "00:21:49,420"
+			},
+			"offsets": {
+				"from": 1305900,
+				"to": 1309420
+			},
+			"text": " And joining a peer community like this helps put them on a road."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,540",
+				"to": "00:21:50,800"
+			},
+			"offsets": {
+				"from": 1309540,
+				"to": 1310800
+			},
+			"text": " And that's the key point."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,900",
+				"to": "00:21:53,100"
+			},
+			"offsets": {
+				"from": 1310900,
+				"to": 1313100
+			},
+			"text": " The high road, as we call it, is a road."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,260",
+				"to": "00:21:54,140"
+			},
+			"offsets": {
+				"from": 1313260,
+				"to": 1314140
+			},
+			"text": " It's not a destination."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,500",
+				"to": "00:21:55,240"
+			},
+			"offsets": {
+				"from": 1314500,
+				"to": 1315240
+			},
+			"text": " It's a pathway."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,580",
+				"to": "00:21:58,300"
+			},
+			"offsets": {
+				"from": 1315580,
+				"to": 1318300
+			},
+			"text": " It's something that we're continuously improving upon."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,400",
+				"to": "00:21:59,240"
+			},
+			"offsets": {
+				"from": 1318400,
+				"to": 1319240
+			},
+			"text": " Nobody's perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,770",
+				"to": "00:22:12,660"
+			},
+			"offsets": {
+				"from": 1319770,
+				"to": 1332660
+			},
+			"text": " So I think it's all about helping people start down the path of paying people better, treating them better, desegregating, considering all the human factors that could lead to better professionalization of this industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,880",
+				"to": "00:22:17,780"
+			},
+			"offsets": {
+				"from": 1332880,
+				"to": 1337780
+			},
+			"text": " And as long as they're willing to continuously do better by their workers, we are with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,780",
+				"to": "00:22:31,780"
+			},
+			"offsets": {
+				"from": 1337780,
+				"to": 1351780
+			},
+			"text": " That seems like such a challenge to the labor movement as well, and one that I think people who have worked in kind of old school labor politics, it's so adversarial all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,960",
+				"to": "00:22:36,160"
+			},
+			"offsets": {
+				"from": 1351960,
+				"to": 1356160
+			},
+			"text": " But I think it's very alienating for both sides at a certain point."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,280",
+				"to": "00:22:39,100"
+			},
+			"offsets": {
+				"from": 1356280,
+				"to": 1359100
+			},
+			"text": " So how did that decision come about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,360",
+				"to": "00:22:46,120"
+			},
+			"offsets": {
+				"from": 1359360,
+				"to": 1366120
+			},
+			"text": " Like how, you know, that you don't just, you know, you have to come together, right, rather than just fight the whole time."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,340",
+				"to": "00:22:55,930"
+			},
+			"offsets": {
+				"from": 1366340,
+				"to": 1375930
+			},
+			"text": " Yeah, well, for us, it was necessary because for so long in our industry, the notion had been that it's impossible."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,930",
+				"to": "00:23:00,730"
+			},
+			"offsets": {
+				"from": 1375930,
+				"to": 1380730
+			},
+			"text": " It's impossible to run a restaurant and pay people well and treat people well."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,870",
+				"to": "00:23:16,430"
+			},
+			"offsets": {
+				"from": 1380870,
+				"to": 1396430
+			},
+			"text": " And I mean, there's been this such mythology put out by the most powerful restaurant associate, powerful employer association in America, mythology that there's only one way to run a restaurant and that we have the smallest profit margins of any industry in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,430",
+				"to": "00:23:18,730"
+			},
+			"offsets": {
+				"from": 1396430,
+				"to": 1398730
+			},
+			"text": " And thus, there's no way to pay people better."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,050",
+				"to": "00:23:22,110"
+			},
+			"offsets": {
+				"from": 1399050,
+				"to": 1402110
+			},
+			"text": " And so we knew that there was no way to succeed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,410",
+				"to": "00:23:34,040"
+			},
+			"offsets": {
+				"from": 1402410,
+				"to": 1414040
+			},
+			"text": " Given the power of this industry, there was no way to succeed except to divide the opposition, except to actually lift up the restaurant owners who are doing it right."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,180",
+				"to": "00:23:43,880"
+			},
+			"offsets": {
+				"from": 1414180,
+				"to": 1423880
+			},
+			"text": " And we realized it couldn't just be about having a one-time relationship with these employers where, you know, we worked with them once and they came with us and they said, no, I can do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,880",
+				"to": "00:23:58,040"
+			},
+			"offsets": {
+				"from": 1423880,
+				"to": 1438040
+			},
+			"text": " And then, you know, it had to be about building a relationship with them over years and years and years and helping them move even as employers, pushing them to do even better than they were already doing and pushing ourselves to do better as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,120",
+				"to": "00:24:01,230"
+			},
+			"offsets": {
+				"from": 1438120,
+				"to": 1441230
+			},
+			"text": " And so, you know, we've opened our own restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,230",
+				"to": "00:24:02,130"
+			},
+			"offsets": {
+				"from": 1441230,
+				"to": 1442130
+			},
+			"text": " We're not perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,470",
+				"to": "00:24:07,690"
+			},
+			"offsets": {
+				"from": 1442470,
+				"to": 1447690
+			},
+			"text": " And so we've learned through our own experience that it's hard and we have sympathy."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,350",
+				"to": "00:24:12,250"
+			},
+			"offsets": {
+				"from": 1448350,
+				"to": 1452250
+			},
+			"text": " And so we just found to win on these issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,250",
+				"to": "00:24:21,050"
+			},
+			"offsets": {
+				"from": 1452250,
+				"to": 1461050
+			},
+			"text": " There was no other way except to build real, long-lasting, positive relationships with a group of employers who could set a different path."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,050",
+				"to": "00:24:27,490"
+			},
+			"offsets": {
+				"from": 1461050,
+				"to": 1467490
+			},
+			"text": " And I would say over the last year that those 10 years of work of building that up finally paid off."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,070",
+				"to": "00:24:45,880"
+			},
+			"offsets": {
+				"from": 1468070,
+				"to": 1485880
+			},
+			"text": " And we saw over this last year between Danny Meyer and Tom Colicchio and the book coming out, just as I said, the first time in 15 years where suddenly this high road path is visible, viable, real, very high profile, even trendy."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,220",
+				"to": "00:24:52,580"
+			},
+			"offsets": {
+				"from": 1486220,
+				"to": 1492580
+			},
+			"text": " It had always been a dream for us to make livable wages and working conditions as trendy, as sustainable and local."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:52,760",
+				"to": "00:24:56,360"
+			},
+			"offsets": {
+				"from": 1492760,
+				"to": 1496360
+			},
+			"text": " And I think it's actually becoming that for the first time ever."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,640",
+				"to": "00:24:58,530"
+			},
+			"offsets": {
+				"from": 1496640,
+				"to": 1498530
+			},
+			"text": " That's really exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,710",
+				"to": "00:24:58,950"
+			},
+			"offsets": {
+				"from": 1498710,
+				"to": 1498950
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,070",
+				"to": "00:24:59,810"
+			},
+			"offsets": {
+				"from": 1499070,
+				"to": 1499810
+			},
+			"text": " Good job."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:00,510",
+				"to": "00:25:00,950"
+			},
+			"offsets": {
+				"from": 1500510,
+				"to": 1500950
+			},
+			"text": " Congratulations."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,290",
+				"to": "00:25:02,350"
+			},
+			"offsets": {
+				"from": 1501290,
+				"to": 1502350
+			},
+			"text": " Keep up the good work."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,410",
+				"to": "00:25:12,630"
+			},
+			"offsets": {
+				"from": 1504410,
+				"to": 1512630
+			},
+			"text": " Something I was thinking about when you were talking about that, though, is that the only uniform thing I can think about restaurants is that they serve food to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,150",
+				"to": "00:25:15,470"
+			},
+			"offsets": {
+				"from": 1513150,
+				"to": 1515470
+			},
+			"text": " I mean, I was a restaurant worker."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,630",
+				"to": "00:25:16,590"
+			},
+			"offsets": {
+				"from": 1515630,
+				"to": 1516590
+			},
+			"text": " I probably will be."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,710",
+				"to": "00:25:27,470"
+			},
+			"offsets": {
+				"from": 1516710,
+				"to": 1527470
+			},
+			"text": " Again, it's just likely when you, you know, restaurant workers are an amazing group of people because they're also musicians and artists and all the rest of these people who make your life rich in so many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,470",
+				"to": "00:25:32,660"
+			},
+			"offsets": {
+				"from": 1527470,
+				"to": 1532660
+			},
+			"text": " But, you know, there's nothing standard about a restaurant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:32,720",
+				"to": "00:25:34,100"
+			},
+			"offsets": {
+				"from": 1532720,
+				"to": 1534100
+			},
+			"text": " They're all run different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,240",
+				"to": "00:25:41,010"
+			},
+			"offsets": {
+				"from": 1534240,
+				"to": 1541010
+			},
+			"text": " And so it seems like relationships would be the only way that that would be possible because it's also not transparent."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,490",
+				"to": "00:25:41,670"
+			},
+			"offsets": {
+				"from": 1541490,
+				"to": 1541670
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,020",
+				"to": "00:25:46,640"
+			},
+			"offsets": {
+				"from": 1542020,
+				"to": 1546640
+			},
+			"text": " You know, like one IHOP is not the same as another IHOP, weirdly enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,040",
+				"to": "00:25:47,440"
+			},
+			"offsets": {
+				"from": 1547040,
+				"to": 1547440
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,720",
+				"to": "00:25:47,900"
+			},
+			"offsets": {
+				"from": 1547720,
+				"to": 1547900
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,260",
+				"to": "00:25:53,680"
+			},
+			"offsets": {
+				"from": 1548260,
+				"to": 1553680
+			},
+			"text": " So one of the things I really loved in both of your books is all the case studies, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,720",
+				"to": "00:25:57,040"
+			},
+			"offsets": {
+				"from": 1553720,
+				"to": 1557040
+			},
+			"text": " I was like, why is she using case study after a case study?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,040",
+				"to": "00:25:59,320"
+			},
+			"offsets": {
+				"from": 1557040,
+				"to": 1559320
+			},
+			"text": " Because it's so anecdotal in this certain way."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,500",
+				"to": "00:26:06,430"
+			},
+			"offsets": {
+				"from": 1559500,
+				"to": 1566430
+			},
+			"text": " But maybe you could, it really proved this point of that it's like, it's not standard, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,450",
+				"to": "00:26:09,530"
+			},
+			"offsets": {
+				"from": 1566450,
+				"to": 1569530
+			},
+			"text": " The things that people struggle with in different places."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,530",
+				"to": "00:26:17,500"
+			},
+			"offsets": {
+				"from": 1569530,
+				"to": 1577500
+			},
+			"text": " Of course, there's, there are these set of things, wages, sick days, safety conditions, hours, those kinds of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,500",
+				"to": "00:26:30,200"
+			},
+			"offsets": {
+				"from": 1577500,
+				"to": 1590200
+			},
+			"text": " But there's also like, and safety, like, I think in terms of personal safety, you know, especially like in terms of the dynamics, whatever the family dynamics of the restaurant are."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,640",
+				"to": "00:26:39,720"
+			},
+			"offsets": {
+				"from": 1591640,
+				"to": 1599720
+			},
+			"text": " But can you talk through maybe a few of these high road and low road cases and especially this Darden thing that you guys are working on right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,720",
+				"to": "00:26:47,240"
+			},
+			"offsets": {
+				"from": 1599720,
+				"to": 1607240
+			},
+			"text": " Yeah, so in the book, I profile, let's take, every chapter is a different segment of the industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,240",
+				"to": "00:27:05,920"
+			},
+			"offsets": {
+				"from": 1607240,
+				"to": 1625920
+			},
+			"text": " So it's true, restaurants are incredibly diverse, but we're so fortunate in that I have found a feeling of unity and camaraderie among food service workers in all segments and all different kinds of restaurants that I don't necessarily see in other industries."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,920",
+				"to": "00:27:15,560"
+			},
+			"offsets": {
+				"from": 1625920,
+				"to": 1635560
+			},
+			"text": " There's something, I don't know, similar to going through the military or, you know, that people feel this kinship with other people in this industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,410",
+				"to": "00:27:21,710"
+			},
+			"offsets": {
+				"from": 1637410,
+				"to": 1641710
+			},
+			"text": " Because there's something about hospitality and food service that does bring people together."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,710",
+				"to": "00:27:23,030"
+			},
+			"offsets": {
+				"from": 1641710,
+				"to": 1643030
+			},
+			"text": " It's a kind of personality."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,330",
+				"to": "00:27:27,480"
+			},
+			"offsets": {
+				"from": 1644330,
+				"to": 1647480
+			},
+			"text": " But anyway, every chapter of the book is a different segment."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,740",
+				"to": "00:27:41,540"
+			},
+			"offsets": {
+				"from": 1647740,
+				"to": 1661540
+			},
+			"text": " And so, for example, we have a chapter on casual restaurants and we profile Vimla's Curry Bossom Cafe, which is a restaurant in North Carolina that's gotten a lot of attention for being locally sourced and organic, really delicious Indian food."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,660",
+				"to": "00:27:45,560"
+			},
+			"offsets": {
+				"from": 1661660,
+				"to": 1665560
+			},
+			"text": " But I think few people knew she also treats her workers really well."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,560",
+				"to": "00:27:57,520"
+			},
+			"offsets": {
+				"from": 1665560,
+				"to": 1677520
+			},
+			"text": " In a state that allows tipped workers to be paid $2.13 an hour, she's paying $10 and $11 starting wage, even for workers like bartenders who could be paid as little as $2.13 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:57,520",
+				"to": "00:28:03,840"
+			},
+			"offsets": {
+				"from": 1677520,
+				"to": 1683840
+			},
+			"text": " So, she is already taking the high road, but willing to do even better."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:03,940",
+				"to": "00:28:06,680"
+			},
+			"offsets": {
+				"from": 1683940,
+				"to": 1686680
+			},
+			"text": " I mean, we've worked with her on a number of issues in her own restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,100",
+				"to": "00:28:14,290"
+			},
+			"offsets": {
+				"from": 1687100,
+				"to": 1694290
+			},
+			"text": " And we compared Vimla's as a casual restaurant, very family-oriented restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,390",
+				"to": "00:28:16,430"
+			},
+			"offsets": {
+				"from": 1694390,
+				"to": 1696430
+			},
+			"text": " Her entire family works in that restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,950",
+				"to": "00:28:25,140"
+			},
+			"offsets": {
+				"from": 1696950,
+				"to": 1705140
+			},
+			"text": " To another restaurant that's all about family, which is the Olive Garden, which puts itself, I mean, its motto is we're all family here, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,280",
+				"to": "00:28:28,360"
+			},
+			"offsets": {
+				"from": 1705280,
+				"to": 1708360
+			},
+			"text": " And Vimla really does embody family, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,480",
+				"to": "00:28:30,340"
+			},
+			"offsets": {
+				"from": 1708480,
+				"to": 1710340
+			},
+			"text": " It's her entire family working in the restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,860",
+				"to": "00:28:32,600"
+			},
+			"offsets": {
+				"from": 1710860,
+				"to": 1712600
+			},
+			"text": " Her workers are treated like family."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,640",
+				"to": "00:28:36,240"
+			},
+			"offsets": {
+				"from": 1712640,
+				"to": 1716240
+			},
+			"text": " And when I say treated like family, they're paid anywhere between $10 and $20 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,240",
+				"to": "00:28:41,820"
+			},
+			"offsets": {
+				"from": 1716240,
+				"to": 1721820
+			},
+			"text": " She has workers who make more than she does, which is important to recognize."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,380",
+				"to": "00:28:46,600"
+			},
+			"offsets": {
+				"from": 1722380,
+				"to": 1726600
+			},
+			"text": " She provides child care reimbursements for workers, which is unheard of in our industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,280",
+				"to": "00:28:50,400"
+			},
+			"offsets": {
+				"from": 1727280,
+				"to": 1730400
+			},
+			"text": " And just across town in North Carolina, we visited the Olive Garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,740",
+				"to": "00:28:52,920"
+			},
+			"offsets": {
+				"from": 1730740,
+				"to": 1732920
+			},
+			"text": " The worker was making $2.13 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,300",
+				"to": "00:28:55,040"
+			},
+			"offsets": {
+				"from": 1733300,
+				"to": 1735040
+			},
+			"text": " The motto is we're all family here."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,120",
+				"to": "00:28:58,040"
+			},
+			"offsets": {
+				"from": 1735120,
+				"to": 1738040
+			},
+			"text": " And this is the company that doesn't just pay $2.13."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,380",
+				"to": "00:29:05,960"
+			},
+			"offsets": {
+				"from": 1738380,
+				"to": 1745960
+			},
+			"text": " They are lobbying vitriolically as the world's largest employer of tipped workers to keep the wage at $2.13 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,240",
+				"to": "00:29:17,900"
+			},
+			"offsets": {
+				"from": 1746240,
+				"to": 1757900
+			},
+			"text": " And they are the case study for how this issue of the tipped minimum wage is the source and the reason that this industry has the highest rate of sexual harassment of any industry in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,900",
+				"to": "00:29:25,790"
+			},
+			"offsets": {
+				"from": 1757900,
+				"to": 1765790
+			},
+			"text": " So in the book, I describe a worker at the Olive Garden who worked there for many years, was a single mother."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,450",
+				"to": "00:29:35,950"
+			},
+			"offsets": {
+				"from": 1766450,
+				"to": 1775950
+			},
+			"text": " There was a maitre d' in the restaurant who was notorious for touching, grabbing, groping, harassing all the female servers."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,470",
+				"to": "00:29:38,470"
+			},
+			"offsets": {
+				"from": 1776470,
+				"to": 1778470
+			},
+			"text": " Anybody who complained was let go."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,970",
+				"to": "00:29:47,670"
+			},
+			"offsets": {
+				"from": 1778970,
+				"to": 1787670
+			},
+			"text": " Even though the company has a quote-unquote zero tolerance policy for sexual harassment, what it really means is a zero tolerance policy for complaining about sexual harassment."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,830",
+				"to": "00:29:50,010"
+			},
+			"offsets": {
+				"from": 1787830,
+				"to": 1790010
+			},
+			"text": " That's what zero tolerance really means at the Olive Garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:50,560",
+				"to": "00:29:53,220"
+			},
+			"offsets": {
+				"from": 1790560,
+				"to": 1793220
+			},
+			"text": " So it's just the epitome of the opposite."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,220",
+				"to": "00:30:04,970"
+			},
+			"offsets": {
+				"from": 1793220,
+				"to": 1804970
+			},
+			"text": " And again, both people are using the word family, but you have a dysfunctional family and then something that I think really embodies family in the sense of the most extensive family possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,970",
+				"to": "00:30:11,950"
+			},
+			"offsets": {
+				"from": 1804970,
+				"to": 1811950
+			},
+			"text": " Not even just your own nuclear family, but the community as family, your consumers as family, the workers as family."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,090",
+				"to": "00:30:17,310"
+			},
+			"offsets": {
+				"from": 1812090,
+				"to": 1817310
+			},
+			"text": " I mean, it's just a totally different concept and the contrast is quite striking."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,510",
+				"to": "00:30:28,600"
+			},
+			"offsets": {
+				"from": 1817510,
+				"to": 1828600
+			},
+			"text": " I mean, it's really amazing because I, well, I did catering for a long time, which I think is like the bad cousin of restaurant work or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:28,880",
+				"to": "00:30:33,200"
+			},
+			"offsets": {
+				"from": 1828880,
+				"to": 1833200
+			},
+			"text": " It's like if you can't work in a restaurant, you work as a caterer."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,320",
+				"to": "00:30:36,460"
+			},
+			"offsets": {
+				"from": 1833320,
+				"to": 1836460
+			},
+			"text": " And of course, all those things are really true there too."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,420",
+				"to": "00:30:48,150"
+			},
+			"offsets": {
+				"from": 1837420,
+				"to": 1848150
+			},
+			"text": " But there's so many, I don't know, I'm getting a little tongue-tied thinking about all these things in conjunction with each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,570",
+				"to": "00:30:54,200"
+			},
+			"offsets": {
+				"from": 1848570,
+				"to": 1854200
+			},
+			"text": " There's so many places to start in terms of like what struggle looks like there."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,420",
+				"to": "00:31:00,540"
+			},
+			"offsets": {
+				"from": 1854420,
+				"to": 1860540
+			},
+			"text": " And it's so, we all know these examples of these great restaurants that do treat their workers, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,580",
+				"to": "00:31:07,790"
+			},
+			"offsets": {
+				"from": 1860580,
+				"to": 1867790
+			},
+			"text": " Like they're not, they're not all Chez Panisse and they're not all Tom Colicchio, even though like that's so great that they're part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,910",
+				"to": "00:31:10,890"
+			},
+			"offsets": {
+				"from": 1867910,
+				"to": 1870890
+			},
+			"text": " So maybe you could, I mean, Vimla's is one of those."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,190",
+				"to": "00:31:12,190"
+			},
+			"offsets": {
+				"from": 1871190,
+				"to": 1872190
+			},
+			"text": " Yes, who are the others?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,410",
+				"to": "00:31:19,450"
+			},
+			"offsets": {
+				"from": 1873410,
+				"to": 1879450
+			},
+			"text": " You know, I think of lots of like breakfast places and these places that are just part of your town."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:19,590",
+				"to": "00:31:20,490"
+			},
+			"offsets": {
+				"from": 1879590,
+				"to": 1880490
+			},
+			"text": " Maybe your taqueria."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,610",
+				"to": "00:31:28,260"
+			},
+			"offsets": {
+				"from": 1880610,
+				"to": 1888260
+			},
+			"text": " I mean, I don't know, like, but where a lot of things have necessitated another labor model, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:28,260",
+				"to": "00:31:32,000"
+			},
+			"offsets": {
+				"from": 1888260,
+				"to": 1892000
+			},
+			"text": " So maybe one of the ones I really like in your book is these restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,950",
+				"to": "00:31:34,430"
+			},
+			"offsets": {
+				"from": 1892950,
+				"to": 1894430
+			},
+			"text": " What was, the one in LA."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,810",
+				"to": "00:31:35,310"
+			},
+			"offsets": {
+				"from": 1894810,
+				"to": 1895310
+			},
+			"text": " What's her name?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,470",
+				"to": "00:31:35,990"
+			},
+			"offsets": {
+				"from": 1895470,
+				"to": 1895990
+			},
+			"text": " Oh, Deeps."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,130",
+				"to": "00:31:36,650"
+			},
+			"offsets": {
+				"from": 1896130,
+				"to": 1896650
+			},
+			"text": " Yeah, Deeps."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,850",
+				"to": "00:31:37,650"
+			},
+			"offsets": {
+				"from": 1896850,
+				"to": 1897650
+			},
+			"text": " Yeah, yeah, yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,830",
+				"to": "00:31:38,230"
+			},
+			"offsets": {
+				"from": 1897830,
+				"to": 1898230
+			},
+			"text": " Yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,570",
+				"to": "00:31:40,390"
+			},
+			"offsets": {
+				"from": 1899570,
+				"to": 1900390
+			},
+			"text": " Good girl, I met."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,790",
+				"to": "00:31:41,640"
+			},
+			"offsets": {
+				"from": 1900790,
+				"to": 1901640
+			},
+			"text": " That's right."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,700",
+				"to": "00:31:43,940"
+			},
+			"offsets": {
+				"from": 1901700,
+				"to": 1903940
+			},
+			"text": " So it's a Vietnamese food restaurant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,060",
+				"to": "00:31:49,330"
+			},
+			"offsets": {
+				"from": 1904060,
+				"to": 1909330
+			},
+			"text": " And it like comes out of, she just loved to cook, that it sounds like, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,410",
+				"to": "00:31:57,610"
+			},
+			"offsets": {
+				"from": 1909410,
+				"to": 1917610
+			},
+			"text": " And then she kept trying to figure out how to make her world as a labor organizer and a cook come together over time."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,610",
+				"to": "00:31:58,810"
+			},
+			"offsets": {
+				"from": 1917610,
+				"to": 1918810
+			},
+			"text": " Is that what happened?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,950",
+				"to": "00:32:00,070"
+			},
+			"offsets": {
+				"from": 1918950,
+				"to": 1920070
+			},
+			"text": " Yes, I think that's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,190",
+				"to": "00:32:01,930"
+			},
+			"offsets": {
+				"from": 1920190,
+				"to": 1921930
+			},
+			"text": " She wasn't a labor organizer, but she was an organizer."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,330",
+				"to": "00:32:10,810"
+			},
+			"offsets": {
+				"from": 1922330,
+				"to": 1930810
+			},
+			"text": " And she definitely, yeah, found her path opening a restaurant and, you know, I think has really tried to bring her social justice values into the restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:10,810",
+				"to": "00:32:13,040"
+			},
+			"offsets": {
+				"from": 1930810,
+				"to": 1933040
+			},
+			"text": " But I don't even think it takes that."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,180",
+				"to": "00:32:21,560"
+			},
+			"offsets": {
+				"from": 1933180,
+				"to": 1941560
+			},
+			"text": " I mean, we've got mom and pop restaurants around the country who just come in saying, this whole system doesn't make sense to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,600",
+				"to": "00:32:24,080"
+			},
+			"offsets": {
+				"from": 1941600,
+				"to": 1944080
+			},
+			"text": " You know, in no other industry are you allowed to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,320",
+				"to": "00:32:27,660"
+			},
+			"offsets": {
+				"from": 1944320,
+				"to": 1947660
+			},
+			"text": " So we're just going to treat people better because it's the right thing to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,660",
+				"to": "00:32:37,880"
+			},
+			"offsets": {
+				"from": 1947660,
+				"to": 1957880
+			},
+			"text": " So I profile a company called Moo Cluck Moo in Michigan, which has been compared a lot to McDonald's because it is quick service."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,880",
+				"to": "00:32:43,320"
+			},
+			"offsets": {
+				"from": 1957880,
+				"to": 1963320
+			},
+			"text": " It is burgers and fries and chicken and yet he pays $15 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,320",
+				"to": "00:32:44,740"
+			},
+			"offsets": {
+				"from": 1963320,
+				"to": 1964740
+			},
+			"text": " He's got a tiny little store."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,740",
+				"to": "00:32:49,580"
+			},
+			"offsets": {
+				"from": 1964740,
+				"to": 1969580
+			},
+			"text": " He does not see making burgers or making chicken as unskilled work."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,660",
+				"to": "00:32:52,440"
+			},
+			"offsets": {
+				"from": 1969660,
+				"to": 1972440
+			},
+			"text": " He sees it as very skilled artisan craft work."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,400",
+				"to": "00:32:54,740"
+			},
+			"offsets": {
+				"from": 1973400,
+				"to": 1974740
+			},
+			"text": " And he's growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,980",
+				"to": "00:32:56,380"
+			},
+			"offsets": {
+				"from": 1974980,
+				"to": 1976380
+			},
+			"text": " He's opening new stores."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,600",
+				"to": "00:32:57,840"
+			},
+			"offsets": {
+				"from": 1976600,
+				"to": 1977840
+			},
+			"text": " He's doing really well."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,580",
+				"to": "00:32:59,560"
+			},
+			"offsets": {
+				"from": 1978580,
+				"to": 1979560
+			},
+			"text": " Everybody's investing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,240",
+				"to": "00:33:01,400"
+			},
+			"offsets": {
+				"from": 1980240,
+				"to": 1981400
+			},
+			"text": " And he's paying people really well."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,440",
+				"to": "00:33:17,560"
+			},
+			"offsets": {
+				"from": 1981440,
+				"to": 1997560
+			},
+			"text": " He started as a little mom and pop restaurant or the Florida Avenue Grill in Washington, D.C., which, you know, very the epitome of the greasy spoon diner, literally, you know, with all the pictures on the walls of the people who have visited the restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,560",
+				"to": "00:33:27,300"
+			},
+			"offsets": {
+				"from": 1997560,
+				"to": 2007300
+			},
+			"text": " I mean, it's just the epitome of a diner that you expect to pay people very, very little and yet totally committed to taking the high road and doing the right thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,840",
+				"to": "00:33:37,980"
+			},
+			"offsets": {
+				"from": 2007840,
+				"to": 2017980
+			},
+			"text": " Or Zingerman's in Michigan, you know, just known for really good food, you know, internationally known as a great deli paying workers, what they call a thrivable wage."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,040",
+				"to": "00:33:39,300"
+			},
+			"offsets": {
+				"from": 2018040,
+				"to": 2019300
+			},
+			"text": " Don't even believe in a livable wage."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,360",
+				"to": "00:33:41,220"
+			},
+			"offsets": {
+				"from": 2019360,
+				"to": 2021220
+			},
+			"text": " They want to pay people a thrivable wage."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,320",
+				"to": "00:33:52,170"
+			},
+			"offsets": {
+				"from": 2021320,
+				"to": 2032170
+			},
+			"text": " Or even here in Oakland, Adrian is the owner of Kingston 11, a Jamaican restaurant that is great food but also just committed to treating people better."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,410",
+				"to": "00:33:57,050"
+			},
+			"offsets": {
+				"from": 2032410,
+				"to": 2037050
+			},
+			"text": " So there are so many examples of small mom and pop restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,050",
+				"to": "00:34:12,830"
+			},
+			"offsets": {
+				"from": 2037050,
+				"to": 2052830
+			},
+			"text": " You're right, it's not the Danny Myers and the Tom Colicchio's but all of these folks collectively prove it doesn't matter what segment of the industry you're in, what kind of restaurant you operate, what the food is or where you come from, you can follow the high road and we can help you get there."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,830",
+				"to": "00:34:37,480"
+			},
+			"offsets": {
+				"from": 2052830,
+				"to": 2077480
+			},
+			"text": " Well, because that's what I thought when I was reading that like, oh, it can only be the Tom Colicchio's and it can only be these, you know, sort of high end, whatever, sort of sustainably and fashion would have trendily committed to whatever kind of the thing of the moment is until you started breaking that down and looking at what those components that went into that."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:37,480",
+				"to": "00:34:47,450"
+			},
+			"offsets": {
+				"from": 2077480,
+				"to": 2087450
+			},
+			"text": " So I guess another thing that came up was, you're talking about these individual businesses, what would it look like for Darden to change the direction that they face?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,530",
+				"to": "00:34:51,290"
+			},
+			"offsets": {
+				"from": 2087530,
+				"to": 2091290
+			},
+			"text": " Would it be like a huge shift in things or would it be a few degrees?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,590",
+				"to": "00:34:53,390"
+			},
+			"offsets": {
+				"from": 2091590,
+				"to": 2093390
+			},
+			"text": " And how does that happen on different scales?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,890",
+				"to": "00:35:22,940"
+			},
+			"offsets": {
+				"from": 2093890,
+				"to": 2122940
+			},
+			"text": " Yeah, I mean, ultimately, it has to be about policy change, you know, it's it can't be about individual restaurants or even huge companies like Darden, just changing their practices in their one company, it has to be about policy change, it has to be about policy change for so many reasons, you know, our high road restaurants talk about, it needs to be a level playing field, you know, for for they can't be sticking their necks out doing the right thing, and everybody else gets to pay $2.13 an hour."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,940",
+				"to": "00:35:32,420"
+			},
+			"offsets": {
+				"from": 2122940,
+				"to": 2132420
+			},
+			"text": " It has to be policy change, because we don't actually just need high road companies, we need high road cities, states, we need a high road nation, we need a high road nation."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:33,060",
+				"to": "00:35:47,280"
+			},
+			"offsets": {
+				"from": 2133060,
+				"to": 2147280
+			},
+			"text": " And so we're starting to see with the fight for 15 and all these incredible successes around the country, whole cities and states moving to $15 moving to provide paid sick days moving to even, you know, require health insurance."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,480",
+				"to": "00:36:01,980"
+			},
+			"offsets": {
+				"from": 2147480,
+				"to": 2161980
+			},
+			"text": " I think this is the direction we need to go, not just for the sake of the workers, but even for the employers who are doing it right, and for all employers, because I can sympathize, it would be hard to stick your neck out and pay a lot more than everybody else."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,140",
+				"to": "00:36:12,220"
+			},
+			"offsets": {
+				"from": 2162140,
+				"to": 2172220
+			},
+			"text": " But if everybody has to do it, it helps you in so many ways, A, you're not alone, but B, all these workers across the entire economy, everybody's wages are going up."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,220",
+				"to": "00:36:14,980"
+			},
+			"offsets": {
+				"from": 2172220,
+				"to": 2174980
+			},
+			"text": " And what does that mean, more consumption dollars for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,200",
+				"to": "00:36:29,300"
+			},
+			"offsets": {
+				"from": 2175200,
+				"to": 2189300
+			},
+			"text": " Because everybody has to remember that low wage workers, minimum wage workers spend way more of a percentage of their income on consumption, on eating out, than people at the upper end of the scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:30,300",
+				"to": "00:36:44,320"
+			},
+			"offsets": {
+				"from": 2190300,
+				"to": 2204320
+			},
+			"text": " And so raising wages at the bottom is one of the best ways to support this industry because, and we've seen it, you know, the cities and states with higher minimum wages have actually faster job growth rates in this industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,320",
+				"to": "00:36:57,060"
+			},
+			"offsets": {
+				"from": 2204320,
+				"to": 2217060
+			},
+			"text": " The seven states that have completely eliminated the lower wage for tipped workers and require the restaurant industry to pay the same wage to everybody, tipped and non-tipped, have, there's California, Oregon, Washington, Nevada, Minnesota, Montana, and Alaska."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,580",
+				"to": "00:37:06,940"
+			},
+			"offsets": {
+				"from": 2217580,
+				"to": 2226940
+			},
+			"text": " These seven states have higher restaurant sales per capita, higher job growth in the industry, higher job growth among servers and tipped workers, even higher rates of tipping."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,300",
+				"to": "00:37:10,900"
+			},
+			"offsets": {
+				"from": 2227300,
+				"to": 2230900
+			},
+			"text": " We tip better on the West Coast than the 43 states with lower wages for tipped workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,900",
+				"to": "00:37:26,370"
+			},
+			"offsets": {
+				"from": 2230900,
+				"to": 2246370
+			},
+			"text": " So if you listen to the Restaurant Association, you'd think anybody who pays these workers at all a livable wage would have no industry, would have no jobs, jobs would be lost, everybody would be replaced by robots, or there'd be no restaurants at all, and nobody would tip."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:26,860",
+				"to": "00:37:31,550"
+			},
+			"offsets": {
+				"from": 2246860,
+				"to": 2251550
+			},
+			"text": " All of those things, the opposite has been proven to be true in the seven states."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:31,550",
+				"to": "00:37:39,990"
+			},
+			"offsets": {
+				"from": 2251550,
+				"to": 2259990
+			},
+			"text": " And it's just so obvious that it's because when workers, you know, get paid better, they provide better service, they can spend more."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,410",
+				"to": "00:37:41,310"
+			},
+			"offsets": {
+				"from": 2260410,
+				"to": 2261310
+			},
+			"text": " It just works."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:43,290",
+				"to": "00:37:47,870"
+			},
+			"offsets": {
+				"from": 2263290,
+				"to": 2267870
+			},
+			"text": " The Fight for 15 has been so inspiring to see unfold."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,870",
+				"to": "00:37:54,940"
+			},
+			"offsets": {
+				"from": 2267870,
+				"to": 2274940
+			},
+			"text": " And last year I participated in this thing with SEIU with the adjunct, you know, adjunct professors and the Fight for 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,140",
+				"to": "00:38:04,950"
+			},
+			"offsets": {
+				"from": 2275140,
+				"to": 2284950
+			},
+			"text": " That was like such a conceptually interesting thing to be a part of, of thinking about what tenuous labor looks like across these fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,950",
+				"to": "00:38:09,490"
+			},
+			"offsets": {
+				"from": 2284950,
+				"to": 2289490
+			},
+			"text": " And that feels really interesting about the work that you're doing at ROC too."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,620",
+				"to": "00:38:19,000"
+			},
+			"offsets": {
+				"from": 2290620,
+				"to": 2299000
+			},
+			"text": " Maybe let's talk about some ways people can get involved with all of those things and what that might mean for their local communities to kind of wrap it up."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,000",
+				"to": "00:38:24,990"
+			},
+			"offsets": {
+				"from": 2299000,
+				"to": 2304990
+			},
+			"text": " And also, like, if they're interested in your new book is Forked, it just came out a couple of months ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,230",
+				"to": "00:38:26,810"
+			},
+			"offsets": {
+				"from": 2305230,
+				"to": 2306810
+			},
+			"text": " It's got a lot of good examples."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:27,490",
+				"to": "00:38:29,770"
+			},
+			"offsets": {
+				"from": 2307490,
+				"to": 2309770
+			},
+			"text": " And then we can leave it there because I know you've got to run."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,120",
+				"to": "00:38:31,520"
+			},
+			"offsets": {
+				"from": 2311120,
+				"to": 2311520
+			},
+			"text": " Definitely."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,860",
+				"to": "00:38:36,470"
+			},
+			"offsets": {
+				"from": 2311860,
+				"to": 2316470
+			},
+			"text": " So if you're a worker, employer, or consumer, you can get involved."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:36,610",
+				"to": "00:38:42,230"
+			},
+			"offsets": {
+				"from": 2316610,
+				"to": 2322230
+			},
+			"text": " If you're a worker, just go to rockunited.org, check out where our local offices are, or sign on as an online member."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,800",
+				"to": "00:38:47,610"
+			},
+			"offsets": {
+				"from": 2322800,
+				"to": 2327610
+			},
+			"text": " If you're an employer, please consider joining RAISE, our High Road Employer Association."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,610",
+				"to": "00:38:50,430"
+			},
+			"offsets": {
+				"from": 2327610,
+				"to": 2330430
+			},
+			"text": " You can find it on our website, rockunited.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,550",
+				"to": "00:38:55,330"
+			},
+			"offsets": {
+				"from": 2330550,
+				"to": 2335330
+			},
+			"text": " And if you're a consumer, you can become a member of our consumer association, Diners United."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,110",
+				"to": "00:39:00,050"
+			},
+			"offsets": {
+				"from": 2336110,
+				"to": 2340050
+			},
+			"text": " You can go to my book website, forkedthebook.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,190",
+				"to": "00:39:05,630"
+			},
+			"offsets": {
+				"from": 2340190,
+				"to": 2345630
+			},
+			"text": " You can find an app for consumers that tells you how restaurants are faring on these issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:06,030",
+				"to": "00:39:09,490"
+			},
+			"offsets": {
+				"from": 2346030,
+				"to": 2349490
+			},
+			"text": " You can go from there to join Diners United, the Consumer Association."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:09,990",
+				"to": "00:39:15,290"
+			},
+			"offsets": {
+				"from": 2349990,
+				"to": 2355290
+			},
+			"text": " And as a member of the Consumer Association, you can be a different kind of diner."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:15,290",
+				"to": "00:39:20,170"
+			},
+			"offsets": {
+				"from": 2355290,
+				"to": 2360170
+			},
+			"text": " You can talk to your employer, to your favorite restaurant owner about joining RAISE."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,550",
+				"to": "00:39:29,760"
+			},
+			"offsets": {
+				"from": 2360550,
+				"to": 2369760
+			},
+			"text": " You can actually download and print out little cards that are on that website that you can leave with your tips to let workers know that there's a place"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,760",
+				"to": "00:39:31,260"
+			},
+			"offsets": {
+				"from": 2369760,
+				"to": 2371260
+			},
+			"text": " they can go for help."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,620",
+				"to": "00:39:34,420"
+			},
+			"offsets": {
+				"from": 2371620,
+				"to": 2374420
+			},
+			"text": " It drives them to the onefairwage.com website."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:35,060",
+				"to": "00:39:39,120"
+			},
+			"offsets": {
+				"from": 2375060,
+				"to": 2379120
+			},
+			"text": " And most importantly, as a consumer, you're not just a consumer, you're a citizen."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:39,400",
+				"to": "00:39:47,100"
+			},
+			"offsets": {
+				"from": 2379400,
+				"to": 2387100
+			},
+			"text": " And so you should go to the onefairwage.com website, put in your zip code, and send a letter to your representative saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,100",
+				"to": "00:40:03,640"
+			},
+			"offsets": {
+				"from": 2388100,
+				"to": 2403640
+			},
+			"text": " \"I believe that this industry should pay one fair wage like every other industry, and I don't want as a consumer to have to subsidize this industry by paying its workers' wages in my tips and by paying for its workers' survival to the tune of $16.5 billion annually in taxpayer-funded public assistance, whether that's food stamps or Medicaid, for workers in this industry who just can't survive, even though they work full-time.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:40:03,640",
+				"to": "00:40:17,140"
+			},
+			"offsets": {
+				"from": 2403640,
+				"to": 2417140
+			},
+			"text": " So we are doubly subsidizing this industry as consumers and we have a real interest in making this industry pay for its own workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:17,140",
+				"to": "00:40:18,140"
+			},
+			"offsets": {
+				"from": 2417140,
+				"to": 2418140
+			},
+			"text": " Perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,140",
+				"to": "00:40:19,140"
+			},
+			"offsets": {
+				"from": 2418140,
+				"to": 2419140
+			},
+			"text": " Thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,140",
+				"to": "00:40:20,140"
+			},
+			"offsets": {
+				"from": 2419140,
+				"to": 2420140
+			},
+			"text": " Thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:20,140",
+				"to": "00:40:37,820"
+			},
+			"offsets": {
+				"from": 2420140,
+				"to": 2437820
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,820",
+				"to": "00:40:47,820"
+			},
+			"offsets": {
+				"from": 2437820,
+				"to": 2447820
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,820",
+				"to": "00:40:48,880"
+			},
+			"offsets": {
+				"from": 2447820,
+				"to": 2448880
+			},
+			"text": " What's your food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:48,880",
+				"to": "00:40:53,070"
+			},
+			"offsets": {
+				"from": 2448880,
+				"to": 2453070
+			},
+			"text": " Let us know and get in touch at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:53,070",
+				"to": "00:40:57,770"
+			},
+			"offsets": {
+				"from": 2453070,
+				"to": 2457770
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:57,770",
+				"to": "00:41:00,890"
+			},
+			"offsets": {
+				"from": 2457770,
+				"to": 2460890
+			},
+			"text": " Produced by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:00,890",
+				"to": "00:41:05,990"
+			},
+			"offsets": {
+				"from": 2460890,
+				"to": 2465990
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,990",
+				"to": "00:41:09,500"
+			},
+			"offsets": {
+				"from": 2465990,
+				"to": 2469500
+			},
+			"text": " If you have a food story of your own, we'd love to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,500",
+				"to": "00:41:14,460"
+			},
+			"offsets": {
+				"from": 2469500,
+				"to": 2474460
+			},
+			"text": " Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,460",
+				"to": "00:41:17,680"
+			},
+			"offsets": {
+				"from": 2474460,
+				"to": 2477680
+			},
+			"text": " Of course, you can get in touch with us in lots of different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:17,680",
+				"to": "00:41:21,680"
+			},
+			"offsets": {
+				"from": 2477680,
+				"to": 2481680
+			},
+			"text": " And they are all on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:21,680",
+				"to": "00:41:26,640"
+			},
+			"offsets": {
+				"from": 2481680,
+				"to": 2486640
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:26,640",
+				"to": "00:41:31,580"
+			},
+			"offsets": {
+				"from": 2486640,
+				"to": 2491580
+			},
+			"text": " please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,580",
+				"to": "00:41:32,930"
+			},
+			"offsets": {
+				"from": 2491580,
+				"to": 2492930
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

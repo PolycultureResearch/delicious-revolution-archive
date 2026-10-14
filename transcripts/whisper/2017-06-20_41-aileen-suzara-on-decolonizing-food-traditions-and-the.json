@@ -1,0 +1,5092 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:02,950",
+				"to": "00:00:26,400"
+			},
+			"offsets": {
+				"from": 2950,
+				"to": 26400
+			},
+			"text": " You know, colonization was real. It happened. It impacted so many different layers of identity and connection to place and understanding of ancestral ties, and we have this opportunity to heal and revitalize the things that I think can give us instructions for how to move forward now, wherever we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,400",
+				"to": "00:00:46,770"
+			},
+			"offsets": {
+				"from": 26400,
+				"to": 46770
+			},
+			"text": " For me, you know, in addition to self-determination, I always see that as what is the process that we decolonize, and how is decolonization in all the aspects that we might want to be doing it, whether it's, you know, relationships to land or farming, but even just to that relationship to food, I think it kind of ties things all together."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,770",
+				"to": "00:00:55,770"
+			},
+			"offsets": {
+				"from": 46770,
+				"to": 55770
+			},
+			"text": " You know, from a community health standing point, this is why it's so important, you know, to really understand food not just as this surface-level thing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,770",
+				"to": "00:01:10,530"
+			},
+			"offsets": {
+				"from": 55770,
+				"to": 70530
+			},
+			"text": " but as a really valuable tool for understanding your place in the world, having something to celebrate, and also just figuring out ways to navigate the world. That's what it can be. That's, I think, the huge potential of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,380",
+				"to": "00:01:28,430"
+			},
+			"offsets": {
+				"from": 74380,
+				"to": 88430
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills. This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists. These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,670",
+				"to": "00:01:39,250"
+			},
+			"offsets": {
+				"from": 88670,
+				"to": 99250
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,490",
+				"to": "00:01:48,670"
+			},
+			"offsets": {
+				"from": 99490,
+				"to": 108670
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills. Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,640",
+				"to": "00:01:59,970"
+			},
+			"offsets": {
+				"from": 109640,
+				"to": 119970
+			},
+			"text": " Eileen Suzara is a land-based educator, eco-advocate, and cook. She was born in Washington, raised mostly on the Big Island of Hawaii, and is currently based in the San Francisco Bay Area."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,230",
+				"to": "00:02:14,270"
+			},
+			"offsets": {
+				"from": 120230,
+				"to": 134270
+			},
+			"text": " Her family spans the Philippines and North America. While she has spent years working towards building healthier communities, sustainable foods, and environmental justice, she also carries a torch for storytelling and ability to inspire, move, and transform."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,270",
+				"to": "00:02:19,530"
+			},
+			"offsets": {
+				"from": 134270,
+				"to": 139530
+			},
+			"text": " She recently finished a program at UC Berkeley's Graduate School of Public Health and Nutrition."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,810",
+				"to": "00:02:25,090"
+			},
+			"offsets": {
+				"from": 139810,
+				"to": 145090
+			},
+			"text": " She is part of La Cocina's Kitchen Incubator Program, where she is launching a food business called Sariwa."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,330",
+				"to": "00:02:37,330"
+			},
+			"offsets": {
+				"from": 145330,
+				"to": 157330
+			},
+			"text": " She is exploring the potential to lift up traditional Filipino-inspired foodways as a solution towards chronic disease that will also boost ecological health and the livelihood of small farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,390",
+				"to": "00:02:40,330"
+			},
+			"offsets": {
+				"from": 158390,
+				"to": 160330
+			},
+			"text": " Hi, Eileen. Welcome to the show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,970",
+				"to": "00:02:42,190"
+			},
+			"offsets": {
+				"from": 160970,
+				"to": 162190
+			},
+			"text": " Thank you so much for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,190",
+				"to": "00:02:46,150"
+			},
+			"offsets": {
+				"from": 162190,
+				"to": 166150
+			},
+			"text": " I just wanted to hear about, when did you first know that you loved food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,830",
+				"to": "00:02:49,630"
+			},
+			"offsets": {
+				"from": 166830,
+				"to": 169630
+			},
+			"text": " My love for food actually started really early."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,990",
+				"to": "00:02:57,110"
+			},
+			"offsets": {
+				"from": 169990,
+				"to": 177110
+			},
+			"text": " So when I was eight, I was, you know, my family at that time actually lived in the Mojave Desert in the Antelope Valley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,490",
+				"to": "00:03:02,470"
+			},
+			"offsets": {
+				"from": 177490,
+				"to": 182470
+			},
+			"text": " And so we would spend summers where it was sometimes just too hot to go outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,590",
+				"to": "00:03:04,330"
+			},
+			"offsets": {
+				"from": 182590,
+				"to": 184330
+			},
+			"text": " It would be like in the 90s and the 100s."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,570",
+				"to": "00:03:10,910"
+			},
+			"offsets": {
+				"from": 184570,
+				"to": 190910
+			},
+			"text": " I would spend a lot of time kind of just rummaging through these piles of old books and cookbooks that my family had."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,570",
+				"to": "00:03:18,890"
+			},
+			"offsets": {
+				"from": 191570,
+				"to": 198890
+			},
+			"text": " And even though, you know, I hadn't actually grown up cooking or eating a ton of traditional Filipino foods,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,390",
+				"to": "00:03:25,460"
+			},
+			"offsets": {
+				"from": 199390,
+				"to": 205460
+			},
+			"text": " I remember digging through and finding one kind of horn-up cookbook that had been my mom's."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,520",
+				"to": "00:03:28,320"
+			},
+			"offsets": {
+				"from": 205520,
+				"to": 208320
+			},
+			"text": " And it was a Filipino cookbook called Recipes from the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,320",
+				"to": "00:03:30,560"
+			},
+			"offsets": {
+				"from": 208320,
+				"to": 210560
+			},
+			"text": " It had some very like old school cover."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,800",
+				"to": "00:03:35,200"
+			},
+			"offsets": {
+				"from": 210800,
+				"to": 215200
+			},
+			"text": " It had recipes with no pictures and almost no measurements."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,760",
+				"to": "00:03:38,220"
+			},
+			"offsets": {
+				"from": 215760,
+				"to": 218220
+			},
+			"text": " And I completely became obsessed with this cookbook."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,360",
+				"to": "00:03:47,300"
+			},
+			"offsets": {
+				"from": 218360,
+				"to": 227300
+			},
+			"text": " It was like finding a magical text that was some, you know, doorway to the world of Filipino food that I didn't know but was already curious about."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,040",
+				"to": "00:03:53,940"
+			},
+			"offsets": {
+				"from": 228040,
+				"to": 233940
+			},
+			"text": " And so from that one cookbook at age eight, I remember going up to my mom and being like, mom, what are these things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,380",
+				"to": "00:03:55,810"
+			},
+			"offsets": {
+				"from": 234380,
+				"to": 235810
+			},
+			"text": " I want to know what these are."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,070",
+				"to": "00:04:03,300"
+			},
+			"offsets": {
+				"from": 236070,
+				"to": 243300
+			},
+			"text": " And it was hard to find a lot of the ingredients, but we found what we could where we lived at the time and then tried to recreate those."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,440",
+				"to": "00:04:06,500"
+			},
+			"offsets": {
+				"from": 243440,
+				"to": 246500
+			},
+			"text": " And that is the year that I fell in love with cooking."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,880",
+				"to": "00:04:07,800"
+			},
+			"offsets": {
+				"from": 246880,
+				"to": 247800
+			},
+			"text": " Was your mom a good cook?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,880",
+				"to": "00:04:11,450"
+			},
+			"offsets": {
+				"from": 247880,
+				"to": 251450
+			},
+			"text": " This is a tricky question because she'll probably listen to this interview later."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,450",
+				"to": "00:04:18,510"
+			},
+			"offsets": {
+				"from": 251450,
+				"to": 258510
+			},
+			"text": " My mom is capable of cooking some good things, but she has admitted herself that she does not love cooking."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,190",
+				"to": "00:04:24,480"
+			},
+			"offsets": {
+				"from": 259190,
+				"to": 264480
+			},
+			"text": " And so, and then my dad, he is also makes an amazing couple of dishes like adobal."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,780",
+				"to": "00:04:31,750"
+			},
+			"offsets": {
+				"from": 264780,
+				"to": 271750
+			},
+			"text": " But the two of them were just both really busy and also were not totally obsessed with the kitchen in the way that I have become."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,210",
+				"to": "00:04:37,890"
+			},
+			"offsets": {
+				"from": 272210,
+				"to": 277890
+			},
+			"text": " And so I would say partly because they were excited and just wanted me to run with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,890",
+				"to": "00:04:41,530"
+			},
+			"offsets": {
+				"from": 277890,
+				"to": 281530
+			},
+			"text": " I started cooking for the family at like eight as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,530",
+				"to": "00:04:43,350"
+			},
+			"offsets": {
+				"from": 281530,
+				"to": 283350
+			},
+			"text": " I cooked a lot for my family too."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,490",
+				"to": "00:04:47,990"
+			},
+			"offsets": {
+				"from": 283490,
+				"to": 287990
+			},
+			"text": " And I think my mom was a good cook, but I loved being in the kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,990",
+				"to": "00:04:50,130"
+			},
+			"offsets": {
+				"from": 287990,
+				"to": 290130
+			},
+			"text": " So I always wanted to be cooking."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,270",
+				"to": "00:05:01,950"
+			},
+			"offsets": {
+				"from": 291270,
+				"to": 301950
+			},
+			"text": " And it seems to me like they really encouraged your love of food in this way or in the things that I read about you telling your story, like this exploration of your tradition."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,370",
+				"to": "00:05:09,270"
+			},
+			"offsets": {
+				"from": 302370,
+				"to": 309270
+			},
+			"text": " And also like, I think the flavors and the experience of eating together feel really central to how you tell your story."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,430",
+				"to": "00:05:09,970"
+			},
+			"offsets": {
+				"from": 309430,
+				"to": 309970
+			},
+			"text": " Is that true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,290",
+				"to": "00:05:12,480"
+			},
+			"offsets": {
+				"from": 310290,
+				"to": 312480
+			},
+			"text": " And do you think that comes partially from them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,860",
+				"to": "00:05:13,060"
+			},
+			"offsets": {
+				"from": 312860,
+				"to": 313060
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,240",
+				"to": "00:05:25,860"
+			},
+			"offsets": {
+				"from": 313240,
+				"to": 325860
+			},
+			"text": " I mean, when I look back, I have to, I think, really honor and attribute a lot of the love to read, I think, rediscover for as a family, our relationship to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,860",
+				"to": "00:05:32,660"
+			},
+			"offsets": {
+				"from": 325860,
+				"to": 332660
+			},
+			"text": " And I know that, you know, for my parents, when they migrated, they actually thought they would never go back to the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,140",
+				"to": "00:05:45,220"
+			},
+			"offsets": {
+				"from": 333140,
+				"to": 345220
+			},
+			"text": " And so, you know, leaving behind their homeland, leaving behind the people they knew for my mom, leaving behind her family in particular and not returning for 26 years was huge."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,480",
+				"to": "00:05:56,980"
+			},
+			"offsets": {
+				"from": 345480,
+				"to": 356980
+			},
+			"text": " But it was also around the same time as a cookbook that for whatever reason, my parents decided it was time for them to go back and see the Philippines and to bring me, bring my older sister."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,700",
+				"to": "00:06:15,350"
+			},
+			"offsets": {
+				"from": 357700,
+				"to": 375350
+			},
+			"text": " So I think in between, you know, trying to figure out recipes and cooking in the U.S. and then actually getting to go to the homeland as a family for the first time, you know, that kind of uncovered an entirely different story of family, of place, and also just food."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,350",
+				"to": "00:06:23,740"
+			},
+			"offsets": {
+				"from": 375350,
+				"to": 383740
+			},
+			"text": " And when I look back, my sister was, she was, I think, 16 when we went back, and she had a very different experience than I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,840",
+				"to": "00:06:27,500"
+			},
+			"offsets": {
+				"from": 383840,
+				"to": 387500
+			},
+			"text": " I think she could see more of, kind of had the culture shock."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,970",
+				"to": "00:06:31,130"
+			},
+			"offsets": {
+				"from": 387970,
+				"to": 391130
+			},
+			"text": " But for me as a kid, everything was just really easy, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,270",
+				"to": "00:06:32,810"
+			},
+			"offsets": {
+				"from": 391270,
+				"to": 392810
+			},
+			"text": " I was like, oh my God, the food here is amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,170",
+				"to": "00:06:41,770"
+			},
+			"offsets": {
+				"from": 393170,
+				"to": 401770
+			},
+			"text": " We're having street food, I'm having cousins, and getting to just try this abundance of flavors and eating it with relatives I had just met."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,770",
+				"to": "00:06:46,180"
+			},
+			"offsets": {
+				"from": 401770,
+				"to": 406180
+			},
+			"text": " Like, that completely flipped the switch on my connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,100",
+				"to": "00:06:51,640"
+			},
+			"offsets": {
+				"from": 407100,
+				"to": 411640
+			},
+			"text": " I'm really interested in this idea of food as an experience of coming home."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,510",
+				"to": "00:06:59,190"
+			},
+			"offsets": {
+				"from": 412510,
+				"to": 419190
+			},
+			"text": " And especially when home, as I think it is for almost anyone, is a complicated place, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,230",
+				"to": "00:07:00,210"
+			},
+			"offsets": {
+				"from": 419230,
+				"to": 420210
+			},
+			"text": " It isn't just one place."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,250",
+				"to": "00:07:02,810"
+			},
+			"offsets": {
+				"from": 420250,
+				"to": 422810
+			},
+			"text": " It sounds like as a kid, you moved around a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,880",
+				"to": "00:07:10,480"
+			},
+			"offsets": {
+				"from": 423880,
+				"to": 430480
+			},
+			"text": " And also it sounds like in this description of the experience of going back to the Philippines, that felt in some ways like this homecoming of sorts."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,700",
+				"to": "00:07:17,490"
+			},
+			"offsets": {
+				"from": 430700,
+				"to": 437490
+			},
+			"text": " I think that really gets at the core of things, like where is home, what is home, who is home, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,690",
+				"to": "00:07:30,770"
+			},
+			"offsets": {
+				"from": 437690,
+				"to": 450770
+			},
+			"text": " And, you know, getting to experience as a child going to my parents' homeland, I just remember being enveloped in scents and fragrance and colors and life in a completely different way."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,270",
+				"to": "00:07:39,310"
+			},
+			"offsets": {
+				"from": 451270,
+				"to": 459310
+			},
+			"text": " But coming, you know, over the years, as time passed, it was also realizing, like, okay, home can actually live in multiple places."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,310",
+				"to": "00:07:47,150"
+			},
+			"offsets": {
+				"from": 459310,
+				"to": 467150
+			},
+			"text": " And sometimes, you know, the part that was kind of jarring as I got older was realizing, like, even in homeland, you could feel like a stranger."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,430",
+				"to": "00:07:58,550"
+			},
+			"offsets": {
+				"from": 468430,
+				"to": 478550
+			},
+			"text": " You know, I think some of the nostalgia of going, you know, homeland can feel like home in some ways and also a completely different world in another one."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,630",
+				"to": "00:08:04,960"
+			},
+			"offsets": {
+				"from": 478630,
+				"to": 484960
+			},
+			"text": " And the same way, I think being here in the U.S., being second generation, there is home in some ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,060",
+				"to": "00:08:10,990"
+			},
+			"offsets": {
+				"from": 485060,
+				"to": 490990
+			},
+			"text": " And it's also feeling, I think, feeling like home can span multiple places all at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,070",
+				"to": "00:08:15,160"
+			},
+			"offsets": {
+				"from": 492070,
+				"to": 495160
+			},
+			"text": " Do you feel like food inherently does that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,410",
+				"to": "00:08:17,910"
+			},
+			"offsets": {
+				"from": 495410,
+				"to": 497910
+			},
+			"text": " I'm thinking about the way a recipe travels."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,190",
+				"to": "00:08:27,010"
+			},
+			"offsets": {
+				"from": 498190,
+				"to": 507010
+			},
+			"text": " And I'm thinking about your description of being in Antelope Valley and where you were shopping to find these, like, elusive Filipino ingredients that you were looking for."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,090",
+				"to": "00:08:31,140"
+			},
+			"offsets": {
+				"from": 507090,
+				"to": 511140
+			},
+			"text": " I don't know what they were, but that there's this inventiveness."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,340",
+				"to": "00:08:36,490"
+			},
+			"offsets": {
+				"from": 511340,
+				"to": 516490
+			},
+			"text": " There's this agility in terms of, like, adapting that to wherever you were, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,530",
+				"to": "00:08:41,700"
+			},
+			"offsets": {
+				"from": 516530,
+				"to": 521700
+			},
+			"text": " And this kind of sketch of, like, what a flavor would be or something like that, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,720",
+				"to": "00:08:42,600"
+			},
+			"offsets": {
+				"from": 521720,
+				"to": 522600
+			},
+			"text": " This appropriation."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,200",
+				"to": "00:08:46,480"
+			},
+			"offsets": {
+				"from": 523200,
+				"to": 526480
+			},
+			"text": " But it's a lot like how people move through things."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,260",
+				"to": "00:08:50,630"
+			},
+			"offsets": {
+				"from": 527260,
+				"to": 530630
+			},
+			"text": " And do we always do that with food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,880",
+				"to": "00:08:53,110"
+			},
+			"offsets": {
+				"from": 530880,
+				"to": 533110
+			},
+			"text": " Is that just part of what happens?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,730",
+				"to": "00:09:04,810"
+			},
+			"offsets": {
+				"from": 533730,
+				"to": 544810
+			},
+			"text": " I'm curious how you think about this because another part of your work, it seems like, is cooking with Filipino groups and families and really thinking about what traditional food is."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,990",
+				"to": "00:09:14,550"
+			},
+			"offsets": {
+				"from": 544990,
+				"to": 554550
+			},
+			"text": " But in a context that maybe isn't traditional, I guess, you know, food travels, you're right, food travels, food migrates."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,730",
+				"to": "00:09:17,190"
+			},
+			"offsets": {
+				"from": 554730,
+				"to": 557190
+			},
+			"text": " I mean, it's been doing that for thousands of years, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,850",
+				"to": "00:09:32,520"
+			},
+			"offsets": {
+				"from": 557850,
+				"to": 572520
+			},
+			"text": " And when it comes to Filipino food, just even in personal family history is realizing, you know, there's both things that have persisted and a lot of things that became silent are kind of suppressed."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,900",
+				"to": "00:09:42,050"
+			},
+			"offsets": {
+				"from": 572900,
+				"to": 582050
+			},
+			"text": " And so over the years, you know, I do love to play up, I think, the positive aspects of the food that my family was able to recreate together."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,050",
+				"to": "00:09:50,870"
+			},
+			"offsets": {
+				"from": 582050,
+				"to": 590870
+			},
+			"text": " And even in our Mojave Desert kitchen or later when we were in Hawaii, where things actually just felt easier to come together, we could do it there."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,390",
+				"to": "00:10:09,160"
+			},
+			"offsets": {
+				"from": 591390,
+				"to": 609160
+			},
+			"text": " But I think I realized over time, you know, that there were also a lot of silences that had to do with, you know, the assimilation of being in the U.S., whether it was language or a recipe that could be muted for a while."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,320",
+				"to": "00:10:11,040"
+			},
+			"offsets": {
+				"from": 609320,
+				"to": 611040
+			},
+			"text": " You know, that really, that really struck me."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,280",
+				"to": "00:10:21,120"
+			},
+			"offsets": {
+				"from": 611280,
+				"to": 621120
+			},
+			"text": " I think because for my family, when they had migrated in the 60s and came to the U.S. and then, you know, eventually started to raise a family of their own."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,440",
+				"to": "00:10:29,950"
+			},
+			"offsets": {
+				"from": 621440,
+				"to": 629950
+			},
+			"text": " At that time, you know, the education systems here really encouraged them not to teach us, my sister and I, you know, their languages."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,170",
+				"to": "00:10:38,510"
+			},
+			"offsets": {
+				"from": 630170,
+				"to": 638510
+			},
+			"text": " And they speak their own regional languages, like my mom is from Bancasinan, so she speaks a language that my dad, who's from Bicol, actually can't understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,750",
+				"to": "00:10:39,570"
+			},
+			"offsets": {
+				"from": 638750,
+				"to": 639570
+			},
+			"text": " They're that distinct."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,030",
+				"to": "00:10:42,270"
+			},
+			"offsets": {
+				"from": 640030,
+				"to": 642270
+			},
+			"text": " And then, of course, the shared language of Tagalog and English."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,630",
+				"to": "00:10:45,660"
+			},
+			"offsets": {
+				"from": 642630,
+				"to": 645660
+			},
+			"text": " So collectively, you know, they could speak five languages."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,000",
+				"to": "00:10:53,440"
+			},
+			"offsets": {
+				"from": 646000,
+				"to": 653440
+			},
+			"text": " And then my sister came in nearly monolingual and just trying to kind of hold on to these scraps of Tagalog language."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,660",
+				"to": "00:11:00,610"
+			},
+			"offsets": {
+				"from": 653660,
+				"to": 660610
+			},
+			"text": " I think that's part of why food, in a way, became the language that I attached to, even as a kid."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,770",
+				"to": "00:11:02,930"
+			},
+			"offsets": {
+				"from": 660770,
+				"to": 662930
+			},
+			"text": " It felt like, you know, the language is so tricky."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,130",
+				"to": "00:11:09,610"
+			},
+			"offsets": {
+				"from": 663130,
+				"to": 669610
+			},
+			"text": " Like, how do you try to teach yourself a language when you're a child and it's not necessarily encouraged in the world around you at that time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,680",
+				"to": "00:11:14,950"
+			},
+			"offsets": {
+				"from": 670680,
+				"to": 674950
+			},
+			"text": " But food is something that just feels like living culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,230",
+				"to": "00:11:35,370"
+			},
+			"offsets": {
+				"from": 675230,
+				"to": 695370
+			},
+			"text": " And even if the ingredients are scarce or hard to find, especially harder to find when you're in the Mojave Desert and just kind of trying to find something that's relatively obscure when all you have are like strip malls and, you know, Costco's or big box stores, you know, you still try to create some kind of connection, even if it's really tenuous."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,850",
+				"to": "00:11:53,230"
+			},
+			"offsets": {
+				"from": 695850,
+				"to": 713230
+			},
+			"text": " The part that I think I started to get really intrigued by was how do you still, you know, have flavors and recipes that perpetuate and really are rooted in this longer, you know, cultural history, even if you have to adapt?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,710",
+				"to": "00:12:01,390"
+			},
+			"offsets": {
+				"from": 713710,
+				"to": 721390
+			},
+			"text": " You know, is that breaking some kind of some kind of, you know, unspoken promise that you need to use only one recipe for it to be true anymore?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,570",
+				"to": "00:12:07,610"
+			},
+			"offsets": {
+				"from": 721570,
+				"to": 727610
+			},
+			"text": " Or it's that question of authenticity that I think gets thrown around a lot, like is something authentic or not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,090",
+				"to": "00:12:26,140"
+			},
+			"offsets": {
+				"from": 728090,
+				"to": 746140
+			},
+			"text": " And I realized, you know, how is it that, for example, American fast food culture, which came to the Philippines, got so integrated that you can have jolly bees or some sort of fast food chain and a sweet spaghetti, which is like using, you know, Americanized tomato sauce and mixed with sugar in the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,140",
+				"to": "00:12:36,560"
+			},
+			"offsets": {
+				"from": 746140,
+				"to": 756560
+			},
+			"text": " And that has suddenly been seen as more authentic versus making something, you know, a regional dish like pinakbet or something and then throwing in a different ingredient because it's what you have around you."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,900",
+				"to": "00:12:38,040"
+			},
+			"offsets": {
+				"from": 756900,
+				"to": 758040
+			},
+			"text": " So it's interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,240",
+				"to": "00:12:40,240"
+			},
+			"offsets": {
+				"from": 758240,
+				"to": 760240
+			},
+			"text": " It is an interesting like tension that's there."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,930",
+				"to": "00:12:43,150"
+			},
+			"offsets": {
+				"from": 760930,
+				"to": 763150
+			},
+			"text": " Well, there's a lot of things we could talk about with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,840",
+				"to": "00:12:49,340"
+			},
+			"offsets": {
+				"from": 764840,
+				"to": 769340
+			},
+			"text": " So as I was learning about you, I was kind of amazed at all the different things that it seems like you do."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,440",
+				"to": "00:12:56,030"
+			},
+			"offsets": {
+				"from": 769440,
+				"to": 776030
+			},
+			"text": " You teach and you cook and you grow things and you just finished a program in public health."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,130",
+				"to": "00:12:58,970"
+			},
+			"offsets": {
+				"from": 776130,
+				"to": 778970
+			},
+			"text": " So you're thinking about nutrition and how that works within community."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,130",
+				"to": "00:13:00,680"
+			},
+			"offsets": {
+				"from": 779130,
+				"to": 780680
+			},
+			"text": " I don't exactly know how."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,780",
+				"to": "00:13:01,900"
+			},
+			"offsets": {
+				"from": 780780,
+				"to": 781900
+			},
+			"text": " So I'd love to hear about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,000",
+				"to": "00:13:13,980"
+			},
+			"offsets": {
+				"from": 782000,
+				"to": 793980
+			},
+			"text": " But it seems to me like you're really thinking about what authenticity and assimilation might mean together as a paradox or how they play together."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,120",
+				"to": "00:13:18,500"
+			},
+			"offsets": {
+				"from": 794120,
+				"to": 798500
+			},
+			"text": " And maybe neither one of them is like the evil force here."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,640",
+				"to": "00:13:21,060"
+			},
+			"offsets": {
+				"from": 798640,
+				"to": 801060
+			},
+			"text": " Maybe there's like maybe it's actually like they're playing."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,540",
+				"to": "00:13:24,880"
+			},
+			"offsets": {
+				"from": 801540,
+				"to": 804880
+			},
+			"text": " That's that's how that's what it sounds like when you start to talk."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,740",
+				"to": "00:13:27,900"
+			},
+			"offsets": {
+				"from": 805740,
+				"to": 807900
+			},
+			"text": " I have some Filipino family members."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,900",
+				"to": "00:13:43,490"
+			},
+			"offsets": {
+				"from": 807900,
+				"to": 823490
+			},
+			"text": " And when I think about the Philippines and I think about them, I think about such a long history of global exchange, like a people sort of defined by trade and by exchange happening there."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,490",
+				"to": "00:13:49,800"
+			},
+			"offsets": {
+				"from": 823490,
+				"to": 829800
+			},
+			"text": " And so it seems like a perfect place to investigate authenticity, because what is that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,040",
+				"to": "00:13:52,820"
+			},
+			"offsets": {
+				"from": 830040,
+				"to": 832820
+			},
+			"text": " And so who's your community here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,140",
+				"to": "00:13:55,340"
+			},
+			"offsets": {
+				"from": 833140,
+				"to": 835340
+			},
+			"text": " How do all these things come together for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:56,140",
+				"to": "00:13:57,060"
+			},
+			"offsets": {
+				"from": 836140,
+				"to": 837060
+			},
+			"text": " Ah, so many layers."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,060",
+				"to": "00:14:14,830"
+			},
+			"offsets": {
+				"from": 837060,
+				"to": 854830
+			},
+			"text": " So so putting pause on, I guess, on the authenticity button right now, I feel so lucky to have landed in California, to have landed in the Bay Area and built up, I think, multiple worlds of community here, a lot of which overlap."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,030",
+				"to": "00:14:27,880"
+			},
+			"offsets": {
+				"from": 855030,
+				"to": 867880
+			},
+			"text": " And I think the ones that have really been a home for me came through environmental justice, which for some folks that might sound like a world away from, you know, food work or cultural foods work."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,880",
+				"to": "00:14:32,450"
+			},
+			"offsets": {
+				"from": 867880,
+				"to": 872450
+			},
+			"text": " But it actually has just been really woven together in life."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,090",
+				"to": "00:14:37,690"
+			},
+			"offsets": {
+				"from": 873090,
+				"to": 877690
+			},
+			"text": " And I think when I when I first came to the Bay, you know, I fell in with this organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,690",
+				"to": "00:14:48,520"
+			},
+			"offsets": {
+				"from": 877690,
+				"to": 888520
+			},
+			"text": " I say fell in, but, you know, actually, my my older sister was one of the co-founders back in the day called the Filipino American Coalition for Environmental Solidarity or FACES."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,880",
+				"to": "00:15:02,040"
+			},
+			"offsets": {
+				"from": 888880,
+				"to": 902040
+			},
+			"text": " And FACES, you know, had begun as this environmental justice organization, you know, mostly volunteer driven, but really focused on cleanup and accountability of U.S. toxic waste in the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,320",
+				"to": "00:15:09,830"
+			},
+			"offsets": {
+				"from": 902320,
+				"to": 909830
+			},
+			"text": " But doing so in a way that really linked up with grassroots communities and was driven by their work."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,750",
+				"to": "00:15:17,710"
+			},
+			"offsets": {
+				"from": 910750,
+				"to": 917710
+			},
+			"text": " And so when I started, I joined the board and had we'd done these solidarity trips and I was 19 at the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,300",
+				"to": "00:15:25,140"
+			},
+			"offsets": {
+				"from": 918300,
+				"to": 925140
+			},
+			"text": " And, you know, I eventually ended up becoming state on the board and then became the chair and was involved for over eight years."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,280",
+				"to": "00:15:27,380"
+			},
+			"offsets": {
+				"from": 925280,
+				"to": 927380
+			},
+			"text": " I'm currently still an advisory board member."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,640",
+				"to": "00:15:31,460"
+			},
+			"offsets": {
+				"from": 927640,
+				"to": 931460
+			},
+			"text": " I think we saw over all those years was, you know, here's this this story."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,720",
+				"to": "00:15:43,270"
+			},
+			"offsets": {
+				"from": 931720,
+				"to": 943270
+			},
+			"text": " There's this narrative of, you know, what do you do when you are rooted here in the U.S., you know, in the belly of the beast, you know, raising families, having community, doing your work."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,350",
+				"to": "00:15:47,350"
+			},
+			"offsets": {
+				"from": 943350,
+				"to": 947350
+			},
+			"text": " And at the same time, you still have these threads of connection back to the homeland."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,350",
+				"to": "00:15:48,590"
+			},
+			"offsets": {
+				"from": 947350,
+				"to": 948590
+			},
+			"text": " You have loved ones there."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,710",
+				"to": "00:15:51,050"
+			},
+			"offsets": {
+				"from": 948710,
+				"to": 951050
+			},
+			"text": " You have this attachment to the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,750",
+				"to": "00:15:59,890"
+			},
+			"offsets": {
+				"from": 951750,
+				"to": 959890
+			},
+			"text": " And then you see the place that you call home is very linked up to polluting the place that you call homeland."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,800",
+				"to": "00:16:06,680"
+			},
+			"offsets": {
+				"from": 960800,
+				"to": 966680
+			},
+			"text": " And, you know, getting involved from an environmental justice perspective meant working in the Philippine-American community here."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,920",
+				"to": "00:16:13,640"
+			},
+			"offsets": {
+				"from": 966920,
+				"to": 973640
+			},
+			"text": " It meant, you know, very broad work with all sorts of environmental justice communities across cultures."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:13,840",
+				"to": "00:16:24,890"
+			},
+			"offsets": {
+				"from": 973840,
+				"to": 984890
+			},
+			"text": " And I think where it all actually comes back to food is, one, you know, we I think what the work is really about was about self-determination, like being able to change the story."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,230",
+				"to": "00:16:27,270"
+			},
+			"offsets": {
+				"from": 985230,
+				"to": 987270
+			},
+			"text": " It was about health."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,510",
+				"to": "00:16:41,530"
+			},
+			"offsets": {
+				"from": 987510,
+				"to": 1001530
+			},
+			"text": " Like, how do you really build health in communities, not just by stopping pollution, but by, I think, just having equity and by having a changed relationship with place."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,530",
+				"to": "00:16:53,230"
+			},
+			"offsets": {
+				"from": 1001530,
+				"to": 1013230
+			},
+			"text": " And then last is on a very literal level, every single board meeting, we kind of got a little bit competitive in some, well, not competitive, lovingly competitive about bringing amazing things to board meetings."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,230",
+				"to": "00:17:03,190"
+			},
+			"offsets": {
+				"from": 1013230,
+				"to": 1023190
+			},
+			"text": " So for eight years, having monthly meetings where people brought in the most incredible food to a potluck, I think that actually sustained the work that we did as an organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,190",
+				"to": "00:17:04,250"
+			},
+			"offsets": {
+				"from": 1023190,
+				"to": 1024250
+			},
+			"text": " And it still does."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,730",
+				"to": "00:17:16,080"
+			},
+			"offsets": {
+				"from": 1024730,
+				"to": 1036080
+			},
+			"text": " And it was actually, as part of FACES, years before I actually thought I could formally go into food, one of our members said, let's do a Filipino cooking school as a fundraiser."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,600",
+				"to": "00:17:19,230"
+			},
+			"offsets": {
+				"from": 1036600,
+				"to": 1039230
+			},
+			"text": " And it was called Gaina Cooking School."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:19,410",
+				"to": "00:17:23,510"
+			},
+			"offsets": {
+				"from": 1039410,
+				"to": 1043510
+			},
+			"text": " Just so one day, you know, informal out of someone's home kitchen, people picked a recipe."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,870",
+				"to": "00:17:26,050"
+			},
+			"offsets": {
+				"from": 1043870,
+				"to": 1046050
+			},
+			"text": " I was, I got to be one of the presenters and guest chefs."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,330",
+				"to": "00:17:30,320"
+			},
+			"offsets": {
+				"from": 1046330,
+				"to": 1050320
+			},
+			"text": " And I picked one of the recipes that I remember my mom had cooked."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,520",
+				"to": "00:17:35,020"
+			},
+			"offsets": {
+				"from": 1050520,
+				"to": 1055020
+			},
+			"text": " There were probably like five that I attribute to her, but one that's called chicken binnacle."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,290",
+				"to": "00:17:41,560"
+			},
+			"offsets": {
+				"from": 1055290,
+				"to": 1061560
+			},
+			"text": " It's with like young coconut and chicken and lemongrass and all kinds of different mushrooms and then the coconut water."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,040",
+				"to": "00:17:49,630"
+			},
+			"offsets": {
+				"from": 1062040,
+				"to": 1069630
+			},
+			"text": " And while doing this demonstration, I just completely felt like this story was flowing out about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,770",
+				"to": "00:17:53,370"
+			},
+			"offsets": {
+				"from": 1069770,
+				"to": 1073370
+			},
+			"text": " And one of our participants was like, hey, you should do this as a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:54,280",
+				"to": "00:18:04,980"
+			},
+			"offsets": {
+				"from": 1074280,
+				"to": 1084980
+			},
+			"text": " And that kind of tucked itself into the back of my mind of really wanting to do food and exploring it through an environmental justice space just kind of happened to align that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,520",
+				"to": "00:18:15,000"
+			},
+			"offsets": {
+				"from": 1085520,
+				"to": 1095000
+			},
+			"text": " And I think ultimately, you know, back to that thing around self-determination and environmental justice, ultimately, I think that's what food is about, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,000",
+				"to": "00:18:33,040"
+			},
+			"offsets": {
+				"from": 1095000,
+				"to": 1113040
+			},
+			"text": " It's about, you know, working to lift up or revitalize a culture that in so many ways, you know, has been shaped and impacted by colonization, by struggle, by resistance, and by like resiliency as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,000",
+				"to": "00:18:38,120"
+			},
+			"offsets": {
+				"from": 1114000,
+				"to": 1118120
+			},
+			"text": " Do you use the language of food justice or food sovereignty in your work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,260",
+				"to": "00:18:46,600"
+			},
+			"offsets": {
+				"from": 1118260,
+				"to": 1126600
+			},
+			"text": " In the work I'm currently doing, like I personally feel aligned with food sovereignty work and food justice work."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:46,780",
+				"to": "00:18:56,700"
+			},
+			"offsets": {
+				"from": 1126780,
+				"to": 1136700
+			},
+			"text": " I think in what I currently am doing, you know, at Sariva, which is my food business I'm currently launching at La Cocina, I don't name it or market it that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,820",
+				"to": "00:18:59,680"
+			},
+			"offsets": {
+				"from": 1136820,
+				"to": 1139680
+			},
+			"text": " But to me, ultimately, that is the core of what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,800",
+				"to": "00:19:10,110"
+			},
+			"offsets": {
+				"from": 1139800,
+				"to": 1150110
+			},
+			"text": " It's how do you carry food in a way that's going to honor and value culture and where it came from and who's growing it and the story behind the recipe."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,110",
+				"to": "00:19:18,890"
+			},
+			"offsets": {
+				"from": 1150110,
+				"to": 1158890
+			},
+			"text": " To me, those are, you know, the cultural aspect as well as, you know, accessibility and who's benefiting from the work is all tied together."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,150",
+				"to": "00:19:22,830"
+			},
+			"offsets": {
+				"from": 1159150,
+				"to": 1162830
+			},
+			"text": " So I think it's the framework I carry, even if it's not the language I'm using every day."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,150",
+				"to": "00:19:26,850"
+			},
+			"offsets": {
+				"from": 1163150,
+				"to": 1166850
+			},
+			"text": " I love this idea of self-determination as a guiding force in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,950",
+				"to": "00:19:31,890"
+			},
+			"offsets": {
+				"from": 1166950,
+				"to": 1171890
+			},
+			"text": " I have been having a lot of conversations about how food justice is defined."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,890",
+				"to": "00:19:36,990"
+			},
+			"offsets": {
+				"from": 1171890,
+				"to": 1176990
+			},
+			"text": " And I think self-determination really is so much of what that means, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,110",
+				"to": "00:19:41,170"
+			},
+			"offsets": {
+				"from": 1177110,
+				"to": 1181170
+			},
+			"text": " It's the agency and equity, like you were talking about, to be able to make choices."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:41,860",
+				"to": "00:19:47,740"
+			},
+			"offsets": {
+				"from": 1181860,
+				"to": 1187740
+			},
+			"text": " So that doesn't seem so strange to me that environmental things and food things would be so different in that because they're so closely related."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:48,380",
+				"to": "00:19:51,420"
+			},
+			"offsets": {
+				"from": 1188380,
+				"to": 1191420
+			},
+			"text": " But who do you cook for now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,040",
+				"to": "00:19:56,530"
+			},
+			"offsets": {
+				"from": 1192040,
+				"to": 1196530
+			},
+			"text": " I am cooking and I want to keep cooking for this community here."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:56,650",
+				"to": "00:20:00,750"
+			},
+			"offsets": {
+				"from": 1196650,
+				"to": 1200750
+			},
+			"text": " Both the communities that I know, the families, the children."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,750",
+				"to": "00:20:04,740"
+			},
+			"offsets": {
+				"from": 1200750,
+				"to": 1204740
+			},
+			"text": " I really value intergenerational connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,500",
+				"to": "00:20:10,220"
+			},
+			"offsets": {
+				"from": 1205500,
+				"to": 1210220
+			},
+			"text": " That's the kind of people and spaces that really feed me."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,950",
+				"to": "00:20:16,000"
+			},
+			"offsets": {
+				"from": 1210950,
+				"to": 1216000
+			},
+			"text": " So, you know, whenever I can, I will cook for organizations I believe in."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,500",
+				"to": "00:20:18,890"
+			},
+			"offsets": {
+				"from": 1216500,
+				"to": 1218890
+			},
+			"text": " And then also for people who are newer."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,150",
+				"to": "00:20:26,430"
+			},
+			"offsets": {
+				"from": 1219150,
+				"to": 1226430
+			},
+			"text": " I think with food, it's kind of this opportunity to look at everyone like extended family in a way, even if you don't know them yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:26,430",
+				"to": "00:20:28,550"
+			},
+			"offsets": {
+				"from": 1226430,
+				"to": 1228550
+			},
+			"text": " How can we gather around a meal?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,630",
+				"to": "00:20:40,620"
+			},
+			"offsets": {
+				"from": 1229630,
+				"to": 1240620
+			},
+			"text": " I'll also say some of my favorite recent kind of food experiences and who I'm cooking for are this group I shared with you a bit about called Sama Sama Cooperative."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,240",
+				"to": "00:20:47,440"
+			},
+			"offsets": {
+				"from": 1241240,
+				"to": 1247440
+			},
+			"text": " And so Sama Sama came together actually from a lot of families who came through FACES, that environmental justice group."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,560",
+				"to": "00:21:06,700"
+			},
+			"offsets": {
+				"from": 1247560,
+				"to": 1266700
+			},
+			"text": " And when a number of them decided that they were going to start raising families, they decided they needed to come together and create some kind of cooperatively run space to bring back language and impart, you know, this land-based connection and cultural connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,700",
+				"to": "00:21:13,300"
+			},
+			"offsets": {
+				"from": 1266700,
+				"to": 1273300
+			},
+			"text": " And as part of that, you know, why I'm so glad is that they want to also have a food and farming based component to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,700",
+				"to": "00:21:19,250"
+			},
+			"offsets": {
+				"from": 1273700,
+				"to": 1279250
+			},
+			"text": " So cooking with them has been one of like the biggest highlights of anything I've been able to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,350",
+				"to": "00:21:27,590"
+			},
+			"offsets": {
+				"from": 1279350,
+				"to": 1287590
+			},
+			"text": " It happens in the summer and we just basically have these amazing kids from like six to 12 and now they're all getting older."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,770",
+				"to": "00:21:29,970"
+			},
+			"offsets": {
+				"from": 1287770,
+				"to": 1289970
+			},
+			"text": " So we're trying to figure out how to how to move the model with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,030",
+				"to": "00:21:42,450"
+			},
+			"offsets": {
+				"from": 1290030,
+				"to": 1302450
+			},
+			"text": " But from six to 12 who come in, they are immersing in language and martial arts, Philippine martial arts, even like indigenous script, which almost disappeared."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,630",
+				"to": "00:21:57,060"
+			},
+			"offsets": {
+				"from": 1303630,
+				"to": 1317060
+			},
+			"text": " And also in the food and what that has really pushed me to do, I've had to, you know, take on roles where sometimes I'm teaching people things that I'm also learning about, which is an interesting role as a teacher."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,060",
+				"to": "00:22:01,770"
+			},
+			"offsets": {
+				"from": 1317060,
+				"to": 1321770
+			},
+			"text": " And I think I realize a lot of teachers are learning while they're teaching ultimately."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,750",
+				"to": "00:22:12,810"
+			},
+			"offsets": {
+				"from": 1322750,
+				"to": 1332810
+			},
+			"text": " So I came in not as like some, you know, expert in Filipino food, but just someone who was really curious about it and wanted to build in the sense of connection to place through food."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,220",
+				"to": "00:22:19,450"
+			},
+			"offsets": {
+				"from": 1333220,
+				"to": 1339450
+			},
+			"text": " And which each year's theme, you know, we've been able to like create a menu and a curriculum around it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,450",
+				"to": "00:22:34,810"
+			},
+			"offsets": {
+				"from": 1339450,
+				"to": 1354810
+			},
+			"text": " So this past year, the theme was fire and resistance and like, okay, how, you know, how can we make fire and resistance fit into every aspect of this camp, both in like the social justice history, but also the menus."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,330",
+				"to": "00:22:41,710"
+			},
+			"offsets": {
+				"from": 1355330,
+				"to": 1361710
+			},
+			"text": " And just really wanted to both interpret that in a literal way in the menu."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,930",
+				"to": "00:22:56,060"
+			},
+			"offsets": {
+				"from": 1361930,
+				"to": 1376060
+			},
+			"text": " So started researching what were some of the favorite dishes of resistance fighters in the Philippines, if that information existed, and as well as in the U.S., maybe in like the farm workers movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,280",
+				"to": "00:23:00,580"
+			},
+			"offsets": {
+				"from": 1376280,
+				"to": 1380580
+			},
+			"text": " Could we find actual dishes that reflected that time or that place in history?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,820",
+				"to": "00:23:04,680"
+			},
+			"offsets": {
+				"from": 1380820,
+				"to": 1384680
+			},
+			"text": " And then what are new ones that we could maybe create together with these kids and their families?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,680",
+				"to": "00:23:10,810"
+			},
+			"offsets": {
+				"from": 1384680,
+				"to": 1390810
+			},
+			"text": " Why does it matter to think about identity and self-determination like that in those terms?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,990",
+				"to": "00:23:24,260"
+			},
+			"offsets": {
+				"from": 1390990,
+				"to": 1404260
+			},
+			"text": " It sounds like a very robust curriculum and a pretty ambitious way of thinking about identity that I think sounds like it really reaches past, you know, like kind of the bad identity politics of the 80s and 90s, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,260",
+				"to": "00:23:35,660"
+			},
+			"offsets": {
+				"from": 1404260,
+				"to": 1415660
+			},
+			"text": " Of kind of flattening out things and picking out token elements and really looks at who people were and why they did these things and the context in which they existed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,080",
+				"to": "00:23:43,330"
+			},
+			"offsets": {
+				"from": 1416080,
+				"to": 1423330
+			},
+			"text": " And why do you think that matters for these kids or for the community or for you or for the people making this happen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,520",
+				"to": "00:23:46,770"
+			},
+			"offsets": {
+				"from": 1423520,
+				"to": 1426770
+			},
+			"text": " I think there's so many layers to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,850",
+				"to": "00:23:54,700"
+			},
+			"offsets": {
+				"from": 1426850,
+				"to": 1434700
+			},
+			"text": " I think one is now that I get to have this gift of being in a position of, you know, being a mentor, getting to impart things."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,280",
+				"to": "00:24:02,400"
+			},
+			"offsets": {
+				"from": 1435280,
+				"to": 1442400
+			},
+			"text": " I think I also see myself in these kids because I remember being eight, which is kind of the median age of them and being like, oh, my gosh."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,400",
+				"to": "00:24:07,700"
+			},
+			"offsets": {
+				"from": 1442400,
+				"to": 1447700
+			},
+			"text": " I remember being so hungry to learn about who I was and trying to find it in the kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,300",
+				"to": "00:24:15,230"
+			},
+			"offsets": {
+				"from": 1448300,
+				"to": 1455230
+			},
+			"text": " And now we have these kids who are in this place of exploring who they are and their roots."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,660",
+				"to": "00:24:26,010"
+			},
+			"offsets": {
+				"from": 1456660,
+				"to": 1466010
+			},
+			"text": " And so, you know, I think there are so many different efforts to impart, you know, identity or a healthy sense of self."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,970",
+				"to": "00:24:41,020"
+			},
+			"offsets": {
+				"from": 1466970,
+				"to": 1481020
+			},
+			"text": " And I think that from a, you know, from a community health standing point, this is why it's so important, you know, to really understand food, not just as this, you know, surface level thing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,020",
+				"to": "00:24:53,660"
+			},
+			"offsets": {
+				"from": 1481020,
+				"to": 1493660
+			},
+			"text": " but as a really valuable tool for understanding your place in the world, having something to celebrate and also just figuring out ways to navigate the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,690",
+				"to": "00:24:55,990"
+			},
+			"offsets": {
+				"from": 1494690,
+				"to": 1495990
+			},
+			"text": " That's what it can be."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,110",
+				"to": "00:24:58,090"
+			},
+			"offsets": {
+				"from": 1496110,
+				"to": 1498090
+			},
+			"text": " That's, I think, the huge potential of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,790",
+				"to": "00:25:06,790"
+			},
+			"offsets": {
+				"from": 1498790,
+				"to": 1506790
+			},
+			"text": " And I think having seen in so many places that food, especially cultural foods, can be immensely healing, not just, you know, there's the literal sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,790",
+				"to": "00:25:22,010"
+			},
+			"offsets": {
+				"from": 1506790,
+				"to": 1522010
+			},
+			"text": " I think there are so many traditional and cultural foods of all different cultures and in Filipino food as well, which can steer people into wellness, but even just from a mental and emotional and spiritual sense,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,450",
+				"to": "00:25:30,750"
+			},
+			"offsets": {
+				"from": 1522450,
+				"to": 1530750
+			},
+			"text": " I think it helps to build this foundation that young people or people of all ages that we could root into that and move forward."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,950",
+				"to": "00:25:33,830"
+			},
+			"offsets": {
+				"from": 1530950,
+				"to": 1533830
+			},
+			"text": " I think it builds empathy, too, towards others."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,910",
+				"to": "00:25:35,950"
+			},
+			"offsets": {
+				"from": 1534910,
+				"to": 1535950
+			},
+			"text": " I want to hear more about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,950",
+				"to": "00:25:44,490"
+			},
+			"offsets": {
+				"from": 1535950,
+				"to": 1544490
+			},
+			"text": " So in this conversation, you've talked about food as an act of coming home and as a creative act of imagining home for other people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,910",
+				"to": "00:25:50,370"
+			},
+			"offsets": {
+				"from": 1544910,
+				"to": 1550370
+			},
+			"text": " like that you could potentially create home for a moment for someone else through food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,510",
+				"to": "00:25:55,530"
+			},
+			"offsets": {
+				"from": 1550510,
+				"to": 1555530
+			},
+			"text": " either through cooking or by feeding them or maybe other parts of food that we haven't talked about yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,350",
+				"to": "00:26:00,380"
+			},
+			"offsets": {
+				"from": 1556350,
+				"to": 1560380
+			},
+			"text": " But why, what do Filipino people need to be healed from?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,870",
+				"to": "00:26:03,080"
+			},
+			"offsets": {
+				"from": 1560870,
+				"to": 1563080
+			},
+			"text": " Or like, what is this idea that we are healing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,780",
+				"to": "00:26:24,600"
+			},
+			"offsets": {
+				"from": 1563780,
+				"to": 1584600
+			},
+			"text": " Well, I can't speak for all Filipinos, can't speak for all Filipino Americans, but I think from my own, you know, vantage point is one is this sense of connection to land, you know, as a, and this is something that I hold very personally and have also seen it just in community, even community health settings."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,600",
+				"to": "00:26:39,610"
+			},
+			"offsets": {
+				"from": 1584600,
+				"to": 1599610
+			},
+			"text": " You know, what is this connection to land when you're of a land and sea-based cultures, people, tradition, and then the process of migration, which comes with its own, you know, growth and wins."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,610",
+				"to": "00:26:58,930"
+			},
+			"offsets": {
+				"from": 1599610,
+				"to": 1618930
+			},
+			"text": " But also, I think it can be very difficult, even centuries into the process, it can be difficult to have a history, for example, of agriculture in the U.S. that comes with a great deal of like historic trauma, even as it comes with triumph, like to hold all those pieces."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,230",
+				"to": "00:27:19,630"
+			},
+			"offsets": {
+				"from": 1619230,
+				"to": 1639630
+			},
+			"text": " I think being able to come to food now, you know, in the moment that we're in, is a way to heal, is a way to, you know, be able to come to, for example, a land-based or farm setting and see it not just as, oh, this is the place that we, you know, our collective community, you know, suffered."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,630",
+				"to": "00:27:32,770"
+			},
+			"offsets": {
+				"from": 1639630,
+				"to": 1652770
+			},
+			"text": " But also, this is a place that can feel like home, it can be a place that sustains us, it can draw on these deeper, older traditions of connection to land and to where food comes from in a healthy way."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,540",
+				"to": "00:27:50,650"
+			},
+			"offsets": {
+				"from": 1653540,
+				"to": 1670650
+			},
+			"text": " I guess there's so many layers to this, but I think the healing of, you know, intergenerational trauma when it comes to understanding farming towards the assimilation that came through a very like colonial, you know, 400 years of colonization in the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,650",
+				"to": "00:27:55,750"
+			},
+			"offsets": {
+				"from": 1670650,
+				"to": 1675750
+			},
+			"text": " You know, people resisted and, you know, people resisted and at the same time you see these impacts on what's valued."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,750",
+				"to": "00:28:21,560"
+			},
+			"offsets": {
+				"from": 1675750,
+				"to": 1701560
+			},
+			"text": " I might sound like I'm going tangential, but even just, you know, whether it's from understanding standards of beauty that have really veered towards, you know, Eurocentric ideals and away from darker skin or of going to understanding certain foods that were, you know, for the quote commoners versus, you know, food that's really, and what, what is it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,560",
+				"to": "00:28:24,520"
+			},
+			"offsets": {
+				"from": 1701560,
+				"to": 1704520
+			},
+			"text": " It's the standard that is valued in the culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,520",
+				"to": "00:28:27,740"
+			},
+			"offsets": {
+				"from": 1704520,
+				"to": 1707740
+			},
+			"text": " I think there are just so many layers to unpack still."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,560",
+				"to": "00:28:47,240"
+			},
+			"offsets": {
+				"from": 1708560,
+				"to": 1727240
+			},
+			"text": " And for me, you know, in addition to self-determination, I always see that as what is the process that we decolonize and how is decolonization in all the aspects that we might want to be doing it, whether it's, you know, relationships to land or farming, but even just to that, that relationship to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,360",
+				"to": "00:28:49,850"
+			},
+			"offsets": {
+				"from": 1727360,
+				"to": 1729850
+			},
+			"text": " I think it kind of ties things all together."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,350",
+				"to": "00:28:51,830"
+			},
+			"offsets": {
+				"from": 1730350,
+				"to": 1731830
+			},
+			"text": " That was a big question."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,830",
+				"to": "00:28:52,770"
+			},
+			"offsets": {
+				"from": 1731830,
+				"to": 1732770
+			},
+			"text": " That was a big question."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,010",
+				"to": "00:28:56,700"
+			},
+			"offsets": {
+				"from": 1733010,
+				"to": 1736700
+			},
+			"text": " I think I wandered over about 400 years of history in doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,170",
+				"to": "00:29:03,980"
+			},
+			"offsets": {
+				"from": 1737170,
+				"to": 1743980
+			},
+			"text": " But yeah, I think just, you know, the nugget version of it is, you know, colonization was real."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:04,160",
+				"to": "00:29:14,080"
+			},
+			"offsets": {
+				"from": 1744160,
+				"to": 1754080
+			},
+			"text": " And when it happened, it impacted so many different layers of identity and connection to place and understanding of ancestral ties."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,420",
+				"to": "00:29:25,500"
+			},
+			"offsets": {
+				"from": 1754420,
+				"to": 1765500
+			},
+			"text": " And we have this opportunity to, to heal and revitalize the things that I think can give us instructions for how to move forward now, wherever we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,260",
+				"to": "00:29:31,140"
+			},
+			"offsets": {
+				"from": 1766260,
+				"to": 1771140
+			},
+			"text": " First, I just wanted to say thanks for talking about it in a general way."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,140",
+				"to": "00:29:37,610"
+			},
+			"offsets": {
+				"from": 1771140,
+				"to": 1777610
+			},
+			"text": " And also thanks for noting, like, that I asked you to represent a whole people in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,970",
+				"to": "00:30:00,210"
+			},
+			"offsets": {
+				"from": 1777970,
+				"to": 1800210
+			},
+			"text": " Well, I think that that's like part of the story, right, is that I think food movements are pretty whitewashed and are seen a lot of times as, like, there is, there's a continued story of colonization in food movements where, or the Bay Area food movement, let's, let's talk about it like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,210",
+				"to": "00:30:07,410"
+			},
+			"offsets": {
+				"from": 1800210,
+				"to": 1807410
+			},
+			"text": " That, that people should eat a certain way, and it should look a certain way, and it should happen in certain places, and it should cost a certain amount."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,670",
+				"to": "00:30:24,230"
+			},
+			"offsets": {
+				"from": 1807670,
+				"to": 1824230
+			},
+			"text": " And I think that your work that you're doing and the People's Kitchen Collective, amongst many others, are challenging what that means and thinking about what would it be like to have a choral performance as a food movement rather than have these soloists."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:24,810",
+				"to": "00:30:43,460"
+			},
+			"offsets": {
+				"from": 1824810,
+				"to": 1843460
+			},
+			"text": " And I think that's so important because I would love to talk to another Filipino-American chef who felt totally different about it than you did, because I think that that is also part of how we learn to tell stories to each other, right, is that tables allow for that to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,460",
+				"to": "00:31:09,350"
+			},
+			"offsets": {
+				"from": 1843460,
+				"to": 1869350
+			},
+			"text": " There isn't, like, there isn't, like, commonality is not consensus, right, and so I think to talk about colonization and to talk about how messy and how complicated it is really is part of a story of understanding how we learn to heal each other, right, as a process, not as a, not as a, not as a thing that starts and ends."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,730",
+				"to": "00:31:14,460"
+			},
+			"offsets": {
+				"from": 1869730,
+				"to": 1874460
+			},
+			"text": " I would love to hear about how all these things kind of weave together for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:14,580",
+				"to": "00:31:21,770"
+			},
+			"offsets": {
+				"from": 1874580,
+				"to": 1881770
+			},
+			"text": " So you were an apprentice at CASFIS in Santa Cruz, and you are a trained natural chef."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,070",
+				"to": "00:31:25,050"
+			},
+			"offsets": {
+				"from": 1882070,
+				"to": 1885050
+			},
+			"text": " I don't exactly know what that means, but maybe you can tell me."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,730",
+				"to": "00:31:32,300"
+			},
+			"offsets": {
+				"from": 1885730,
+				"to": 1892300
+			},
+			"text": " And you went to UC Berkeley, and you thought about public health with these things, and now you're starting a business."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,670",
+				"to": "00:31:38,070"
+			},
+			"offsets": {
+				"from": 1892670,
+				"to": 1898070
+			},
+			"text": " It seems to me like you are telling a story with these different elements, and why do they matter?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,070",
+				"to": "00:31:40,970"
+			},
+			"offsets": {
+				"from": 1898070,
+				"to": 1900970
+			},
+			"text": " Like, why does it matter that you know how to grow your own food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,150",
+				"to": "00:31:42,090"
+			},
+			"offsets": {
+				"from": 1901150,
+				"to": 1902090
+			},
+			"text": " Let's start with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,250",
+				"to": "00:31:42,450"
+			},
+			"offsets": {
+				"from": 1902250,
+				"to": 1902450
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,580",
+				"to": "00:31:43,260"
+			},
+			"offsets": {
+				"from": 1902580,
+				"to": 1903260
+			},
+			"text": " Start with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:43,320",
+				"to": "00:31:44,420"
+			},
+			"offsets": {
+				"from": 1903320,
+				"to": 1904420
+			},
+			"text": " I like how you start with."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,480",
+				"to": "00:31:46,160"
+			},
+			"offsets": {
+				"from": 1904480,
+				"to": 1906160
+			},
+			"text": " Start with the root of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,700",
+				"to": "00:31:47,430"
+			},
+			"offsets": {
+				"from": 1906700,
+				"to": 1907430
+			},
+			"text": " Growing food."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,530",
+				"to": "00:31:51,920"
+			},
+			"offsets": {
+				"from": 1907530,
+				"to": 1911920
+			},
+			"text": " Well, I wanted to learn how to grow food for a couple of reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,260",
+				"to": "00:31:58,350"
+			},
+			"offsets": {
+				"from": 1912260,
+				"to": 1918350
+			},
+			"text": " One was that I had been asked a question that haunted me, which was, when was the last person in your family a farmer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,990",
+				"to": "00:32:04,860"
+			},
+			"offsets": {
+				"from": 1918990,
+				"to": 1924860
+			},
+			"text": " And I didn't know the answer, and I didn't realize that the answer was as close as my maternal grandfather in the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,120",
+				"to": "00:32:06,740"
+			},
+			"offsets": {
+				"from": 1925120,
+				"to": 1926740
+			},
+			"text": " But that story just hadn't been told."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,060",
+				"to": "00:32:25,200"
+			},
+			"offsets": {
+				"from": 1928060,
+				"to": 1945200
+			},
+			"text": " And two, I wanted to learn how to grow food because it just seemed to me that if, you know, having done work in environmental justice and then actually having gone and done a, you know, culinary program that was focused on, you know, what they're calling a natural chef program."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,200",
+				"to": "00:32:34,260"
+			},
+			"offsets": {
+				"from": 1945200,
+				"to": 1954260
+			},
+			"text": " And it really just means, I think, cooking for folks who might have different dietary sensitivities or might be recovering or needing to heal from a surgery, for example."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,690",
+				"to": "00:32:36,740"
+			},
+			"offsets": {
+				"from": 1955690,
+				"to": 1956740
+			},
+			"text": " I loved it."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:36,740",
+				"to": "00:32:41,210"
+			},
+			"offsets": {
+				"from": 1956740,
+				"to": 1961210
+			},
+			"text": " I also felt like there was a very, there were some missing pieces."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,590",
+				"to": "00:32:42,810"
+			},
+			"offsets": {
+				"from": 1961590,
+				"to": 1962810
+			},
+			"text": " One was the cultural aspect."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:42,990",
+				"to": "00:32:51,310"
+			},
+			"offsets": {
+				"from": 1962990,
+				"to": 1971310
+			},
+			"text": " Like, I didn't find myself reflected in this culinary curriculum at all and wanted to find a way to fill in the gaps."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:52,030",
+				"to": "00:32:54,330"
+			},
+			"offsets": {
+				"from": 1972030,
+				"to": 1974330
+			},
+			"text": " And two was the agricultural piece."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,490",
+				"to": "00:33:01,780"
+			},
+			"offsets": {
+				"from": 1974490,
+				"to": 1981780
+			},
+			"text": " I was like, well, how can I do cultural work, cooking with food, if I don't understand the agricultural side of things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,250",
+				"to": "00:33:05,290"
+			},
+			"offsets": {
+				"from": 1982250,
+				"to": 1985290
+			},
+			"text": " And clearly people go and do it all the time and it's still very rich and wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,510",
+				"to": "00:33:09,780"
+			},
+			"offsets": {
+				"from": 1985510,
+				"to": 1989780
+			},
+			"text": " But I think for me, there was just this deep desire to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,020",
+				"to": "00:33:13,320"
+			},
+			"offsets": {
+				"from": 1990020,
+				"to": 1993320
+			},
+			"text": " And I think I always tap back into what would my eight-year-old self want to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,480",
+				"to": "00:33:20,120"
+			},
+			"offsets": {
+				"from": 1993480,
+				"to": 2000120
+			},
+			"text": " Because around the same time as that cookbook finding, I had made this declaration to my family and said, when I grow up, I'm going to be a farmer and a cook."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,670",
+				"to": "00:33:22,220"
+			},
+			"offsets": {
+				"from": 2000670,
+				"to": 2002220
+			},
+			"text": " They're like, ha ha, that's funny."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:22,380",
+				"to": "00:33:23,360"
+			},
+			"offsets": {
+				"from": 2002380,
+				"to": 2003360
+			},
+			"text": " You're going to be a doctor, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,060",
+				"to": "00:33:31,260"
+			},
+			"offsets": {
+				"from": 2004060,
+				"to": 2011260
+			},
+			"text": " And I think just trying to maybe live out that childhood fantasy as an adult, because ultimately those were the true, that was like the true guiding pull."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:31,400",
+				"to": "00:33:37,640"
+			},
+			"offsets": {
+				"from": 2011400,
+				"to": 2017640
+			},
+			"text": " Like, I actually knew things as an eight-year-old and then tried to suppress it for like the rest of my life until, you know, it was actually time."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,340",
+				"to": "00:33:47,660"
+			},
+			"offsets": {
+				"from": 2018340,
+				"to": 2027660
+			},
+			"text": " So having gone, you know, to CASFIS, which is in Santa Cruz, the farm and garden apprenticeship, it was this deep dive into food."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,840",
+				"to": "00:33:52,660"
+			},
+			"offsets": {
+				"from": 2027840,
+				"to": 2032660
+			},
+			"text": " And what I realized was in an agricultural setting like that, we learned so much about horticulture."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,840",
+				"to": "00:33:54,130"
+			},
+			"offsets": {
+				"from": 2032840,
+				"to": 2034130
+			},
+			"text": " We learned the art."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:54,250",
+				"to": "00:33:55,170"
+			},
+			"offsets": {
+				"from": 2034250,
+				"to": 2035170
+			},
+			"text": " We learned the science of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,210",
+				"to": "00:33:56,670"
+			},
+			"offsets": {
+				"from": 2035210,
+				"to": 2036670
+			},
+			"text": " And we had these amazing instructors."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,920",
+				"to": "00:34:09,320"
+			},
+			"offsets": {
+				"from": 2037920,
+				"to": 2049320
+			},
+			"text": " But at the same time, it was just always this nagging feeling of like, when am I going to learn how to grow things that I'm going to be able to cook with that are really going to resonate with different generations of my community?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,920",
+				"to": "00:34:29,550"
+			},
+			"offsets": {
+				"from": 2049920,
+				"to": 2069550
+			},
+			"text": " So I picked up so much of like, the science of organic farming, and at the same time, could still find these, these, this draw to bring some kind of focus back into Filipino American farming traditions and what could work here in California, and what that history already was."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:30,700",
+				"to": "00:34:33,600"
+			},
+			"offsets": {
+				"from": 2070700,
+				"to": 2073600
+			},
+			"text": " Who are your teachers for Filipino American farming traditions?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,010",
+				"to": "00:34:37,080"
+			},
+			"offsets": {
+				"from": 2074010,
+				"to": 2077080
+			},
+			"text": " I would say inspirations would be my grandfather."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:37,540",
+				"to": "00:34:44,030"
+			},
+			"offsets": {
+				"from": 2077540,
+				"to": 2084030
+			},
+			"text": " But in terms of actual teachers, like the teachers that you get to see in person and talk to and interact with, I didn't have any."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,150",
+				"to": "00:34:44,910"
+			},
+			"offsets": {
+				"from": 2084150,
+				"to": 2084910
+			},
+			"text": " I didn't have any here."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,210",
+				"to": "00:34:46,710"
+			},
+			"offsets": {
+				"from": 2085210,
+				"to": 2086710
+			},
+			"text": " And that was the nagging question, I thought."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:46,850",
+				"to": "00:35:04,540"
+			},
+			"offsets": {
+				"from": 2086850,
+				"to": 2104540
+			},
+			"text": " And I started asking, actually, different historic societies, like, how is it that we had this, you know, robust movement of Filipino American farm workers, some of them right down the street in Santa Cruz and around that surrounding areas of agricultural lands?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,180",
+				"to": "00:35:07,750"
+			},
+			"offsets": {
+				"from": 2105180,
+				"to": 2107750
+			},
+			"text": " Where are the Filipino American farmers in California?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,930",
+				"to": "00:35:10,110"
+			},
+			"offsets": {
+				"from": 2107930,
+				"to": 2110110
+			},
+			"text": " Like, why can't I just find them so easily?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,310",
+				"to": "00:35:23,090"
+			},
+			"offsets": {
+				"from": 2110310,
+				"to": 2123090
+			},
+			"text": " I think I came maybe a little bit naive, but I have these ideas that because of this rich history of organizing that, obviously, we would have this huge presence in the way that our community is referenced to in the food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:23,680",
+				"to": "00:35:27,430"
+			},
+			"offsets": {
+				"from": 2123680,
+				"to": 2127430
+			},
+			"text": " And it just seemed to be the missing piece was there."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,430",
+				"to": "00:35:37,390"
+			},
+			"offsets": {
+				"from": 2127430,
+				"to": 2137390
+			},
+			"text": " So, just within, you know, Santa Cruz, I just asked, well, in the past 40 years, you know, were there any other Filipinos who had done this program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:37,570",
+				"to": "00:35:46,530"
+			},
+			"offsets": {
+				"from": 2137570,
+				"to": 2146530
+			},
+			"text": " And in 40 years, I was the second one, the second Filipino who had ever done the program, even though it was the oldest organic training program in the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,780",
+				"to": "00:35:55,720"
+			},
+			"offsets": {
+				"from": 2147780,
+				"to": 2155720
+			},
+			"text": " And through that network, though, I found Gil Carandang, and he had done the program maybe 10 years before me and actually had decided to move back to the Philippines."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,960",
+				"to": "00:35:58,320"
+			},
+			"offsets": {
+				"from": 2155960,
+				"to": 2158320
+			},
+			"text": " So, that's a whole other tangent we can go off of."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,400",
+				"to": "00:36:05,450"
+			},
+			"offsets": {
+				"from": 2158400,
+				"to": 2165450
+			},
+			"text": " But I ended up winning a ticket to the Philippines through a culinary cook-off and then used it to meet Gil in person."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,210",
+				"to": "00:36:07,110"
+			},
+			"offsets": {
+				"from": 2166210,
+				"to": 2167110
+			},
+			"text": " What's that story?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,590",
+				"to": "00:36:18,960"
+			},
+			"offsets": {
+				"from": 2168590,
+				"to": 2178960
+			},
+			"text": " So, I guess the short nugget of that story is, you know, I think what's been amazing to witness is that there has been this growing movement to lift up Filipino food in the U.S."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,060",
+				"to": "00:36:22,250"
+			},
+			"offsets": {
+				"from": 2179060,
+				"to": 2182250
+			},
+			"text": " And people are coming at it from all different kinds of angles."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,410",
+				"to": "00:36:24,950"
+			},
+			"offsets": {
+				"from": 2182410,
+				"to": 2184950
+			},
+			"text": " I don't think there's any one unified reason of why."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:24,950",
+				"to": "00:36:31,880"
+			},
+			"offsets": {
+				"from": 2184950,
+				"to": 2191880
+			},
+			"text": " Like, some people just want to see it talked about in the same way as, you know, any other food tradition."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,100",
+				"to": "00:36:36,140"
+			},
+			"offsets": {
+				"from": 2192100,
+				"to": 2196140
+			},
+			"text": " And others are doing it maybe from, like, a social justice perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,280",
+				"to": "00:36:37,980"
+			},
+			"offsets": {
+				"from": 2196280,
+				"to": 2197980
+			},
+			"text": " There's a whole spectrum of reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,540",
+				"to": "00:36:44,260"
+			},
+			"offsets": {
+				"from": 2198540,
+				"to": 2204260
+			},
+			"text": " But in San Francisco, there was this, what they're calling the culinary cook-off."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,500",
+				"to": "00:36:48,680"
+			},
+			"offsets": {
+				"from": 2204500,
+				"to": 2208680
+			},
+			"text": " So, think about the recorded competition where you would have an amateur and professional division."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,300",
+				"to": "00:36:56,760"
+			},
+			"offsets": {
+				"from": 2209300,
+				"to": 2216760
+			},
+			"text": " We had to cook, like, five or six different dishes within a short time frame, present it to a bunch of judges, and they may or may not win something."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,900",
+				"to": "00:37:06,230"
+			},
+			"offsets": {
+				"from": 2216900,
+				"to": 2226230
+			},
+			"text": " So, I didn't actually win, but I totally won because I got to get a consolation prize and draw out of a hat, and I won a trip to the Philippines,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,370",
+				"to": "00:37:10,150"
+			},
+			"offsets": {
+				"from": 2226370,
+				"to": 2230150
+			},
+			"text": " which was actually, to me, a better thing than if I had actually won the competition."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,330",
+				"to": "00:37:12,870"
+			},
+			"offsets": {
+				"from": 2231330,
+				"to": 2232870
+			},
+			"text": " That's pretty amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,210",
+				"to": "00:37:13,390"
+			},
+			"offsets": {
+				"from": 2233210,
+				"to": 2233390
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,590",
+				"to": "00:37:14,530"
+			},
+			"offsets": {
+				"from": 2233590,
+				"to": 2234530
+			},
+			"text": " It's made it to the finals."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,910",
+				"to": "00:37:17,600"
+			},
+			"offsets": {
+				"from": 2234910,
+				"to": 2237600
+			},
+			"text": " Well, let's go back to farming for a second."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,940",
+				"to": "00:37:23,660"
+			},
+			"offsets": {
+				"from": 2237940,
+				"to": 2243660
+			},
+			"text": " So, did you ever find any other Filipino-American farmers to work with that are alive now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:23,820",
+				"to": "00:37:25,500"
+			},
+			"offsets": {
+				"from": 2243820,
+				"to": 2245500
+			},
+			"text": " I mean, are there any teachers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,620",
+				"to": "00:37:27,950"
+			},
+			"offsets": {
+				"from": 2245620,
+				"to": 2247950
+			},
+			"text": " Because there is this whole rich history."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,950",
+				"to": "00:37:36,500"
+			},
+			"offsets": {
+				"from": 2247950,
+				"to": 2256500
+			},
+			"text": " And actually, another person who has this California Humanities Grant right now, I think he lives in Fresno or Bakersfield."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:36,800",
+				"to": "00:37:38,830"
+			},
+			"offsets": {
+				"from": 2256800,
+				"to": 2258830
+			},
+			"text": " I don't remember which one."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,070",
+				"to": "00:37:44,230"
+			},
+			"offsets": {
+				"from": 2259070,
+				"to": 2264230
+			},
+			"text": " But they found all these trunks of all these farm workers in the bottom of a building."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,220",
+				"to": "00:37:46,620"
+			},
+			"offsets": {
+				"from": 2266220,
+				"to": 2266620
+			},
+			"text": " Stockton."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,740",
+				"to": "00:37:47,180"
+			},
+			"offsets": {
+				"from": 2266740,
+				"to": 2267180
+			},
+			"text": " Stockton."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,180",
+				"to": "00:37:47,480"
+			},
+			"offsets": {
+				"from": 2267180,
+				"to": 2267480
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,720",
+				"to": "00:37:48,380"
+			},
+			"offsets": {
+				"from": 2267720,
+				"to": 2268380
+			},
+			"text": " Oh, my gosh."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:48,520",
+				"to": "00:37:48,660"
+			},
+			"offsets": {
+				"from": 2268520,
+				"to": 2268660
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:49,100",
+				"to": "00:37:49,880"
+			},
+			"offsets": {
+				"from": 2269100,
+				"to": 2269880
+			},
+			"text": " The Little Manila."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,170",
+				"to": "00:37:50,310"
+			},
+			"offsets": {
+				"from": 2270170,
+				"to": 2270310
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,410",
+				"to": "00:37:50,890"
+			},
+			"offsets": {
+				"from": 2270410,
+				"to": 2270890
+			},
+			"text": " Yeah, yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,890",
+				"to": "00:37:52,170"
+			},
+			"offsets": {
+				"from": 2270890,
+				"to": 2272170
+			},
+			"text": " Where the Little Manila."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:52,330",
+				"to": "00:37:53,790"
+			},
+			"offsets": {
+				"from": 2272330,
+				"to": 2273790
+			},
+			"text": " I just met him for like 20 minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,650",
+				"to": "00:37:57,010"
+			},
+			"offsets": {
+				"from": 2274650,
+				"to": 2277010
+			},
+			"text": " And I know that there were like Filipino-American farm workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,310",
+				"to": "00:37:58,300"
+			},
+			"offsets": {
+				"from": 2277310,
+				"to": 2278300
+			},
+			"text": " Like, they were everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,560",
+				"to": "00:37:58,720"
+			},
+			"offsets": {
+				"from": 2278560,
+				"to": 2278720
+			},
+			"text": " Mm-hmm."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,870",
+				"to": "00:37:59,290"
+			},
+			"offsets": {
+				"from": 2278870,
+				"to": 2279290
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,450",
+				"to": "00:38:03,690"
+			},
+			"offsets": {
+				"from": 2279450,
+				"to": 2283690
+			},
+			"text": " And the second in command of the UFW was Filipino, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,810",
+				"to": "00:38:04,130"
+			},
+			"offsets": {
+				"from": 2283810,
+				"to": 2284130
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,330",
+				"to": "00:38:04,870"
+			},
+			"offsets": {
+				"from": 2284330,
+				"to": 2284870
+			},
+			"text": " What was his name?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,990",
+				"to": "00:38:05,630"
+			},
+			"offsets": {
+				"from": 2284990,
+				"to": 2285630
+			},
+			"text": " Larry Leung."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,770",
+				"to": "00:38:06,850"
+			},
+			"offsets": {
+				"from": 2285770,
+				"to": 2286850
+			},
+			"text": " So, there were all these people."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:06,850",
+				"to": "00:38:13,610"
+			},
+			"offsets": {
+				"from": 2286850,
+				"to": 2293610
+			},
+			"text": " And they were just, it's a totally invisible history that's happened concurrently with other farm workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:14,250",
+				"to": "00:38:19,190"
+			},
+			"offsets": {
+				"from": 2294250,
+				"to": 2299190
+			},
+			"text": " He talked a lot about this loss of cultural identity and just like not even really knowing that it existed."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,970",
+				"to": "00:38:22,350"
+			},
+			"offsets": {
+				"from": 2299970,
+				"to": 2302350
+			},
+			"text": " I think he's fourth generation or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,830",
+				"to": "00:38:24,630"
+			},
+			"offsets": {
+				"from": 2302830,
+				"to": 2304630
+			},
+			"text": " And so, did you find these people?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,750",
+				"to": "00:38:25,510"
+			},
+			"offsets": {
+				"from": 2304750,
+				"to": 2305510
+			},
+			"text": " Are they still there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,710",
+				"to": "00:38:27,300"
+			},
+			"offsets": {
+				"from": 2305710,
+				"to": 2307300
+			},
+			"text": " Like, who's growing things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:27,520",
+				"to": "00:38:27,960"
+			},
+			"offsets": {
+				"from": 2307520,
+				"to": 2307960
+			},
+			"text": " What happened?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,320",
+				"to": "00:38:31,520"
+			},
+			"offsets": {
+				"from": 2308320,
+				"to": 2311520
+			},
+			"text": " Well, I think I realized I was asking the questions in the wrong ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,860",
+				"to": "00:38:33,580"
+			},
+			"offsets": {
+				"from": 2311860,
+				"to": 2313580
+			},
+			"text": " So, that's part of the search, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,680",
+				"to": "00:38:35,520"
+			},
+			"offsets": {
+				"from": 2313680,
+				"to": 2315520
+			},
+			"text": " It's like, are you asking the right kinds of questions?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:35,520",
+				"to": "00:38:38,000"
+			},
+			"offsets": {
+				"from": 2315520,
+				"to": 2318000
+			},
+			"text": " And are you missing things that are right in front of your eyes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:38,600",
+				"to": "00:38:43,700"
+			},
+			"offsets": {
+				"from": 2318600,
+				"to": 2323700
+			},
+			"text": " And so, you know, I think it could be a lifelong search of what happened to the story."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,100",
+				"to": "00:38:52,270"
+			},
+			"offsets": {
+				"from": 2324100,
+				"to": 2332270
+			},
+			"text": " But I think one is realizing, okay, so maybe you don't find hundreds of Filipino-American farmers who own land."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,350",
+				"to": "00:38:53,550"
+			},
+			"offsets": {
+				"from": 2332350,
+				"to": 2333550
+			},
+			"text": " But what about the farm workers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,810",
+				"to": "00:38:55,470"
+			},
+			"offsets": {
+				"from": 2333810,
+				"to": 2335470
+			},
+			"text": " Like, what happened to the next generations?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,170",
+				"to": "00:39:03,340"
+			},
+			"offsets": {
+				"from": 2336170,
+				"to": 2343340
+			},
+			"text": " And also, to really learn, you know, how Filipino-American food through growing up food traditions have traveled to the U.S.?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:03,340",
+				"to": "00:39:05,720"
+			},
+			"offsets": {
+				"from": 2343340,
+				"to": 2345720
+			},
+			"text": " I should be asking, like, backyard gardeners."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,820",
+				"to": "00:39:13,470"
+			},
+			"offsets": {
+				"from": 2345820,
+				"to": 2353470
+			},
+			"text": " And that's the thing that you uncover is people, whether they brought seeds with them or have traded them, you know, across the years with people here."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,630",
+				"to": "00:39:17,930"
+			},
+			"offsets": {
+				"from": 2354630,
+				"to": 2357930
+			},
+			"text": " People are still growing food, and sometimes it's in their own backyards."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:17,930",
+				"to": "00:39:30,670"
+			},
+			"offsets": {
+				"from": 2357930,
+				"to": 2370670
+			},
+			"text": " And it might not manifest itself in the same way that, you know, I think I was looking, hoping that you could just drive around and see a sign saying, you know, Filipino-American farm right here, growing all heirloom varieties."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,150",
+				"to": "00:39:32,770"
+			},
+			"offsets": {
+				"from": 2371150,
+				"to": 2372770
+			},
+			"text": " Like, that might not be it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,830",
+				"to": "00:39:33,710"
+			},
+			"offsets": {
+				"from": 2372830,
+				"to": 2373710
+			},
+			"text": " And there are farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,810",
+				"to": "00:39:35,710"
+			},
+			"offsets": {
+				"from": 2373810,
+				"to": 2375710
+			},
+			"text": " I think it's still a mapping process."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,170",
+				"to": "00:39:38,670"
+			},
+			"offsets": {
+				"from": 2376170,
+				"to": 2378670
+			},
+			"text": " Something that I actually never finished this project."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,850",
+				"to": "00:39:44,890"
+			},
+			"offsets": {
+				"from": 2378850,
+				"to": 2384890
+			},
+			"text": " It was just something that has been thrown out around with this small and growing, like, Asian Farmers Alliance."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,090",
+				"to": "00:39:48,690"
+			},
+			"offsets": {
+				"from": 2385090,
+				"to": 2388690
+			},
+			"text": " But it's, I think, just really trying to map out and figure out where our community are."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,410",
+				"to": "00:39:51,900"
+			},
+			"offsets": {
+				"from": 2389410,
+				"to": 2391900
+			},
+			"text": " People are growing all different kinds of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:52,960",
+				"to": "00:39:56,310"
+			},
+			"offsets": {
+				"from": 2392960,
+				"to": 2396310
+			},
+			"text": " But, you know, sometimes we might even be under the radar for each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:56,310",
+				"to": "00:40:07,870"
+			},
+			"offsets": {
+				"from": 2396310,
+				"to": 2407870
+			},
+			"text": " And I think, for me, living in an urban area, not in a rural area, it's, you know, me hopping on Google is not the same thing as just doing community mapping and actually asking people to just give me tips."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,210",
+				"to": "00:40:15,200"
+			},
+			"offsets": {
+				"from": 2408210,
+				"to": 2415200
+			},
+			"text": " Right, and I think you bring up such an important point that we recently interviewed Kristen Leach at Namu Farms for the show."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,360",
+				"to": "00:40:20,960"
+			},
+			"offsets": {
+				"from": 2415360,
+				"to": 2420960
+			},
+			"text": " And she was talking, she grows for that restaurant in San Francisco, but she also grows for Kitasawa Seed Company."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,280",
+				"to": "00:40:25,440"
+			},
+			"offsets": {
+				"from": 2421280,
+				"to": 2425440
+			},
+			"text": " And with the idea that these varieties don't live without the stories that exist with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,520",
+				"to": "00:40:34,550"
+			},
+			"offsets": {
+				"from": 2425520,
+				"to": 2434550
+			},
+			"text": " And I know that's been a big part of your work, too, is understanding what these foods are and then also understanding the context that they exist in."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,680",
+				"to": "00:40:41,200"
+			},
+			"offsets": {
+				"from": 2435680,
+				"to": 2441200
+			},
+			"text": " So maybe let's now jump to cooking or to public health and how you think about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,420",
+				"to": "00:40:41,680"
+			},
+			"offsets": {
+				"from": 2441420,
+				"to": 2441680
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,880",
+				"to": "00:40:44,480"
+			},
+			"offsets": {
+				"from": 2441880,
+				"to": 2444480
+			},
+			"text": " Well, let's talk about stories with cooking and public health."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:44,720",
+				"to": "00:40:53,190"
+			},
+			"offsets": {
+				"from": 2444720,
+				"to": 2453190
+			},
+			"text": " So when you cook or when you're thinking about what nutrition is for a community, like, why is it important that the stories go along with it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:53,330",
+				"to": "00:41:04,090"
+			},
+			"offsets": {
+				"from": 2453330,
+				"to": 2464090
+			},
+			"text": " When we lose the stories, we lose, I think we lose centuries of information, you know, and also newer ways of doing things."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,630",
+				"to": "00:41:13,660"
+			},
+			"offsets": {
+				"from": 2464630,
+				"to": 2473660
+			},
+			"text": " So, you know, when I started cooking and eventually actually took that cooking into a public health nutrition context, I had wanted to look at, well, what is this process?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,220",
+				"to": "00:41:20,160"
+			},
+			"offsets": {
+				"from": 2474220,
+				"to": 2480160
+			},
+			"text": " What is the name for this, like, process of changing or the process of losing certain things and adding on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:20,720",
+				"to": "00:41:25,200"
+			},
+			"offsets": {
+				"from": 2480720,
+				"to": 2485200
+			},
+			"text": " And I think another language for it, at least in the public health world, was, like, dietary acculturation."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,460",
+				"to": "00:41:26,240"
+			},
+			"offsets": {
+				"from": 2485460,
+				"to": 2486240
+			},
+			"text": " I was like, oh, my gosh."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:26,300",
+				"to": "00:41:32,560"
+			},
+			"offsets": {
+				"from": 2486300,
+				"to": 2492560
+			},
+			"text": " Okay, so someone went and, because kind of name, I think, what we could describe in so many other ways as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:33,440",
+				"to": "00:41:37,930"
+			},
+			"offsets": {
+				"from": 2493440,
+				"to": 2497930
+			},
+			"text": " And so in the nutrition world, it's like, okay, so there's kind of this focus on dishes."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:38,470",
+				"to": "00:41:40,590"
+			},
+			"offsets": {
+				"from": 2498470,
+				"to": 2500590
+			},
+			"text": " Some of them are entire food waste."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,850",
+				"to": "00:41:41,490"
+			},
+			"offsets": {
+				"from": 2500850,
+				"to": 2501490
+			},
+			"text": " Some are lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,610",
+				"to": "00:41:42,470"
+			},
+			"offsets": {
+				"from": 2501610,
+				"to": 2502470
+			},
+			"text": " Some are perpetuated."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:42,590",
+				"to": "00:41:47,010"
+			},
+			"offsets": {
+				"from": 2502590,
+				"to": 2507010
+			},
+			"text": " And some are adapted to, you know, the standard American diet when people migrate and move."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,690",
+				"to": "00:41:52,340"
+			},
+			"offsets": {
+				"from": 2507690,
+				"to": 2512340
+			},
+			"text": " But the piece that I still felt compelled about was, well, where are the stories still?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:52,480",
+				"to": "00:41:53,480"
+			},
+			"offsets": {
+				"from": 2512480,
+				"to": 2513480
+			},
+			"text": " That's one story."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,740",
+				"to": "00:41:55,900"
+			},
+			"offsets": {
+				"from": 2513740,
+				"to": 2515900
+			},
+			"text": " What are the other stories that are missing from this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:55,900",
+				"to": "00:42:11,440"
+			},
+			"offsets": {
+				"from": 2515900,
+				"to": 2531440
+			},
+			"text": " And how can you actually leverage those stories to build health, to have these health outcomes that I think all of us want, healthier communities, you know, really addressing chronic disease and food disparities, and then still rich in story."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,740",
+				"to": "00:42:13,740"
+			},
+			"offsets": {
+				"from": 2531740,
+				"to": 2533740
+			},
+			"text": " Like, how can you put those all on the same table?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:14,680",
+				"to": "00:42:34,760"
+			},
+			"offsets": {
+				"from": 2534680,
+				"to": 2554760
+			},
+			"text": " And so I think drawing from both the food and growing of food background, some of the social justice network that I came from, and then from this kind of new language of public health, which I think is just another way of naming things that community already know or do or practice in their own way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:35,380",
+				"to": "00:42:50,520"
+			},
+			"offsets": {
+				"from": 2555380,
+				"to": 2570520
+			},
+			"text": " I actually decided to focus on looking at a Filipino food pop-up as a culinary intervention and featuring not just dishes or, you know, seasonal produce, but storytelling as a big part of it to reach people."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:51,060",
+				"to": "00:43:10,370"
+			},
+			"offsets": {
+				"from": 2571060,
+				"to": 2590370
+			},
+			"text": " And we named that Sariwa, which means fresh in Tagalog, and what we did as a story project was to bring people together over the food, but also use storytelling as a way to learn about people's relationships to food, what Filipino food means to them, where were the absences?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:10,590",
+				"to": "00:43:18,610"
+			},
+			"offsets": {
+				"from": 2590590,
+				"to": 2598610
+			},
+			"text": " Because I think we have to name that as a story, and what are the things, what are the types of stories that would actually energize people around learning more?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:19,390",
+				"to": "00:43:32,720"
+			},
+			"offsets": {
+				"from": 2599390,
+				"to": 2612720
+			},
+			"text": " And, you know, that took the form of story cards or sharing of stories, and I think by bringing stories into the same table as food, you know, you could kind of get at health, but in a totally different way."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,260",
+				"to": "00:43:35,020"
+			},
+			"offsets": {
+				"from": 2613260,
+				"to": 2615020
+			},
+			"text": " So what do you cook for these pop-ups?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,140",
+				"to": "00:43:36,000"
+			},
+			"offsets": {
+				"from": 2615140,
+				"to": 2616000
+			},
+			"text": " Do you do the pop-ups?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:36,330",
+				"to": "00:43:46,710"
+			},
+			"offsets": {
+				"from": 2616330,
+				"to": 2626710
+			},
+			"text": " You do the pop-ups, and in a non-pop-up format, and just trying to actually build it into a social enterprise, a food business, which I'm doing currently through La Cucina."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,790",
+				"to": "00:43:49,050"
+			},
+			"offsets": {
+				"from": 2627790,
+				"to": 2629050
+			},
+			"text": " But what is cooked?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:49,050",
+				"to": "00:44:03,590"
+			},
+			"offsets": {
+				"from": 2629050,
+				"to": 2643590
+			},
+			"text": " I really try to tap back into, find out what is the crop plan of people I know, small farmers, especially small farmers of color, women farmers, ask them what is their crop plan, and then figure out how to build a Filipino-inspired menu."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:03,650",
+				"to": "00:44:04,490"
+			},
+			"offsets": {
+				"from": 2643650,
+				"to": 2644490
+			},
+			"text": " Off of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:04,970",
+				"to": "00:44:17,700"
+			},
+			"offsets": {
+				"from": 2644970,
+				"to": 2657700
+			},
+			"text": " So really recently, you know, I love to source from, you know, friends who are at Feral Heart Farms, and also, you know, NAMU is a huge inspiration, and they're all farming together in the Sunil Ag Park kind of area."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:18,310",
+				"to": "00:44:20,550"
+			},
+			"offsets": {
+				"from": 2658310,
+				"to": 2660550
+			},
+			"text": " Just ask, you know, what do you actually have right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,630",
+				"to": "00:44:26,690"
+			},
+			"offsets": {
+				"from": 2660630,
+				"to": 2666690
+			},
+			"text": " Okay, you have kabocha, you have different kinds of sweet potato roots and leaves, you have different peppers."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:26,690",
+				"to": "00:44:46,350"
+			},
+			"offsets": {
+				"from": 2666690,
+				"to": 2686350
+			},
+			"text": " Okay, let's, like, make something, you know, I found recipes that are drawing more from my, like, from example, my dad's side, from Bicol, which is a land of coconuts and chilies, and using those ingredients into, you know, a vegetable, coconut, ginger type of dish."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:46,570",
+				"to": "00:44:47,950"
+			},
+			"offsets": {
+				"from": 2686570,
+				"to": 2687950
+			},
+			"text": " Where do you see it all going?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:48,430",
+				"to": "00:44:50,470"
+			},
+			"offsets": {
+				"from": 2688430,
+				"to": 2690470
+			},
+			"text": " So what's the idea with your business?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,570",
+				"to": "00:44:51,250"
+			},
+			"offsets": {
+				"from": 2690570,
+				"to": 2691250
+			},
+			"text": " What are you developing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:51,690",
+				"to": "00:44:54,630"
+			},
+			"offsets": {
+				"from": 2691690,
+				"to": 2694630
+			},
+			"text": " And then what's the bigger vision for all of this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:55,410",
+				"to": "00:44:57,370"
+			},
+			"offsets": {
+				"from": 2695410,
+				"to": 2697370
+			},
+			"text": " Oh, this is like the big confessional moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:58,030",
+				"to": "00:45:00,450"
+			},
+			"offsets": {
+				"from": 2698030,
+				"to": 2700450
+			},
+			"text": " So where do I see it all going?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:00,450",
+				"to": "00:45:18,760"
+			},
+			"offsets": {
+				"from": 2700450,
+				"to": 2718760
+			},
+			"text": " You know, I think ultimately, you know, in the line of self-determination, I really see food and a food business as a tool for community health, and as a way to recover, I think, healthy connections back to land."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,900",
+				"to": "00:45:21,120"
+			},
+			"offsets": {
+				"from": 2718900,
+				"to": 2721120
+			},
+			"text": " I think food is, to me, food is the mediator."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:21,120",
+				"to": "00:45:32,620"
+			},
+			"offsets": {
+				"from": 2721120,
+				"to": 2732620
+			},
+			"text": " Food is, like, the bridge and, like, the vessel for these recipes, for this understanding of land, for, you know, for connection to history and past and future, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,680",
+				"to": "00:45:45,310"
+			},
+			"offsets": {
+				"from": 2732680,
+				"to": 2745310
+			},
+			"text": " So a lot of these big things, I think, on a practical level, though, what I really want to see happen is to build out a food business that will appeal to everyone, you know, and make them feel at home."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:45,310",
+				"to": "00:46:07,810"
+			},
+			"offsets": {
+				"from": 2745310,
+				"to": 2767810
+			},
+			"text": " But in particular, to really reach out to Filipino Americans, some of whom are coming from second, third, fourth, fifth, and beyond generation, who've sometimes approached and said, you know, that they feel disconnected from their food roots, or that no one taught them how to cook and they just want to learn something, or that they never thought that they could eat Filipino food that had a vegetable in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:07,810",
+				"to": "00:46:19,960"
+			},
+			"offsets": {
+				"from": 2767810,
+				"to": 2779960
+			},
+			"text": " I want to appeal to those folks because it's like you have this wealth of recipes and stories, and we just need to revitalize it among ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:20,180",
+				"to": "00:46:26,080"
+			},
+			"offsets": {
+				"from": 2780180,
+				"to": 2786080
+			},
+			"text": " People are already doing a lot of amazing things when it comes to food, so it's definitely not alone in this work."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:26,800",
+				"to": "00:46:39,880"
+			},
+			"offsets": {
+				"from": 2786800,
+				"to": 2799880
+			},
+			"text": " I think the piece of the puzzle that I really want to bring through Sariva is to say, look, we have this incredible connection to land and to agriculture, and it's reflected in every single recipe if we want it to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:40,060",
+				"to": "00:46:41,120"
+			},
+			"offsets": {
+				"from": 2800060,
+				"to": 2801120
+			},
+			"text": " So how can we do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:41,260",
+				"to": "00:46:45,360"
+			},
+			"offsets": {
+				"from": 2801260,
+				"to": 2805360
+			},
+			"text": " And then how do you turn that into a food business that can actually survive on its own?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,460",
+				"to": "00:46:46,760"
+			},
+			"offsets": {
+				"from": 2805460,
+				"to": 2806760
+			},
+			"text": " That's like the big question, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:47,160",
+				"to": "00:46:49,020"
+			},
+			"offsets": {
+				"from": 2807160,
+				"to": 2809020
+			},
+			"text": " As a business, as a small business."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:50,080",
+				"to": "00:46:53,960"
+			},
+			"offsets": {
+				"from": 2810080,
+				"to": 2813960
+			},
+			"text": " And the next, I guess the level of it, and here's my confessional about where it will all end up."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:54,060",
+				"to": "00:47:03,390"
+			},
+			"offsets": {
+				"from": 2814060,
+				"to": 2823390
+			},
+			"text": " You know, I definitely want to have a presence in farmers markets, not just as a stepping stone, but I think, you know, this kind of food belongs outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:03,670",
+				"to": "00:47:05,330"
+			},
+			"offsets": {
+				"from": 2823670,
+				"to": 2825330
+			},
+			"text": " That was really where the food came from."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:05,410",
+				"to": "00:47:12,430"
+			},
+			"offsets": {
+				"from": 2825410,
+				"to": 2832430
+			},
+			"text": " And when I'm back in the Philippines, like that is visiting the province, that's exactly the kind of food that I would gravitate towards."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:12,430",
+				"to": "00:47:13,830"
+			},
+			"offsets": {
+				"from": 2832430,
+				"to": 2833830
+			},
+			"text": " It's food that's outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:14,010",
+				"to": "00:47:16,290"
+			},
+			"offsets": {
+				"from": 2834010,
+				"to": 2836290
+			},
+			"text": " It's food that has a close relationship to a market."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:17,230",
+				"to": "00:47:21,910"
+			},
+			"offsets": {
+				"from": 2837230,
+				"to": 2841910
+			},
+			"text": " That's how, you know, older generations, I think, would source things."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:22,090",
+				"to": "00:47:32,830"
+			},
+			"offsets": {
+				"from": 2842090,
+				"to": 2852830
+			},
+			"text": " They would go out early, you know, at dawn, and I would tag along with them, like, and they would get the freshest things, not because it was the fruit for thing to do, but they just wanted the good stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:32,960",
+				"to": "00:47:34,540"
+			},
+			"offsets": {
+				"from": 2852960,
+				"to": 2854540
+			},
+			"text": " And that's what they would cook with."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:34,660",
+				"to": "00:47:38,130"
+			},
+			"offsets": {
+				"from": 2854660,
+				"to": 2858130
+			},
+			"text": " So I really want to emulate their practices and do that here."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:38,130",
+				"to": "00:47:53,340"
+			},
+			"offsets": {
+				"from": 2858130,
+				"to": 2873340
+			},
+			"text": " And in my wildest dreams, I've been so inspired by this primary health clinic in Hawaii, which has a cultural roots cafe, a food cafe inside of a hospital that's attached to a farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:53,960",
+				"to": "00:47:59,420"
+			},
+			"offsets": {
+				"from": 2873960,
+				"to": 2879420
+			},
+			"text": " And when I step through those doors, like everything just hit, like this is how it brings everything together."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:59,420",
+				"to": "00:48:08,550"
+			},
+			"offsets": {
+				"from": 2879420,
+				"to": 2888550
+			},
+			"text": " The health piece, the celebration of, like, culture and identity, the farm and land connection, and then just bringing people together over a meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:08,750",
+				"to": "00:48:27,130"
+			},
+			"offsets": {
+				"from": 2888750,
+				"to": 2907130
+			},
+			"text": " So I don't know yet where it could land, where it could be in the Bay Area, but if there's a way to actually bring something to be neighbors or have a close relationship with a health clinic or hospital that could have culturally relevant Filipino food and offer that to community in that space,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:27,130",
+				"to": "00:48:29,440"
+			},
+			"offsets": {
+				"from": 2907130,
+				"to": 2909440
+			},
+			"text": " I would love for that to grow in that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:29,440",
+				"to": "00:48:34,620"
+			},
+			"offsets": {
+				"from": 2909440,
+				"to": 2914620
+			},
+			"text": " Well, let's just finish up by, how can we follow along with you or how can we support what you're doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:34,920",
+				"to": "00:48:38,180"
+			},
+			"offsets": {
+				"from": 2914920,
+				"to": 2918180
+			},
+			"text": " You can follow me on Instagram."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:39,100",
+				"to": "00:48:42,180"
+			},
+			"offsets": {
+				"from": 2919100,
+				"to": 2922180
+			},
+			"text": " You can find hashtags for Sariwa Kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:42,540",
+				"to": "00:48:46,780"
+			},
+			"offsets": {
+				"from": 2922540,
+				"to": 2926780
+			},
+			"text": " I'm setting up a new website now, which will be sariwakitchen.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:47,020",
+				"to": "00:48:55,620"
+			},
+			"offsets": {
+				"from": 2927020,
+				"to": 2935620
+			},
+			"text": " And I actually have an existing blog, which is Kitchen Cuento, and that's focused more broadly just on food, land, and culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:56,440",
+				"to": "00:49:02,420"
+			},
+			"offsets": {
+				"from": 2936440,
+				"to": 2942420
+			},
+			"text": " But so things are coming together now, and I'm going to have these new sites up very soon, and I hope people will follow along."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:02,600",
+				"to": "00:49:02,880"
+			},
+			"offsets": {
+				"from": 2942600,
+				"to": 2942880
+			},
+			"text": " Perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:03,000",
+				"to": "00:49:04,460"
+			},
+			"offsets": {
+				"from": 2943000,
+				"to": 2944460
+			},
+			"text": " We'll make sure to include those links."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:04,660",
+				"to": "00:49:06,480"
+			},
+			"offsets": {
+				"from": 2944660,
+				"to": 2946480
+			},
+			"text": " Thanks so much for being on the show today."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:06,640",
+				"to": "00:49:07,880"
+			},
+			"offsets": {
+				"from": 2946640,
+				"to": 2947880
+			},
+			"text": " Thank you so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:07,940",
+				"to": "00:49:09,300"
+			},
+			"offsets": {
+				"from": 2947940,
+				"to": 2949300
+			},
+			"text": " It's wonderful to share stories with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:09,660",
+				"to": "00:49:16,240"
+			},
+			"offsets": {
+				"from": 2949660,
+				"to": 2956240
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:16,660",
+				"to": "00:49:18,840"
+			},
+			"offsets": {
+				"from": 2956660,
+				"to": 2958840
+			},
+			"text": " Made by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:19,230",
+				"to": "00:49:24,470"
+			},
+			"offsets": {
+				"from": 2959230,
+				"to": 2964470
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:24,730",
+				"to": "00:49:29,100"
+			},
+			"offsets": {
+				"from": 2964730,
+				"to": 2969100
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:29,100",
+				"to": "00:49:34,670"
+			},
+			"offsets": {
+				"from": 2969100,
+				"to": 2974670
+			},
+			"text": " There we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:35,060",
+				"to": "00:49:37,190"
+			},
+			"offsets": {
+				"from": 2975060,
+				"to": 2977190
+			},
+			"text": " You can find us on Facebook and Twitter, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:37,630",
+				"to": "00:49:45,950"
+			},
+			"offsets": {
+				"from": 2977630,
+				"to": 2985950
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:46,230",
+				"to": "00:49:55,850"
+			},
+			"offsets": {
+				"from": 2986230,
+				"to": 2995850
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

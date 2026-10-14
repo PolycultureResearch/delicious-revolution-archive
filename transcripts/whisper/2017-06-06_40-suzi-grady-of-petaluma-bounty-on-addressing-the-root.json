@@ -1,0 +1,4883 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:03,010",
+				"to": "00:00:13,500"
+			},
+			"offsets": {
+				"from": 3010,
+				"to": 13500
+			},
+			"text": " Are you trying to solve one problem, like hunger in the community, or are you trying to develop the capacity of your community to be able to respond to that problem?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,500",
+				"to": "00:00:30,120"
+			},
+			"offsets": {
+				"from": 13500,
+				"to": 30120
+			},
+			"text": " Something that I think is the anchor of Bounty is that we're trying to push beyond emergency food as a primary response to food insecurity and its close first cousin, food-related illnesses such as obesity."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,120",
+				"to": "00:00:42,100"
+			},
+			"offsets": {
+				"from": 30120,
+				"to": 42100
+			},
+			"text": " And so, we're trying to have a community conversation about the shortfalls of our food system and design solutions from the grassroots up that address some of those problems."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,100",
+				"to": "00:00:49,060"
+			},
+			"offsets": {
+				"from": 42100,
+				"to": 49060
+			},
+			"text": " It starts with getting people excited to learn where their food comes from and to kickstart their imagination and relationship to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,060",
+				"to": "00:00:59,840"
+			},
+			"offsets": {
+				"from": 49060,
+				"to": 59840
+			},
+			"text": " And then taking on conversations about why organic costs more, why it should cost more, and what we're doing together to make that still work for everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,410",
+				"to": "00:01:09,070"
+			},
+			"offsets": {
+				"from": 61410,
+				"to": 69070
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,070",
+				"to": "00:01:10,070"
+			},
+			"offsets": {
+				"from": 69070,
+				"to": 70070
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,070",
+				"to": "00:01:16,410"
+			},
+			"offsets": {
+				"from": 70070,
+				"to": 76410
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,410",
+				"to": "00:01:19,670"
+			},
+			"offsets": {
+				"from": 76410,
+				"to": 79670
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,670",
+				"to": "00:01:30,190"
+			},
+			"offsets": {
+				"from": 79670,
+				"to": 90190
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,190",
+				"to": "00:01:32,950"
+			},
+			"offsets": {
+				"from": 90190,
+				"to": 92950
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,150",
+				"to": "00:01:39,530"
+			},
+			"offsets": {
+				"from": 93150,
+				"to": 99530
+			},
+			"text": " Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,030",
+				"to": "00:01:46,030"
+			},
+			"offsets": {
+				"from": 100030,
+				"to": 106030
+			},
+			"text": " Susie Grady is the director of Petaluma Bounty, an innovative food access program in Sonoma County, California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,190",
+				"to": "00:01:59,070"
+			},
+			"offsets": {
+				"from": 106190,
+				"to": 119070
+			},
+			"text": " Recognizing that most small-scale farmers can't afford to feed low-income people, and that most low-income consumers can't afford to buy locally-grown produce, Petaluma Bounty works on designing community solutions to hunger."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,070",
+				"to": "00:02:10,690"
+			},
+			"offsets": {
+				"from": 119070,
+				"to": 130690
+			},
+			"text": " They connect people to many food assistance programs and run a sliding-scale CSA, a community farm, education programs, and a gleaning program that has distributed over a half million pounds of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,690",
+				"to": "00:02:15,410"
+			},
+			"offsets": {
+				"from": 132690,
+				"to": 135410
+			},
+			"text": " Hey, welcome, Susie. Welcome to Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,970",
+				"to": "00:02:16,930"
+			},
+			"offsets": {
+				"from": 135970,
+				"to": 136930
+			},
+			"text": " Thank you for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,090",
+				"to": "00:02:19,250"
+			},
+			"offsets": {
+				"from": 137090,
+				"to": 139250
+			},
+			"text": " We're sitting here at Bounty Farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,850",
+				"to": "00:02:21,220"
+			},
+			"offsets": {
+				"from": 139850,
+				"to": 141220
+			},
+			"text": " Yeah, it's beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,380",
+				"to": "00:02:21,960"
+			},
+			"offsets": {
+				"from": 141380,
+				"to": 141960
+			},
+			"text": " It's the winter."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,180",
+				"to": "00:02:25,300"
+			},
+			"offsets": {
+				"from": 142180,
+				"to": 145300
+			},
+			"text": " There's a lot of cover crops, and it just showed me around."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,570",
+				"to": "00:02:32,140"
+			},
+			"offsets": {
+				"from": 146570,
+				"to": 152140
+			},
+			"text": " I think I just want to start with the story of how you ended up here at Petaluma Bounty."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,630",
+				"to": "00:02:33,100"
+			},
+			"offsets": {
+				"from": 152630,
+				"to": 153100
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,100",
+				"to": "00:02:52,430"
+			},
+			"offsets": {
+				"from": 154100,
+				"to": 172430
+			},
+			"text": " So my story is I grew up around farms and did horse training and worked in the hay harvests doing that in Michigan and had a compost research station as a little kid in my garden and just was very much involved in the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,430",
+				"to": "00:03:07,690"
+			},
+			"offsets": {
+				"from": 172430,
+				"to": 187690
+			},
+			"text": " I lived about five minutes away from the local land grant university, Michigan State University, but I left and went to Ann Arbor, University of Michigan, and studied Latin American politics and political science."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,690",
+				"to": "00:03:16,410"
+			},
+			"offsets": {
+				"from": 187690,
+				"to": 196410
+			},
+			"text": " And there was some political action falling out with our two-party system, et cetera, like most folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,750",
+				"to": "00:03:30,080"
+			},
+			"offsets": {
+				"from": 196750,
+				"to": 210080
+			},
+			"text": " And to make a long story longer, I moved out to San Francisco, hoping to join up with an organization that was affecting change around economic system and community development."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,080",
+				"to": "00:03:44,770"
+			},
+			"offsets": {
+				"from": 210080,
+				"to": 224770
+			},
+			"text": " Couldn't get a job in that, and so I ended up going and working in law firms, and I got very bored with the urban jungle, the concrete jungle of San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,770",
+				"to": "00:04:00,090"
+			},
+			"offsets": {
+				"from": 224770,
+				"to": 240090
+			},
+			"text": " And so I started doing classes at the Garden for the Environment, and then I became a garden educator and always engaging our community or the community I was working with"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,090",
+				"to": "00:04:10,180"
+			},
+			"offsets": {
+				"from": 240090,
+				"to": 250180
+			},
+			"text": " to talk about sustainability and environmental justice, and then went on to UC Santa Cruz and did that apprenticeship program."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,050",
+				"to": "00:04:14,370"
+			},
+			"offsets": {
+				"from": 251050,
+				"to": 254370
+			},
+			"text": " And then I came here in 2010 as an intern and worked on the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,570",
+				"to": "00:04:15,150"
+			},
+			"offsets": {
+				"from": 254570,
+				"to": 255150
+			},
+			"text": " At this very farm?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,190",
+				"to": "00:04:15,870"
+			},
+			"offsets": {
+				"from": 255190,
+				"to": 255870
+			},
+			"text": " At this very farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,970",
+				"to": "00:04:16,590"
+			},
+			"offsets": {
+				"from": 255970,
+				"to": 256590
+			},
+			"text": " Was it just starting?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,290",
+				"to": "00:04:20,140"
+			},
+			"offsets": {
+				"from": 257290,
+				"to": 260140
+			},
+			"text": " It was the third year of production."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,640",
+				"to": "00:04:25,800"
+			},
+			"offsets": {
+				"from": 261640,
+				"to": 265800
+			},
+			"text": " You now are the director of the organization of Petaluma Bounty."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,640",
+				"to": "00:04:32,210"
+			},
+			"offsets": {
+				"from": 266640,
+				"to": 272210
+			},
+			"text": " What was Petaluma Bounty when you got here, and what was kind of the vision of it then,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,210",
+				"to": "00:04:33,030"
+			},
+			"offsets": {
+				"from": 272210,
+				"to": 273030
+			},
+			"text": " and how has that changed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,450",
+				"to": "00:04:33,790"
+			},
+			"offsets": {
+				"from": 273450,
+				"to": 273790
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,990",
+				"to": "00:04:34,670"
+			},
+			"offsets": {
+				"from": 273990,
+				"to": 274670
+			},
+			"text": " Great question."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,250",
+				"to": "00:04:38,250"
+			},
+			"offsets": {
+				"from": 275250,
+				"to": 278250
+			},
+			"text": " So I'll start kind of with the history of Petaluma Bounty."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,750",
+				"to": "00:04:41,710"
+			},
+			"offsets": {
+				"from": 278750,
+				"to": 281710
+			},
+			"text": " It started with a community needs assessment."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,490",
+				"to": "00:04:53,250"
+			},
+			"offsets": {
+				"from": 282490,
+				"to": 293250
+			},
+			"text": " From 2004 through 2006, local community members, nonprofits, came together to figure out what the greatest unmet need was in Petaluma."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,250",
+				"to": "00:05:04,680"
+			},
+			"offsets": {
+				"from": 293250,
+				"to": 304680
+			},
+			"text": " And after two years of doing interviews and studies, they figured that it was access to fresh fruits and vegetables, particularly for seniors and children."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,750",
+				"to": "00:05:10,790"
+			},
+			"offsets": {
+				"from": 305750,
+				"to": 310790
+			},
+			"text": " And so Petaluma Bounty came out of that community needs assessment."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,370",
+				"to": "00:05:14,900"
+			},
+			"offsets": {
+				"from": 311370,
+				"to": 314900
+			},
+			"text": " And the first initiative was school gardens and community gardens."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,900",
+				"to": "00:05:23,480"
+			},
+			"offsets": {
+				"from": 314900,
+				"to": 323480
+			},
+			"text": " And so fast forward 10 years, we've helped build eight community gardens since then."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,820",
+				"to": "00:05:35,250"
+			},
+			"offsets": {
+				"from": 323820,
+				"to": 335250
+			},
+			"text": " And that program is less active now, speaking to how the programs have evolved, because we found that there was enough expertise in the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,920",
+				"to": "00:05:37,670"
+			},
+			"offsets": {
+				"from": 335920,
+				"to": 337670
+			},
+			"text": " Our help wasn't needed as much."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,670",
+				"to": "00:05:45,180"
+			},
+			"offsets": {
+				"from": 337670,
+				"to": 345180
+			},
+			"text": " The next program was food recovery, a gleaning program, and it still exists today, Bounty Hunters Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,340",
+				"to": "00:05:56,630"
+			},
+			"offsets": {
+				"from": 345340,
+				"to": 356630
+			},
+			"text": " It supplements emergency food outlets by going and collecting food from local farms, farmers markets, going out and harvesting food, and taking it to local pantry sites."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,030",
+				"to": "00:06:00,570"
+			},
+			"offsets": {
+				"from": 357030,
+				"to": 360570
+			},
+			"text": " And after that came the Bounty Farm in 2008."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,380",
+				"to": "00:06:02,960"
+			},
+			"offsets": {
+				"from": 361380,
+				"to": 362960
+			},
+			"text": " And this is where we're at today."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,960",
+				"to": "00:06:08,960"
+			},
+			"offsets": {
+				"from": 362960,
+				"to": 368960
+			},
+			"text": " And there's a number of different initiatives now than what was started before."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,880",
+				"to": "00:06:17,410"
+			},
+			"offsets": {
+				"from": 369880,
+				"to": 377410
+			},
+			"text": " And some of the initiatives came about because opportunistic funding, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,610",
+				"to": "00:06:29,840"
+			},
+			"offsets": {
+				"from": 377610,
+				"to": 389840
+			},
+			"text": " We had a mobile market back in 2008 through 2010, where we'd go to low-income housing sites and schools with a high rate of free and reduced lunches."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,950",
+				"to": "00:06:33,970"
+			},
+			"offsets": {
+				"from": 389950,
+				"to": 393970
+			},
+			"text": " At that time, we found that it didn't support itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,130",
+				"to": "00:06:42,070"
+			},
+			"offsets": {
+				"from": 394130,
+				"to": 402070
+			},
+			"text": " So after we went through the grant funding, we had to stop the program because it was costing more than we could put into it to keep it going."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,870",
+				"to": "00:06:46,530"
+			},
+			"offsets": {
+				"from": 402870,
+				"to": 406530
+			},
+			"text": " And so there's a lot of trial and error."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,290",
+				"to": "00:07:01,430"
+			},
+			"offsets": {
+				"from": 408290,
+				"to": 421430
+			},
+			"text": " But another initiative that we have held on to is a sliding scale or two-tier price structure for our farm stand that came out of the mobile market, as well as our CSA program."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,550",
+				"to": "00:07:07,610"
+			},
+			"offsets": {
+				"from": 422550,
+				"to": 427610
+			},
+			"text": " And that continues to have mixed levels of success depending on where we're at."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,830",
+				"to": "00:07:16,210"
+			},
+			"offsets": {
+				"from": 427830,
+				"to": 436210
+			},
+			"text": " We're getting more intelligent or experienced and informed about best places to have outlets for fresh fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,930",
+				"to": "00:07:27,880"
+			},
+			"offsets": {
+				"from": 436930,
+				"to": 447880
+			},
+			"text": " And trying not to reinvent the wheel as it comes to getting people to go out of their way to get yet another service when most people are so busy."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,680",
+				"to": "00:07:44,300"
+			},
+			"offsets": {
+				"from": 448680,
+				"to": 464300
+			},
+			"text": " And so in 2010 and 2011, that's something I really focused on was aligning food access outlets with nutrition education programs and initiatives that are trying to help people make healthy behavior changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,200",
+				"to": "00:07:54,320"
+			},
+			"offsets": {
+				"from": 465200,
+				"to": 474320
+			},
+			"text": " Oftentimes, those things are separate and community members have to go to different sides of the city in order to get one service or another."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,740",
+				"to": "00:07:57,040"
+			},
+			"offsets": {
+				"from": 474740,
+				"to": 477040
+			},
+			"text": " And so that's why we moved."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,070",
+				"to": "00:08:00,330"
+			},
+			"offsets": {
+				"from": 478070,
+				"to": 480330
+			},
+			"text": " We call it our pharmacy with an F."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,610",
+				"to": "00:08:10,870"
+			},
+			"offsets": {
+				"from": 481610,
+				"to": 490870
+			},
+			"text": " Our farm stand, sliding scale farm stand, over to the Petaluma Health Center, which is a federally qualified health center that serves the majority of low-income patients."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,960",
+				"to": "00:08:23,980"
+			},
+			"offsets": {
+				"from": 491960,
+				"to": 503980
+			},
+			"text": " And we've worked a lot with them the last five years to, again, piggyback on their successes and the fact that there's our potential customers are coming in and out each day."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,980",
+				"to": "00:08:41,620"
+			},
+			"offsets": {
+				"from": 503980,
+				"to": 521620
+			},
+			"text": " Just as I was reading up on the website, it seems like there's this there's an ethic of creativity and experimentation through the work that you do, where it's you're trying a lot of different things out to meet some of these needs or get at a more holistic or systemic piece of what's happening with hunger here."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,620",
+				"to": "00:08:58,320"
+			},
+			"offsets": {
+				"from": 521620,
+				"to": 538320
+			},
+			"text": " So, yeah, so and that's something I'm working on in the back end is how do we institutionalize the listening that we started off with to continue to have that be the core for our program development."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,320",
+				"to": "00:09:08,010"
+			},
+			"offsets": {
+				"from": 539320,
+				"to": 548010
+			},
+			"text": " And so a lot of our initiatives, we work with neighbors here at the farm and then we have to stay in communication and relationship with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,450",
+				"to": "00:09:11,610"
+			},
+			"offsets": {
+				"from": 548450,
+				"to": 551610
+			},
+			"text": " OK, you came out to do our health education course."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,480",
+				"to": "00:09:19,040"
+			},
+			"offsets": {
+				"from": 552480,
+				"to": 559040
+			},
+			"text": " What's the next the next hurdle that's keeping them from making long term lifestyle changes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,310",
+				"to": "00:09:26,290"
+			},
+			"offsets": {
+				"from": 560310,
+				"to": 566290
+			},
+			"text": " And so from that, we had the play program stands for Petaluma Loves Active Youth."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,410",
+				"to": "00:09:35,190"
+			},
+			"offsets": {
+				"from": 566410,
+				"to": 575190
+			},
+			"text": " That was a partnership with the health center and that they had to stop coming out to the farm just due to logistics and cost."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,190",
+				"to": "00:09:41,290"
+			},
+			"offsets": {
+				"from": 575190,
+				"to": 581290
+			},
+			"text": " And so we took that initiative and then invited our neighbors to come to our farm to participate."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,370",
+				"to": "00:09:51,810"
+			},
+			"offsets": {
+				"from": 582370,
+				"to": 591810
+			},
+			"text": " But from there and when we're talking about, you know, what's what's next, what's needed, that's where we got the idea to do the food resource guide."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,090",
+				"to": "00:09:53,030"
+			},
+			"offsets": {
+				"from": 592090,
+				"to": 593030
+			},
+			"text": " So great."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,360",
+				"to": "00:09:58,880"
+			},
+			"offsets": {
+				"from": 593360,
+				"to": 598880
+			},
+			"text": " We have this initiative to work with people for six weeks, but then we turn them out into the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,880",
+				"to": "00:09:59,320"
+			},
+			"offsets": {
+				"from": 598880,
+				"to": 599320
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,540",
+				"to": "00:10:03,430"
+			},
+			"offsets": {
+				"from": 599540,
+				"to": 603430
+			},
+			"text": " And it's up to them to figure out how do they sustain these behaviors?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,750",
+				"to": "00:10:12,400"
+			},
+			"offsets": {
+				"from": 603750,
+				"to": 612400
+			},
+			"text": " And so the food resource guide is a comprehensive list of where you can get free and reduced price food in Petaluma that helps make it that much easier."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,670",
+				"to": "00:10:21,660"
+			},
+			"offsets": {
+				"from": 612670,
+				"to": 621660
+			},
+			"text": " So the next iteration or another iteration was we had often got requests from people that they wanted some sort of work trade."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,660",
+				"to": "00:10:26,620"
+			},
+			"offsets": {
+				"from": 621660,
+				"to": 626620
+			},
+			"text": " They want to they want to put sweat equity in to get access to fresh fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:27,540",
+				"to": "00:10:31,860"
+			},
+			"offsets": {
+				"from": 627540,
+				"to": 631860
+			},
+			"text": " And it's actually not legal, you know, because of labor laws, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,200",
+				"to": "00:10:46,760"
+			},
+			"offsets": {
+				"from": 632200,
+				"to": 646760
+			},
+			"text": " And so what we did do is when we had the opportunity, we got a bilingual bounty hunters coordinator and really focused on recruiting volunteers from food pantry lines, physically able people."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,520",
+				"to": "00:10:53,740"
+			},
+			"offsets": {
+				"from": 647520,
+				"to": 653740
+			},
+			"text": " And that helped increase our volunteer numbers because there's more food out there than we can get to."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,410",
+				"to": "00:10:55,690"
+			},
+			"offsets": {
+				"from": 654410,
+				"to": 655690
+			},
+			"text": " We're limited by our volunteers."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,110",
+				"to": "00:11:03,880"
+			},
+			"offsets": {
+				"from": 656110,
+				"to": 663880
+			},
+			"text": " And so we just shifted our initiative where people could take upwards of a third to a half of the produce that was harvested."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,880",
+				"to": "00:11:20,230"
+			},
+			"offsets": {
+				"from": 664880,
+				"to": 680230
+			},
+			"text": " And that's just a way of shifting that dynamic from perpetuating this situation where people have to wait in line for something that should be a right, which is fresh and healthy food and getting them to be part of the solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,230",
+				"to": "00:11:27,770"
+			},
+			"offsets": {
+				"from": 680230,
+				"to": 687770
+			},
+			"text": " I think at first glance, you could hear about Petaluma Bounty and think that it's a food access charity."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,390",
+				"to": "00:11:32,490"
+			},
+			"offsets": {
+				"from": 688390,
+				"to": 692490
+			},
+			"text": " But it seems like so much of what you do is challenging what that is."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,630",
+				"to": "00:11:34,990"
+			},
+			"offsets": {
+				"from": 692630,
+				"to": 694990
+			},
+			"text": " And you're meeting immediate need for food."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,110",
+				"to": "00:11:39,390"
+			},
+			"offsets": {
+				"from": 695110,
+				"to": 699390
+			},
+			"text": " But at the same time, you're really challenging what some of the big problems that are with the idea that it's charity."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,550",
+				"to": "00:11:39,670"
+			},
+			"offsets": {
+				"from": 699550,
+				"to": 699670
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,850",
+				"to": "00:11:40,170"
+			},
+			"offsets": {
+				"from": 699850,
+				"to": 700170
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,270",
+				"to": "00:11:40,710"
+			},
+			"offsets": {
+				"from": 700270,
+				"to": 700710
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,910",
+				"to": "00:11:51,010"
+			},
+			"offsets": {
+				"from": 701910,
+				"to": 711010
+			},
+			"text": " We really and so that means how do we get more people on CalFresh or food stamps to utilize farmer's markets?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,710",
+				"to": "00:11:54,990"
+			},
+			"offsets": {
+				"from": 711710,
+				"to": 714990
+			},
+			"text": " And that's why we started the initiative called Farmer's Market Life."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,310",
+				"to": "00:12:00,070"
+			},
+			"offsets": {
+				"from": 715310,
+				"to": 720070
+			},
+			"text": " It's a market match program for people in Sonoma County, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,110",
+				"to": "00:12:09,070"
+			},
+			"offsets": {
+				"from": 721110,
+				"to": 729070
+			},
+			"text": " And if you're unfamiliar, it's for people to be able to get a dollar for dollar match for their produce using their CalFresh benefits."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,650",
+				"to": "00:12:20,070"
+			},
+			"offsets": {
+				"from": 729650,
+				"to": 740070
+			},
+			"text": " And again, using that same idea, it's shifting away from giving things away to supporting multiple stakeholders of the food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,170",
+				"to": "00:12:28,810"
+			},
+			"offsets": {
+				"from": 740170,
+				"to": 748810
+			},
+			"text": " So we're increasing low income folks purchasing power and we're increasing the customer base of small scale farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,120",
+				"to": "00:12:39,460"
+			},
+			"offsets": {
+				"from": 750120,
+				"to": 759460
+			},
+			"text": " And the more we can align solutions and as our permaculture friends love to say, myself included, stacking functions, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,650",
+				"to": "00:12:45,510"
+			},
+			"offsets": {
+				"from": 759650,
+				"to": 765510
+			},
+			"text": " we find solutions that benefit our environment, our local economy, our health, etc."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,930",
+				"to": "00:12:57,650"
+			},
+			"offsets": {
+				"from": 765930,
+				"to": 777650
+			},
+			"text": " And so that's where we try to push away from or just make it less one fix for all or considering moving away from only emergency food"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,650",
+				"to": "00:13:05,250"
+			},
+			"offsets": {
+				"from": 777650,
+				"to": 785250
+			},
+			"text": " or only a food bank system that is relying upon our conventional food system to work, to diversifying."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,830",
+				"to": "00:13:06,800"
+			},
+			"offsets": {
+				"from": 785830,
+				"to": 786800
+			},
+			"text": " It's not replacing."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,620",
+				"to": "00:13:09,160"
+			},
+			"offsets": {
+				"from": 787620,
+				"to": 789160
+			},
+			"text": " I'm not advocating for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,640",
+				"to": "00:13:20,840"
+			},
+			"offsets": {
+				"from": 789640,
+				"to": 800840
+			},
+			"text": " But it's also talking to food banks and institutions that feed people, getting them to consider making incremental changes that could really support small and mid-sized farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,840",
+				"to": "00:13:32,920"
+			},
+			"offsets": {
+				"from": 800840,
+				"to": 812920
+			},
+			"text": " Why does that need exist or why does a food bank, a more conventional foods bank function and where contradictions of that need to be complemented with more systemic thinking?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,720",
+				"to": "00:13:34,110"
+			},
+			"offsets": {
+				"from": 813720,
+				"to": 814110
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,110",
+				"to": "00:13:40,310"
+			},
+			"offsets": {
+				"from": 814110,
+				"to": 820310
+			},
+			"text": " So I'm not pointing the finger and saying anyone is wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,310",
+				"to": "00:13:50,400"
+			},
+			"offsets": {
+				"from": 820310,
+				"to": 830400
+			},
+			"text": " And so a good example is here in Sonoma County, over 90% of farm workers are food insecure."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,930",
+				"to": "00:13:58,220"
+			},
+			"offsets": {
+				"from": 831930,
+				"to": 838220
+			},
+			"text": " And that's a staggering statistic that demonstrates that our food system is not working."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,760",
+				"to": "00:14:06,620"
+			},
+			"offsets": {
+				"from": 838760,
+				"to": 846620
+			},
+			"text": " The people who are pouring their own sweat into it are not able to maintain a healthy lifestyle."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,930",
+				"to": "00:14:14,910"
+			},
+			"offsets": {
+				"from": 847930,
+				"to": 854910
+			},
+			"text": " So there are subsidies, you know, that exist in our food system, but they're just going to the wrong things."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,710",
+				"to": "00:14:22,690"
+			},
+			"offsets": {
+				"from": 855710,
+				"to": 862690
+			},
+			"text": " And that's why it's so much easier and cheaper for people to purchase more processed food than fresh fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,690",
+				"to": "00:14:34,950"
+			},
+			"offsets": {
+				"from": 862690,
+				"to": 874950
+			},
+			"text": " As it relates to food banks, I'm not the expert on this, but just from what I've seen, most food banks rely upon seconds and imperfects and unsold food."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,950",
+				"to": "00:14:53,470"
+			},
+			"offsets": {
+				"from": 874950,
+				"to": 893470
+			},
+			"text": " We're lucky here because we have the Central Valley, and I believe it's called Second Harvest, does a lot of harvesting or they purchase at pennies to the dollar the food that may have gone to waste or isn't economically viable for the farms to sell."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,690",
+				"to": "00:14:57,530"
+			},
+			"offsets": {
+				"from": 893690,
+				"to": 897530
+			},
+			"text": " And then they reroute that into our food banks."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,960",
+				"to": "00:15:05,670"
+			},
+			"offsets": {
+				"from": 897960,
+				"to": 905670
+			},
+			"text": " But the problem is the demand for food continues to increase at our food banks."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:05,930",
+				"to": "00:15:13,910"
+			},
+			"offsets": {
+				"from": 905930,
+				"to": 913910
+			},
+			"text": " And so they're in this predicament where they need to find more and more cheap food in order to meet the growing needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,080",
+				"to": "00:15:24,230"
+			},
+			"offsets": {
+				"from": 914080,
+				"to": 924230
+			},
+			"text": " And so you can see by design, the better they do at their job, the actually worse off a lot of farm workers are."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,040",
+				"to": "00:15:28,520"
+			},
+			"offsets": {
+				"from": 925040,
+				"to": 928520
+			},
+			"text": " And so it's talking about diversifying the sources."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,920",
+				"to": "00:15:41,820"
+			},
+			"offsets": {
+				"from": 928920,
+				"to": 941820
+			},
+			"text": " I mean, you bring in you can talk about food waste and greenhouse gas emissions that some statistics say upwards of 40 percent of our food that's grown is wasted at some point, the process."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,820",
+				"to": "00:15:52,520"
+			},
+			"offsets": {
+				"from": 941820,
+				"to": 952520
+			},
+			"text": " And if we as a community worked better together to prevent that food going to waste and redirecting it to people who needed it, that's one solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,160",
+				"to": "00:15:56,180"
+			},
+			"offsets": {
+				"from": 953160,
+				"to": 956180
+			},
+			"text": " Another solution is subsidizing at the end user."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:56,180",
+				"to": "00:16:04,450"
+			},
+			"offsets": {
+				"from": 956180,
+				"to": 964450
+			},
+			"text": " So talking about the CalFresh incentives as opposed to incentivizing large scale farms to grow more commodity crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,530",
+				"to": "00:16:13,150"
+			},
+			"offsets": {
+				"from": 966530,
+				"to": 973150
+			},
+			"text": " You know, so these are just different ways of coming to solutions that help the consumers and the farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,060",
+				"to": "00:16:20,600"
+			},
+			"offsets": {
+				"from": 974060,
+				"to": 980600
+			},
+			"text": " And I don't I don't I don't think we have all the answers, but we look at what's the greatest need."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,780",
+				"to": "00:16:28,100"
+			},
+			"offsets": {
+				"from": 980780,
+				"to": 988100
+			},
+			"text": " What are the problems that are really staring us in the face and what resources do we have as a community to respond to that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,290",
+				"to": "00:16:51,780"
+			},
+			"offsets": {
+				"from": 989290,
+				"to": 1011780
+			},
+			"text": " And if you step out of kind of that linear thinking of we are one service provider and we the economy of scale thing, if we keep growing and providing that that one service, we might get more efficient at that at the loss of other opportunities or it might have greater costs long term."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:52,940",
+				"to": "00:17:01,230"
+			},
+			"offsets": {
+				"from": 1012940,
+				"to": 1021230
+			},
+			"text": " So, yeah. So that makes it make a little more sense that there's so many different programs starting all the time and kind of some of them stopping."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,430",
+				"to": "00:17:09,350"
+			},
+			"offsets": {
+				"from": 1021430,
+				"to": 1029350
+			},
+			"text": " But it's like there's a there's a cycle of reflection and creating new approaches and and then reflecting on those."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:10,110",
+				"to": "00:17:19,450"
+			},
+			"offsets": {
+				"from": 1030110,
+				"to": 1039450
+			},
+			"text": " Yeah. And we're trying to put more intentionality behind that cycle of reflection and also more intention around, OK, we're going to step back now."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:19,450",
+				"to": "00:17:25,740"
+			},
+			"offsets": {
+				"from": 1039450,
+				"to": 1045740
+			},
+			"text": " We feel like that initiative has it, you know, it's ready to take its training wheels off."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,780",
+				"to": "00:17:27,180"
+			},
+			"offsets": {
+				"from": 1045780,
+				"to": 1047180
+			},
+			"text": " It's ready to support itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,580",
+				"to": "00:17:37,990"
+			},
+			"offsets": {
+				"from": 1047580,
+				"to": 1057990
+			},
+			"text": " There are a lot of people that wanted to see Petaluma Bounty just focus on community gardens and there would have been benefits the the to doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,670",
+				"to": "00:17:46,460"
+			},
+			"offsets": {
+				"from": 1059670,
+				"to": 1066460
+			},
+			"text": " The language around it would be a lot more simple and people would understand a lot more quickly what they were supporting."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,040",
+				"to": "00:18:01,540"
+			},
+			"offsets": {
+				"from": 1067040,
+				"to": 1081540
+			},
+			"text": " But to me, then we would have had to expand our regional base and then you lose that personal contact and that nugget of innovation and creativity when you're truly in relationship with your community."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,980",
+				"to": "00:18:06,860"
+			},
+			"offsets": {
+				"from": 1081980,
+				"to": 1086860
+			},
+			"text": " Maybe we can talk a little bit about the special context of here in Sonoma County and Petaluma."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,160",
+				"to": "00:18:09,420"
+			},
+			"offsets": {
+				"from": 1087160,
+				"to": 1089420
+			},
+			"text": " It's a I mean, it's close to where I live."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,480",
+				"to": "00:18:11,040"
+			},
+			"offsets": {
+				"from": 1089480,
+				"to": 1091040
+			},
+			"text": " People listen all over the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,160",
+				"to": "00:18:12,480"
+			},
+			"offsets": {
+				"from": 1091160,
+				"to": 1092480
+			},
+			"text": " So is it a special case?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,540",
+				"to": "00:18:16,500"
+			},
+			"offsets": {
+				"from": 1092540,
+				"to": 1096500
+			},
+			"text": " It's such a productive place and it's famous for its food."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,220",
+				"to": "00:18:24,680"
+			},
+			"offsets": {
+				"from": 1097220,
+				"to": 1104680
+			},
+			"text": " And yeah, I guess I was a little surprised to hear that the 90 percent of people working in farming farm workers were food insecure."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,940",
+				"to": "00:18:29,460"
+			},
+			"offsets": {
+				"from": 1105940,
+				"to": 1109460
+			},
+			"text": " That was done by the Sonoma County Health Department last year."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,000",
+				"to": "00:18:30,480"
+			},
+			"offsets": {
+				"from": 1110000,
+				"to": 1110480
+			},
+			"text": " That study."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,480",
+				"to": "00:18:35,110"
+			},
+			"offsets": {
+				"from": 1111480,
+				"to": 1115110
+			},
+			"text": " And yeah, I mean, that's that's the thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,270",
+				"to": "00:18:43,640"
+			},
+			"offsets": {
+				"from": 1115270,
+				"to": 1123640
+			},
+			"text": " And and that's also where we need to engage people in conversation about needs exist in your backyard."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,080",
+				"to": "00:18:54,230"
+			},
+			"offsets": {
+				"from": 1124080,
+				"to": 1134230
+			},
+			"text": " You know, instead of looking at other countries where there's poverty and and there's starvation, there's signs of malnutrition in your own community."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,230",
+				"to": "00:18:59,530"
+			},
+			"offsets": {
+				"from": 1134230,
+				"to": 1139530
+			},
+			"text": " Right. And I'm part of a group of folks that meet monthly called the Hunger Index."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,600",
+				"to": "00:19:05,870"
+			},
+			"offsets": {
+				"from": 1140600,
+				"to": 1145870
+			},
+			"text": " And it's just one way of trying to measure the unmet need in our community."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,250",
+				"to": "00:19:07,670"
+			},
+			"offsets": {
+				"from": 1146250,
+				"to": 1147670
+			},
+			"text": " I may have to edit these numbers."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,810",
+				"to": "00:19:09,570"
+			},
+			"offsets": {
+				"from": 1147810,
+				"to": 1149570
+			},
+			"text": " Sorry, they're not at the top of my head."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,570",
+				"to": "00:19:24,590"
+			},
+			"offsets": {
+				"from": 1149570,
+				"to": 1164590
+			},
+			"text": " But basically, given the higher cost of living in our community, it's an estimate of the number of households that make fifty five thousand dollars or less are considered to be potentially food insecure."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,010",
+				"to": "00:19:36,810"
+			},
+			"offsets": {
+				"from": 1165010,
+				"to": 1176810
+			},
+			"text": " And so given the statistics on on the average cost for a healthy meal, it's measured that thirty four million meals go missing in Sonoma County alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,810",
+				"to": "00:19:39,650"
+			},
+			"offsets": {
+				"from": 1176810,
+				"to": 1179650
+			},
+			"text": " People skipping meals because they don't have access to."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,060",
+				"to": "00:19:40,500"
+			},
+			"offsets": {
+				"from": 1180060,
+				"to": 1180500
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:41,400",
+				"to": "00:19:52,780"
+			},
+			"offsets": {
+				"from": 1181400,
+				"to": 1192780
+			},
+			"text": " Or our seniors or people that are shut in, they only get the one meal a day through Meals on Wheels or everything else because hunger and food insecurity is very hard to measure."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,200",
+				"to": "00:20:00,730"
+			},
+			"offsets": {
+				"from": 1193200,
+				"to": 1200730
+			},
+			"text": " Most people only rely upon the number of people seeking services, but there's a much greater need out there."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,730",
+				"to": "00:20:05,110"
+			},
+			"offsets": {
+				"from": 1200730,
+				"to": 1205110
+			},
+			"text": " So this is just one attempt at trying to put some figures behind it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,510",
+				"to": "00:20:08,190"
+			},
+			"offsets": {
+				"from": 1205510,
+				"to": 1208190
+			},
+			"text": " And this is in a very food abundant community."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,700",
+				"to": "00:20:10,420"
+			},
+			"offsets": {
+				"from": 1208700,
+				"to": 1210420
+			},
+			"text": " It's similar to farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,880",
+				"to": "00:20:28,190"
+			},
+			"offsets": {
+				"from": 1210880,
+				"to": 1228190
+			},
+			"text": " In 2013, when we were applying for this Feeney grant from the USDA, I was shocked to find out that each month, $5.4 million comes into our county through CalFresh, which is also known as SNAP, Supplemental Nutrition Assistance Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,190",
+				"to": "00:20:39,850"
+			},
+			"offsets": {
+				"from": 1228190,
+				"to": 1239850
+			},
+			"text": " And of that $5.4 million at the peak of the farmers market in 2013, about $4,000 went to, was used at farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,230",
+				"to": "00:20:44,720"
+			},
+			"offsets": {
+				"from": 1240230,
+				"to": 1244720
+			},
+			"text": " And so the rest of that's going to grocery stores and big box stores, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,960",
+				"to": "00:20:51,430"
+			},
+			"offsets": {
+				"from": 1244960,
+				"to": 1251430
+			},
+			"text": " And so there's a real opportunity there for our community to come together."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,430",
+				"to": "00:20:54,930"
+			},
+			"offsets": {
+				"from": 1251430,
+				"to": 1254930
+			},
+			"text": " And buying at farmers market doesn't work for everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,410",
+				"to": "00:21:13,610"
+			},
+			"offsets": {
+				"from": 1255410,
+				"to": 1273610
+			},
+			"text": " But if we could get even a small percentage of our community, and in this instance, the CalFresh community, CalFresh customers, to consider buying a portion of their produce at farmers market, that could have a huge impact on the economic well-being of our farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,970",
+				"to": "00:21:22,220"
+			},
+			"offsets": {
+				"from": 1274970,
+				"to": 1282220
+			},
+			"text": " And so that's why we brought in this incentive program to acknowledge that food at farmers markets is more expensive."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,490",
+				"to": "00:21:36,230"
+			},
+			"offsets": {
+				"from": 1282490,
+				"to": 1296230
+			},
+			"text": " Food, produce that's grown small scale, takes more labor, especially if you're not relying upon pesticides and a lot of mechanical cultivation."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,590",
+				"to": "00:21:37,910"
+			},
+			"offsets": {
+				"from": 1296590,
+				"to": 1297910
+			},
+			"text": " It's just going to cost more."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,950",
+				"to": "00:21:45,250"
+			},
+			"offsets": {
+				"from": 1298950,
+				"to": 1305250
+			},
+			"text": " We can talk about the economics, why it actually doesn't cost more if you start to add all the externalized costs."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:45,750",
+				"to": "00:21:47,870"
+			},
+			"offsets": {
+				"from": 1305750,
+				"to": 1307870
+			},
+			"text": " But it does cost more."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,050",
+				"to": "00:21:56,860"
+			},
+			"offsets": {
+				"from": 1308050,
+				"to": 1316860
+			},
+			"text": " And as in relationship with our community, we had to respond to that to say, OK, yeah, how can you pay more?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,400",
+				"to": "00:22:05,390"
+			},
+			"offsets": {
+				"from": 1317400,
+				"to": 1325390
+			},
+			"text": " So we set up the incentive program and we're at that next layer of conversation because it's not as well utilized as it could or should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,850",
+				"to": "00:22:09,460"
+			},
+			"offsets": {
+				"from": 1325850,
+				"to": 1329460
+			},
+			"text": " We don't use all of the incentives that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,460",
+				"to": "00:22:25,700"
+			},
+			"offsets": {
+				"from": 1329460,
+				"to": 1345700
+			},
+			"text": " So then we started a farmer's market tour initiative with the Center for Well-Being, bilingual, bicultural, promotores de salud that are bringing community members to the farmer's markets and introducing them to that concept."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:26,340",
+				"to": "00:22:29,660"
+			},
+			"offsets": {
+				"from": 1346340,
+				"to": 1349660
+			},
+			"text": " These are people that are already coming to nutrition education classes."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,900",
+				"to": "00:22:32,870"
+			},
+			"offsets": {
+				"from": 1349900,
+				"to": 1352870
+			},
+			"text": " So we're just making that extra connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,150",
+				"to": "00:22:35,390"
+			},
+			"offsets": {
+				"from": 1353150,
+				"to": 1355390
+			},
+			"text": " Let's talk about community food security a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,870",
+				"to": "00:22:41,110"
+			},
+			"offsets": {
+				"from": 1355870,
+				"to": 1361110
+			},
+			"text": " Chelsea and I, we ran a big research project in Mexico and in southern Mexico."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,470",
+				"to": "00:22:48,730"
+			},
+			"offsets": {
+				"from": 1361470,
+				"to": 1368730
+			},
+			"text": " And we're working with the concept of food security and food sovereignty a lot, but at a household level."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:48,730",
+				"to": "00:22:56,400"
+			},
+			"offsets": {
+				"from": 1368730,
+				"to": 1376400
+			},
+			"text": " So can you talk a little bit about what community food security is and how it's different from just individual or household food security?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,900",
+				"to": "00:23:00,340"
+			},
+			"offsets": {
+				"from": 1376900,
+				"to": 1380340
+			},
+			"text": " Yeah, and I believe, and I don't have it memorized."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,520",
+				"to": "00:23:08,350"
+			},
+			"offsets": {
+				"from": 1380520,
+				"to": 1388350
+			},
+			"text": " I'm sure there's a USDA definition and then there will be like a common person, you know, like myself definition."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,370",
+				"to": "00:23:12,740"
+			},
+			"offsets": {
+				"from": 1389370,
+				"to": 1392740
+			},
+			"text": " And each household probably could define it differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,980",
+				"to": "00:23:13,160"
+			},
+			"offsets": {
+				"from": 1392980,
+				"to": 1393160
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,500",
+				"to": "00:23:22,590"
+			},
+			"offsets": {
+				"from": 1393500,
+				"to": 1402590
+			},
+			"text": " So community food security here and now, what it means to us is that more of our food is sourced from our community"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,750",
+				"to": "00:23:37,470"
+			},
+			"offsets": {
+				"from": 1402750,
+				"to": 1417470
+			},
+			"text": " and that more people feel like they can either through their own purchasing abilities or growing abilities or reaching out to some of the services that are provided,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,760",
+				"to": "00:23:46,560"
+			},
+			"offsets": {
+				"from": 1418760,
+				"to": 1426560
+			},
+			"text": " that people are able to have regular, consistent access to healthy food that's culturally appropriate."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,560",
+				"to": "00:23:53,090"
+			},
+			"offsets": {
+				"from": 1426560,
+				"to": 1433090
+			},
+			"text": " So that takes a number of different approaches or we take a number of different approaches toward it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,270",
+				"to": "00:24:01,030"
+			},
+			"offsets": {
+				"from": 1433270,
+				"to": 1441030
+			},
+			"text": " And so the difference between household and community would be that there's a lot of community members that live in apartments, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,400",
+				"to": "00:24:13,550"
+			},
+			"offsets": {
+				"from": 1441400,
+				"to": 1453550
+			},
+			"text": " And they may not be able to make ends meet, but how can we as a community come together to make sure they still have regular access to healthy food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,700",
+				"to": "00:24:17,840"
+			},
+			"offsets": {
+				"from": 1454700,
+				"to": 1457840
+			},
+			"text": " And that's where the community garden initiative came out of."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,840",
+				"to": "00:24:22,100"
+			},
+			"offsets": {
+				"from": 1457840,
+				"to": 1462100
+			},
+			"text": " And we strategically built gardens near apartment buildings."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,900",
+				"to": "00:24:28,550"
+			},
+			"offsets": {
+				"from": 1462900,
+				"to": 1468550
+			},
+			"text": " You know, so there's all these different ways of doing it, but saying that we're all in it together, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,590",
+				"to": "00:24:35,070"
+			},
+			"offsets": {
+				"from": 1468590,
+				"to": 1475070
+			},
+			"text": " as opposed to really focusing on the individual, being able to provide everything for themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,070",
+				"to": "00:24:46,240"
+			},
+			"offsets": {
+				"from": 1475070,
+				"to": 1486240
+			},
+			"text": " And perhaps in comparison to your experience, there's not a lot of, and this might please correct me and I'd love to learn more about the project,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,820",
+				"to": "00:25:01,950"
+			},
+			"offsets": {
+				"from": 1486820,
+				"to": 1501950
+			},
+			"text": " but I'm not looking to push people to change their lifestyle so that it's focused on just being able to meet their needs as far as having a great garden or having a homestead."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,950",
+				"to": "00:25:10,350"
+			},
+			"offsets": {
+				"from": 1501950,
+				"to": 1510350
+			},
+			"text": " And I think those are beautiful things, but it's a pretty privileged existence to be able to do that, especially in Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,510",
+				"to": "00:25:16,690"
+			},
+			"offsets": {
+				"from": 1510510,
+				"to": 1516690
+			},
+			"text": " And when you look at food policy and worldwide, or I should say also free trade agreements,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,230",
+				"to": "00:25:26,650"
+			},
+			"offsets": {
+				"from": 1517230,
+				"to": 1526650
+			},
+			"text": " a lot of our economic policies have undermined small-scale farmers in other countries to be able to exist or make a living doing what they're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,810",
+				"to": "00:25:28,570"
+			},
+			"offsets": {
+				"from": 1526810,
+				"to": 1528570
+			},
+			"text": " And so they had to shift away from that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,750",
+				"to": "00:25:33,310"
+			},
+			"offsets": {
+				"from": 1528750,
+				"to": 1533310
+			},
+			"text": " And that probably fit more into their lifestyle, community, and culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,310",
+				"to": "00:25:39,720"
+			},
+			"offsets": {
+				"from": 1533310,
+				"to": 1539720
+			},
+			"text": " And so the community resilience might look very different there than it does here right now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,260",
+				"to": "00:25:48,760"
+			},
+			"offsets": {
+				"from": 1540260,
+				"to": 1548760
+			},
+			"text": " given, you know, the monocropping of grapes here and the fact that it costs so much to live here."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,100",
+				"to": "00:25:54,560"
+			},
+			"offsets": {
+				"from": 1549100,
+				"to": 1554560
+			},
+			"text": " How we can come together, it's kind of like the compost conundrum here in Sonoma County too,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,560",
+				"to": "00:26:04,110"
+			},
+			"offsets": {
+				"from": 1554560,
+				"to": 1564110
+			},
+			"text": " which is that our local compost facility was closed due to a very long political conflict."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,650",
+				"to": "00:26:11,190"
+			},
+			"offsets": {
+				"from": 1564650,
+				"to": 1571190
+			},
+			"text": " So now our organic waste is being shipped out and people are being encouraged to do your own composting in your backyard."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,190",
+				"to": "00:26:18,650"
+			},
+			"offsets": {
+				"from": 1571190,
+				"to": 1578650
+			},
+			"text": " And I believe that there was benefit to the model of having a centralized, larger-scale compost facility that was community-oriented,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,490",
+				"to": "00:26:21,910"
+			},
+			"offsets": {
+				"from": 1579490,
+				"to": 1581910
+			},
+			"text": " you know, and that really supported nonprofits, etc."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,150",
+				"to": "00:26:28,130"
+			},
+			"offsets": {
+				"from": 1582150,
+				"to": 1588130
+			},
+			"text": " So there are certain things that it's better to have a shared and centralized support system."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,770",
+				"to": "00:26:33,730"
+			},
+			"offsets": {
+				"from": 1588770,
+				"to": 1593730
+			},
+			"text": " So we're kind of taking that approach with community food security,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,890",
+				"to": "00:26:41,300"
+			},
+			"offsets": {
+				"from": 1593890,
+				"to": 1601300
+			},
+			"text": " but also trying to build the capacity of the individuals so that you can find ways to feed your family."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,300",
+				"to": "00:26:45,740"
+			},
+			"offsets": {
+				"from": 1601300,
+				"to": 1605740
+			},
+			"text": " It just might not be you growing all your own food."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,880",
+				"to": "00:26:52,210"
+			},
+			"offsets": {
+				"from": 1606880,
+				"to": 1612210
+			},
+			"text": " Another, if I could jump back, one thing I wanted to touch on with farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,350",
+				"to": "00:27:03,500"
+			},
+			"offsets": {
+				"from": 1612350,
+				"to": 1623500
+			},
+			"text": " One of the biggest barriers we have to getting more people on CalFresh to use farmers markets is because it's seen as so elitist."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,730",
+				"to": "00:27:09,040"
+			},
+			"offsets": {
+				"from": 1624730,
+				"to": 1629040
+			},
+			"text": " And that foodie culture really works toward a disadvantage."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,940",
+				"to": "00:27:16,500"
+			},
+			"offsets": {
+				"from": 1629940,
+				"to": 1636500
+			},
+			"text": " And people don't feel like farmers markets are very inviting spaces because it's been advertised."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,960",
+				"to": "00:27:27,930"
+			},
+			"offsets": {
+				"from": 1636960,
+				"to": 1647930
+			},
+			"text": " You know, a lot of tourist money actually goes into talking about how our farmers markets are where chefs purchase their food and foodies and etc."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,930",
+				"to": "00:27:36,330"
+			},
+			"offsets": {
+				"from": 1647930,
+				"to": 1656330
+			},
+			"text": " And so a lot of our community members don't feel comfortable going there, especially if they don't speak English as a primary language."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,050",
+				"to": "00:27:45,910"
+			},
+			"offsets": {
+				"from": 1657050,
+				"to": 1665910
+			},
+			"text": " And so it's really fascinating how we're trying to develop together initiatives that will make our farmers markets more inviting to everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,050",
+				"to": "00:28:06,070"
+			},
+			"offsets": {
+				"from": 1666050,
+				"to": 1686070
+			},
+			"text": " I think that really gets at one of these key questions that keeps coming up this season about the California food movement is that California is this place over the last 50 years, especially that's been the center of this of really great local food and also the center of a lot of aspects of food justice and food sovereignty movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,170",
+				"to": "00:28:11,980"
+			},
+			"offsets": {
+				"from": 1686170,
+				"to": 1691980
+			},
+			"text": " And sometimes they're totally in conflict and sometimes they feed off of each other in these really creative ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,980",
+				"to": "00:28:18,700"
+			},
+			"offsets": {
+				"from": 1691980,
+				"to": 1698700
+			},
+			"text": " Yeah, so how do you start to address that cultural and economic kind of conundrum?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,200",
+				"to": "00:28:20,060"
+			},
+			"offsets": {
+				"from": 1699200,
+				"to": 1700060
+			},
+			"text": " Yeah, exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,480",
+				"to": "00:28:30,500"
+			},
+			"offsets": {
+				"from": 1700480,
+				"to": 1710500
+			},
+			"text": " Well, I mean, if you look at the average household income and what people are spending money on, the percentage going toward food has gone down significantly."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,590",
+				"to": "00:28:43,060"
+			},
+			"offsets": {
+				"from": 1711590,
+				"to": 1723060
+			},
+			"text": " And so, I mean, I guess I'd make the radical statement that so much of our work is to revalue our food, you know, to get people to really be aware of what it takes to grow food well."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:43,790",
+				"to": "00:28:52,910"
+			},
+			"offsets": {
+				"from": 1723790,
+				"to": 1732910
+			},
+			"text": " And that food should cost more, but we need to work together as a community to make sure that doesn't keep people that have limited resources to be able to participate."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,520",
+				"to": "00:28:55,780"
+			},
+			"offsets": {
+				"from": 1733520,
+				"to": 1735780
+			},
+			"text": " And that's really the crux of what we're doing here."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:56,280",
+				"to": "00:28:58,060"
+			},
+			"offsets": {
+				"from": 1736280,
+				"to": 1738060
+			},
+			"text": " High quality food should cost more."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,810",
+				"to": "00:28:59,690"
+			},
+			"offsets": {
+				"from": 1738810,
+				"to": 1739690
+			},
+			"text": " It's a higher value."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:59,830",
+				"to": "00:29:01,230"
+			},
+			"offsets": {
+				"from": 1739830,
+				"to": 1741230
+			},
+			"text": " There's higher nutrient density."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,870",
+				"to": "00:29:05,730"
+			},
+			"offsets": {
+				"from": 1741870,
+				"to": 1745730
+			},
+			"text": " It costs farmers more to make it in the way that we love to eat it."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,370",
+				"to": "00:29:17,600"
+			},
+			"offsets": {
+				"from": 1746370,
+				"to": 1757600
+			},
+			"text": " So that's where the subsidies coming in at the end make a lot more sense because it maintains the value of the food where the farmer can get closer to making a living wage."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,480",
+				"to": "00:29:19,360"
+			},
+			"offsets": {
+				"from": 1758480,
+				"to": 1759360
+			},
+			"text": " Not there yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,360",
+				"to": "00:29:23,910"
+			},
+			"offsets": {
+				"from": 1759360,
+				"to": 1763910
+			},
+			"text": " And it still allows low-income folks to participate, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,970",
+				"to": "00:29:25,730"
+			},
+			"offsets": {
+				"from": 1763970,
+				"to": 1765730
+			},
+			"text": " So that's one example."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,090",
+				"to": "00:29:28,710"
+			},
+			"offsets": {
+				"from": 1766090,
+				"to": 1768710
+			},
+			"text": " We need to collectively start thinking of another example."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,870",
+				"to": "00:29:32,550"
+			},
+			"offsets": {
+				"from": 1768870,
+				"to": 1772550
+			},
+			"text": " It's also because we don't know if the funding will exist in a couple of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,120",
+				"to": "00:29:39,130"
+			},
+			"offsets": {
+				"from": 1773120,
+				"to": 1779130
+			},
+			"text": " So I support this idea that our food should be more expensive."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,190",
+				"to": "00:29:48,570"
+			},
+			"offsets": {
+				"from": 1780190,
+				"to": 1788570
+			},
+			"text": " You know, if you look at everything put into it, well, it's the fact that petroleum is subsidized, you know, and everything else to get it to be this cheap."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:48,810",
+				"to": "00:29:53,370"
+			},
+			"offsets": {
+				"from": 1788810,
+				"to": 1793370
+			},
+			"text": " So what are different ways that we can work together to make it work better for everyone?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,370",
+				"to": "00:30:03,890"
+			},
+			"offsets": {
+				"from": 1793370,
+				"to": 1803890
+			},
+			"text": " And then, you know, you bring in the conversation about food waste and, well, if you bought less but used more of it, that's a you, me, whomever, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,570",
+				"to": "00:30:10,710"
+			},
+			"offsets": {
+				"from": 1804570,
+				"to": 1810710
+			},
+			"text": " And got more out of the buying higher quality food, you actually might save money."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:11,070",
+				"to": "00:30:14,130"
+			},
+			"offsets": {
+				"from": 1811070,
+				"to": 1814130
+			},
+			"text": " So that's just another approach in conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:14,130",
+				"to": "00:30:23,760"
+			},
+			"offsets": {
+				"from": 1814130,
+				"to": 1823760
+			},
+			"text": " And so it starts with getting people excited, learn where their food comes from, and to kickstart their imagination and relationship, building a better relationship to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:24,000",
+				"to": "00:30:36,220"
+			},
+			"offsets": {
+				"from": 1824000,
+				"to": 1836220
+			},
+			"text": " And then taking on conversations about why organic costs more, why it should cost more, and what we're doing together to make that still work for everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:36,880",
+				"to": "00:30:42,220"
+			},
+			"offsets": {
+				"from": 1836880,
+				"to": 1842220
+			},
+			"text": " Speaking of food waste, I want to talk about gleaning before I ever get to go there."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,360",
+				"to": "00:30:48,870"
+			},
+			"offsets": {
+				"from": 1842360,
+				"to": 1848870
+			},
+			"text": " But yeah, is that where you started after the farm and kind of delving into a bigger food system here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,310",
+				"to": "00:30:51,150"
+			},
+			"offsets": {
+				"from": 1849310,
+				"to": 1851150
+			},
+			"text": " Me personally, or our program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,150",
+				"to": "00:30:52,110"
+			},
+			"offsets": {
+				"from": 1851150,
+				"to": 1852110
+			},
+			"text": " The program, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,430",
+				"to": "00:30:57,220"
+			},
+			"offsets": {
+				"from": 1852430,
+				"to": 1857220
+			},
+			"text": " So gleaning came on alongside the community gardens."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,420",
+				"to": "00:30:59,280"
+			},
+			"offsets": {
+				"from": 1857420,
+				"to": 1859280
+			},
+			"text": " And so it's been going on for quite some time."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,680",
+				"to": "00:31:05,240"
+			},
+			"offsets": {
+				"from": 1859680,
+				"to": 1865240
+			},
+			"text": " Something that is really fascinating is it complements existing networks."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:06,200",
+				"to": "00:31:12,440"
+			},
+			"offsets": {
+				"from": 1866200,
+				"to": 1872440
+			},
+			"text": " And it actually brings the price down for these local pantries that have to purchase food from our food banks, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:12,890",
+				"to": "00:31:16,520"
+			},
+			"offsets": {
+				"from": 1872890,
+				"to": 1876520
+			},
+			"text": " And everyone's really pleased with the quality of the food that we bring."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,520",
+				"to": "00:31:25,320"
+			},
+			"offsets": {
+				"from": 1876520,
+				"to": 1885320
+			},
+			"text": " In a high-functioning year, when we have a paid coordinator, we would normally bring in around 120,000 to 130,000 pounds of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,520",
+				"to": "00:31:32,830"
+			},
+			"offsets": {
+				"from": 1885520,
+				"to": 1892830
+			},
+			"text": " When it's a volunteer-based initiative, like whomever steps up to take on that role, we're always grateful."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,250",
+				"to": "00:31:35,130"
+			},
+			"offsets": {
+				"from": 1893250,
+				"to": 1895130
+			},
+			"text": " And there isn't as much consistency."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,010",
+				"to": "00:31:38,750"
+			},
+			"offsets": {
+				"from": 1896010,
+				"to": 1898750
+			},
+			"text": " That number drops to about 5,000 pounds per year."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,750",
+				"to": "00:31:44,560"
+			},
+			"offsets": {
+				"from": 1898750,
+				"to": 1904560
+			},
+			"text": " And so that just goes to show you, well, number one, that we need to be able to provide a consistent service."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,820",
+				"to": "00:31:52,900"
+			},
+			"offsets": {
+				"from": 1904820,
+				"to": 1912900
+			},
+			"text": " And number two, that we, like everyone else, need support doing the unsexy things of coordinating volunteers, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,000",
+				"to": "00:32:00,080"
+			},
+			"offsets": {
+				"from": 1913000,
+				"to": 1920080
+			},
+			"text": " And without those key positions, these networks start to kind of fall in upon themselves, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,260",
+				"to": "00:32:01,540"
+			},
+			"offsets": {
+				"from": 1920260,
+				"to": 1921540
+			},
+			"text": " So how does gleaning work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,640",
+				"to": "00:32:08,580"
+			},
+			"offsets": {
+				"from": 1921640,
+				"to": 1928580
+			},
+			"text": " It is volunteers who go pick fruit or where do you find this extra fruit and how does that all work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,580",
+				"to": "00:32:15,940"
+			},
+			"offsets": {
+				"from": 1928580,
+				"to": 1935940
+			},
+			"text": " Yeah, and so we collect fruits and vegetables and extra food from farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:16,540",
+				"to": "00:32:25,220"
+			},
+			"offsets": {
+				"from": 1936540,
+				"to": 1945220
+			},
+			"text": " We have now organized drop sites at local pantries to help direct gardeners and other people that have extra food to deliver it directly."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,880",
+				"to": "00:32:34,000"
+			},
+			"offsets": {
+				"from": 1945880,
+				"to": 1954000
+			},
+			"text": " And then we have a group of volunteers that, when called upon, will go out and harvest food if the homeowner can't themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,350",
+				"to": "00:32:49,040"
+			},
+			"offsets": {
+				"from": 1954350,
+				"to": 1969040
+			},
+			"text": " And so we have a volunteer coordinator and we do regular trainings here at our farm on appropriate ways to be on a farm, to not stop on plants, etc., how to harvest all the different produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,760",
+				"to": "00:32:57,120"
+			},
+			"offsets": {
+				"from": 1969760,
+				"to": 1977120
+			},
+			"text": " And then we'll meet here like on a Saturday and then carpool over to the site, harvest what's available or what we have time to get."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:57,120",
+				"to": "00:33:03,070"
+			},
+			"offsets": {
+				"from": 1977120,
+				"to": 1983070
+			},
+			"text": " And then take it to either a pantry or cot's kitchen, which is our local homeless shelter."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,570",
+				"to": "00:33:05,790"
+			},
+			"offsets": {
+				"from": 1983570,
+				"to": 1985790
+			},
+			"text": " So that's, yeah, generally what it looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,970",
+				"to": "00:33:10,430"
+			},
+			"offsets": {
+				"from": 1985970,
+				"to": 1990430
+			},
+			"text": " I read on the website that you harvested over a half million pounds of food that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,670",
+				"to": "00:33:14,050"
+			},
+			"offsets": {
+				"from": 1990670,
+				"to": 1994050
+			},
+			"text": " There must just be so much food that doesn't make it to market."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,370",
+				"to": "00:33:14,690"
+			},
+			"offsets": {
+				"from": 1994370,
+				"to": 1994690
+			},
+			"text": " Definitely."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,050",
+				"to": "00:33:19,630"
+			},
+			"offsets": {
+				"from": 1995050,
+				"to": 1999630
+			},
+			"text": " And we aren't able to respond to all the phone calls that we get either."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,930",
+				"to": "00:33:21,330"
+			},
+			"offsets": {
+				"from": 1999930,
+				"to": 2001330
+			},
+			"text": " And so it's heartbreaking."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:21,650",
+				"to": "00:33:39,040"
+			},
+			"offsets": {
+				"from": 2001650,
+				"to": 2019040
+			},
+			"text": " I honestly think that's one of the, if there are reasons for burnout for volunteers and the volunteer coordinator, it's seeing all the things that we can't get to and that sense of loss, knowing that it could be so much appreciated and other, a couple blocks away sometimes, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,480",
+				"to": "00:33:44,960"
+			},
+			"offsets": {
+				"from": 2019480,
+				"to": 2024960
+			},
+			"text": " So a lot of that food actually also is included in our driver's network."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,960",
+				"to": "00:33:52,710"
+			},
+			"offsets": {
+				"from": 2024960,
+				"to": 2032710
+			},
+			"text": " And so it's not just harvested, it's harvested, recovered and redistributed."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,180",
+				"to": "00:33:55,160"
+			},
+			"offsets": {
+				"from": 2033180,
+				"to": 2035160
+			},
+			"text": " Yeah, it's kind of like the whole food bank thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,560",
+				"to": "00:33:59,520"
+			},
+			"offsets": {
+				"from": 2035560,
+				"to": 2039520
+			},
+			"text": " Can anyone put a measure on the amount of food that's going into the waste, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,540",
+				"to": "00:34:03,330"
+			},
+			"offsets": {
+				"from": 2039540,
+				"to": 2043330
+			},
+			"text": " Like if a tree falls in the forest, does it make us out?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,470",
+				"to": "00:34:03,710"
+			},
+			"offsets": {
+				"from": 2043470,
+				"to": 2043710
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,810",
+				"to": "00:34:07,150"
+			},
+			"offsets": {
+				"from": 2043810,
+				"to": 2047150
+			},
+			"text": " So we don't even know how much is truly out there."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,010",
+				"to": "00:34:10,830"
+			},
+			"offsets": {
+				"from": 2048010,
+				"to": 2050830
+			},
+			"text": " Suzy, do you see yourself as part of a food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,490",
+				"to": "00:34:11,650"
+			},
+			"offsets": {
+				"from": 2051490,
+				"to": 2051650
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,350",
+				"to": "00:34:12,860"
+			},
+			"offsets": {
+				"from": 2052350,
+				"to": 2052860
+			},
+			"text": " Totally."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:14,210",
+				"to": "00:34:14,630"
+			},
+			"offsets": {
+				"from": 2054210,
+				"to": 2054630
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,140",
+				"to": "00:34:29,580"
+			},
+			"offsets": {
+				"from": 2055140,
+				"to": 2069580
+			},
+			"text": " Um, I'm not very hip though, you know, like, um, I live in and breathe this stuff and then I often don't have time to catch up with other people doing more exciting and innovating things."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:30,040",
+				"to": "00:34:36,590"
+			},
+			"offsets": {
+				"from": 2070040,
+				"to": 2076590
+			},
+			"text": " Um, and so I'm as much part of the movement as, um, the movement's willing to have me."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:37,710",
+				"to": "00:34:42,750"
+			},
+			"offsets": {
+				"from": 2077710,
+				"to": 2082750
+			},
+			"text": " So many people have responded that way to this question that I've interviewed this season."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,010",
+				"to": "00:34:55,370"
+			},
+			"offsets": {
+				"from": 2083010,
+				"to": 2095370
+			},
+			"text": " And, um, I think part of the reason that we started this show was, uh, feeling like definitely this is what we do as part of this movement, but also never, not always feeling part of a food movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,650",
+				"to": "00:34:55,890"
+			},
+			"offsets": {
+				"from": 2095650,
+				"to": 2095890
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,010",
+				"to": "00:35:02,990"
+			},
+			"offsets": {
+				"from": 2096010,
+				"to": 2102990
+			},
+			"text": " I think there's so much value in connecting and hearing and also commiserating sometimes, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,350",
+				"to": "00:35:06,090"
+			},
+			"offsets": {
+				"from": 2103350,
+				"to": 2106090
+			},
+			"text": " Like, um, this is really hard work."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:06,310",
+				"to": "00:35:12,460"
+			},
+			"offsets": {
+				"from": 2106310,
+				"to": 2112460
+			},
+			"text": " And, um, I'm presently, I'm not out in the fields doing the work on the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,540",
+				"to": "00:35:16,500"
+			},
+			"offsets": {
+				"from": 2112540,
+				"to": 2116500
+			},
+			"text": " I'm, I'm more inside, um, which is its own journey."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:16,500",
+				"to": "00:35:32,110"
+			},
+			"offsets": {
+				"from": 2116500,
+				"to": 2132110
+			},
+			"text": " And, you know, I feel like my solar batteries are, are in need of more charging being outside, but I'm trying to do my part to shift the food system because I see this being such a common thread and everything that we talk about."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,110",
+				"to": "00:35:43,610"
+			},
+			"offsets": {
+				"from": 2132110,
+				"to": 2143610
+			},
+			"text": " And, um, it, um, it's part of why when I try to make more, uh, radical political change in my younger years, I got so fed up with institutions of power."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:43,870",
+				"to": "00:35:51,800"
+			},
+			"offsets": {
+				"from": 2143870,
+				"to": 2151800
+			},
+			"text": " I just went back to community and started making relationships happen and building community around food."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,880",
+				"to": "00:35:56,750"
+			},
+			"offsets": {
+				"from": 2151880,
+				"to": 2156750
+			},
+			"text": " And there's something very powerful and wholesome, uh, about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,870",
+				"to": "00:36:00,960"
+			},
+			"offsets": {
+				"from": 2156870,
+				"to": 2160960
+			},
+			"text": " And then, so I feel like a lot of our work is taking it to the next level."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,300",
+				"to": "00:36:13,540"
+			},
+			"offsets": {
+				"from": 2161300,
+				"to": 2173540
+			},
+			"text": " And, um, we all know that something feels right when we're here on the bounty farm, having a potluck, you know, and can we take what's right in essence and expand it and make sure everyone has opportunity to do the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,660",
+				"to": "00:36:18,350"
+			},
+			"offsets": {
+				"from": 2173660,
+				"to": 2178350
+			},
+			"text": " It's a very safe place to start, um, these more political conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,650",
+				"to": "00:36:32,790"
+			},
+			"offsets": {
+				"from": 2178650,
+				"to": 2192790
+			},
+			"text": " But as it relates to the food movement, you know, I think also being the systems person, it's really unsexy, like, because, you know, there's a lot of capital going toward, um, right now for profit food recovery."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,090",
+				"to": "00:36:36,590"
+			},
+			"offsets": {
+				"from": 2193090,
+				"to": 2196590
+			},
+			"text": " And I'm like the grumpy naysayer in the background."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,590",
+				"to": "00:36:38,850"
+			},
+			"offsets": {
+				"from": 2196590,
+				"to": 2198850
+			},
+			"text": " That's like, how's that different than anything else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,930",
+				"to": "00:36:44,890"
+			},
+			"offsets": {
+				"from": 2198930,
+				"to": 2204890
+			},
+			"text": " You know, are you really innovating or did you just repackage the same idea, et cetera?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,070",
+				"to": "00:36:51,230"
+			},
+			"offsets": {
+				"from": 2205070,
+				"to": 2211230
+			},
+			"text": " And so maybe I won't be invited to, like, new parties of new products, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:51,860",
+				"to": "00:36:54,520"
+			},
+			"offsets": {
+				"from": 2211860,
+				"to": 2214520
+			},
+			"text": " I, I'm not that drawn to the sparkly things."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,000",
+				"to": "00:36:59,480"
+			},
+			"offsets": {
+				"from": 2215000,
+				"to": 2219480
+			},
+			"text": " So that's where I feel like, I guess I'm part of the movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,820",
+				"to": "00:37:13,970"
+			},
+			"offsets": {
+				"from": 2219820,
+				"to": 2233970
+			},
+			"text": " But I think the more you can get, uh, maybe those of us that are less social or less able to tell our own story beautifully and wrapped in a bow, the more you can get us hearing from each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,310",
+				"to": "00:37:17,480"
+			},
+			"offsets": {
+				"from": 2234310,
+				"to": 2237480
+			},
+			"text": " I think that'll take innovation to a whole new level."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,250",
+				"to": "00:37:27,570"
+			},
+			"offsets": {
+				"from": 2238250,
+				"to": 2247570
+			},
+			"text": " I guess if I were to, uh, identify my, my part in this, it would be, there is innovation, but it's also incremental change."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,570",
+				"to": "00:37:42,070"
+			},
+			"offsets": {
+				"from": 2247570,
+				"to": 2262070
+			},
+			"text": " And I remember just reading an article about some of the most progressive change will come from paper pushers and, you know, administrators making small changes and how their agencies or departments are run."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,470",
+				"to": "00:37:47,240"
+			},
+			"offsets": {
+				"from": 2262470,
+				"to": 2267240
+			},
+			"text": " And so, you know, there's small radical changes that we can all make in our daily lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,360",
+				"to": "00:37:55,530"
+			},
+			"offsets": {
+				"from": 2267360,
+				"to": 2275530
+			},
+			"text": " You and Petaluma Bounty as a, as a organization, as, as a community, you're, you're always kind of, you're trying new approaches, experimenting with things."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,650",
+				"to": "00:38:02,100"
+			},
+			"offsets": {
+				"from": 2275650,
+				"to": 2282100
+			},
+			"text": " Are there things that you're kind of dreaming about trying now that haven't started that you can talk about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,100",
+				"to": "00:38:08,490"
+			},
+			"offsets": {
+				"from": 2282100,
+				"to": 2288490
+			},
+			"text": " Well, we are so lucky to, to hire a community engagement coordinator and education."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:08,490",
+				"to": "00:38:09,490"
+			},
+			"offsets": {
+				"from": 2288490,
+				"to": 2289490
+			},
+			"text": " She does both."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,490",
+				"to": "00:38:22,770"
+			},
+			"offsets": {
+				"from": 2289490,
+				"to": 2302770
+			},
+			"text": " And our dream is to have an educator here on site to bring more community out here again, to take on the food literacy piece, to drive food purchasing and healthy behavior."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,330",
+				"to": "00:38:32,980"
+			},
+			"offsets": {
+				"from": 2303330,
+				"to": 2312980
+			},
+			"text": " Um, so there's that, but then with our farmer's market life initiative, perhaps having an educator bring schools to the farmer's markets, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,120",
+				"to": "00:38:50,860"
+			},
+			"offsets": {
+				"from": 2313120,
+				"to": 2330860
+			},
+			"text": " So I think it's really looking at the farm to school to farm movement, you know, and how a lot of us have forgotten that piece, but not in a agritourism sort of way, but in a, let's dive deep into this conversation together about community food security."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,080",
+				"to": "00:38:54,920"
+			},
+			"offsets": {
+				"from": 2331080,
+				"to": 2334920
+			},
+			"text": " So taking education and engagement to the next level."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:55,280",
+				"to": "00:38:59,460"
+			},
+			"offsets": {
+				"from": 2335280,
+				"to": 2339460
+			},
+			"text": " And then, uh, on this farm site, we're working out having a long-term lease."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,380",
+				"to": "00:39:16,580"
+			},
+			"offsets": {
+				"from": 2340380,
+				"to": 2356580
+			},
+			"text": " And so we would love to take the building over there and turn it into, um, well, my dream is a dance hall, but also a community space and perhaps a commercial kitchen to support new initiatives and, you know, cottage food industry type things."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,580",
+				"to": "00:39:20,710"
+			},
+			"offsets": {
+				"from": 2356580,
+				"to": 2360710
+			},
+			"text": " And then address some of the food waste that even happens here on our farm, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:21,010",
+				"to": "00:39:22,710"
+			},
+			"offsets": {
+				"from": 2361010,
+				"to": 2362710
+			},
+			"text": " Um, to extend into the seasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,280",
+				"to": "00:39:36,280"
+			},
+			"offsets": {
+				"from": 2363280,
+				"to": 2376280
+			},
+			"text": " Um, I think also if we could find a way to mentor other communities to be able to do their own multifaceted initiatives, that would be a dream of mine."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,460",
+				"to": "00:39:40,520"
+			},
+			"offsets": {
+				"from": 2376460,
+				"to": 2380520
+			},
+			"text": " There's a lot of push right now for nonprofits to maximize program income."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:40,520",
+				"to": "00:39:49,070"
+			},
+			"offsets": {
+				"from": 2380520,
+				"to": 2389070
+			},
+			"text": " And I'm trying to find the synergies and how to do that in ways that actually benefits our organization and doesn't pull us away from our mission."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,190",
+				"to": "00:39:56,040"
+			},
+			"offsets": {
+				"from": 2389190,
+				"to": 2396040
+			},
+			"text": " And so if there were ways to mentor and or consult other communities, um, that might be something for us to look at."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:56,360",
+				"to": "00:39:56,460"
+			},
+			"offsets": {
+				"from": 2396360,
+				"to": 2396460
+			},
+			"text": " Awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:56,540",
+				"to": "00:39:57,660"
+			},
+			"offsets": {
+				"from": 2396540,
+				"to": 2397660
+			},
+			"text": " Well, that's been great."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,800",
+				"to": "00:40:03,100"
+			},
+			"offsets": {
+				"from": 2397800,
+				"to": 2403100
+			},
+			"text": " We did a ton of talking, but I would think we could probably even talk for another hour about some of these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:03,460",
+				"to": "00:40:09,290"
+			},
+			"offsets": {
+				"from": 2403460,
+				"to": 2409290
+			},
+			"text": " Um, is there anything that, any last thing that you want to leave us with or something that I didn't ask about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:10,180",
+				"to": "00:40:10,500"
+			},
+			"offsets": {
+				"from": 2410180,
+				"to": 2410500
+			},
+			"text": " Hmm."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,450",
+				"to": "00:40:15,100"
+			},
+			"offsets": {
+				"from": 2411450,
+				"to": 2415100
+			},
+			"text": " Well, I'll think of something, you know, five minutes after we drive away, of course."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,400",
+				"to": "00:40:28,590"
+			},
+			"offsets": {
+				"from": 2415400,
+				"to": 2428590
+			},
+			"text": " But, um, I mean, I think right now, um, what's coming up a lot for me is how there's organizations in our community that take one piece of the problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:28,590",
+				"to": "00:40:31,890"
+			},
+			"offsets": {
+				"from": 2428590,
+				"to": 2431890
+			},
+			"text": " Um, and then it's kind of their territory of sorts."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,890",
+				"to": "00:40:35,310"
+			},
+			"offsets": {
+				"from": 2431890,
+				"to": 2435310
+			},
+			"text": " And there's a lot of turf wars that go on in nonprofit worlds."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,810",
+				"to": "00:40:48,500"
+			},
+			"offsets": {
+				"from": 2435810,
+				"to": 2448500
+			},
+			"text": " I wish there was a way to open up conversation where we could talk about, oh, it looks like your logic model and our logic model or scope of work have some rubs, you know, like let's just pull it out and map it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:48,500",
+				"to": "00:40:58,030"
+			},
+			"offsets": {
+				"from": 2448500,
+				"to": 2458030
+			},
+			"text": " And then talk proactively about how we could turn that potential natural competitive piece into collaboration."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,050",
+				"to": "00:41:09,630"
+			},
+			"offsets": {
+				"from": 2459050,
+				"to": 2469630
+			},
+			"text": " And so I'm really excited to work with my staff on, on just talking about different approaches and internalizing the, um, community listening."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,230",
+				"to": "00:41:15,730"
+			},
+			"offsets": {
+				"from": 2470230,
+				"to": 2475730
+			},
+			"text": " Also trying to, uh, read up on different organizational development models."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:16,070",
+				"to": "00:41:19,100"
+			},
+			"offsets": {
+				"from": 2476070,
+				"to": 2479100
+			},
+			"text": " And there's a book called redefining organizations."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:19,100",
+				"to": "00:41:27,100"
+			},
+			"offsets": {
+				"from": 2479100,
+				"to": 2487100
+			},
+			"text": " I'm really excited about to re democratize our own organization, to make it reflect our guiding principles inside and out."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,440",
+				"to": "00:41:27,720"
+			},
+			"offsets": {
+				"from": 2487440,
+				"to": 2487720
+			},
+			"text": " So, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,800",
+				"to": "00:41:28,100"
+			},
+			"offsets": {
+				"from": 2487800,
+				"to": 2488100
+			},
+			"text": " Oh, good."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:28,160",
+				"to": "00:41:33,510"
+			},
+			"offsets": {
+				"from": 2488160,
+				"to": 2493510
+			},
+			"text": " I'm glad you said this because Katie, uh, Katie Hackmeyer, who is a good friend and who is on the board, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:33,670",
+				"to": "00:41:33,990"
+			},
+			"offsets": {
+				"from": 2493670,
+				"to": 2493990
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:34,370",
+				"to": "00:41:37,430"
+			},
+			"offsets": {
+				"from": 2494370,
+				"to": 2497430
+			},
+			"text": " Uh, and it was also the first person we interviewed for this podcast."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,430",
+				"to": "00:41:40,130"
+			},
+			"offsets": {
+				"from": 2497430,
+				"to": 2500130
+			},
+			"text": " She, um, she said to ask about exactly that."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,270",
+				"to": "00:41:45,310"
+			},
+			"offsets": {
+				"from": 2500270,
+				"to": 2505310
+			},
+			"text": " The nonprofit world can not always be that conducive to, to movement building."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,470",
+				"to": "00:41:50,230"
+			},
+			"offsets": {
+				"from": 2505470,
+				"to": 2510230
+			},
+			"text": " And you're really thinking a lot about how to kind of a nitty gritty of how to make it more about movement building."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:50,570",
+				"to": "00:41:51,010"
+			},
+			"offsets": {
+				"from": 2510570,
+				"to": 2511010
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,010",
+				"to": "00:42:04,690"
+			},
+			"offsets": {
+				"from": 2511010,
+				"to": 2524690
+			},
+			"text": " Well, and it's, again, it, are you trying to solve one problem like hunger in the community or are you trying to develop the capacity of your community to be able to respond to that problem?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,690",
+				"to": "00:42:09,010"
+			},
+			"offsets": {
+				"from": 2524690,
+				"to": 2529010
+			},
+			"text": " Um, that may mean us not being the expert in all, all fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:09,010",
+				"to": "00:42:09,370"
+			},
+			"offsets": {
+				"from": 2529010,
+				"to": 2529370
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,150",
+				"to": "00:42:30,150"
+			},
+			"offsets": {
+				"from": 2530150,
+				"to": 2550150
+			},
+			"text": " And it also means to me, I mean, maybe in five years I'll have a different opinion, but I hear a lot of ego in marketing and I'm really uncomfortable about how I'm supposed to nudge past others and tell everyone that Petaluma Bounty has the answer for all."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,150",
+				"to": "00:42:40,970"
+			},
+			"offsets": {
+				"from": 2550150,
+				"to": 2560970
+			},
+			"text": " Well, I'm really excited or I, I'm very honored to be part of this project and I, I believe in it, but I also believe that each community needs to map out their own way."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:41,230",
+				"to": "00:42:51,040"
+			},
+			"offsets": {
+				"from": 2561230,
+				"to": 2571040
+			},
+			"text": " And so we're really trying to boil down what we're doing into here's an approach to apply to your community, but not to say that we have the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:51,430",
+				"to": "00:42:55,610"
+			},
+			"offsets": {
+				"from": 2571430,
+				"to": 2575610
+			},
+			"text": " Therefore, send us a check for $50 and we'll send you your toolkit."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,610",
+				"to": "00:43:01,490"
+			},
+			"offsets": {
+				"from": 2575610,
+				"to": 2581490
+			},
+			"text": " It's, you know, and so there's authenticity in that, but there's also, it's not very sexy."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:02,170",
+				"to": "00:43:07,330"
+			},
+			"offsets": {
+				"from": 2582170,
+				"to": 2587330
+			},
+			"text": " I'll tell people, yeah, I don't think we can help with that or, or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,510",
+				"to": "00:43:14,190"
+			},
+			"offsets": {
+				"from": 2587510,
+				"to": 2594190
+			},
+			"text": " And, you know, uh, in the nonprofit world, there's a lot of, of selling that goes on selling of self."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,400",
+				"to": "00:43:21,970"
+			},
+			"offsets": {
+				"from": 2594400,
+				"to": 2601970
+			},
+			"text": " And, um, it, I think it's in direct conflict with everyone's aspirations of being more collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:22,150",
+				"to": "00:43:31,570"
+			},
+			"offsets": {
+				"from": 2602150,
+				"to": 2611570
+			},
+			"text": " And so I think most folks know me in our community meetings that I'll, I'll speak my truth, but I'm so honored to be in spaces where I can."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:31,570",
+				"to": "00:43:48,520"
+			},
+			"offsets": {
+				"from": 2611570,
+				"to": 2628520
+			},
+			"text": " And then when I, I don't agree, or I see that you're, for instance, your approach is actually, um, hampering more than, than helping, but it's, it's a vulnerability that you don't hear very much in positions of leadership that I think is very lacking."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:48,520",
+				"to": "00:43:55,950"
+			},
+			"offsets": {
+				"from": 2628520,
+				"to": 2635950
+			},
+			"text": " And given the complexity of our problems today, I don't think anyone has the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:55,950",
+				"to": "00:44:02,370"
+			},
+			"offsets": {
+				"from": 2635950,
+				"to": 2642370
+			},
+			"text": " I think the answer exists in community and diverse thinking and, um, crowdsourcing."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:02,790",
+				"to": "00:44:07,990"
+			},
+			"offsets": {
+				"from": 2642790,
+				"to": 2647990
+			},
+			"text": " And so finding ways to harness that, that again, reflects democratic values."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:08,110",
+				"to": "00:44:16,580"
+			},
+			"offsets": {
+				"from": 2648110,
+				"to": 2656580
+			},
+			"text": " Um, so I'm not, I'm not saying anything specific, but it's an ethic and it's a culture that I think needs to start."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,060",
+				"to": "00:44:31,860"
+			},
+			"offsets": {
+				"from": 2657060,
+				"to": 2671860
+			},
+			"text": " And, you know, I think just like the CSA model and why it was so, in some communities, so amazing is that, uh, farmers would open their books and just say, this is what I need."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:31,860",
+				"to": "00:44:35,730"
+			},
+			"offsets": {
+				"from": 2671860,
+				"to": 2675730
+			},
+			"text": " And, or, you know, I'm not, I'm not trying to make a killing here."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,810",
+				"to": "00:44:36,630"
+			},
+			"offsets": {
+				"from": 2675810,
+				"to": 2676630
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:36,690",
+				"to": "00:44:39,290"
+			},
+			"offsets": {
+				"from": 2676690,
+				"to": 2679290
+			},
+			"text": " And so that might be something that we consider in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:40,020",
+				"to": "00:44:52,990"
+			},
+			"offsets": {
+				"from": 2680020,
+				"to": 2692990
+			},
+			"text": " Um, I'm pretty open about, you know, uh, our books and how much money we don't make here, but, um, you know, finding ways to build trust because, uh, we're also entering."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:53,470",
+				"to": "00:45:06,640"
+			},
+			"offsets": {
+				"from": 2693470,
+				"to": 2706640
+			},
+			"text": " Well, we're already in an era where there's so little trust and, and large institutions because we've lost sight of what we were, a lot of our agencies were truly made for in the first place."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:06,840",
+				"to": "00:45:20,540"
+			},
+			"offsets": {
+				"from": 2706840,
+				"to": 2720540
+			},
+			"text": " Oh man, I could ask you a million questions about this, but I guess one of the things that I think you're going to talk about it is that, um, maybe the world of food is such a good fertile place to, to start to redefine that."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:20,540",
+				"to": "00:45:39,380"
+			},
+			"offsets": {
+				"from": 2720540,
+				"to": 2739380
+			},
+			"text": " Because I've heard that from farmers and, and especially in Latin America and the agroecology movement talking about like, there are no recipes for this thing we call agroecology is something that you invent and you work out in each place with, with each community, but it's a, it's an ethic and a, and a, and a approach to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:39,380",
+				"to": "00:45:58,500"
+			},
+			"offsets": {
+				"from": 2739380,
+				"to": 2758500
+			},
+			"text": " Um, there's principles, but there's not a set of guidelines and I've heard it, um, I mean, it's, it's where, uh, diversity, whether it's biodiversity or it's kind of the diversity of people or kinds of thought really goes from becoming something that's just, um, something you're supposed to want to something that's essential for being able to adapt to change."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:58,700",
+				"to": "00:46:07,070"
+			},
+			"offsets": {
+				"from": 2758700,
+				"to": 2767070
+			},
+			"text": " So, but there is that conflict with, with raising money and with being able to put your finger on what it is just exactly that you do."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:07,170",
+				"to": "00:46:07,350"
+			},
+			"offsets": {
+				"from": 2767170,
+				"to": 2767350
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:07,690",
+				"to": "00:46:08,090"
+			},
+			"offsets": {
+				"from": 2767690,
+				"to": 2768090
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:09,160",
+				"to": "00:46:13,860"
+			},
+			"offsets": {
+				"from": 2769160,
+				"to": 2773860
+			},
+			"text": " Um, and you know, there used to be a nationwide community food security network."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:13,860",
+				"to": "00:46:14,340"
+			},
+			"offsets": {
+				"from": 2773860,
+				"to": 2774340
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:14,690",
+				"to": "00:46:30,550"
+			},
+			"offsets": {
+				"from": 2774690,
+				"to": 2790550
+			},
+			"text": " Um, and I was so impressed with, with their work and, um, I know they no longer exist, but I think, um, I don't know the story behind that, but I imagine some of it too is just the, yeah, but what widget do you make at the end of the day?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:30,690",
+				"to": "00:46:31,140"
+			},
+			"offsets": {
+				"from": 2790690,
+				"to": 2791140
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,800",
+				"to": "00:46:34,460"
+			},
+			"offsets": {
+				"from": 2791800,
+				"to": 2794460
+			},
+			"text": " And I need to get better at storytelling."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:34,460",
+				"to": "00:46:38,780"
+			},
+			"offsets": {
+				"from": 2794460,
+				"to": 2798780
+			},
+			"text": " A lot of us do what story we're, we're, we're weaving."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:39,220",
+				"to": "00:46:39,380"
+			},
+			"offsets": {
+				"from": 2799220,
+				"to": 2799380
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:40,160",
+				"to": "00:46:47,590"
+			},
+			"offsets": {
+				"from": 2800160,
+				"to": 2807590
+			},
+			"text": " Um, but I also don't want to hold space that I know the answers."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:47,710",
+				"to": "00:47:01,260"
+			},
+			"offsets": {
+				"from": 2807710,
+				"to": 2821260
+			},
+			"text": " This came up in a recent conversation that might be where we look to incorporate more of the quote unquote feminine into leadership models where it's collaborative and where we're comfortable."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:01,260",
+				"to": "00:47:12,550"
+			},
+			"offsets": {
+				"from": 2821260,
+				"to": 2832550
+			},
+			"text": " If a leader says, I don't know the answer, we need to do this together or, you know, not just that I'll get back to you, but like, this is, this is bigger than me."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:12,550",
+				"to": "00:47:13,450"
+			},
+			"offsets": {
+				"from": 2832550,
+				"to": 2833450
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:13,530",
+				"to": "00:47:17,010"
+			},
+			"offsets": {
+				"from": 2833530,
+				"to": 2837010
+			},
+			"text": " And it also goes beyond linear binary thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:17,010",
+				"to": "00:47:26,700"
+			},
+			"offsets": {
+				"from": 2837010,
+				"to": 2846700
+			},
+			"text": " The fact that so many of our, our health problems and pollution has multi-point, um, potential causality."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:26,700",
+				"to": "00:47:38,950"
+			},
+			"offsets": {
+				"from": 2846700,
+				"to": 2858950
+			},
+			"text": " Like it, it's not that our problems are caused by one thing that we just need to recalibrate and our systems will work or we'll be healthier or it'll solve cancer."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:39,110",
+				"to": "00:47:43,290"
+			},
+			"offsets": {
+				"from": 2859110,
+				"to": 2863290
+			},
+			"text": " Sometimes, you know, sometimes yes, but a lot of times no."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:43,290",
+				"to": "00:47:46,230"
+			},
+			"offsets": {
+				"from": 2863290,
+				"to": 2866230
+			},
+			"text": " And so we need diverse mindsets."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:46,230",
+				"to": "00:47:52,870"
+			},
+			"offsets": {
+				"from": 2866230,
+				"to": 2872870
+			},
+			"text": " We need people that are willing to step out to of the scientific method."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:53,430",
+				"to": "00:48:14,100"
+			},
+			"offsets": {
+				"from": 2873430,
+				"to": 2894100
+			},
+			"text": " And, you know, that we have blind spots and I don't know about you, but part of what aligned me with this work was I could project problems happening because I see patterns often where, where other people don't, or they get so excited by, you know, that new way of packaging an old solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:14,420",
+				"to": "00:48:19,930"
+			},
+			"offsets": {
+				"from": 2894420,
+				"to": 2899930
+			},
+			"text": " And yeah, it's just, it's very clear that we need other approaches."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:19,990",
+				"to": "00:48:28,390"
+			},
+			"offsets": {
+				"from": 2899990,
+				"to": 2908390
+			},
+			"text": " And so that's, I'm still learning so much, but the idea of service leadership comes into play."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:28,690",
+				"to": "00:48:34,250"
+			},
+			"offsets": {
+				"from": 2908690,
+				"to": 2914250
+			},
+			"text": " But yeah, no, it's looking at how do I, not spending too much time belly button gazing, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:34,890",
+				"to": "00:48:45,600"
+			},
+			"offsets": {
+				"from": 2914890,
+				"to": 2925600
+			},
+			"text": " But at the same time, what role do I want to play in remaking food movement, my own organization, you know, that I'm a part of, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:46,540",
+				"to": "00:48:47,020"
+			},
+			"offsets": {
+				"from": 2926540,
+				"to": 2927020
+			},
+			"text": " Awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:47,020",
+				"to": "00:48:48,480"
+			},
+			"offsets": {
+				"from": 2927020,
+				"to": 2928480
+			},
+			"text": " Well, thanks so much, Susie."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:48,600",
+				"to": "00:48:49,740"
+			},
+			"offsets": {
+				"from": 2928600,
+				"to": 2929740
+			},
+			"text": " It's been totally great."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:49,800",
+				"to": "00:48:56,060"
+			},
+			"offsets": {
+				"from": 2929800,
+				"to": 2936060
+			},
+			"text": " Can you just say really quick how people can find Petaluma Bounty online or follow along with what you're doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:56,360",
+				"to": "00:48:56,600"
+			},
+			"offsets": {
+				"from": 2936360,
+				"to": 2936600
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:56,840",
+				"to": "00:49:01,150"
+			},
+			"offsets": {
+				"from": 2936840,
+				"to": 2941150
+			},
+			"text": " So our website is PetalumaBounty.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:01,810",
+				"to": "00:49:05,930"
+			},
+			"offsets": {
+				"from": 2941810,
+				"to": 2945930
+			},
+			"text": " We're on Facebook, Twitter, probably Instagram soon."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:07,270",
+				"to": "00:49:10,910"
+			},
+			"offsets": {
+				"from": 2947270,
+				"to": 2950910
+			},
+			"text": " And you can look us up on any of those, but PetalumaBounty.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:11,090",
+				"to": "00:49:11,330"
+			},
+			"offsets": {
+				"from": 2951090,
+				"to": 2951330
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:11,370",
+				"to": "00:49:17,110"
+			},
+			"offsets": {
+				"from": 2951370,
+				"to": 2957110
+			},
+			"text": " Look us up and, and let us know your thoughts and, um, you know, let's, let's keep in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:17,190",
+				"to": "00:49:19,430"
+			},
+			"offsets": {
+				"from": 2957190,
+				"to": 2959430
+			},
+			"text": " I can't wait to start listening to your podcast too."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:19,510",
+				"to": "00:49:24,150"
+			},
+			"offsets": {
+				"from": 2959510,
+				"to": 2964150
+			},
+			"text": " And then I'm going to start bugging some of your other guests and learning."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:24,430",
+				"to": "00:49:26,890"
+			},
+			"offsets": {
+				"from": 2964430,
+				"to": 2966890
+			},
+			"text": " Maybe we can have a shy people party or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:28,500",
+				"to": "00:49:28,860"
+			},
+			"offsets": {
+				"from": 2968500,
+				"to": 2968860
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:28,900",
+				"to": "00:49:33,330"
+			},
+			"offsets": {
+				"from": 2968900,
+				"to": 2973330
+			},
+			"text": " We'll have a, um, yeah, we'll definitely have a party to launch this season."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:33,470",
+				"to": "00:49:33,730"
+			},
+			"offsets": {
+				"from": 2973470,
+				"to": 2973730
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:34,110",
+				"to": "00:49:35,230"
+			},
+			"offsets": {
+				"from": 2974110,
+				"to": 2975230
+			},
+			"text": " Thanks so much, Susie."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:35,370",
+				"to": "00:49:35,970"
+			},
+			"offsets": {
+				"from": 2975370,
+				"to": 2975970
+			},
+			"text": " I appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:36,190",
+				"to": "00:49:37,750"
+			},
+			"offsets": {
+				"from": 2976190,
+				"to": 2977750
+			},
+			"text": " Thank you very much for the opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:41,450",
+				"to": "00:49:51,860"
+			},
+			"offsets": {
+				"from": 2981450,
+				"to": 2991860
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:51,860",
+				"to": "00:49:57,500"
+			},
+			"offsets": {
+				"from": 2991860,
+				"to": 2997500
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:57,990",
+				"to": "00:50:02,130"
+			},
+			"offsets": {
+				"from": 2997990,
+				"to": 3002130
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:02,570",
+				"to": "00:50:07,670"
+			},
+			"offsets": {
+				"from": 3002570,
+				"to": 3007670
+			},
+			"text": " There we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:08,020",
+				"to": "00:50:10,200"
+			},
+			"offsets": {
+				"from": 3008020,
+				"to": 3010200
+			},
+			"text": " You can find us on Facebook and Twitter too."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:10,610",
+				"to": "00:50:15,350"
+			},
+			"offsets": {
+				"from": 3010610,
+				"to": 3015350
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:15,590",
+				"to": "00:50:18,970"
+			},
+			"offsets": {
+				"from": 3015590,
+				"to": 3018970
+			},
+			"text": " a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:18,970",
+				"to": "00:50:22,850"
+			},
+			"offsets": {
+				"from": 3018970,
+				"to": 3022850
+			},
+			"text": " Visit www.calhom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:23,040",
+				"to": "00:50:28,850"
+			},
+			"offsets": {
+				"from": 3023040,
+				"to": 3028850
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

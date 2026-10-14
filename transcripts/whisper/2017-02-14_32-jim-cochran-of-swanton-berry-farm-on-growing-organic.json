@@ -1,0 +1,4036 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:03,170",
+				"to": "00:00:13,180"
+			},
+			"offsets": {
+				"from": 3170,
+				"to": 13180
+			},
+			"text": " In those days, nobody knew how to grow strawberries organically on any scale in a way that paid all the bills for the strawberries."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,180",
+				"to": "00:00:21,020"
+			},
+			"offsets": {
+				"from": 13180,
+				"to": 21020
+			},
+			"text": " So we took a little piece of land that was isolated from the rest of the fields and created this randomized trial"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,020",
+				"to": "00:00:28,980"
+			},
+			"offsets": {
+				"from": 21020,
+				"to": 28980
+			},
+			"text": " and did organic treatment and conventional treatments right next to each other, then measured everything really carefully."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,980",
+				"to": "00:00:37,370"
+			},
+			"offsets": {
+				"from": 28980,
+				"to": 37370
+			},
+			"text": " Steve did all the measuring, and I kept track of the numbers on the harvest, because we did see some differences in production."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,370",
+				"to": "00:00:42,180"
+			},
+			"offsets": {
+				"from": 37370,
+				"to": 42180
+			},
+			"text": " But the differences were not anywhere near as much as people expected."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,180",
+				"to": "00:00:48,980"
+			},
+			"offsets": {
+				"from": 42180,
+				"to": 48980
+			},
+			"text": " And the price differential in the organic price, which had they been sold organically, would have made up for the difference."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,980",
+				"to": "00:00:55,180"
+			},
+			"offsets": {
+				"from": 48980,
+				"to": 55180
+			},
+			"text": " You know, it’s good to have somebody around who’s saying, \"Well, you know, I think it’'ll work, you know.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,180",
+				"to": "00:01:03,920"
+			},
+			"offsets": {
+				"from": 55180,
+				"to": 63920
+			},
+			"text": " Because a lot of people were saying, \"No, it’ wouldn’ work, you know, because I’'d worked in the conventional industry, and they all said, \"You can grow them all right, but you can’'t make a living at it.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,920",
+				"to": "00:01:09,200"
+			},
+			"offsets": {
+				"from": 63920,
+				"to": 69200
+			},
+			"text": " But actually, they looked beautiful, and they tasted great, and I got enough to pay all the bills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,660",
+				"to": "00:01:15,580"
+			},
+			"offsets": {
+				"from": 69660,
+				"to": 75580
+			},
+			"text": " Like, so right now, I’'m, you know, one half of a percent of the organic strawberries in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,280",
+				"to": "00:01:23,800"
+			},
+			"offsets": {
+				"from": 77280,
+				"to": 83800
+			},
+			"text": " And I’'m proud of that, you know. I’'m just, that’'s fine. I don’ need to be a big one."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,800",
+				"to": "00:01:32,100"
+			},
+			"offsets": {
+				"from": 83800,
+				"to": 92100
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I’'m Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,100",
+				"to": "00:01:38,370"
+			},
+			"offsets": {
+				"from": 92100,
+				"to": 98370
+			},
+			"text": " This season, we’'re talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,370",
+				"to": "00:01:43,560"
+			},
+			"offsets": {
+				"from": 98370,
+				"to": 103560
+			},
+			"text": " These people have shaped the food movement in California. We’ talk with a diverse group of"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,560",
+				"to": "00:01:48,760"
+			},
+			"offsets": {
+				"from": 103560,
+				"to": 108760
+			},
+			"text": " California’'s rebel food makers about the ways they do things in their farms, kitchens,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,760",
+				"to": "00:01:54,440"
+			},
+			"offsets": {
+				"from": 108760,
+				"to": 114440
+			},
+			"text": " and communities that reshape the way we think about food. This show is made by Devin Sampson and Chelsea"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,440",
+				"to": "00:02:00,120"
+			},
+			"offsets": {
+				"from": 114440,
+				"to": 120120
+			},
+			"text": " Wills. Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,120",
+				"to": "00:02:07,140"
+			},
+			"offsets": {
+				"from": 120120,
+				"to": 127140
+			},
+			"text": " making this season possible. Inspired by the United Farm Workers' struggle for justice and an emerging"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,140",
+				"to": "00:02:13,700"
+			},
+			"offsets": {
+				"from": 127140,
+				"to": 133700
+			},
+			"text": " environmental movement, Jim Cochran started Swanton Berry Farm in 1983 on four leased acres on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,700",
+				"to": "00:02:18,420"
+			},
+			"offsets": {
+				"from": 133700,
+				"to": 138420
+			},
+			"text": " California coast. At the time, everyone said it was impossible to make a living growing organic"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,420",
+				"to": "00:02:24,380"
+			},
+			"offsets": {
+				"from": 138420,
+				"to": 144380
+			},
+			"text": " strawberries. But after some creative experimentation and a collaboration with agroecologist Steve"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,380",
+				"to": "00:02:30,060"
+			},
+			"offsets": {
+				"from": 144380,
+				"to": 150060
+			},
+			"text": " Gleesman and Sean Sweezy at UC Santa Cruz, Swanton became the first certified organic strawberry"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,060",
+				"to": "00:02:35,660"
+			},
+			"offsets": {
+				"from": 150060,
+				"to": 155660
+			},
+			"text": " farm in California. As the organic berry industry boomed in California, Jim kept implementing his"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,660",
+				"to": "00:02:41,340"
+			},
+			"offsets": {
+				"from": 155660,
+				"to": 161340
+			},
+			"text": " vision for a more sustainable agriculture, signing a contract with the United Farm Workers that covers"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,340",
+				"to": "00:02:47,580"
+			},
+			"offsets": {
+				"from": 161340,
+				"to": 167580
+			},
+			"text": " all of his full-time employees and offering them a stock ownership program. He aims to set an example with"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,580",
+				"to": "00:02:53,260"
+			},
+			"offsets": {
+				"from": 167580,
+				"to": 173260
+			},
+			"text": " his commercially viable, socially just, and sustainable farming business. Jim is currently in the process"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,260",
+				"to": "00:03:00,140"
+			},
+			"offsets": {
+				"from": 173260,
+				"to": 180140
+			},
+			"text": " of retiring from Swanton Berry Farm and working on the food commons, a model for supporting local food"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,140",
+				"to": "00:03:03,420"
+			},
+			"offsets": {
+				"from": 180140,
+				"to": 183420
+			},
+			"text": " systems with a pilot food hub in Fresno, California."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,420",
+				"to": "00:03:10,330"
+			},
+			"offsets": {
+				"from": 183420,
+				"to": 190330
+			},
+			"text": " Jim Cochran: This is Jim Cochran. We're sitting at the farm stand of Swanton Berry Farm. It's an old building that was"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,330",
+				"to": "00:03:17,170"
+			},
+			"offsets": {
+				"from": 190330,
+				"to": 197170
+			},
+			"text": " brought here after World War II to house farm workers from the Bracero program. And there are"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,170",
+				"to": "00:03:23,730"
+			},
+			"offsets": {
+				"from": 197170,
+				"to": 203730
+			},
+			"text": " buildings like this all up and down the coast, wherever there are farms. They're all exactly the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,730",
+				"to": "00:03:29,600"
+			},
+			"offsets": {
+				"from": 203730,
+				"to": 209600
+			},
+			"text": " same. Essentially, what they are is old army barracks. In fact, I lived in an army barracks just like"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,600",
+				"to": "00:03:36,960"
+			},
+			"offsets": {
+				"from": 209600,
+				"to": 216960
+			},
+			"text": " this when I was in the army. And so what we've done is we've converted this building into a little,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,960",
+				"to": "00:03:43,510"
+			},
+			"offsets": {
+				"from": 216960,
+				"to": 223510
+			},
+			"text": " what we call a farm stand, where we have products that we grow and things that we make out of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,510",
+				"to": "00:03:48,980"
+			},
+			"offsets": {
+				"from": 223510,
+				"to": 228980
+			},
+			"text": " products that we grow. We don't sell anything that we don't grow. And we also have a commercial kitchen"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,980",
+				"to": "00:03:56,150"
+			},
+			"offsets": {
+				"from": 228980,
+				"to": 236150
+			},
+			"text": " here. So we make pies and strawberry shortcake and jam and so forth. Everything's with the union labor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,150",
+				"to": "00:04:03,110"
+			},
+			"offsets": {
+				"from": 236150,
+				"to": 243110
+			},
+			"text": " both the field production workers and the kitchen people who make the pies and so forth, as are all"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,110",
+				"to": "00:04:09,480"
+			},
+			"offsets": {
+				"from": 243110,
+				"to": 249480
+			},
+			"text": " the delivery people and all the people who work at the farmer's market as well. So we have a fully"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,480",
+				"to": "00:04:17,590"
+			},
+			"offsets": {
+				"from": 249480,
+				"to": 257590
+			},
+			"text": " union labor force here. It consists of about, I'd say, 25 permanent full-time and then probably about"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,590",
+				"to": "00:04:25,020"
+			},
+			"offsets": {
+				"from": 257590,
+				"to": 265020
+			},
+			"text": " 10 part-time people who work at the UPIC or do a farmer's market one or two days a week. Farmer's"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,020",
+				"to": "00:04:34,200"
+			},
+			"offsets": {
+				"from": 265020,
+				"to": 274200
+			},
+			"text": " market is a really grueling job and it really wears people out. And doing two farmer's markets a week is"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,200",
+				"to": "00:04:43,140"
+			},
+			"offsets": {
+				"from": 274200,
+				"to": 283140
+			},
+			"text": " a lot for a person. Jim, when I think of Swanton Berry Farm, I think of really good berries and also"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,140",
+				"to": "00:04:50,260"
+			},
+			"offsets": {
+				"from": 283140,
+				"to": 290260
+			},
+			"text": " about kind of leading the way in organics and the ability to produce organic produce in California and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,260",
+				"to": "00:04:56,820"
+			},
+			"offsets": {
+				"from": 290260,
+				"to": 296820
+			},
+			"text": " also labor solidarity. So I want to talk about all of those, but which of those for you personally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,820",
+				"to": "00:04:59,280"
+			},
+			"offsets": {
+				"from": 296820,
+				"to": 299280
+			},
+			"text": " which of those came first?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,280",
+				"to": "00:05:08,080"
+			},
+			"offsets": {
+				"from": 299280,
+				"to": 308080
+			},
+			"text": " It was really the interest in labor issues for farmworkers and former sharecroppers. Back in 1970,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,080",
+				"to": "00:05:14,800"
+			},
+			"offsets": {
+				"from": 308080,
+				"to": 314800
+			},
+			"text": " I was a small part of a small team that organized the first farmworker owned strawberry farm in"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,800",
+				"to": "00:05:20,590"
+			},
+			"offsets": {
+				"from": 314800,
+				"to": 320590
+			},
+			"text": " California as a cooperative. And that really got me interested in the business. And of course,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,590",
+				"to": "00:05:26,350"
+			},
+			"offsets": {
+				"from": 320590,
+				"to": 326350
+			},
+			"text": " at those days, everything was all conventional. And what we were trying to do was bring the ability of"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,350",
+				"to": "00:05:32,590"
+			},
+			"offsets": {
+				"from": 326350,
+				"to": 332590
+			},
+			"text": " people who had worked on strawberry farms in ownership of their own farms. And that worked"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,590",
+				"to": "00:05:38,830"
+			},
+			"offsets": {
+				"from": 332590,
+				"to": 338830
+			},
+			"text": " reasonably well. But the cooperative structure was difficult because the fortunes of the co-ops would"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,830",
+				"to": "00:05:45,050"
+			},
+			"offsets": {
+				"from": 338830,
+				"to": 345050
+			},
+			"text": " go up and down tremendously. And they were very thinly capitalized. And so all it took was a couple"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,050",
+				"to": "00:05:46,930"
+			},
+			"offsets": {
+				"from": 345050,
+				"to": 346930
+			},
+			"text": " bad years and bingo, they were gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,930",
+				"to": "00:05:53,410"
+			},
+			"offsets": {
+				"from": 346930,
+				"to": 353410
+			},
+			"text": " And so what wound up happening is some of the people who worked in the co-ops went on to start their own farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,410",
+				"to": "00:05:59,810"
+			},
+			"offsets": {
+				"from": 353410,
+				"to": 359810
+			},
+			"text": " And in fact, today, some of the people who are farming in the Watsonville area, either their parents or"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,810",
+				"to": "00:06:07,050"
+			},
+			"offsets": {
+				"from": 359810,
+				"to": 367050
+			},
+			"text": " themselves or even their grandparents were involved in one of these co-ops that were basically a phenomenon of"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,050",
+				"to": "00:06:14,570"
+			},
+			"offsets": {
+				"from": 367050,
+				"to": 374570
+			},
+			"text": " the 1970s and very early 1980s. But at that time, I was also interested in organic farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,570",
+				"to": "00:06:21,050"
+			},
+			"offsets": {
+				"from": 374570,
+				"to": 381050
+			},
+			"text": " And as far as I knew, no one in California had actually operated a strawberry farm that was organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,850",
+				"to": "00:06:27,050"
+			},
+			"offsets": {
+				"from": 381850,
+				"to": 387050
+			},
+			"text": " There were people who were vegetable farmers and who had a little bit of strawberries here and there."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,050",
+				"to": "00:06:31,450"
+			},
+			"offsets": {
+				"from": 387050,
+				"to": 391450
+			},
+			"text": " But there wasn't anybody who was really, you know, what we call a strawberry farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,450",
+				"to": "00:06:38,330"
+			},
+			"offsets": {
+				"from": 391450,
+				"to": 398330
+			},
+			"text": " The way the industry works, in part because strawberries are so complicated to grow successfully,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,330",
+				"to": "00:06:44,810"
+			},
+			"offsets": {
+				"from": 398330,
+				"to": 404810
+			},
+			"text": " people are, they're just strawberry farmers. And they may grow some other things, but that's what they"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,810",
+				"to": "00:06:50,010"
+			},
+			"offsets": {
+				"from": 404810,
+				"to": 410010
+			},
+			"text": " define themselves as strawberry farmers. So there, at that point, there was no one in the state who says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,010",
+				"to": "00:06:56,490"
+			},
+			"offsets": {
+				"from": 410010,
+				"to": 416490
+			},
+			"text": " well, I'm a strawberry farmer and I grow organically. There was up in Washington State, Gene Kahn had"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,490",
+				"to": "00:07:02,330"
+			},
+			"offsets": {
+				"from": 416490,
+				"to": 422330
+			},
+			"text": " Gascadian Farm, and he was growing strawberries organically from, oh God, in the 70s, really a long time ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,330",
+				"to": "00:07:08,810"
+			},
+			"offsets": {
+				"from": 422330,
+				"to": 428810
+			},
+			"text": " And, but they were for processing. I think Dale Koch and some others had grown a little bit of"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,810",
+				"to": "00:07:15,380"
+			},
+			"offsets": {
+				"from": 428810,
+				"to": 435380
+			},
+			"text": " strawberries, but it wasn't on the scale that I did. Now, of course, at this point, Dale's got,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,380",
+				"to": "00:07:22,920"
+			},
+			"offsets": {
+				"from": 435380,
+				"to": 442920
+			},
+			"text": " you know, many times more strawberries than I do. And so does everybody else. But in those days,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,920",
+				"to": "00:07:30,390"
+			},
+			"offsets": {
+				"from": 442920,
+				"to": 450390
+			},
+			"text": " there was really nobody knew how to grow strawberries organically on any scale in a way that paid all"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,390",
+				"to": "00:07:36,820"
+			},
+			"offsets": {
+				"from": 450390,
+				"to": 456820
+			},
+			"text": " the bills for the strawberries. Nobody had really figured out how to grow, you know, five or ten acres"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,820",
+				"to": "00:07:42,360"
+			},
+			"offsets": {
+				"from": 456820,
+				"to": 462360
+			},
+			"text": " of strawberries and actually make a career out of it, make a living out of growing strawberries. And so"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,210",
+				"to": "00:07:49,330"
+			},
+			"offsets": {
+				"from": 463210,
+				"to": 469330
+			},
+			"text": " that's the point at which I decided to go out on my own and try to figure out how to do that. So I spent"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,330",
+				"to": "00:07:55,270"
+			},
+			"offsets": {
+				"from": 469330,
+				"to": 475270
+			},
+			"text": " about five or six years trying out different varieties and different growing methods and so"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,270",
+				"to": "00:08:02,680"
+			},
+			"offsets": {
+				"from": 475270,
+				"to": 482680
+			},
+			"text": " forth and drawing heavily on the knowledge of organic farming that was really, there was a lot of it"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,680",
+				"to": "00:08:07,240"
+			},
+			"offsets": {
+				"from": 482680,
+				"to": 487240
+			},
+			"text": " here in the Central Coast area. A lot of people knew how to grow, you know, a whole bunch of different"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,240",
+				"to": "00:08:13,610"
+			},
+			"offsets": {
+				"from": 487240,
+				"to": 493610
+			},
+			"text": " crops. And so the commitment to organic came after my commitment to labor issues, because I really felt"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,610",
+				"to": "00:08:22,660"
+			},
+			"offsets": {
+				"from": 493610,
+				"to": 502660
+			},
+			"text": " like the labor issues were not being addressed by the organic movement at all. And so I said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,660",
+				"to": "00:08:27,370"
+			},
+			"offsets": {
+				"from": 502660,
+				"to": 507370
+			},
+			"text": " OK, well, I'm going to try to just be a good employer for a while. I did that for a number of"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,370",
+				"to": "00:08:36,220"
+			},
+			"offsets": {
+				"from": 507370,
+				"to": 516220
+			},
+			"text": " years. But then the United Farm Workers began organizing in Watsonville. Their goal was to bring higher"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,220",
+				"to": "00:08:42,780"
+			},
+			"offsets": {
+				"from": 516220,
+				"to": 522780
+			},
+			"text": " labor standards to the strawberry industry in general. So I said, well, you know, maybe I should talk to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,780",
+				"to": "00:08:48,860"
+			},
+			"offsets": {
+				"from": 522780,
+				"to": 528860
+			},
+			"text": " union and my employees should talk to the union also. And maybe we could come up with some sort"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,860",
+				"to": "00:08:56,920"
+			},
+			"offsets": {
+				"from": 528860,
+				"to": 536920
+			},
+			"text": " of a contract that would work for all of us, but would also help raise the discussion of labor issues"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,920",
+				"to": "00:09:03,720"
+			},
+			"offsets": {
+				"from": 536920,
+				"to": 543720
+			},
+			"text": " in the organic world, because I felt that that was really important. I was a small potato person in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,720",
+				"to": "00:09:11,300"
+			},
+			"offsets": {
+				"from": 543720,
+				"to": 551300
+			},
+			"text": " organic movement. And I felt like it wasn't my job to tell other people what to do with their farming"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,300",
+				"to": "00:09:16,980"
+			},
+			"offsets": {
+				"from": 551300,
+				"to": 556980
+			},
+			"text": " operations of whatever size. And so if I, you know, really believed in all of this stuff, I should just"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,980",
+				"to": "00:09:21,960"
+			},
+			"offsets": {
+				"from": 556980,
+				"to": 561960
+			},
+			"text": " do it myself and just say, well, this is what I believe. This is what I'm going to do. And so I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,960",
+				"to": "00:09:27,400"
+			},
+			"offsets": {
+				"from": 561960,
+				"to": 567400
+			},
+			"text": " I signed a contract with the United Farm Workers in 1998. You know, it was expensive. It costs a lot"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:27,400",
+				"to": "00:09:33,720"
+			},
+			"offsets": {
+				"from": 567400,
+				"to": 573720
+			},
+			"text": " more. Today, my costs are quite a bit higher than other people's in the business. But I'm still in"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,720",
+				"to": "00:09:41,160"
+			},
+			"offsets": {
+				"from": 573720,
+				"to": 581160
+			},
+			"text": " business and I'm still profitable. I mean, I do have years when it's when it's not profitable. But I have"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,160",
+				"to": "00:09:48,130"
+			},
+			"offsets": {
+				"from": 581160,
+				"to": 588130
+			},
+			"text": " other years that make up for it. Basically, my goal has been to show that it's possible to pay higher"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,130",
+				"to": "00:09:54,690"
+			},
+			"offsets": {
+				"from": 588130,
+				"to": 594690
+			},
+			"text": " wages, pay all of your state required things like workers comp and unemployment and Social Security and"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,690",
+				"to": "00:10:04,060"
+			},
+			"offsets": {
+				"from": 594690,
+				"to": 604060
+			},
+			"text": " so forth, plus pay the union benefits, namely health insurance, dental insurance, pension plan, vacation"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,060",
+				"to": "00:10:11,290"
+			},
+			"offsets": {
+				"from": 604060,
+				"to": 611290
+			},
+			"text": " pay, and holiday pay. So it's quite a substantial package. At this point, it's about a $3 an hour"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,290",
+				"to": "00:10:18,300"
+			},
+			"offsets": {
+				"from": 611290,
+				"to": 618300
+			},
+			"text": " package on top of the wages and so forth. In addition to that, we provide housing, inexpensive housing"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,800",
+				"to": "00:10:26,210"
+			},
+			"offsets": {
+				"from": 619800,
+				"to": 626210
+			},
+			"text": " people who work for us. So they're able to save money when they work here."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,210",
+				"to": "00:10:31,350"
+			},
+			"offsets": {
+				"from": 626210,
+				"to": 631350
+			},
+			"text": " Working with the United Farm Workers is, it's not a normal agribusiness move. And it's also not"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,350",
+				"to": "00:10:37,970"
+			},
+			"offsets": {
+				"from": 631350,
+				"to": 637970
+			},
+			"text": " really a normal, a common organic. I remember one of the first times I had your strawberries was"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,970",
+				"to": "00:10:44,050"
+			},
+			"offsets": {
+				"from": 637970,
+				"to": 644050
+			},
+			"text": " buying them at the Ferry Plaza market at your stand, flying the UFW, the red and black UFW flags."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,050",
+				"to": "00:10:47,570"
+			},
+			"offsets": {
+				"from": 644050,
+				"to": 647570
+			},
+			"text": " So there's a, and at that time, you know, 10 years ago, it felt like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,570",
+				"to": "00:10:50,450"
+			},
+			"offsets": {
+				"from": 647570,
+				"to": 650450
+			},
+			"text": " surprising site in the middle of a Ferry Plaza farmer's market."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,450",
+				"to": "00:10:57,570"
+			},
+			"offsets": {
+				"from": 650450,
+				"to": 657570
+			},
+			"text": " Well, it was not a popular move among the, either the conventional strawberry world or the organic"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,570",
+				"to": "00:11:06,140"
+			},
+			"offsets": {
+				"from": 657570,
+				"to": 666140
+			},
+			"text": " world. But I felt like, you know, it was my duty to the cause of, you know, improving the working"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,140",
+				"to": "00:11:11,500"
+			},
+			"offsets": {
+				"from": 666140,
+				"to": 671500
+			},
+			"text": " conditions of farm workers that I do that. I just didn't feel right, you know, being concerned about"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,500",
+				"to": "00:11:17,660"
+			},
+			"offsets": {
+				"from": 671500,
+				"to": 677660
+			},
+			"text": " the environment and about, you know, my customers and so forth. And that also being concerned about the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,820",
+				"to": "00:11:22,440"
+			},
+			"offsets": {
+				"from": 677820,
+				"to": 682440
+			},
+			"text": " people who did the work in the fields. And furthermore, I felt like it was important to"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,440",
+				"to": "00:11:28,920"
+			},
+			"offsets": {
+				"from": 682440,
+				"to": 688920
+			},
+			"text": " be certified in that. And for example, you know, in the organic world, they, they, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,920",
+				"to": "00:11:34,580"
+			},
+			"offsets": {
+				"from": 688920,
+				"to": 694580
+			},
+			"text": " some people say, well, I am organic, but I just don't, I'm not certified. Well, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,580",
+				"to": "00:11:40,010"
+			},
+			"offsets": {
+				"from": 694580,
+				"to": 700010
+			},
+			"text": " that we all believe pretty strongly that being certified is very important. And you can't just"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,010",
+				"to": "00:11:46,370"
+			},
+			"offsets": {
+				"from": 700010,
+				"to": 706370
+			},
+			"text": " say, Oh, I'm organic. And because a lot of stuff can slide that isn't truly organic. You never really"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,370",
+				"to": "00:11:53,820"
+			},
+			"offsets": {
+				"from": 706370,
+				"to": 713820
+			},
+			"text": " know. And it was the same thing with labor. You can say, Oh, well, I do, you know, a good job. We treat"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,820",
+				"to": "00:12:01,140"
+			},
+			"offsets": {
+				"from": 713820,
+				"to": 721140
+			},
+			"text": " everybody like family. And, well, that's, that's sort of a good claim and may be true. But, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,140",
+				"to": "00:12:07,250"
+			},
+			"offsets": {
+				"from": 721140,
+				"to": 727250
+			},
+			"text": " then of course, it may just be not true. And since there was no interest in the organic community in"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,250",
+				"to": "00:12:15,720"
+			},
+			"offsets": {
+				"from": 727250,
+				"to": 735720
+			},
+			"text": " actually having a labor certification program, I felt like the union route was a, was a good one."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,720",
+				"to": "00:12:21,480"
+			},
+			"offsets": {
+				"from": 735720,
+				"to": 741480
+			},
+			"text": " The other good thing about the union thing is that it, you know, it's an outside check on the claims"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,480",
+				"to": "00:12:25,720"
+			},
+			"offsets": {
+				"from": 741480,
+				"to": 745720
+			},
+			"text": " that you make because the union, you know, if you're saying you're doing something when you're not,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,720",
+				"to": "00:12:32,190"
+			},
+			"offsets": {
+				"from": 745720,
+				"to": 752190
+			},
+			"text": " they're going to talk to you about it. And so it's a way for workers to have a voice. And furthermore,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,190",
+				"to": "00:12:36,750"
+			},
+			"offsets": {
+				"from": 752190,
+				"to": 756750
+			},
+			"text": " my experience in the co-ops was that the co-ops were terrible employers. In general,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,750",
+				"to": "00:12:43,170"
+			},
+			"offsets": {
+				"from": 756750,
+				"to": 763170
+			},
+			"text": " the people who work on the co-op farms had worse working conditions than they did working for some"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,170",
+				"to": "00:12:49,740"
+			},
+			"offsets": {
+				"from": 763170,
+				"to": 769740
+			},
+			"text": " of the large agribusiness farms. And so that really struck me. And people here, they say, Oh,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,740",
+				"to": "00:12:55,200"
+			},
+			"offsets": {
+				"from": 769740,
+				"to": 775200
+			},
+			"text": " co-op, you know, Oh, it must be wonderful. You know? No, it was not wonderful for the workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,200",
+				"to": "00:13:01,400"
+			},
+			"offsets": {
+				"from": 775200,
+				"to": 781400
+			},
+			"text": " So you have to understand there's, if you have the, you have the farmers on their little plot,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,050",
+				"to": "00:13:07,360"
+			},
+			"offsets": {
+				"from": 782050,
+				"to": 787360
+			},
+			"text": " two or three acre plot of strawberries, they have a voice, right? Because they're a member of the co-op,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,360",
+				"to": "00:13:13,710"
+			},
+			"offsets": {
+				"from": 787360,
+				"to": 793710
+			},
+			"text": " but the people who work for them have no voice. And so, you know, there's no regulation of how they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,710",
+				"to": "00:13:19,470"
+			},
+			"offsets": {
+				"from": 793710,
+				"to": 799470
+			},
+			"text": " paid or whether they're paid correctly and whether there's a securities being paid, all that stuff is"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,470",
+				"to": "00:13:31,450"
+			},
+			"offsets": {
+				"from": 799470,
+				"to": 811450
+			},
+			"text": " just not taken care of. So I felt like that the union was more of a first step, you know, the whole time."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,450",
+				"to": "00:13:37,100"
+			},
+			"offsets": {
+				"from": 811450,
+				"to": 817100
+			},
+			"text": " And I tell people, it's sort of like, are you buying a new car? That's got a guarantee that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,100",
+				"to": "00:13:42,740"
+			},
+			"offsets": {
+				"from": 817100,
+				"to": 822740
+			},
+			"text": " you know, everything works. Well, are you going to buy an old junk car and try to keep it going?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,740",
+				"to": "00:13:47,940"
+			},
+			"offsets": {
+				"from": 822740,
+				"to": 827940
+			},
+			"text": " Well, you know, I felt like having a new contract, it's expensive, but you get what you pay for."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,940",
+				"to": "00:13:53,460"
+			},
+			"offsets": {
+				"from": 827940,
+				"to": 833460
+			},
+			"text": " And so people are really totally into working here and we don't really have quality control issues"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,460",
+				"to": "00:13:58,950"
+			},
+			"offsets": {
+				"from": 833460,
+				"to": 838950
+			},
+			"text": " because everybody, you know, wants to do a good job and they do do a good job. And it's important for"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,950",
+				"to": "00:14:04,070"
+			},
+			"offsets": {
+				"from": 838950,
+				"to": 844070
+			},
+			"text": " the public to ask other people what they're doing on their farms. Cause I mean, after all,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,070",
+				"to": "00:14:11,270"
+			},
+			"offsets": {
+				"from": 844070,
+				"to": 851270
+			},
+			"text": " I mean, most organic food is produced by Mexican immigrant farm workers. So I think it's a fair"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,270",
+				"to": "00:14:16,150"
+			},
+			"offsets": {
+				"from": 851270,
+				"to": 856150
+			},
+			"text": " question to ask, well, you know, how are they getting paid or are people paying their social security,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,150",
+				"to": "00:14:21,350"
+			},
+			"offsets": {
+				"from": 856150,
+				"to": 861350
+			},
+			"text": " their workers comp, their unemployment insurance, you know, all that stuff is important. You know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,350",
+				"to": "00:14:25,810"
+			},
+			"offsets": {
+				"from": 861350,
+				"to": 865810
+			},
+			"text": " that's what I feel we should, everybody should be doing the right thing, following the rules."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,440",
+				"to": "00:14:35,320"
+			},
+			"offsets": {
+				"from": 872440,
+				"to": 875320
+			},
+			"text": " The union labor. I know that Cesar Chavez talked about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,320",
+				"to": "00:15:05,810"
+			},
+			"offsets": {
+				"from": 875320,
+				"to": 905810
+			},
+			"text": " you know, you figured, well, this is part of the business and, you know, it just,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:05,810",
+				"to": "00:15:12,260"
+			},
+			"offsets": {
+				"from": 905810,
+				"to": 912260
+			},
+			"text": " you get over it and, um, careful as you can, you know, but you, it's sort of inevitable that you get"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,260",
+				"to": "00:15:17,950"
+			},
+			"offsets": {
+				"from": 912260,
+				"to": 917950
+			},
+			"text": " some exposures. Now things are better now than they used to be actually quite a bit better. I think"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,950",
+				"to": "00:15:22,990"
+			},
+			"offsets": {
+				"from": 917950,
+				"to": 922990
+			},
+			"text": " everybody's a lot more careful. I mean, everybody in the conventional world is a lot more careful than"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,990",
+				"to": "00:15:28,680"
+			},
+			"offsets": {
+				"from": 922990,
+				"to": 928680
+			},
+			"text": " they used to be, than we used to be back 35 years ago, because people know more about it. And I think"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,680",
+				"to": "00:15:35,000"
+			},
+			"offsets": {
+				"from": 928680,
+				"to": 935000
+			},
+			"text": " California farmers are in a much higher standard than people in Mexico or other places. So, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,000",
+				"to": "00:15:44,110"
+			},
+			"offsets": {
+				"from": 935000,
+				"to": 944110
+			},
+			"text": " California farmers do a good job, much better job than we did 30 years ago of, um, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,110",
+				"to": "00:15:49,320"
+			},
+			"offsets": {
+				"from": 944110,
+				"to": 949320
+			},
+			"text": " following the rules and the rules are difficult to follow. But at any rate, you know, people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,320",
+				"to": "00:15:53,960"
+			},
+			"offsets": {
+				"from": 949320,
+				"to": 953960
+			},
+			"text": " the public doesn't really understand how much money it costs to follow all the rules. I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,960",
+				"to": "00:16:01,050"
+			},
+			"offsets": {
+				"from": 953960,
+				"to": 961050
+			},
+			"text": " there's the fish that's really expensive for farmers, water issues. Oh my gosh. I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,050",
+				"to": "00:16:06,570"
+			},
+			"offsets": {
+				"from": 961050,
+				"to": 966570
+			},
+			"text": " you should see how much money we spend on workers comp, at least a couple of hundred thousand dollars"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,570",
+				"to": "00:16:17,200"
+			},
+			"offsets": {
+				"from": 966570,
+				"to": 977200
+			},
+			"text": " a year on workers comp. It's a lot of money. So there's this point in the eighties and the early"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,200",
+				"to": "00:16:23,720"
+			},
+			"offsets": {
+				"from": 977200,
+				"to": 983720
+			},
+			"text": " eighties where, where you are experimenting with organic berries. People are telling you it's not"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:23,720",
+				"to": "00:16:31,290"
+			},
+			"offsets": {
+				"from": 983720,
+				"to": 991290
+			},
+			"text": " possible to do on a commercial scale. And then you team up with a researcher who I know really well,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,290",
+				"to": "00:16:37,850"
+			},
+			"offsets": {
+				"from": 991290,
+				"to": 997850
+			},
+			"text": " um, because he was my PhD thesis advisor, Steve Gleesman and the collaboration that started"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,850",
+				"to": "00:16:44,160"
+			},
+			"offsets": {
+				"from": 997850,
+				"to": 1004160
+			},
+			"text": " then has kind of become a legend of what an organic conversion is or what farmer research"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,890",
+				"to": "00:16:50,170"
+			},
+			"offsets": {
+				"from": 1004890,
+				"to": 1010170
+			},
+			"text": " collaborations can be. So can, can you talk about kind of the early, the early part of that"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:50,170",
+				"to": "00:16:51,610"
+			},
+			"offsets": {
+				"from": 1010170,
+				"to": 1011610
+			},
+			"text": " collaboration, how that got started?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,610",
+				"to": "00:17:01,100"
+			},
+			"offsets": {
+				"from": 1011610,
+				"to": 1021100
+			},
+			"text": " Gleesman happened to live next door across the field from my strawberry field."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,580",
+				"to": "00:17:07,960"
+			},
+			"offsets": {
+				"from": 1021580,
+				"to": 1027960
+			},
+			"text": " And so we started talking and I would go and scratch my head and say, well, I'm trying to figure this"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,960",
+				"to": "00:17:14,570"
+			},
+			"offsets": {
+				"from": 1027960,
+				"to": 1034570
+			},
+			"text": " out and trying to figure that out. And, um, he had some ideas of course, and, um, I'd been reading"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,570",
+				"to": "00:17:21,830"
+			},
+			"offsets": {
+				"from": 1034570,
+				"to": 1041830
+			},
+			"text": " some things about what perhaps they had done 50 years ago or a hundred years ago for soil health in"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,830",
+				"to": "00:17:27,350"
+			},
+			"offsets": {
+				"from": 1041830,
+				"to": 1047350
+			},
+			"text": " general. And, and then for insect, I don't know if you can use the word management, but they're all"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,350",
+				"to": "00:17:33,350"
+			},
+			"offsets": {
+				"from": 1047350,
+				"to": 1053350
+			},
+			"text": " out there and yeah, it's not management, but it's, um, going with the flow somehow in a way that doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,350",
+				"to": "00:17:44,130"
+			},
+			"offsets": {
+				"from": 1053350,
+				"to": 1064130
+			},
+			"text": " put you out of business. And, uh, it was very helpful to have Steve, one for the scientific"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,130",
+				"to": "00:17:49,820"
+			},
+			"offsets": {
+				"from": 1064130,
+				"to": 1069820
+			},
+			"text": " reason. But secondly, for, to have somebody saying, yeah, come on, you can do it, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:50,940",
+				"to": "00:17:57,090"
+			},
+			"offsets": {
+				"from": 1070940,
+				"to": 1077090
+			},
+			"text": " And that's, you know, cause boy, when it was like out there on my own, I mean, it was like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,090",
+				"to": "00:18:02,620"
+			},
+			"offsets": {
+				"from": 1077090,
+				"to": 1082620
+			},
+			"text": " you know, it's rough cause you've got all your money in this crop and it could get wiped out."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,620",
+				"to": "00:18:10,960"
+			},
+			"offsets": {
+				"from": 1082620,
+				"to": 1090960
+			},
+			"text": " And, you know, sometimes parts of it did. And, you know, I had no subsidies, no government money,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,960",
+				"to": "00:18:20,000"
+			},
+			"offsets": {
+				"from": 1090960,
+				"to": 1100000
+			},
+			"text": " nothing. And, um, so it was, um, scary, you know, it's good to have somebody around who's saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:20,000",
+				"to": "00:18:26,010"
+			},
+			"offsets": {
+				"from": 1100000,
+				"to": 1106010
+			},
+			"text": " well, you know, I think it'll work, you know, and cause a lot of people were saying, no, it wouldn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,010",
+				"to": "00:18:33,360"
+			},
+			"offsets": {
+				"from": 1106010,
+				"to": 1113360
+			},
+			"text": " work. You know, a lot of people in the industry, cause I still had friends in the industry, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,360",
+				"to": "00:18:38,860"
+			},
+			"offsets": {
+				"from": 1113360,
+				"to": 1118860
+			},
+			"text": " cause I, I'd worked in the conventional industry and they all said, no, you can grow them all right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,860",
+				"to": "00:18:43,980"
+			},
+			"offsets": {
+				"from": 1118860,
+				"to": 1123980
+			},
+			"text": " but you can't make a living at it. You can't get enough yield or they won't look nice. And,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,980",
+				"to": "00:18:49,380"
+			},
+			"offsets": {
+				"from": 1123980,
+				"to": 1129380
+			},
+			"text": " you know, but actually they look beautiful and they tasted great. And I got enough to pay all"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,380",
+				"to": "00:18:55,950"
+			},
+			"offsets": {
+				"from": 1129380,
+				"to": 1135950
+			},
+			"text": " the bills. And so you set up a small experiment, right? Is it, it's a little corner of the field and"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,950",
+				"to": "00:19:08,710"
+			},
+			"offsets": {
+				"from": 1135950,
+				"to": 1148710
+			},
+			"text": " look at what I was doing from a scientific perspective. So I, we took a little piece"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,710",
+				"to": "00:19:17,120"
+			},
+			"offsets": {
+				"from": 1148710,
+				"to": 1157120
+			},
+			"text": " of land that was isolated from the rest of the fields and, um, created this randomized trial and did"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,120",
+				"to": "00:19:25,300"
+			},
+			"offsets": {
+				"from": 1157120,
+				"to": 1165300
+			},
+			"text": " organic treatment and conventional treatments right next to each other, then measured everything really"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,300",
+				"to": "00:19:32,550"
+			},
+			"offsets": {
+				"from": 1165300,
+				"to": 1172550
+			},
+			"text": " carefully. Steve did all the measuring and I kept track of the numbers on the harvest because we kept"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,550",
+				"to": "00:19:39,450"
+			},
+			"offsets": {
+				"from": 1172550,
+				"to": 1179450
+			},
+			"text": " each plot separate. And of course it wasn't really organic because it was right next to a conventional"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:39,450",
+				"to": "00:19:46,230"
+			},
+			"offsets": {
+				"from": 1179450,
+				"to": 1186230
+			},
+			"text": " treatment. And it was, it was separated by a plastic baffle, but you know, we didn't sell it as organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,230",
+				"to": "00:19:53,680"
+			},
+			"offsets": {
+				"from": 1186230,
+				"to": 1193680
+			},
+			"text": " But on the other hand, um, we did see some differences in production, but the differences were"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,680",
+				"to": "00:20:00,390"
+			},
+			"offsets": {
+				"from": 1193680,
+				"to": 1200390
+			},
+			"text": " not anywhere near as much as people expected and the price differential in the organic price, which had"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,390",
+				"to": "00:20:07,890"
+			},
+			"offsets": {
+				"from": 1200390,
+				"to": 1207890
+			},
+			"text": " they been sold organically would have made up for the difference. And so that was a sort of a turning"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,890",
+				"to": "00:20:15,420"
+			},
+			"offsets": {
+				"from": 1207890,
+				"to": 1215420
+			},
+			"text": " point. Um, we held a field day and, and a bunch of conventional growers came to the field day and saw the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,420",
+				"to": "00:20:24,210"
+			},
+			"offsets": {
+				"from": 1215420,
+				"to": 1224210
+			},
+			"text": " what we were doing. And of course, you know, they had better soil and better equipment and more money."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,210",
+				"to": "00:20:29,820"
+			},
+			"offsets": {
+				"from": 1224210,
+				"to": 1229820
+			},
+			"text": " And, um, some of them picked it up and said, well, gee, you know, if Cochran can do this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,820",
+				"to": "00:20:36,450"
+			},
+			"offsets": {
+				"from": 1229820,
+				"to": 1236450
+			},
+			"text": " I can do this and I can do it even better. And it took a few more years for them to see"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,450",
+				"to": "00:20:42,170"
+			},
+			"offsets": {
+				"from": 1236450,
+				"to": 1242170
+			},
+			"text": " me actually be in the marketplace and come by the field and see the field and say, well, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,170",
+				"to": "00:20:47,990"
+			},
+			"offsets": {
+				"from": 1242170,
+				"to": 1247990
+			},
+			"text": " it seems to be working for him. And so then there was a point at which more people"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,990",
+				"to": "00:20:53,250"
+			},
+			"offsets": {
+				"from": 1247990,
+				"to": 1253250
+			},
+			"text": " started actually trying a little plot of organic strawberries of the conventional"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,250",
+				"to": "00:21:01,860"
+			},
+			"offsets": {
+				"from": 1253250,
+				"to": 1261860
+			},
+			"text": " growers. Um, and so now most growers are, you know, many of them do, you know, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,860",
+				"to": "00:21:08,610"
+			},
+			"offsets": {
+				"from": 1261860,
+				"to": 1268610
+			},
+			"text": " so right now I'm, you know, one half of a percent of the organic strawberries in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,330",
+				"to": "00:21:15,940"
+			},
+			"offsets": {
+				"from": 1270330,
+				"to": 1275940
+			},
+			"text": " And I'm proud of that. You know, I'm just, um, that's fine. I don't need to be a big one."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,940",
+				"to": "00:21:19,620"
+			},
+			"offsets": {
+				"from": 1275940,
+				"to": 1279620
+			},
+			"text": " I made a decision a long time ago, not to get big in part because,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,590",
+				"to": "00:21:26,870"
+			},
+			"offsets": {
+				"from": 1280590,
+				"to": 1286870
+			},
+			"text": " you know, when I was farming down in Salinas, you know, we had a 200 acre ranch. It was a big"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,870",
+				"to": "00:21:33,310"
+			},
+			"offsets": {
+				"from": 1286870,
+				"to": 1293310
+			},
+			"text": " operation. And the, sometimes the old timers would come by and say, oh God, I remember when I only had"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,310",
+				"to": "00:21:39,870"
+			},
+			"offsets": {
+				"from": 1293310,
+				"to": 1299870
+			},
+			"text": " 200 acres and my life was much better than it is now when I've got 8,000 acres, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,990",
+				"to": "00:21:46,670"
+			},
+			"offsets": {
+				"from": 1300990,
+				"to": 1306670
+			},
+			"text": " and I've got, you know, $20 million line of credit and I, I'm totally stressed all the time and blah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,670",
+				"to": "00:21:53,690"
+			},
+			"offsets": {
+				"from": 1306670,
+				"to": 1313690
+			},
+			"text": " blah, blah. And there's something to be said for just staying small. And then furthermore,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,690",
+				"to": "00:22:01,280"
+			},
+			"offsets": {
+				"from": 1313690,
+				"to": 1321280
+			},
+			"text": " I could control quality a lot better. It's tough to do really good quality control on a, on a large"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,280",
+				"to": "00:22:07,030"
+			},
+			"offsets": {
+				"from": 1321280,
+				"to": 1327030
+			},
+			"text": " operation. It was sort of a personal decision that I made. And so now we lease, oh gosh,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,030",
+				"to": "00:22:18,320"
+			},
+			"offsets": {
+				"from": 1327030,
+				"to": 1338320
+			},
+			"text": " about 125 acres or so, maybe 130, but we only have water for almost a hundred acres. And about 14 of"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,320",
+				"to": "00:22:24,370"
+			},
+			"offsets": {
+				"from": 1338320,
+				"to": 1344370
+			},
+			"text": " those acres are in strawberries. You know, one out of seven acres that we have under cultivation is"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,370",
+				"to": "00:22:33,370"
+			},
+			"offsets": {
+				"from": 1344370,
+				"to": 1353370
+			},
+			"text": " in strawberries. And we rotate other crops around and try not to come back on the same ground for"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,370",
+				"to": "00:22:43,170"
+			},
+			"offsets": {
+				"from": 1353370,
+				"to": 1363170
+			},
+			"text": " for five years. Longer would be better, but some of the other crops that we grow are, are perennials"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,170",
+				"to": "00:22:46,900"
+			},
+			"offsets": {
+				"from": 1363170,
+				"to": 1366900
+			},
+			"text": " like, like bushberries and artichokes and so forth."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,900",
+				"to": "00:22:51,540"
+			},
+			"offsets": {
+				"from": 1366900,
+				"to": 1371540
+			},
+			"text": " And what were some of the problems that came up or what were some of the things that you experimented"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,540",
+				"to": "00:22:56,810"
+			},
+			"offsets": {
+				"from": 1371540,
+				"to": 1376810
+			},
+			"text": " with when you were developing the set of techniques that, of organic farming?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,810",
+				"to": "00:23:06,440"
+			},
+			"offsets": {
+				"from": 1376810,
+				"to": 1386440
+			},
+			"text": " Well, interestingly enough, that particular plot didn't have many problems. One of the problems"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,440",
+				"to": "00:23:15,850"
+			},
+			"offsets": {
+				"from": 1386440,
+				"to": 1395850
+			},
+			"text": " that I had was thinking that I understood what was happening, imagining that I understood what was"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,850",
+				"to": "00:23:22,490"
+			},
+			"offsets": {
+				"from": 1395850,
+				"to": 1402490
+			},
+			"text": " going on in the soil, what was going on with the insects. Because there was, I didn't understand it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,490",
+				"to": "00:23:27,970"
+			},
+			"offsets": {
+				"from": 1402490,
+				"to": 1407970
+			},
+			"text": " you know, and it was just too complex. So I'd make this and make some intervention and it would screw"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,970",
+				"to": "00:23:34,180"
+			},
+			"offsets": {
+				"from": 1407970,
+				"to": 1414180
+			},
+			"text": " something else up. And, uh, you know, it just, it was better to take a few steps back and then just"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,180",
+				"to": "00:23:44,460"
+			},
+			"offsets": {
+				"from": 1414180,
+				"to": 1424460
+			},
+			"text": " aim for general soil nutrition and not try to dose some magic thing. I remember one time I thought,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,460",
+				"to": "00:23:52,050"
+			},
+			"offsets": {
+				"from": 1424460,
+				"to": 1432050
+			},
+			"text": " oh boy, fish meal would be really good. And so I dug the holes that we were going to plant in and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,050",
+				"to": "00:23:58,030"
+			},
+			"offsets": {
+				"from": 1432050,
+				"to": 1438030
+			},
+			"text": " put some fish meal in the bottom and, and then put, you know, an inch and a half of soil on top and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,030",
+				"to": "00:24:04,370"
+			},
+			"offsets": {
+				"from": 1438030,
+				"to": 1444370
+			},
+			"text": " then planted the transplant. And I'll be darned if it didn't burn the plants, you know, and I should"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:04,370",
+				"to": "00:24:12,190"
+			},
+			"offsets": {
+				"from": 1444370,
+				"to": 1452190
+			},
+			"text": " have just mixed a little bit in with the compost and left it at that. So that's what I, I just went"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,190",
+				"to": "00:24:19,990"
+			},
+			"offsets": {
+				"from": 1452190,
+				"to": 1459990
+			},
+			"text": " back to general good, good farming practices that have been around for 10,000 years, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,990",
+				"to": "00:24:27,830"
+			},
+			"offsets": {
+				"from": 1459990,
+				"to": 1467830
+			},
+			"text": " rotate the crops, um, grow a cover crop when you can. And in the old times they used to add just"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,830",
+				"to": "00:24:33,910"
+			},
+			"offsets": {
+				"from": 1467830,
+				"to": 1473910
+			},
+			"text": " manure, but we added compost, you know, that's handled in a way that makes it safe. And then I"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,910",
+				"to": "00:24:40,910"
+			},
+			"offsets": {
+				"from": 1473910,
+				"to": 1480910
+			},
+			"text": " had just, you know, some crops were good in the rotation and other crops weren't. And it turns out"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,910",
+				"to": "00:24:49,540"
+			},
+			"offsets": {
+				"from": 1480910,
+				"to": 1489540
+			},
+			"text": " that the, um, brassica crops were good, um, help reduce the amount of verticillium in the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,540",
+				"to": "00:24:55,650"
+			},
+			"offsets": {
+				"from": 1489540,
+				"to": 1495650
+			},
+			"text": " Um, oddly enough, when I was in Salinas, the farm advisor told me, he says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:55,650",
+				"to": "00:25:02,030"
+			},
+			"offsets": {
+				"from": 1495650,
+				"to": 1502030
+			},
+			"text": " one thing you'd never do, Jim, is you never plant strawberries after broccoli. Never do that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,030",
+				"to": "00:25:09,930"
+			},
+			"offsets": {
+				"from": 1502030,
+				"to": 1509930
+			},
+			"text": " you know? Sure enough, now that's exactly what I do. Because see, the problem was with,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,930",
+				"to": "00:25:15,840"
+			},
+			"offsets": {
+				"from": 1509930,
+				"to": 1515840
+			},
+			"text": " if you had broccoli, even when you, after you harvested the crop and you've incorporated the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,840",
+				"to": "00:25:24,070"
+			},
+			"offsets": {
+				"from": 1515840,
+				"to": 1524070
+			},
+			"text": " residue, the broccoli stems are still there to some degree. And, um, so then when you fumigate,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,900",
+				"to": "00:25:34,100"
+			},
+			"offsets": {
+				"from": 1524900,
+				"to": 1534100
+			},
+			"text": " fumigant doesn't, um, penetrate well through wherever there's a stem from, and, um, so you"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,100",
+				"to": "00:25:38,980"
+			},
+			"offsets": {
+				"from": 1534100,
+				"to": 1538980
+			},
+			"text": " don't get as good a job with the chemicals, you know? Oh, geez. And so anyway, I, I had to"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,980",
+				"to": "00:25:40,500"
+			},
+			"offsets": {
+				"from": 1538980,
+				"to": 1540500
+			},
+			"text": " relearn everything, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,730",
+				"to": "00:25:53,020"
+			},
+			"offsets": {
+				"from": 1543730,
+				"to": 1553020
+			},
+			"text": " Exactly what the extension agent said not to do. Yeah. Um, so farmer researcher collaborations are,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,260",
+				"to": "00:25:59,950"
+			},
+			"offsets": {
+				"from": 1553260,
+				"to": 1559950
+			},
+			"text": " are, I'm, I'm, I'm a consultant right now for the food and agriculture organization. And one of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,950",
+				"to": "00:26:05,160"
+			},
+			"offsets": {
+				"from": 1559950,
+				"to": 1565160
+			},
+			"text": " projects that we're doing is like, oh, how do we actually, how do, how do these things work or not"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,160",
+				"to": "00:26:15,960"
+			},
+			"offsets": {
+				"from": 1565160,
+				"to": 1575960
+			},
+			"text": " work? So what, um, it's a big question, but what made it work? Well, um, I mean, the fact is that"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,960",
+				"to": "00:26:25,400"
+			},
+			"offsets": {
+				"from": 1575960,
+				"to": 1585400
+			},
+			"text": " no farmer knows everything and there's a really big benefit to having basically extension work."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,400",
+				"to": "00:26:32,430"
+			},
+			"offsets": {
+				"from": 1585400,
+				"to": 1592430
+			},
+			"text": " And I know when I was farming in Salinas and chemically, I mean, uh, farm advisors were very"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,430",
+				"to": "00:26:39,020"
+			},
+			"offsets": {
+				"from": 1592430,
+				"to": 1599020
+			},
+			"text": " helpful. Yeah. But the problem was that there was no farm advisor for organic in those days. I think,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,020",
+				"to": "00:26:46,420"
+			},
+			"offsets": {
+				"from": 1599020,
+				"to": 1606420
+			},
+			"text": " I mean, it's really very helpful to have, for a farmer to have sort of a think group of other"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,420",
+				"to": "00:26:51,620"
+			},
+			"offsets": {
+				"from": 1606420,
+				"to": 1611620
+			},
+			"text": " farmers. And, you know, the way that the system that they've worked out here is a really good one."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:51,620",
+				"to": "00:26:58,450"
+			},
+			"offsets": {
+				"from": 1611620,
+				"to": 1618450
+			},
+			"text": " And they, they do a bunch of test plots with half a dozen different farms. And we meet a couple of"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,450",
+				"to": "00:27:03,920"
+			},
+			"offsets": {
+				"from": 1618450,
+				"to": 1623920
+			},
+			"text": " times a year and talk about how it's going and sort of share information, even though we're competing"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,920",
+				"to": "00:27:12,070"
+			},
+			"offsets": {
+				"from": 1623920,
+				"to": 1632070
+			},
+			"text": " with each other. Um, but the benefit is that we, we learn more about plant nutrition and insect ecology"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,630",
+				"to": "00:27:21,090"
+			},
+			"offsets": {
+				"from": 1632630,
+				"to": 1641090
+			},
+			"text": " because we're collaborating with everybody else. And so it improves the overall performance of our"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,090",
+				"to": "00:27:27,330"
+			},
+			"offsets": {
+				"from": 1641090,
+				"to": 1647330
+			},
+			"text": " various farms. So it's, you know, it's, it's a little scary to share your secrets. You know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,330",
+				"to": "00:27:33,120"
+			},
+			"offsets": {
+				"from": 1647330,
+				"to": 1653120
+			},
+			"text": " of course you don't share every single secret, but you know, people are seeing what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,120",
+				"to": "00:27:38,610"
+			},
+			"offsets": {
+				"from": 1653120,
+				"to": 1658610
+			},
+			"text": " All of us who are in the organic movement really believe that it's, it's a good thing that everybody"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,610",
+				"to": "00:27:46,550"
+			},
+			"offsets": {
+				"from": 1658610,
+				"to": 1666550
+			},
+			"text": " else is doing it. And we don't want to just keep it. It's just our own little private club that we are"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,550",
+				"to": "00:27:53,780"
+			},
+			"offsets": {
+				"from": 1666550,
+				"to": 1673780
+			},
+			"text": " the only ones who control, you know, so, um, we believe that it's really a good thing that everybody's"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,780",
+				"to": "00:27:58,440"
+			},
+			"offsets": {
+				"from": 1673780,
+				"to": 1678440
+			},
+			"text": " doing it. And, you know, that's why I'm happy to have the competition."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,440",
+				"to": "00:28:06,530"
+			},
+			"offsets": {
+				"from": 1678440,
+				"to": 1686530
+			},
+			"text": " I hope so. If we call it an organic movement or a food movement, right? Um, there's you and Steve have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,530",
+				"to": "00:28:12,090"
+			},
+			"offsets": {
+				"from": 1686530,
+				"to": 1692090
+			},
+			"text": " recent piece in, and, and one of the things that you guys wrote about, let me see if I can, that the part of"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,090",
+				"to": "00:28:19,170"
+			},
+			"offsets": {
+				"from": 1692090,
+				"to": 1699170
+			},
+			"text": " what made it possible is time, trust, flexibility, willingness to share knowledge, values, and belief"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,170",
+				"to": "00:28:27,590"
+			},
+			"offsets": {
+				"from": 1699170,
+				"to": 1707590
+			},
+			"text": " systems. I think that's, that set of things sounds like so much beyond what, what we talk about when we"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,590",
+				"to": "00:28:34,040"
+			},
+			"offsets": {
+				"from": 1707590,
+				"to": 1714040
+			},
+			"text": " talk about research normally. Um, there's like, there's like a, there's a relationship that had"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,040",
+				"to": "00:28:40,110"
+			},
+			"offsets": {
+				"from": 1714040,
+				"to": 1720110
+			},
+			"text": " to be built, right? Yeah. Well, it's important because it, it, um, you have to get beyond the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,780",
+				"to": "00:28:49,250"
+			},
+			"offsets": {
+				"from": 1720780,
+				"to": 1729250
+			},
+			"text": " natural tendency of competitors to be secretive about what they're doing. And so you have to believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,250",
+				"to": "00:28:57,600"
+			},
+			"offsets": {
+				"from": 1729250,
+				"to": 1737600
+			},
+			"text": " in a greater cause than, you know, you being able to outsmart your competitor down the road."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,600",
+				"to": "00:29:04,440"
+			},
+			"offsets": {
+				"from": 1737600,
+				"to": 1744440
+			},
+			"text": " So I think that's an important characteristic of, of the organic movement in some ways. There's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:04,440",
+				"to": "00:29:10,550"
+			},
+			"offsets": {
+				"from": 1744440,
+				"to": 1750550
+			},
+			"text": " there's a lot more sharing of information in our movement because it's, it's not just about us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:10,550",
+				"to": "00:29:17,220"
+			},
+			"offsets": {
+				"from": 1750550,
+				"to": 1757220
+			},
+			"text": " our, as an individual farmer making it, it's about increasing the amount of organic food that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,220",
+				"to": "00:29:25,090"
+			},
+			"offsets": {
+				"from": 1757220,
+				"to": 1765090
+			},
+			"text": " available overall. And it has increased around here. I think, I think also my article is like something"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,090",
+				"to": "00:29:30,530"
+			},
+			"offsets": {
+				"from": 1765090,
+				"to": 1770530
+			},
+			"text": " about a 2000% increase in organic production in Monterey County and in Santa Cruz County. But,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:30,530",
+				"to": "00:29:36,670"
+			},
+			"offsets": {
+				"from": 1770530,
+				"to": 1776670
+			},
+			"text": " um, that's only between 1997 and about 2006. I mean, I'm sure it's, it's more than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,670",
+				"to": "00:29:43,920"
+			},
+			"offsets": {
+				"from": 1776670,
+				"to": 1783920
+			},
+			"text": " Oh yeah. It's, it's, it's just incredible to see companies that do, you know, $50 million in sales,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,920",
+				"to": "00:29:52,300"
+			},
+			"offsets": {
+				"from": 1783920,
+				"to": 1792300
+			},
+			"text": " you know, just an individual farming operation. They do that. It's, you know, it's quite amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,400",
+				"to": "00:29:58,750"
+			},
+			"offsets": {
+				"from": 1793400,
+				"to": 1798750
+			},
+			"text": " Have labor relations also changed over that time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,750",
+				"to": "00:30:05,650"
+			},
+			"offsets": {
+				"from": 1798750,
+				"to": 1805650
+			},
+			"text": " Well, I don't know. See, I don't really follow what everybody else is doing. So I don't really"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:05,650",
+				"to": "00:30:12,760"
+			},
+			"offsets": {
+				"from": 1805650,
+				"to": 1812760
+			},
+			"text": " know, um, what's going on and other people's operations. But I do know that, that there are"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,760",
+				"to": "00:30:18,750"
+			},
+			"offsets": {
+				"from": 1812760,
+				"to": 1818750
+			},
+			"text": " some conventional farms that have great labor practices and do, you know, provide health insurance"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:18,750",
+				"to": "00:30:25,010"
+			},
+			"offsets": {
+				"from": 1818750,
+				"to": 1825010
+			},
+			"text": " for their people and that sort of thing. And, um, and you know, there are other ways where there are"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,010",
+				"to": "00:30:31,940"
+			},
+			"offsets": {
+				"from": 1825010,
+				"to": 1831940
+			},
+			"text": " organic farms that are doing really a great thing and other ones that are not doing so great. I mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,940",
+				"to": "00:30:38,350"
+			},
+			"offsets": {
+				"from": 1831940,
+				"to": 1838350
+			},
+			"text": " I don't know any organic farmers who are doing a terrible job, but I wouldn't be surprised if they"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,350",
+				"to": "00:30:47,420"
+			},
+			"offsets": {
+				"from": 1838350,
+				"to": 1847420
+			},
+			"text": " exist. But unfortunately I don't know. What else I've since clearly growing organic strawberries turned"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,420",
+				"to": "00:30:52,500"
+			},
+			"offsets": {
+				"from": 1847420,
+				"to": 1852500
+			},
+			"text": " out to be possible. What other, what other things do you think there are that, that people say are"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,500",
+				"to": "00:30:59,680"
+			},
+			"offsets": {
+				"from": 1852500,
+				"to": 1859680
+			},
+			"text": " impossible now that you suspect might not be? Well, I think the, if one of the things that"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,680",
+				"to": "00:31:08,110"
+			},
+			"offsets": {
+				"from": 1859680,
+				"to": 1868110
+			},
+			"text": " they say is impossible is to pay better wages and to pay the union benefits. And I agree that it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,110",
+				"to": "00:31:16,060"
+			},
+			"offsets": {
+				"from": 1868110,
+				"to": 1876060
+			},
+			"text": " difficult to do that in the current system because farmers get beat up by the chain stores that control"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,060",
+				"to": "00:31:21,260"
+			},
+			"offsets": {
+				"from": 1876060,
+				"to": 1881260
+			},
+			"text": " a lot of the bark. So they don't receive enough money for their product to be able to pay for all those"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,260",
+				"to": "00:31:28,290"
+			},
+			"offsets": {
+				"from": 1881260,
+				"to": 1888290
+			},
+			"text": " things. They might in some one year, but they might not the next year. I feel like there really needs to"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:28,290",
+				"to": "00:31:35,710"
+			},
+			"offsets": {
+				"from": 1888290,
+				"to": 1895710
+			},
+			"text": " be a different kind of a relationship between the stores and the farmers in order to, for the farmers"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,710",
+				"to": "00:31:42,710"
+			},
+			"offsets": {
+				"from": 1895710,
+				"to": 1902710
+			},
+			"text": " to be able to pay for the extra cost. And fortunately I've had really good relationships with the stores"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,710",
+				"to": "00:31:48,740"
+			},
+			"offsets": {
+				"from": 1902710,
+				"to": 1908740
+			},
+			"text": " that I sell to. Um, and also at the farmer's market, you, you have a relationship with your customers"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,740",
+				"to": "00:31:57,090"
+			},
+			"offsets": {
+				"from": 1908740,
+				"to": 1917090
+			},
+			"text": " directly. So that's, that's been helpful. But yeah, I understand it is difficult and scary for"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,090",
+				"to": "00:32:05,290"
+			},
+			"offsets": {
+				"from": 1917090,
+				"to": 1925290
+			},
+			"text": " some farmers to think about having a union contract, but I mean, I'm living proof that it worked out"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,290",
+				"to": "00:32:11,340"
+			},
+			"offsets": {
+				"from": 1925290,
+				"to": 1931340
+			},
+			"text": " for me. But I think in addition to that, I sort of formed strong relationships with the stores that I"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:11,340",
+				"to": "00:32:18,540"
+			},
+			"offsets": {
+				"from": 1931340,
+				"to": 1938540
+			},
+			"text": " supply who support what I'm trying to do. And so that that's been helpful and not everybody can"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,540",
+				"to": "00:32:26,420"
+			},
+			"offsets": {
+				"from": 1938540,
+				"to": 1946420
+			},
+			"text": " do that. So I can see where it's hard, but, um, on the other hand, it is possible. And so that's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,420",
+				"to": "00:32:31,500"
+			},
+			"offsets": {
+				"from": 1946420,
+				"to": 1951500
+			},
+			"text": " big thing now. I mean, you know, the organic movement has come a long ways and it's really off"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:31,500",
+				"to": "00:32:38,500"
+			},
+			"offsets": {
+				"from": 1951500,
+				"to": 1958500
+			},
+			"text": " running on its own now, but it's, it's the labor issues that are, are lagging behind."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,500",
+				"to": "00:32:43,060"
+			},
+			"offsets": {
+				"from": 1958500,
+				"to": 1963060
+			},
+			"text": " Maybe this is kind of coming full circle, but that, uh, you've kind of introduced some"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,060",
+				"to": "00:32:48,400"
+			},
+			"offsets": {
+				"from": 1963060,
+				"to": 1968400
+			},
+			"text": " collective ownership to, to your business. Can you talk about that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,400",
+				"to": "00:32:54,690"
+			},
+			"offsets": {
+				"from": 1968400,
+				"to": 1974690
+			},
+			"text": " It's not collective ownership. Um, it's a traditional employee stock ownership plan."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,690",
+				"to": "00:32:55,410"
+			},
+			"offsets": {
+				"from": 1974690,
+				"to": 1975410
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,410",
+				"to": "00:33:01,620"
+			},
+			"offsets": {
+				"from": 1975410,
+				"to": 1981620
+			},
+			"text": " So we have, uh, called an ESOP, employee stock ownership plan here. And the company contributes"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,620",
+				"to": "00:33:08,210"
+			},
+			"offsets": {
+				"from": 1981620,
+				"to": 1988210
+			},
+			"text": " cash or stock or both to this trust, which is a legally separate entity."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,210",
+				"to": "00:33:16,330"
+			},
+			"offsets": {
+				"from": 1988210,
+				"to": 1996330
+			},
+			"text": " And it's, um, it's actually a retirement program. And so it owns stock in the company. It owns about"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,330",
+				"to": "00:33:22,570"
+			},
+			"offsets": {
+				"from": 1996330,
+				"to": 2002570
+			},
+			"text": " a sixth of the stock in the company right now. And it has cash. It doesn't have investments in"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:22,570",
+				"to": "00:33:29,070"
+			},
+			"offsets": {
+				"from": 2002570,
+				"to": 2009070
+			},
+			"text": " stock other than the company stock at the moment, but it, it may wind up doing that in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,070",
+				"to": "00:33:33,560"
+			},
+			"offsets": {
+				"from": 2009070,
+				"to": 2013560
+			},
+			"text": " Although I think that investing in the company is safer than the stock market."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,550",
+				"to": "00:33:42,870"
+			},
+			"offsets": {
+				"from": 2015550,
+				"to": 2022870
+			},
+			"text": " But you know, it's one of 11,000 companies in the United States where employees own part or"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,870",
+				"to": "00:33:51,090"
+			},
+			"offsets": {
+				"from": 2022870,
+				"to": 2031090
+			},
+			"text": " all of the business. So like UPS is an ESOP Southwest airlines. A lot of big companies have"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,090",
+				"to": "00:34:01,680"
+			},
+			"offsets": {
+				"from": 2031090,
+				"to": 2041680
+			},
+			"text": " even cargo is 40% owned by its employees. Yeah. Yeah. So that was a shock to me. They have something"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,680",
+				"to": "00:34:08,770"
+			},
+			"offsets": {
+				"from": 2041680,
+				"to": 2048770
+			},
+			"text": " like 160,000 employees all over the world. Yeah. And you know, they own 40% of the company,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,770",
+				"to": "00:34:16,080"
+			},
+			"offsets": {
+				"from": 2048770,
+				"to": 2056080
+			},
+			"text": " believe it or not. But there isn't any buddy in agriculture. Cargill is not really a farming"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,080",
+				"to": "00:34:23,950"
+			},
+			"offsets": {
+				"from": 2056080,
+				"to": 2063950
+			},
+			"text": " company. It's a marketing company. So we are the only actual farm that has an ESOP. It's expensive"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,950",
+				"to": "00:34:30,630"
+			},
+			"offsets": {
+				"from": 2063950,
+				"to": 2070630
+			},
+			"text": " to maintain costs about $20,000 a year to just to administer it. It's a commitment, but I believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:30,630",
+				"to": "00:34:35,630"
+			},
+			"offsets": {
+				"from": 2070630,
+				"to": 2075630
+			},
+			"text": " in it. You know, it's sort of an alternative to the co-op model. If you want to be an independent"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,630",
+				"to": "00:34:40,740"
+			},
+			"offsets": {
+				"from": 2075630,
+				"to": 2080740
+			},
+			"text": " farmer, you go be an independent farmer. If you want to be part of a cooperative, you go join a co-op."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,740",
+				"to": "00:34:47,380"
+			},
+			"offsets": {
+				"from": 2080740,
+				"to": 2087380
+			},
+			"text": " If you want to have a little stake in the ownership and hopefully a decent place to work,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,380",
+				"to": "00:34:51,940"
+			},
+			"offsets": {
+				"from": 2087380,
+				"to": 2091940
+			},
+			"text": " then you come and work here. So we don't promise to be everything to everybody."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,660",
+				"to": "00:34:58,610"
+			},
+			"offsets": {
+				"from": 2092660,
+				"to": 2098610
+			},
+			"text": " We're more of a traditionally managed business, which a lot of workers prefer. They don't want"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,610",
+				"to": "00:35:02,930"
+			},
+			"offsets": {
+				"from": 2098610,
+				"to": 2102930
+			},
+			"text": " to have somebody asking them stuff all the time. You know, what do we do about this? What do we do"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,930",
+				"to": "00:35:08,980"
+			},
+			"offsets": {
+				"from": 2102930,
+				"to": 2108980
+			},
+			"text": " about that? They don't want to take the responsibility for it. But on the other hand, we try to be what"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,980",
+				"to": "00:35:15,250"
+			},
+			"offsets": {
+				"from": 2108980,
+				"to": 2115250
+			},
+			"text": " you might call enlightened managers, where, you know, you ask people who are in the field,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,250",
+				"to": "00:35:21,700"
+			},
+			"offsets": {
+				"from": 2115250,
+				"to": 2121700
+			},
+			"text": " what do they think about this? What do they think about that? A lot of almost all the interactions"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,700",
+				"to": "00:35:27,940"
+			},
+			"offsets": {
+				"from": 2121700,
+				"to": 2127940
+			},
+			"text": " that I have with people is, what do you think about this or that? What do you think about the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,940",
+				"to": "00:35:34,270"
+			},
+			"offsets": {
+				"from": 2127940,
+				"to": 2134270
+			},
+			"text": " watering we're doing? And do you think that these strawberries are going to be over ripe by Monday?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,590",
+				"to": "00:35:40,730"
+			},
+			"offsets": {
+				"from": 2134590,
+				"to": 2140730
+			},
+			"text": " What do you think? We should pick them today or wait until Monday? Or, you know, is this the right"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:40,730",
+				"to": "00:35:45,410"
+			},
+			"offsets": {
+				"from": 2140730,
+				"to": 2145410
+			},
+			"text": " tractor implement do you think that we're using? And that sort of thing. And people have opinions about"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,410",
+				"to": "00:35:52,700"
+			},
+			"offsets": {
+				"from": 2145410,
+				"to": 2152700
+			},
+			"text": " that. And so they like being asked about those things because, you know, we don't always do what"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:52,700",
+				"to": "00:36:01,340"
+			},
+			"offsets": {
+				"from": 2152700,
+				"to": 2161340
+			},
+			"text": " it is that they recommend, but it's part of the mix and their opinion counts. I mean, they, and you"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,340",
+				"to": "00:36:04,780"
+			},
+			"offsets": {
+				"from": 2161340,
+				"to": 2164780
+			},
+			"text": " know, if they feel like it's not a good idea to do something somewhere, they say, no, that's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,780",
+				"to": "00:36:09,200"
+			},
+			"offsets": {
+				"from": 2164780,
+				"to": 2169200
+			},
+			"text": " hey, Jim, that's, this is not a good idea. You know, we should do it the other way around,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,200",
+				"to": "00:36:14,320"
+			},
+			"offsets": {
+				"from": 2169200,
+				"to": 2174320
+			},
+			"text": " you know, which is, you know, it's nothing new in the world of management. I mean, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,320",
+				"to": "00:36:16,080"
+			},
+			"offsets": {
+				"from": 2174320,
+				"to": 2176080
+			},
+			"text": " a lot of companies work that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:16,080",
+				"to": "00:36:21,760"
+			},
+			"offsets": {
+				"from": 2176080,
+				"to": 2181760
+			},
+			"text": " So much of farming or what I've heard from a lot of farmers that I've worked for this is it's that"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:21,760",
+				"to": "00:36:26,040"
+			},
+			"offsets": {
+				"from": 2181760,
+				"to": 2186040
+			},
+			"text": " close observation that, yeah, that, that matters."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,080",
+				"to": "00:36:32,040"
+			},
+			"offsets": {
+				"from": 2187080,
+				"to": 2192040
+			},
+			"text": " Yeah. I mean, you, you just have to pay attention. I mean, and that, you know, you just look at stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,280",
+				"to": "00:36:38,260"
+			},
+			"offsets": {
+				"from": 2192280,
+				"to": 2198260
+			},
+			"text": " I mean, I, I am not a scientist, you know, and I can, I just look at a plant and I say, well,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,260",
+				"to": "00:36:46,460"
+			},
+			"offsets": {
+				"from": 2198260,
+				"to": 2206460
+			},
+			"text": " that plant's not happy. What, what, what am I doing wrong there? And so it is, it's about"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,130",
+				"to": "00:36:54,600"
+			},
+			"offsets": {
+				"from": 2207130,
+				"to": 2214600
+			},
+			"text": " paying attention. So now I, I'm sort of semi-retired. I have two managers, one in production and one in"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,320",
+				"to": "00:37:04,230"
+			},
+			"offsets": {
+				"from": 2215320,
+				"to": 2224230
+			},
+			"text": " farm sales. And, um, I just check in every day, look at all the fields and talk to people in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,230",
+				"to": "00:37:10,610"
+			},
+			"offsets": {
+				"from": 2224230,
+				"to": 2230610
+			},
+			"text": " field and in the store and farmers market people and customers. And which reminds me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,610",
+				"to": "00:37:18,800"
+			},
+			"offsets": {
+				"from": 2230610,
+				"to": 2238800
+			},
+			"text": " I need to go out and get some peas later today. So, you know, my job at this point is to be more"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,800",
+				"to": "00:37:25,370"
+			},
+			"offsets": {
+				"from": 2238800,
+				"to": 2245370
+			},
+			"text": " of a mentor because I'm 68, you know, I can't do this same physical stuff that I could. After I was"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,370",
+				"to": "00:37:30,730"
+			},
+			"offsets": {
+				"from": 2245370,
+				"to": 2250730
+			},
+			"text": " 60, I sort of, that was the point where I couldn't do stuff so much anymore because you get sort of"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,730",
+				"to": "00:37:36,780"
+			},
+			"offsets": {
+				"from": 2250730,
+				"to": 2256780
+			},
+			"text": " beat up to doing this. Yeah. And I know you're also thinking about changing a bigger food system"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:36,780",
+				"to": "00:37:40,300"
+			},
+			"offsets": {
+				"from": 2256780,
+				"to": 2260300
+			},
+			"text": " at the same time as a part of your retirement. I know you, I've heard you talk about regional"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,300",
+				"to": "00:37:46,220"
+			},
+			"offsets": {
+				"from": 2260300,
+				"to": 2266220
+			},
+			"text": " food hubs and about labor politics. Um, what, where are you putting your energy in terms of that right"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,220",
+				"to": "00:37:53,820"
+			},
+			"offsets": {
+				"from": 2266220,
+				"to": 2273820
+			},
+			"text": " now? Well, there, what I'm doing is trying to do a similar thing that I did with at the farm is"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,820",
+				"to": "00:38:01,030"
+			},
+			"offsets": {
+				"from": 2273820,
+				"to": 2281030
+			},
+			"text": " actually, um, doing it ourselves rather than trying to convince other people that they should"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:01,030",
+				"to": "00:38:07,260"
+			},
+			"offsets": {
+				"from": 2281030,
+				"to": 2287260
+			},
+			"text": " change their, what they're doing and come along and join us and we'll all work together and say, no,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,260",
+				"to": "00:38:15,790"
+			},
+			"offsets": {
+				"from": 2287260,
+				"to": 2295790
+			},
+			"text": " no, no, it's more like we'll create something. And, um, if people like it, they'll come to it. You"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:15,790",
+				"to": "00:38:23,350"
+			},
+			"offsets": {
+				"from": 2295790,
+				"to": 2303350
+			},
+			"text": " know, what are you creating? Well, we're trying to create a, um, vertically integrated, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,990",
+				"to": "00:38:33,700"
+			},
+			"offsets": {
+				"from": 2303990,
+				"to": 2313700
+			},
+			"text": " system over in Fresno where, which grows food processes, it distributes it, wholesale, some of"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,700",
+				"to": "00:38:42,220"
+			},
+			"offsets": {
+				"from": 2313700,
+				"to": 2322220
+			},
+			"text": " it, but mostly retails. So, um, it's, that's what we do here at the farm is we, we're completely"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,220",
+				"to": "00:38:49,090"
+			},
+			"offsets": {
+				"from": 2322220,
+				"to": 2329090
+			},
+			"text": " vertically and we do everything soup to nuts. In fact, I think some large percentage of our sales are"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,090",
+				"to": "00:38:56,820"
+			},
+			"offsets": {
+				"from": 2329090,
+				"to": 2336820
+			},
+			"text": " direct to the public retail. It's like 75% maybe, you know, so that's a lot. That's the way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,820",
+				"to": "00:39:03,380"
+			},
+			"offsets": {
+				"from": 2336820,
+				"to": 2343380
+			},
+			"text": " the way I'm able to afford to pay for the benefits because, you know, we get the full retail price."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:03,380",
+				"to": "00:39:10,990"
+			},
+			"offsets": {
+				"from": 2343380,
+				"to": 2350990
+			},
+			"text": " So that's been an important part of the business model. And so that's what, what I am been saying"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:10,990",
+				"to": "00:39:20,250"
+			},
+			"offsets": {
+				"from": 2350990,
+				"to": 2360250
+			},
+			"text": " about, um, how some kids are coming in with some strawberries that they picked. Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:21,850",
+				"to": "00:39:26,130"
+			},
+			"offsets": {
+				"from": 2361850,
+				"to": 2366130
+			},
+			"text": " Showing grandma and grandpa. Grandma and grandpa are appropriately thrilled."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,630",
+				"to": "00:39:36,620"
+			},
+			"offsets": {
+				"from": 2369630,
+				"to": 2376620
+			},
+			"text": " They're contributing to that direct sale. I think I will too with some, uh, strawberry shortcake and,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,620",
+				"to": "00:39:40,540"
+			},
+			"offsets": {
+				"from": 2376620,
+				"to": 2380540
+			},
+			"text": " but thanks so much for talking, Jim. I really appreciate it. Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:40,540",
+				"to": "00:39:45,250"
+			},
+			"offsets": {
+				"from": 2380540,
+				"to": 2385250
+			},
+			"text": " My pleasure. Thank you for doing what you're doing because I think it's super important that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,250",
+				"to": "00:39:51,410"
+			},
+			"offsets": {
+				"from": 2385250,
+				"to": 2391410
+			},
+			"text": " that people, um, think about the full range of things that are involved in farming and it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:52,060",
+				"to": "00:39:56,570"
+			},
+			"offsets": {
+				"from": 2392060,
+				"to": 2396570
+			},
+			"text": " you know, there's a lot, a lot of people things that happen in farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:56,570",
+				"to": "00:40:07,510"
+			},
+			"offsets": {
+				"from": 2396570,
+				"to": 2407510
+			},
+			"text": " Thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,510",
+				"to": "00:40:15,910"
+			},
+			"offsets": {
+				"from": 2407510,
+				"to": 2415910
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,910",
+				"to": "00:40:22,170"
+			},
+			"offsets": {
+				"from": 2415910,
+				"to": 2422170
+			},
+			"text": " Chelsea Wells. You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,170",
+				"to": "00:40:29,690"
+			},
+			"offsets": {
+				"from": 2422170,
+				"to": 2429690
+			},
+			"text": " and you can learn more deliciousrevolutionshow.com. There, we've got pictures and notes all about the"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,690",
+				"to": "00:40:34,940"
+			},
+			"offsets": {
+				"from": 2429690,
+				"to": 2434940
+			},
+			"text": " interviews, and you can sign up for our monthly email. You can find us on Facebook and Twitter too."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:34,940",
+				"to": "00:40:40,140"
+			},
+			"offsets": {
+				"from": 2434940,
+				"to": 2440140
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,140",
+				"to": "00:40:47,820"
+			},
+			"offsets": {
+				"from": 2440140,
+				"to": 2447820
+			},
+			"text": " a non-profit partner of the National Endowment for the Humanities. Visit www.calhom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,820",
+				"to": "00:40:53,820"
+			},
+			"offsets": {
+				"from": 2447820,
+				"to": 2453820
+			},
+			"text": " This season is a collaboration with Food First and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

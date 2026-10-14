@@ -1,0 +1,3365 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:04,130",
+				"to": "00:00:18,080"
+			},
+			"offsets": {
+				"from": 4130,
+				"to": 18080
+			},
+			"text": " As urban California starts to reckon with this, I think it's really important that rather than simply continuing to drive on the I-5 with your eyes partially closed between Los Angeles and the Bay Area,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,080",
+				"to": "00:00:34,510"
+			},
+			"offsets": {
+				"from": 18080,
+				"to": 34510
+			},
+			"text": " actually get off on some of these side streets, you know, eat some bomb tacos on the side of the road, talk to people, and begin to develop a much more authentic connection, if not friendship with actual people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,670",
+				"to": "00:00:48,700"
+			},
+			"offsets": {
+				"from": 34670,
+				"to": 48700
+			},
+			"text": " at least an awareness of what the landscape that's largely a sacrificial landscape has, what role that's played in providing food, fiber, and fuel for not only the state, but for the entire country."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,940",
+				"to": "00:01:01,240"
+			},
+			"offsets": {
+				"from": 48940,
+				"to": 61240
+			},
+			"text": " You're listening to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,560",
+				"to": "00:01:05,280"
+			},
+			"offsets": {
+				"from": 61560,
+				"to": 65280
+			},
+			"text": " Delicious Revolution is produced by Chelsea Wills and by me, Devon Samson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,500",
+				"to": "00:01:09,720"
+			},
+			"offsets": {
+				"from": 65500,
+				"to": 69720
+			},
+			"text": " This season, we're speaking to community organizers, activists, and movement builders."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,100",
+				"to": "00:01:20,800"
+			},
+			"offsets": {
+				"from": 70100,
+				"to": 80800
+			},
+			"text": " All around this central question of what will it take to build movements capable of bringing the food systems we all imagine and dream about into this complicated world."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,460",
+				"to": "00:01:25,960"
+			},
+			"offsets": {
+				"from": 81460,
+				"to": 85960
+			},
+			"text": " Janaki Jagannath is the former coordinator at the Community Alliance for Agroecology,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,960",
+				"to": "00:01:31,640"
+			},
+			"offsets": {
+				"from": 85960,
+				"to": 91640
+			},
+			"text": " a coalition of community-based organizations in the San Joaquin Valley of California"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,640",
+				"to": "00:01:39,060"
+			},
+			"offsets": {
+				"from": 91640,
+				"to": 99060
+			},
+			"text": " that work to advance agricultural and environmental policy towards justice for communities bearing the burden of California's food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,460",
+				"to": "00:01:47,550"
+			},
+			"offsets": {
+				"from": 99460,
+				"to": 107550
+			},
+			"text": " Prior to this, she worked at California Rural Legal Assistance in Fresno, enforcing labor standards and environmental justice protections,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,970",
+				"to": "00:01:51,170"
+			},
+			"offsets": {
+				"from": 107970,
+				"to": 111170
+			},
+			"text": " such as access to clean drinking water for farmworker communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,560",
+				"to": "00:01:57,700"
+			},
+			"offsets": {
+				"from": 112560,
+				"to": 117700
+			},
+			"text": " Janaki is assisted in curriculum development for the Sustainable Agriculture and Food Systems degree at UC Davis,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,160",
+				"to": "00:02:01,420"
+			},
+			"offsets": {
+				"from": 118160,
+				"to": 121420
+			},
+			"text": " and has farmed diversified and orchard crops across the state,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,960",
+				"to": "00:02:07,500"
+			},
+			"offsets": {
+				"from": 121960,
+				"to": 127500
+			},
+			"text": " including conducting training at the Refugee Entrepreneurial Agriculture Project in San Diego County."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,560",
+				"to": "00:02:15,860"
+			},
+			"offsets": {
+				"from": 127560,
+				"to": 135860
+			},
+			"text": " Janaki holds a BS in Agricultural Development from UC Davis and a producer's certification in ecological horticulture"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,860",
+				"to": "00:02:19,640"
+			},
+			"offsets": {
+				"from": 135860,
+				"to": 139640
+			},
+			"text": " from the UC Santa Cruz Center for Agricology and Sustainable Food Systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,960",
+				"to": "00:02:23,380"
+			},
+			"offsets": {
+				"from": 139960,
+				"to": 143380
+			},
+			"text": " She is currently pursuing her JD at King Hall at UC Davis."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,630",
+				"to": "00:02:28,910"
+			},
+			"offsets": {
+				"from": 144630,
+				"to": 148910
+			},
+			"text": " In this episode, I talk to Janaki about organizing the San Joaquin Valley,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,290",
+				"to": "00:02:31,830"
+			},
+			"offsets": {
+				"from": 149290,
+				"to": 151830
+			},
+			"text": " building movements in the legacy of the United Farm Workers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,130",
+				"to": "00:02:34,970"
+			},
+			"offsets": {
+				"from": 152130,
+				"to": 154970
+			},
+			"text": " and her ecological approach to environmental justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,550",
+				"to": "00:02:38,260"
+			},
+			"offsets": {
+				"from": 155550,
+				"to": 158260
+			},
+			"text": " Now, here's my interview with Janaki Jagannath."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,260",
+				"to": "00:02:44,210"
+			},
+			"offsets": {
+				"from": 158260,
+				"to": 164210
+			},
+			"text": " Welcome to Delicious Revolution, Janaki."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,380",
+				"to": "00:02:45,560"
+			},
+			"offsets": {
+				"from": 164380,
+				"to": 165560
+			},
+			"text": " Thanks for being here."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,470",
+				"to": "00:02:53,820"
+			},
+			"offsets": {
+				"from": 166470,
+				"to": 173820
+			},
+			"text": " So, Janaki, I just wanted to start with introducing us to the place that you've been working in the San Joaquin Valley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,120",
+				"to": "00:03:00,860"
+			},
+			"offsets": {
+				"from": 174120,
+				"to": 180860
+			},
+			"text": " Where is this place and what role does it play in thinking about organizing and in food systems and agriculture?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,120",
+				"to": "00:03:13,070"
+			},
+			"offsets": {
+				"from": 181120,
+				"to": 193070
+			},
+			"text": " Yeah, well, the San Joaquin Valley is this large area of land in the middle of the state stretching from the northern San Islaus County all the way down to Kern County,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,070",
+				"to": "00:03:16,690"
+			},
+			"offsets": {
+				"from": 193070,
+				"to": 196690
+			},
+			"text": " which is the county right before you get into Los Angeles."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,690",
+				"to": "00:03:26,370"
+			},
+			"offsets": {
+				"from": 196690,
+				"to": 206370
+			},
+			"text": " I like to think of it as kind of this playground for what agricultural development in the United States could look like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,470",
+				"to": "00:03:37,430"
+			},
+			"offsets": {
+				"from": 206470,
+				"to": 217430
+			},
+			"text": " because it's been, in some ways, products of the imagination of our universities and our policymakers and farmers, of course,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,590",
+				"to": "00:03:44,970"
+			},
+			"offsets": {
+				"from": 217590,
+				"to": 224970
+			},
+			"text": " and, of course, farm workers in creating the most agriculturally productive region dollar acre value wise in the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,970",
+				"to": "00:03:57,970"
+			},
+			"offsets": {
+				"from": 224970,
+				"to": 237970
+			},
+			"text": " In terms of where it is socioeconomically and environmentally, it's often understood as being one of the most impacted places in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,330",
+				"to": "00:04:06,710"
+			},
+			"offsets": {
+				"from": 238330,
+				"to": 246710
+			},
+			"text": " And, of course, when you look at indicators like the Human Development Index, some of the census tracts with the worst outcomes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,930",
+				"to": "00:04:15,160"
+			},
+			"offsets": {
+				"from": 246930,
+				"to": 255160
+			},
+			"text": " whether it's for education attainment or for birth weight and asthma rates, things like that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,520",
+				"to": "00:04:20,380"
+			},
+			"offsets": {
+				"from": 255520,
+				"to": 260380
+			},
+			"text": " they're actually located in this region in the middle of California,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,580",
+				"to": "00:04:24,830"
+			},
+			"offsets": {
+				"from": 260580,
+				"to": 264830
+			},
+			"text": " which the rest of the country by and large considers to be a very affluent place."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,830",
+				"to": "00:04:33,630"
+			},
+			"offsets": {
+				"from": 264830,
+				"to": 273630
+			},
+			"text": " I wanted to ask a little bit more about what you were saying about it's been the place where imaginations about agriculture are played out."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,630",
+				"to": "00:04:45,730"
+			},
+			"offsets": {
+				"from": 273630,
+				"to": 285730
+			},
+			"text": " Yeah, what I mean by that is that there has been a very distinct imagination around agriculture in California"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,730",
+				"to": "00:04:55,210"
+			},
+			"offsets": {
+				"from": 285730,
+				"to": 295210
+			},
+			"text": " that has been dominated by a few specific players and specifically people with the power and the economic wherewithal"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,210",
+				"to": "00:04:59,760"
+			},
+			"offsets": {
+				"from": 295210,
+				"to": 299760
+			},
+			"text": " to assert their imagination into the landscape."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,370",
+				"to": "00:05:09,630"
+			},
+			"offsets": {
+				"from": 300370,
+				"to": 309630
+			},
+			"text": " And I use that analogy because it's important for us to always remember that our landscapes that we live and walk on"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,630",
+				"to": "00:05:18,960"
+			},
+			"offsets": {
+				"from": 309630,
+				"to": 318960
+			},
+			"text": " are very much a product of certain people's idea of what they want this built environment to look like."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,960",
+				"to": "00:05:27,190"
+			},
+			"offsets": {
+				"from": 318960,
+				"to": 327190
+			},
+			"text": " And when you drive through the San Joaquin Valley from north to south, you're traveling through native land."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,290",
+				"to": "00:05:36,410"
+			},
+			"offsets": {
+				"from": 328290,
+				"to": 336410
+			},
+			"text": " You're traveling through lands that have been worked by successions of immigrants from all over the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,750",
+				"to": "00:05:50,670"
+			},
+			"offsets": {
+				"from": 336750,
+				"to": 350670
+			},
+			"text": " And today you're driving through communities that are predominantly Latino, predominantly Spanish speaking and indigenous language speaking from the southern states of Oaxaca."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,670",
+				"to": "00:06:05,940"
+			},
+			"offsets": {
+				"from": 350670,
+				"to": 365940
+			},
+			"text": " And today the imagination of what agriculture looks like still looks like a dominion of a certain small set of white land holders"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,940",
+				"to": "00:06:20,710"
+			},
+			"offsets": {
+				"from": 365940,
+				"to": 380710
+			},
+			"text": " land holders who have asserted their power over growing a certain variety of commodity crops and and placing their and actually not living on site a lot of the time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,710",
+				"to": "00:06:28,110"
+			},
+			"offsets": {
+				"from": 380710,
+				"to": 388110
+			},
+			"text": " just sort of utilizing this landscape as a capitalistic treadmill of production."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,110",
+				"to": "00:06:32,910"
+			},
+			"offsets": {
+				"from": 388110,
+				"to": 392910
+			},
+			"text": " When was the first time that you were in the San Joaquin Valley or how did you end up there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,800",
+				"to": "00:06:40,080"
+			},
+			"offsets": {
+				"from": 393800,
+				"to": 400080
+			},
+			"text": " Well, I ended up there really by my initial work with California Rural Legal Assistance."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,840",
+				"to": "00:06:50,530"
+			},
+			"offsets": {
+				"from": 400840,
+				"to": 410530
+			},
+			"text": " And California Rural Legal Assistance is a legal services organization that has been around now for over 50 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,530",
+				"to": "00:06:59,410"
+			},
+			"offsets": {
+				"from": 410530,
+				"to": 419410
+			},
+			"text": " And the group has its most attended, most utilized office, the migrant unit in Fresno."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,830",
+				"to": "00:07:08,210"
+			},
+			"offsets": {
+				"from": 419830,
+				"to": 428210
+			},
+			"text": " And of course, you know, these offices are located in places that are predominantly populated by farm workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,210",
+				"to": "00:07:20,660"
+			},
+			"offsets": {
+				"from": 428210,
+				"to": 440660
+			},
+			"text": " So when I first applied to work there, I was actually living in San Diego County and I was working in a upscale farm called Chino Farm"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,660",
+				"to": "00:07:32,560"
+			},
+			"offsets": {
+				"from": 440660,
+				"to": 452560
+			},
+			"text": " Farm that serves a very high end clientele for diversified vegetables, really for some of the finest restaurants in Los Angeles and in San Diego and a couple in the Bay Area."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,560",
+				"to": "00:07:45,740"
+			},
+			"offsets": {
+				"from": 452560,
+				"to": 465740
+			},
+			"text": " And I sort of like had a I was lucky enough to have a family friend who was a judge who would come to the farm stand."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,120",
+				"to": "00:07:57,790"
+			},
+			"offsets": {
+				"from": 466120,
+				"to": 477790
+			},
+			"text": " And and and she had worked at California Rural Legal Assistance, setting up a lot of the different programs that serve Guatemalan indigenous farm workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,110",
+				"to": "00:08:03,240"
+			},
+			"offsets": {
+				"from": 478110,
+				"to": 483240
+			},
+			"text": " And I remember talking to her, you know, behind the farm stand every now and again."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,240",
+				"to": "00:08:09,330"
+			},
+			"offsets": {
+				"from": 483240,
+				"to": 489330
+			},
+			"text": " And she would say, you know, you don't need to have a law degree to do legal services work."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,330",
+				"to": "00:08:12,930"
+			},
+			"offsets": {
+				"from": 489330,
+				"to": 492930
+			},
+			"text": " You just need to have your head on straight and have your heart in the right place."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,690",
+				"to": "00:08:17,220"
+			},
+			"offsets": {
+				"from": 493690,
+				"to": 497220
+			},
+			"text": " And I really took that to heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,540",
+				"to": "00:08:25,120"
+			},
+			"offsets": {
+				"from": 497540,
+				"to": 505120
+			},
+			"text": " And I had had interned previously for California Rural Legal Assistance when I was an undergraduate at UC Davis."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,120",
+				"to": "00:08:32,930"
+			},
+			"offsets": {
+				"from": 505120,
+				"to": 512930
+			},
+			"text": " But I decided to actually apply and move to Fresno and and do some of this work more intentionally."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,450",
+				"to": "00:08:50,280"
+			},
+			"offsets": {
+				"from": 513450,
+				"to": 530280
+			},
+			"text": " And when I got there, I was given a remarkable amount of responsibility at a relatively young age, I was operating a program called the Community Equity Initiative out of Fresno, which was servicing what we call disadvantaged, unincorporated communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,280",
+				"to": "00:08:57,270"
+			},
+			"offsets": {
+				"from": 530280,
+				"to": 537270
+			},
+			"text": " And these are farm worker towns that are located in predominantly agricultural areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,270",
+				"to": "00:09:13,850"
+			},
+			"offsets": {
+				"from": 537270,
+				"to": 553850
+			},
+			"text": " And the people that live there are folks that work in the fields and also are by and large people who have worked entire lives in the fields and have made enough money to purchase a small home or little trailer home."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,850",
+				"to": "00:09:21,330"
+			},
+			"offsets": {
+				"from": 553850,
+				"to": 561330
+			},
+			"text": " And they're living in these places now that are often lacking groundwater."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,550",
+				"to": "00:09:22,730"
+			},
+			"offsets": {
+				"from": 561550,
+				"to": 562730
+			},
+			"text": " Groundwater has been depleted."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,150",
+				"to": "00:09:28,850"
+			},
+			"offsets": {
+				"from": 563150,
+				"to": 568850
+			},
+			"text": " They're dealing with overhead spraying of pesticides from local commodity crop agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,290",
+				"to": "00:09:39,550"
+			},
+			"offsets": {
+				"from": 569290,
+				"to": 579550
+			},
+			"text": " They're dealing with really high levels of particulate matter in the air from the trucking of food products back and forth from up and down the state and out of state."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,950",
+				"to": "00:09:44,170"
+			},
+			"offsets": {
+				"from": 579950,
+				"to": 584170
+			},
+			"text": " And also from the mass amounts of dairy production in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,260",
+				"to": "00:10:11,040"
+			},
+			"offsets": {
+				"from": 585260,
+				"to": 611040
+			},
+			"text": " So these towns really, in addition to all these environmental concerns, they also have a lack of local governance because they have been unannexed, meaning that the larger cities of Fresno, Bakersfield, Visalia, and of course some of the even cities that are a little smaller than that, have chosen not to extend basic services to these areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,730",
+				"to": "00:10:23,730"
+			},
+			"offsets": {
+				"from": 612730,
+				"to": 623730
+			},
+			"text": " Whether that's an act of overt discrimination is something that we're yet to really state, I think, legally."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,730",
+				"to": "00:10:45,410"
+			},
+			"offsets": {
+				"from": 623730,
+				"to": 645410
+			},
+			"text": " But what we can understand through the land use history of California is that specific pockets of farm workers have been left out of having access to basic services and things like water, things like sidewalks and streetlights, things like basic protective housing from the elements, especially in light of climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,490",
+				"to": "00:10:46,830"
+			},
+			"offsets": {
+				"from": 645490,
+				"to": 646830
+			},
+			"text": " Those things get actually very lethal."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,830",
+				"to": "00:10:54,020"
+			},
+			"offsets": {
+				"from": 646830,
+				"to": 654020
+			},
+			"text": " So Community Equity Initiative was focused on sort of ameliorating some of those damages."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,020",
+				"to": "00:11:01,200"
+			},
+			"offsets": {
+				"from": 654020,
+				"to": 661200
+			},
+			"text": " And so I had the opportunity to work with a number of small towns scattered across Fresno County that were dealing with a lot of those challenges."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,300",
+				"to": "00:11:16,180"
+			},
+			"offsets": {
+				"from": 662300,
+				"to": 676180
+			},
+			"text": " Yeah, of course, I think like a lot of people, I tend to think of the farm workers in California as Latino, but I also know that California has a long history of people coming from all over the place to work in farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,920",
+				"to": "00:11:19,050"
+			},
+			"offsets": {
+				"from": 676920,
+				"to": 679050
+			},
+			"text": " Where do people come from?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,050",
+				"to": "00:11:25,750"
+			},
+			"offsets": {
+				"from": 679050,
+				"to": 685750
+			},
+			"text": " Well, the farm worker community is predominantly Mexican and Central today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,490",
+				"to": "00:11:38,110"
+			},
+			"offsets": {
+				"from": 686490,
+				"to": 698110
+			},
+			"text": " And actually, the fastest growing segment of the farm worker population are Oaxacan, so people from the southern state of Oaxaca and primarily indigenous language speaking."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,110",
+				"to": "00:11:49,770"
+			},
+			"offsets": {
+				"from": 698110,
+				"to": 709770
+			},
+			"text": " So people that speak Mixteco, Triki, Zapoteco, and a variety of other languages that are all distinct and beautiful cultural languages."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,710",
+				"to": "00:11:54,650"
+			},
+			"offsets": {
+				"from": 710710,
+				"to": 714650
+			},
+			"text": " And each one is spoken in a very different way."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,650",
+				"to": "00:12:06,140"
+			},
+			"offsets": {
+				"from": 714650,
+				"to": 726140
+			},
+			"text": " So, of course, that leads to a lot of difficulty for those communities when they arrive in the United States to have access to political participation."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:06,540",
+				"to": "00:12:14,600"
+			},
+			"offsets": {
+				"from": 726540,
+				"to": 734600
+			},
+			"text": " I mean, at the very least, but we're also just talking about basic services for having a safe and healthy life here."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,740",
+				"to": "00:12:30,940"
+			},
+			"offsets": {
+				"from": 734740,
+				"to": 750940
+			},
+			"text": " So, I mean, right now, you know, I think there is a current reckoning in the food movement, maybe, around this, the diversity of California and the diversity of the hands that have essentially created our agricultural economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,360",
+				"to": "00:12:39,080"
+			},
+			"offsets": {
+				"from": 751360,
+				"to": 759080
+			},
+			"text": " And all of those things are hugely important to look at in terms of understanding our current political moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,080",
+				"to": "00:12:56,760"
+			},
+			"offsets": {
+				"from": 759080,
+				"to": 776760
+			},
+			"text": " But there is, of course, a reality that we all have to wake up to that the communities that are most impacted in environmental justice areas of rural California are still Mexican and Central American."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,240",
+				"to": "00:13:00,960"
+			},
+			"offsets": {
+				"from": 777240,
+				"to": 780960
+			},
+			"text": " Right. Yeah. And so tell me about the Community Alliance for Agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,680",
+				"to": "00:13:04,800"
+			},
+			"offsets": {
+				"from": 781680,
+				"to": 784800
+			},
+			"text": " I know it's a coalition of six groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,800",
+				"to": "00:13:20,570"
+			},
+			"offsets": {
+				"from": 784800,
+				"to": 800570
+			},
+			"text": " Yeah. So the alliance was formed in 2015 and really came out of a much longer prior process among these six environmental justice organizations."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,150",
+				"to": "00:13:40,750"
+			},
+			"offsets": {
+				"from": 801150,
+				"to": 820750
+			},
+			"text": " And these organizations are Community Water Center, the Center on Race, Poverty and the Environment, California for Pesticide Reform and a number of other groups that have very historic linkages with farmworker communities through a variety of environmental campaigns related to pesticide exposure,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,750",
+				"to": "00:13:48,780"
+			},
+			"offsets": {
+				"from": 820750,
+				"to": 828780
+			},
+			"text": " to access to green drinking water and the siting of hazardous waste facilities and oil and gas extraction."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,680",
+				"to": "00:13:57,790"
+			},
+			"offsets": {
+				"from": 829680,
+				"to": 837790
+			},
+			"text": " So one might wonder how all of these different areas of environmental advocacy link together in around agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,790",
+				"to": "00:14:15,580"
+			},
+			"offsets": {
+				"from": 837790,
+				"to": 855580
+			},
+			"text": " But what we came together understanding was that agriculture is not a sort of abstract concept in the San Joaquin Valley, maybe the way it is in urban places where maybe in the more urban areas of California,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,580",
+				"to": "00:14:31,930"
+			},
+			"offsets": {
+				"from": 855580,
+				"to": 871930
+			},
+			"text": " there's a robust dialogue about fresh and sustainable agriculture and organic and these concepts that, you know, even as I say them, I'm realizing they might be a little bit passé now in urban communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,270",
+				"to": "00:14:38,830"
+			},
+			"offsets": {
+				"from": 872270,
+				"to": 878830
+			},
+			"text": " However, in rural California, farming is fundamental to everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,830",
+				"to": "00:14:45,880"
+			},
+			"offsets": {
+				"from": 878830,
+				"to": 885880
+			},
+			"text": " I mean, it's the economic driver, and it's really the place where we all live."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,000",
+				"to": "00:14:51,340"
+			},
+			"offsets": {
+				"from": 886000,
+				"to": 891340
+			},
+			"text": " If you live in rural California, you're going to be in proximity to a farming operation."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,420",
+				"to": "00:15:06,630"
+			},
+			"offsets": {
+				"from": 892420,
+				"to": 906630
+			},
+			"text": " And additionally, maybe the most important point is that our elected officials and policymakers are by and large people who are constantly in flux through this revolving door"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,630",
+				"to": "00:15:10,750"
+			},
+			"offsets": {
+				"from": 906630,
+				"to": 910750
+			},
+			"text": " between large agricultural interest and elected office."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,750",
+				"to": "00:15:24,970"
+			},
+			"offsets": {
+				"from": 910750,
+				"to": 924970
+			},
+			"text": " And so when it comes to actually pushing any policy change around pesticide exposures, around oil and gas extraction, around the water runoff from large dairy farms,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,130",
+				"to": "00:15:35,890"
+			},
+			"offsets": {
+				"from": 925130,
+				"to": 935890
+			},
+			"text": " we're always talking about power holding by those people who are landholders and who are participating in agribusiness."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,480",
+				"to": "00:15:52,770"
+			},
+			"offsets": {
+				"from": 936480,
+				"to": 952770
+			},
+			"text": " So our alliance came together with that focus of not just talking about, you know, promoting organic or sustainable or any, you know, any single air quotable concept of agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:52,770",
+				"to": "00:16:04,430"
+			},
+			"offsets": {
+				"from": 952770,
+				"to": 964430
+			},
+			"text": " We're more discussing creating large scale political shift through introducing alternative forms of dialogue around agriculture,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,430",
+				"to": "00:16:25,520"
+			},
+			"offsets": {
+				"from": 964430,
+				"to": 985520
+			},
+			"text": " but most importantly, introducing farmworker communities and small scale farmers, farmers of color, into decision making process alongside and maybe in place of some of the larger and more economically well funded decision makers that currently wield the most power."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,940",
+				"to": "00:16:26,420"
+			},
+			"offsets": {
+				"from": 985940,
+				"to": 986420
+			},
+			"text": " Right, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,970",
+				"to": "00:16:28,160"
+			},
+			"offsets": {
+				"from": 986970,
+				"to": 988160
+			},
+			"text": " I guess this is the big question."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,260",
+				"to": "00:16:29,420"
+			},
+			"offsets": {
+				"from": 988260,
+				"to": 989420
+			},
+			"text": " How do you do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,520",
+				"to": "00:16:35,020"
+			},
+			"offsets": {
+				"from": 989520,
+				"to": 995020
+			},
+			"text": " We're interested in talking about organizing and how we build political power and movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,930",
+				"to": "00:16:39,000"
+			},
+			"offsets": {
+				"from": 995930,
+				"to": 999000
+			},
+			"text": " What do you use and what inspires those approaches?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:39,420",
+				"to": "00:16:45,290"
+			},
+			"offsets": {
+				"from": 999420,
+				"to": 1005290
+			},
+			"text": " Yeah, well, how do we do it is very slowly, very slowly is what we've realized."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,290",
+				"to": "00:16:53,200"
+			},
+			"offsets": {
+				"from": 1005290,
+				"to": 1013200
+			},
+			"text": " And of course, the movement towards political shift is really very geologic in a sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,700",
+				"to": "00:17:03,120"
+			},
+			"offsets": {
+				"from": 1013700,
+				"to": 1023120
+			},
+			"text": " And I use that word because we're talking about a change that begins with the soil in the movement that we're building."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,120",
+				"to": "00:17:15,520"
+			},
+			"offsets": {
+				"from": 1023120,
+				"to": 1035520
+			},
+			"text": " As Community Alliance for Agroecology, we really deeply incorporate sustainable and agroecological methods into a larger framework of justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,720",
+				"to": "00:17:33,930"
+			},
+			"offsets": {
+				"from": 1035720,
+				"to": 1053930
+			},
+			"text": " Not simply, as I said before, vying for one singular form of agriculture, but rather incorporating agriculture as the most intimate relationship that human beings have with the earth into a larger framework of equity."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,930",
+				"to": "00:17:42,040"
+			},
+			"offsets": {
+				"from": 1053930,
+				"to": 1062040
+			},
+			"text": " And none of this would be possible without the past wins of the environmental justice movement that we build off of."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,040",
+				"to": "00:18:06,190"
+			},
+			"offsets": {
+				"from": 1062040,
+				"to": 1086190
+			},
+			"text": " And the groups that formed the alliance are ones that have played a really large role in advancing environmental justice law in California, in creating some of our most important statutes that protect our groundwater, that protect our air quality, and even requiring the appointment and hire of environmental justice employees at our departments."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,410",
+				"to": "00:18:16,510"
+			},
+			"offsets": {
+				"from": 1086410,
+				"to": 1096510
+			},
+			"text": " And so it's important for us to always be remembering that we're building off of those wins to actually advance maybe more holistic framework around agricultural equality."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,510",
+				"to": "00:18:38,720"
+			},
+			"offsets": {
+				"from": 1096510,
+				"to": 1118720
+			},
+			"text": " And in terms of getting there, some of the methods that we employ are direct organizing, of course, by actually working one-on-one with local farmworker resident communities that are dealing with the outcomes of the large industrial ag operations."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,340",
+				"to": "00:18:50,070"
+			},
+			"offsets": {
+				"from": 1119340,
+				"to": 1130070
+			},
+			"text": " And, you know, like my mentor, Lupe Martinez says, from the Center on Race, Poverty, and the Environment, he's an organizer with Cesar Chavez."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,670",
+				"to": "00:18:59,640"
+			},
+			"offsets": {
+				"from": 1130670,
+				"to": 1139640
+			},
+			"text": " He and Gustavo Aguirre, both of them are two of our sort of mentors around organizing at the Alliance."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,200",
+				"to": "00:19:08,800"
+			},
+			"offsets": {
+				"from": 1140200,
+				"to": 1148800
+			},
+			"text": " And they talk about this concept of education of the heart, meaning that there's a great deal of education book learning that we can do."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,250",
+				"to": "00:19:18,580"
+			},
+			"offsets": {
+				"from": 1149250,
+				"to": 1158580
+			},
+			"text": " And there's certainly a lot of book learning about climate change that needs to be done by our elected officials who actually are tasked with protecting the climate."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,580",
+				"to": "00:19:32,450"
+			},
+			"offsets": {
+				"from": 1158580,
+				"to": 1172450
+			},
+			"text": " But there's a very important other side of learning about ecology and agricultural development, which is related to our own human connection to the planet."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,660",
+				"to": "00:19:50,170"
+			},
+			"offsets": {
+				"from": 1172660,
+				"to": 1190170
+			},
+			"text": " Heart knowledge and what the Alliance employed was and continues to employ is conducting trainings for our community residents in the form of crash courses around agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,170",
+				"to": "00:20:10,710"
+			},
+			"offsets": {
+				"from": 1190170,
+				"to": 1210710
+			},
+			"text": " So that means identifying certain areas of the ecology, whether that's, you know, our water cycle or carbon cycle, and actually identifying where in that cycle has it been fractured by industrial agriculture, parsing it apart, looking at what are the different policy implications, what led us here, and how do we change it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,710",
+				"to": "00:20:33,530"
+			},
+			"offsets": {
+				"from": 1210710,
+				"to": 1233530
+			},
+			"text": " So those sorts of forums have been incredibly important for just elevating our level of literacy as advocates around, you know, simultaneously discussing science and policy and learning to remember that we too are experts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,530",
+				"to": "00:20:47,560"
+			},
+			"offsets": {
+				"from": 1233530,
+				"to": 1247560
+			},
+			"text": " that it's that it's not only policymakers in Sacramento or scientists in a lab that are able to come up with robust justifications for the reasons why our state looks the way it does,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,680",
+				"to": "00:20:54,650"
+			},
+			"offsets": {
+				"from": 1247680,
+				"to": 1254650
+			},
+			"text": " but that it's in fact community residents who have been working in the field who really have and should have a say as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,940",
+				"to": "00:20:56,380"
+			},
+			"offsets": {
+				"from": 1255940,
+				"to": 1256380
+			},
+			"text": " Absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,440",
+				"to": "00:21:02,320"
+			},
+			"offsets": {
+				"from": 1257440,
+				"to": 1262320
+			},
+			"text": " Yeah, as one of those scientists who studies these things, I totally agree."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,320",
+				"to": "00:21:09,220"
+			},
+			"offsets": {
+				"from": 1263320,
+				"to": 1269220
+			},
+			"text": " I guess this would be a good time to ask about the Organizer Academy that I just read a little bit about."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,880",
+				"to": "00:21:11,920"
+			},
+			"offsets": {
+				"from": 1269880,
+				"to": 1271920
+			},
+			"text": " What is it and what are you guys doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,400",
+				"to": "00:21:28,670"
+			},
+			"offsets": {
+				"from": 1274400,
+				"to": 1288670
+			},
+			"text": " Well, so the Organizer Academy concept was, like I said, born out of this hope that we build organizers within the alliance,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,670",
+				"to": "00:21:31,760"
+			},
+			"offsets": {
+				"from": 1288670,
+				"to": 1291760
+			},
+			"text": " beginning with our own staff of our six organizations, beginning with our own staff of our six organizations,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,760",
+				"to": "00:21:42,760"
+			},
+			"offsets": {
+				"from": 1291760,
+				"to": 1302760
+			},
+			"text": " that are able to employ a sort of uniform organizing strategy that then will translate into policy change"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,760",
+				"to": "00:21:48,120"
+			},
+			"offsets": {
+				"from": 1302760,
+				"to": 1308120
+			},
+			"text": " and ultimately shifting decision-making in terms of who is in elected office."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,500",
+				"to": "00:21:58,460"
+			},
+			"offsets": {
+				"from": 1308500,
+				"to": 1318460
+			},
+			"text": " And it's a very long-term goal that I'm hoping, you know, as we have,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,700",
+				"to": "00:22:04,240"
+			},
+			"offsets": {
+				"from": 1318700,
+				"to": 1324240
+			},
+			"text": " as the state begins to awaken to the disparities that the San Joaquin Valley faces,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,780",
+				"to": "00:22:12,820"
+			},
+			"offsets": {
+				"from": 1324780,
+				"to": 1332820
+			},
+			"text": " that there's also kind of a solidarity between urban and rural communities that begins to build through"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,820",
+				"to": "00:22:25,530"
+			},
+			"offsets": {
+				"from": 1332820,
+				"to": 1345530
+			},
+			"text": " our rural organizers taking a message out to the broader state and also being able to have this exchange between the urban and rural communities"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,530",
+				"to": "00:22:34,640"
+			},
+			"offsets": {
+				"from": 1345530,
+				"to": 1354640
+			},
+			"text": " in terms of some of these agroecology encuentros or sort of meetups that we've been hosting."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,640",
+				"to": "00:22:43,650"
+			},
+			"offsets": {
+				"from": 1354640,
+				"to": 1363650
+			},
+			"text": " So right now, the Organizer Academy really is localized in the San Joaquin Valley,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,870",
+				"to": "00:22:52,800"
+			},
+			"offsets": {
+				"from": 1363870,
+				"to": 1372800
+			},
+			"text": " but I think the hope is that long-term, it will expand the reach of some of our environmental concerns"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,800",
+				"to": "00:23:02,400"
+			},
+			"offsets": {
+				"from": 1372800,
+				"to": 1382400
+			},
+			"text": " to really meet some of the movement that's taking place or maybe the dialogue that's happening around sustainable agriculture"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,400",
+				"to": "00:23:04,830"
+			},
+			"offsets": {
+				"from": 1382400,
+				"to": 1384830
+			},
+			"text": " and healthy food in urban areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,940",
+				"to": "00:23:06,880"
+			},
+			"offsets": {
+				"from": 1385940,
+				"to": 1386880
+			},
+			"text": " How do you see that happening?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,880",
+				"to": "00:23:11,370"
+			},
+			"offsets": {
+				"from": 1386880,
+				"to": 1391370
+			},
+			"text": " It strikes me as one of the most important things that movement building is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,370",
+				"to": "00:23:17,590"
+			},
+			"offsets": {
+				"from": 1391370,
+				"to": 1397590
+			},
+			"text": " is figuring out those ways to work and find alliances across difference like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,230",
+				"to": "00:23:22,660"
+			},
+			"offsets": {
+				"from": 1398230,
+				"to": 1402660
+			},
+			"text": " How do you see building that kind of alliance from rural and urban places?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,800",
+				"to": "00:23:27,670"
+			},
+			"offsets": {
+				"from": 1402800,
+				"to": 1407670
+			},
+			"text": " Or how do you see the voices of people in rural places reaching a larger audience?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,670",
+				"to": "00:23:38,420"
+			},
+			"offsets": {
+				"from": 1407670,
+				"to": 1418420
+			},
+			"text": " Well, I think the most important way is for really deliberate spaces to be made at the decision-making table"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,420",
+				"to": "00:23:48,420"
+			},
+			"offsets": {
+				"from": 1418420,
+				"to": 1428420
+			},
+			"text": " as well as in publication and in universities to actually hear from impacted people from the valley"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:48,420",
+				"to": "00:23:51,800"
+			},
+			"offsets": {
+				"from": 1428420,
+				"to": 1431800
+			},
+			"text": " for the first-hand experience to be articulated."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,800",
+				"to": "00:24:01,910"
+			},
+			"offsets": {
+				"from": 1431800,
+				"to": 1441910
+			},
+			"text": " And, you know, I always say it's 2018 and it's time for urban people to be teaching other urban people about what's going on in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,790",
+				"to": "00:24:15,490"
+			},
+			"offsets": {
+				"from": 1442790,
+				"to": 1455490
+			},
+			"text": " And it's a little bit tired relying on rural people to kind of continually be the ones who are driving hours and hours to universities"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,490",
+				"to": "00:24:22,350"
+			},
+			"offsets": {
+				"from": 1455490,
+				"to": 1462350
+			},
+			"text": " and to different conferences and to different conferences to say we're here and this is what's happening in rural California."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,350",
+				"to": "00:24:34,410"
+			},
+			"offsets": {
+				"from": 1462350,
+				"to": 1474410
+			},
+			"text": " It's about time that, you know, space actually gets made for those people to be in positions of decision-making and to have the education be going on among urban people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:34,410",
+				"to": "00:24:46,490"
+			},
+			"offsets": {
+				"from": 1474410,
+				"to": 1486490
+			},
+			"text": " I also just think, you know, after this election, we've heard so much about how the urban United States is like waking up to the reality that there are people in rural places"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,490",
+				"to": "00:24:54,020"
+			},
+			"offsets": {
+				"from": 1486490,
+				"to": 1494020
+			},
+			"text": " in that there are people of color in rural places and that there's actual voting power in the rural United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,260",
+				"to": "00:24:56,980"
+			},
+			"offsets": {
+				"from": 1494260,
+				"to": 1496980
+			},
+			"text": " And California is really no different."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,140",
+				"to": "00:25:15,320"
+			},
+			"offsets": {
+				"from": 1497140,
+				"to": 1515320
+			},
+			"text": " I think although we really, of course, are comfortably a blue state, we do take a lot of heart in this idea that it's an edifice of liberal thinking"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,320",
+				"to": "00:25:25,870"
+			},
+			"offsets": {
+				"from": 1515320,
+				"to": 1525870
+			},
+			"text": " and that it's monolithic rather than really looking at, actually much more troubling is looking at some of the smaller communities that are primarily agricultural,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,270",
+				"to": "00:25:34,990"
+			},
+			"offsets": {
+				"from": 1526270,
+				"to": 1534990
+			},
+			"text": " the people that have been most welcoming of President Trump when he comes to California,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,990",
+				"to": "00:25:44,550"
+			},
+			"offsets": {
+				"from": 1534990,
+				"to": 1544550
+			},
+			"text": " and some of the kind of the institutions that are the foundational icons of rural California."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,010",
+				"to": "00:25:52,560"
+			},
+			"offsets": {
+				"from": 1545010,
+				"to": 1552560
+			},
+			"text": " And, you know, I wouldn't want to name names of those institutions, but we know we're talking about some of the big commodity bureaus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,560",
+				"to": "00:25:58,810"
+			},
+			"offsets": {
+				"from": 1552560,
+				"to": 1558810
+			},
+			"text": " and we're talking about some of the largest farmers in California who have been big funders of this community."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,900",
+				"to": "00:26:07,670"
+			},
+			"offsets": {
+				"from": 1558900,
+				"to": 1567670
+			},
+			"text": " So all of that is to say that as urban California starts to reckon with this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,670",
+				"to": "00:26:18,080"
+			},
+			"offsets": {
+				"from": 1567670,
+				"to": 1578080
+			},
+			"text": " I think it's really important that rather than simply continuing to drive on the I-5 with your eyes partially closed between Los Angeles and the Bay Area,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,650",
+				"to": "00:26:25,960"
+			},
+			"offsets": {
+				"from": 1578650,
+				"to": 1585960
+			},
+			"text": " actually get off on some of these side streets, you know, eat some bomb tacos on the side of the road,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,960",
+				"to": "00:26:35,120"
+			},
+			"offsets": {
+				"from": 1585960,
+				"to": 1595120
+			},
+			"text": " talk to people, and begin to develop a much more authentic connection, if not friendship with actual people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,120",
+				"to": "00:26:41,400"
+			},
+			"offsets": {
+				"from": 1595120,
+				"to": 1601400
+			},
+			"text": " at least an awareness of what the landscape that's largely a sacrificial landscape has,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,400",
+				"to": "00:26:48,980"
+			},
+			"offsets": {
+				"from": 1601400,
+				"to": 1608980
+			},
+			"text": " what role that's played in providing food, fiber, and fuel for not only the state, but for the entire country."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,980",
+				"to": "00:26:57,300"
+			},
+			"offsets": {
+				"from": 1608980,
+				"to": 1617300
+			},
+			"text": " Yeah, sure. I wanted to ask a little bit about the Farmer Equity Act, too, as kind of an example of policy change."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,460",
+				"to": "00:27:02,400"
+			},
+			"offsets": {
+				"from": 1618460,
+				"to": 1622400
+			},
+			"text": " What is it? And it was recently signed into law, am I right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,210",
+				"to": "00:27:08,970"
+			},
+			"offsets": {
+				"from": 1623210,
+				"to": 1628970
+			},
+			"text": " Yeah, it was signed into law at the end of last year, and it's the Farmer Equity Act of 2017."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,030",
+				"to": "00:27:20,520"
+			},
+			"offsets": {
+				"from": 1629030,
+				"to": 1640520
+			},
+			"text": " And the law is the first of its kind in the United States, in the sense that it's the first state law to codify socially disadvantaged farmers and ranchers"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:20,520",
+				"to": "00:27:23,980"
+			},
+			"offsets": {
+				"from": 1640520,
+				"to": 1643980
+			},
+			"text": " under our state California Food and Agriculture Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,540",
+				"to": "00:27:33,420"
+			},
+			"offsets": {
+				"from": 1644540,
+				"to": 1653420
+			},
+			"text": " So what that does is it adds a definition of a socially disadvantaged farmer, and of course, that includes a short list of ethnicities."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:34,440",
+				"to": "00:27:51,740"
+			},
+			"offsets": {
+				"from": 1654440,
+				"to": 1671740
+			},
+			"text": " And with this passage of this bill, the idea is that it will open the door to further potential set-asides when the time comes that California has a greater number of state grant programs for agriculture,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,740",
+				"to": "00:27:58,380"
+			},
+			"offsets": {
+				"from": 1671740,
+				"to": 1678380
+			},
+			"text": " and especially for conservation, which, you know, communities of color have been doing for many, many, many, many years,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,820",
+				"to": "00:28:13,270"
+			},
+			"offsets": {
+				"from": 1678820,
+				"to": 1693270
+			},
+			"text": " when it comes to protecting our soils, you know, those kinds of programs that are there subsidizing practices that are sometimes indigenous practices,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,550",
+				"to": "00:28:20,510"
+			},
+			"offsets": {
+				"from": 1693550,
+				"to": 1700510
+			},
+			"text": " that are sometimes practices that farmers of color are already utilizing or have brought with them from their country of origin."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,510",
+				"to": "00:28:37,600"
+			},
+			"offsets": {
+				"from": 1700510,
+				"to": 1717600
+			},
+			"text": " You know, this act is positioning them such that they can receive those benefits and also so that they don't kind of fall through the cracks in terms of in this way that, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,680",
+				"to": "00:28:51,900"
+			},
+			"offsets": {
+				"from": 1717680,
+				"to": 1731900
+			},
+			"text": " hearkening back to this imagination of California agriculture, there tends to always be this treadmill of development where a certain form of agriculture is piloted,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,900",
+				"to": "00:29:01,440"
+			},
+			"offsets": {
+				"from": 1731900,
+				"to": 1741440
+			},
+			"text": " and then it's adopted, there's an adoption phase, and there's technological, and there's research and development, and then there's technological development,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,440",
+				"to": "00:29:11,900"
+			},
+			"offsets": {
+				"from": 1741440,
+				"to": 1751900
+			},
+			"text": " and this kind of treadmill continues, you know, it's just barreling down the racetrack of building the next big tractor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,420",
+				"to": "00:29:20,150"
+			},
+			"offsets": {
+				"from": 1752420,
+				"to": 1760150
+			},
+			"text": " creating the next most effective pesticide, the next most efficient means of agricultural production,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,470",
+				"to": "00:29:33,700"
+			},
+			"offsets": {
+				"from": 1760470,
+				"to": 1773700
+			},
+			"text": " And of course, the people who always fall through the cracks of any of those subsidies or in that development treadmill are always the smallest producers who are by and large farmers of color."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,820",
+				"to": "00:29:44,060"
+			},
+			"offsets": {
+				"from": 1774820,
+				"to": 1784060
+			},
+			"text": " And so what this bill is intended to do is that in this moment of, you know, California creating programs such as the Healthy Soils Initiative,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,060",
+				"to": "00:29:49,340"
+			},
+			"offsets": {
+				"from": 1784060,
+				"to": 1789340
+			},
+			"text": " which is meant to protect California soils and to improve our soil organic matter,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,340",
+				"to": "00:29:59,240"
+			},
+			"offsets": {
+				"from": 1789340,
+				"to": 1799240
+			},
+			"text": " that when such conservation programs are released, that there be at least a definition for what a socially disadvantaged farmer is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,300",
+				"to": "00:30:08,460"
+			},
+			"offsets": {
+				"from": 1799300,
+				"to": 1808460
+			},
+			"text": " so that looking into the future, we can consider how the state might actually set aside funds specifically for those practitioners who have been historically left out."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,010",
+				"to": "00:30:16,660"
+			},
+			"offsets": {
+				"from": 1809010,
+				"to": 1816660
+			},
+			"text": " And that is the history of a lot of these things are leaving out people of color from agricultural support and all the subsidies that go into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,660",
+				"to": "00:30:28,930"
+			},
+			"offsets": {
+				"from": 1816660,
+				"to": 1828930
+			},
+			"text": " Yeah, of course, those outcomes can be tied back to property ownership in California and really like from the very beginning."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,170",
+				"to": "00:30:37,140"
+			},
+			"offsets": {
+				"from": 1829170,
+				"to": 1837140
+			},
+			"text": " I mean, starting with the Homestead Act, which essentially subsidized white farmers to manifest destiny,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,420",
+				"to": "00:30:45,590"
+			},
+			"offsets": {
+				"from": 1837420,
+				"to": 1845590
+			},
+			"text": " to come out to the West and settle their piece of land and improve it through agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,590",
+				"to": "00:30:55,840"
+			},
+			"offsets": {
+				"from": 1845590,
+				"to": 1855840
+			},
+			"text": " And then by doing so, be given that land for free by the federal government, followed by the creation of agricultural schools,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,840",
+				"to": "00:31:03,770"
+			},
+			"offsets": {
+				"from": 1855840,
+				"to": 1863770
+			},
+			"text": " like the one I'm at here at UC Davis, it's a land grant school that's federally funded to do agricultural research."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:03,770",
+				"to": "00:31:16,780"
+			},
+			"offsets": {
+				"from": 1863770,
+				"to": 1876780
+			},
+			"text": " I mean, all of these different federal programs here in the United States have been highly tailored towards the advancement of large and efficient agriculture"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,780",
+				"to": "00:31:34,990"
+			},
+			"offsets": {
+				"from": 1876780,
+				"to": 1894990
+			},
+			"text": " and, you know, like any movement that is seeking to carve out spaces for people of color and establish, you know, greater sort of access to decision making for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,110",
+				"to": "00:31:41,790"
+			},
+			"offsets": {
+				"from": 1895110,
+				"to": 1901790
+			},
+			"text": " It starts out small and the Farmer Equity Act is a small change to the California Food and Agriculture Code,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,950",
+				"to": "00:31:49,020"
+			},
+			"offsets": {
+				"from": 1901950,
+				"to": 1909020
+			},
+			"text": " but it does have a couple of very important additional pieces to it that I'd like to mention,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,120",
+				"to": "00:32:00,870"
+			},
+			"offsets": {
+				"from": 1909120,
+				"to": 1920870
+			},
+			"text": " which are one that it calls for the hire of an executive position at the department to oversee outreach efforts by the department."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,870",
+				"to": "00:32:12,270"
+			},
+			"offsets": {
+				"from": 1920870,
+				"to": 1932270
+			},
+			"text": " So that means that there's going to be basically a civil rights executive position at the Department of Food and Agriculture for the first time in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,400",
+				"to": "00:32:24,020"
+			},
+			"offsets": {
+				"from": 1933400,
+				"to": 1944020
+			},
+			"text": " Additionally, it calls for the department to create a report about the department's compliance with federal law related to socially disadvantaged farmers and ranchers."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,020",
+				"to": "00:32:30,740"
+			},
+			"offsets": {
+				"from": 1944020,
+				"to": 1950740
+			},
+			"text": " And, you know, it's important to mention that we have a national designation for socially disadvantaged farmer and rancher,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,740",
+				"to": "00:32:41,140"
+			},
+			"offsets": {
+				"from": 1950740,
+				"to": 1961140
+			},
+			"text": " which came out of, you know, litigation on behalf of black farmers in the South who brought suit for racial discrimination against the USDA."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,520",
+				"to": "00:32:45,560"
+			},
+			"offsets": {
+				"from": 1961520,
+				"to": 1965560
+			},
+			"text": " So we've really inherited in California through the Farmer Equity Act process,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,560",
+				"to": "00:32:53,260"
+			},
+			"offsets": {
+				"from": 1965560,
+				"to": 1973260
+			},
+			"text": " we have inherited a lot of that work that was done by those people and through that litigation process."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,800",
+				"to": "00:33:02,170"
+			},
+			"offsets": {
+				"from": 1973800,
+				"to": 1982170
+			},
+			"text": " And proud to say that California is going to be now sort of implementing some of those values on a state level."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,170",
+				"to": "00:33:11,020"
+			},
+			"offsets": {
+				"from": 1982170,
+				"to": 1991020
+			},
+			"text": " I have another organizing question for you, Janaki, and that's that you take this really holistic approach,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,390",
+				"to": "00:33:15,330"
+			},
+			"offsets": {
+				"from": 1991390,
+				"to": 1995330
+			},
+			"text": " reading through the website of the Community Alliance for Agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,710",
+				"to": "00:33:19,240"
+			},
+			"offsets": {
+				"from": 1995710,
+				"to": 1999240
+			},
+			"text": " I read about these great profiles of farmers and their lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,400",
+				"to": "00:33:24,280"
+			},
+			"offsets": {
+				"from": 1999400,
+				"to": 2004280
+			},
+			"text": " talk about water and health, soil health policy."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,300",
+				"to": "00:33:31,260"
+			},
+			"offsets": {
+				"from": 2007300,
+				"to": 2011260
+			},
+			"text": " Why do you think it's important to take such a holistic approach?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:31,260",
+				"to": "00:33:37,630"
+			},
+			"offsets": {
+				"from": 2011260,
+				"to": 2017630
+			},
+			"text": " And I guess I'm just kind of curious, what do you see as your role as an organizer in doing that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,950",
+				"to": "00:33:43,970"
+			},
+			"offsets": {
+				"from": 2017950,
+				"to": 2023970
+			},
+			"text": " And yeah, and the other part of that question is, you're going to law school."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,190",
+				"to": "00:33:48,320"
+			},
+			"offsets": {
+				"from": 2024190,
+				"to": 2028320
+			},
+			"text": " How did you find your point of engagement with it or your point of leverage with it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,000",
+				"to": "00:33:57,890"
+			},
+			"offsets": {
+				"from": 2030000,
+				"to": 2037890
+			},
+			"text": " That's a really tough question, but the holistic approach is second nature."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,890",
+				"to": "00:34:00,530"
+			},
+			"offsets": {
+				"from": 2037890,
+				"to": 2040530
+			},
+			"text": " I mean, it's nature, it is nature."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:00,770",
+				"to": "00:34:01,530"
+			},
+			"offsets": {
+				"from": 2040770,
+				"to": 2041530
+			},
+			"text": " Right, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,100",
+				"to": "00:34:24,030"
+			},
+			"offsets": {
+				"from": 2042100,
+				"to": 2064030
+			},
+			"text": " The holistic approach to anything is ultimately, I think, the way all of us as people of color were raised with a certain awareness of our own histories and our own ancestry and the role that it plays in every step that we take every day from the moment that we wake up."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,030",
+				"to": "00:34:33,710"
+			},
+			"offsets": {
+				"from": 2064030,
+				"to": 2073710
+			},
+			"text": " And the United States definitely, as a legal institution, throws that in our face in a lot of ways every day."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,710",
+				"to": "00:34:59,570"
+			},
+			"offsets": {
+				"from": 2073710,
+				"to": 2099570
+			},
+			"text": " And, you know, through environmental justice advocacy, we apply that kind of holistic understanding of the way that we're connected to everybody and everything into political advocacy for justice in order to ensure that the burdens of pollution,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:59,570",
+				"to": "00:35:16,220"
+			},
+			"offsets": {
+				"from": 2099570,
+				"to": 2116220
+			},
+			"text": " whether, you know, that are an outcome of a capitalistic relationship with the earth, that we ensure that those burdens are equally spread out across all people in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:16,340",
+				"to": "00:35:23,860"
+			},
+			"offsets": {
+				"from": 2116340,
+				"to": 2123860
+			},
+			"text": " That's, you know, that's a distillation of what our federal environmental justice statute says that was passed in the Clinton administration."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:23,860",
+				"to": "00:35:54,880"
+			},
+			"offsets": {
+				"from": 2123860,
+				"to": 2154880
+			},
+			"text": " You know, now, today, I think my generation and hopefully the next generations can kind of ride on the coattails of that work that the environmental justice movement did and continues to do in order to advance this maybe more complicated and, in a way, more lofty and cognitive concept of this holistic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,350",
+				"to": "00:36:11,930"
+			},
+			"offsets": {
+				"from": 2156350,
+				"to": 2171930
+			},
+			"text": " this goal for a holistically healthy environment and one that incorporates access to healthy food and clean air and clean water and soil health and quality and economic justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,930",
+				"to": "00:36:25,780"
+			},
+			"offsets": {
+				"from": 2171930,
+				"to": 2185780
+			},
+			"text": " Our generation is demanding, and I think a lot of people like to talk smack about millennials, but every time that I interact with other advocates in my generation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,780",
+				"to": "00:36:39,440"
+			},
+			"offsets": {
+				"from": 2185780,
+				"to": 2199440
+			},
+			"text": " I am just astounded by how the relentlessness of what we're asking for out of the earth and out of what we're asking out of our elected officials."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,440",
+				"to": "00:36:49,450"
+			},
+			"offsets": {
+				"from": 2200440,
+				"to": 2209450
+			},
+			"text": " You know, the demands that we put forward are holistic ones, and I hope that our frameworks only get more and more complicated,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,450",
+				"to": "00:36:58,110"
+			},
+			"offsets": {
+				"from": 2209450,
+				"to": 2218110
+			},
+			"text": " to the point that we, like mycelia, start to all sort of link up and our constellations all overlap."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,110",
+				"to": "00:37:09,490"
+			},
+			"offsets": {
+				"from": 2218110,
+				"to": 2229490
+			},
+			"text": " In Community Alliance for Agroecology, we were so lucky, you know, I was so lucky to be able to learn from some extremely skilled attorneys,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,910",
+				"to": "00:37:21,900"
+			},
+			"offsets": {
+				"from": 2229910,
+				"to": 2241900
+			},
+			"text": " both litigators and people who are kind of in more transactional areas of law and with people in government and historic community organizers like the ones that I mentioned,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:21,900",
+				"to": "00:37:35,140"
+			},
+			"offsets": {
+				"from": 2241900,
+				"to": 2255140
+			},
+			"text": " Gustavo Aguirre and Lupe Martinez, and to be able to learn all of those different skills meant that I had really no choice than to think about a distinct way to utilize all of them in my daily life."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,560",
+				"to": "00:37:53,550"
+			},
+			"offsets": {
+				"from": 2255560,
+				"to": 2273550
+			},
+			"text": " And, of course, I made the choice to come to King Hall to get my JD on Inauguration Day because I came here as sort of a, in a way, a director of what's going on at the national level right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,550",
+				"to": "00:38:07,170"
+			},
+			"offsets": {
+				"from": 2273550,
+				"to": 2287170
+			},
+			"text": " But I think that the skills that I'm going to be learning here are, they're only useful insofar as I'm accountable to all of those people who helped build the environmental justice movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,170",
+				"to": "00:38:20,990"
+			},
+			"offsets": {
+				"from": 2287170,
+				"to": 2300990
+			},
+			"text": " And, of course, like the advocates that I have been working with for the past four years, I'm extremely accountable to all of them far more than anyone else."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:21,090",
+				"to": "00:38:25,590"
+			},
+			"offsets": {
+				"from": 2301090,
+				"to": 2305590
+			},
+			"text": " And there are people that really helped put me here and helped make this choice with me and for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:26,010",
+				"to": "00:38:28,110"
+			},
+			"offsets": {
+				"from": 2306010,
+				"to": 2308110
+			},
+			"text": " So I feel really honored in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,110",
+				"to": "00:38:42,440"
+			},
+			"offsets": {
+				"from": 2308110,
+				"to": 2322440
+			},
+			"text": " Thinking about that holistic approach, it seems like it's in such a contrast to the kind of thinking behind large-scale agriculture and UC Davis agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,120",
+				"to": "00:38:58,350"
+			},
+			"offsets": {
+				"from": 2323120,
+				"to": 2338350
+			},
+			"text": " It seems like every piece of thinking that goes into capitalist agriculture has to do with what's the perfect conditions for a plant or what's the exact parameters for a tractor or what's the best pesticide."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,350",
+				"to": "00:39:07,870"
+			},
+			"offsets": {
+				"from": 2338350,
+				"to": 2347870
+			},
+			"text": " And that organizing, it's like it's not just a different model of doing things, but a different way of thinking about what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,030",
+				"to": "00:39:16,340"
+			},
+			"offsets": {
+				"from": 2348030,
+				"to": 2356340
+			},
+			"text": " I mean, I guess that gets back a little bit to the, was it the training of the heart or the education of the heart?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,990",
+				"to": "00:39:22,180"
+			},
+			"offsets": {
+				"from": 2356990,
+				"to": 2362180
+			},
+			"text": " Yeah, I think that's very, that's an astute observation."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,180",
+				"to": "00:39:43,550"
+			},
+			"offsets": {
+				"from": 2362180,
+				"to": 2383550
+			},
+			"text": " And I, it's no coincidence that we adopted a relatively complicated organizing framework that mirrors natural processes, you know, like our, our issue areas, what we call our issue areas of advocacy, our air and water and soil and human health."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:43,550",
+				"to": "00:39:57,040"
+			},
+			"offsets": {
+				"from": 2383550,
+				"to": 2397040
+			},
+			"text": " I mean, those things naturally all interact in real life also, like we, we, we advocate on those different areas because those are the things that make up a farm system and they make up life in rural California."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,040",
+				"to": "00:40:18,770"
+			},
+			"offsets": {
+				"from": 2397040,
+				"to": 2418770
+			},
+			"text": " So, I mean, acknowledging those intersections is definitely key and fundamental to advancing some of our policy priorities that place human health and the amelioration of some of our worst environmental damages at the very top priority."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,770",
+				"to": "00:40:36,780"
+			},
+			"offsets": {
+				"from": 2418770,
+				"to": 2436780
+			},
+			"text": " Rather than maybe, you know, that the more conventional trajectory of bureaucracy and once again, bureaucracy is really figuratively and literally the opposite of any, of an ecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,020",
+				"to": "00:40:51,070"
+			},
+			"offsets": {
+				"from": 2437020,
+				"to": 2451070
+			},
+			"text": " You know, there's really, bureaucracy is taking apart all these different issues, putting them in different drawers and then assigning certain people to oversee, you know, the health of water and the health of air, et cetera, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:51,070",
+				"to": "00:41:07,410"
+			},
+			"offsets": {
+				"from": 2451070,
+				"to": 2467410
+			},
+			"text": " And, you know, our framework, of course, is highly subversive in the sense that we're replacing human beings who are at the very middle of all of those things at the top and really looking for ways that they can influence decision making."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:08,880",
+				"to": "00:41:18,510"
+			},
+			"offsets": {
+				"from": 2468880,
+				"to": 2478510
+			},
+			"text": " So, you know, ecology is messy and I think it's often considered like a soft science as far as I understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,790",
+				"to": "00:41:35,040"
+			},
+			"offsets": {
+				"from": 2478790,
+				"to": 2495040
+			},
+			"text": " But the complex interactions between society and, you know, the science of the way a farming system works are, they're extremely complicated."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:35,040",
+				"to": "00:41:56,260"
+			},
+			"offsets": {
+				"from": 2495040,
+				"to": 2516260
+			},
+			"text": " And we found that it's been really important to do a lot of like ecological education with legislators and policymakers to just to break down this barrier that I think a lot of elected officials have, which is that, you know, it's agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:56,480",
+				"to": "00:42:08,010"
+			},
+			"offsets": {
+				"from": 2516480,
+				"to": 2528010
+			},
+			"text": " What is bad? It's like ecology itself is this sort of it's still in the heretic box in a lot of ways, like people don't eyes glaze over."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:08,330",
+				"to": "00:42:16,220"
+			},
+			"offsets": {
+				"from": 2528330,
+				"to": 2536220
+			},
+			"text": " And it's generally like a really fringe area of discussion that's not relegated to the hard sciences."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,220",
+				"to": "00:42:20,260"
+			},
+			"offsets": {
+				"from": 2536220,
+				"to": 2540260
+			},
+			"text": " And it's not necessarily something that's understandable in the context of policymaking."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,460",
+				"to": "00:42:28,380"
+			},
+			"offsets": {
+				"from": 2540460,
+				"to": 2548380
+			},
+			"text": " So we have had to do a lot of, you know, pretty elementary, like ecological education."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:28,380",
+				"to": "00:42:40,350"
+			},
+			"offsets": {
+				"from": 2548380,
+				"to": 2560350
+			},
+			"text": " Like, for instance, I do this activity with the sometimes with air districts and I've even done it with people at Cal EPA, just acting out the carbon cycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,550",
+				"to": "00:42:58,030"
+			},
+			"offsets": {
+				"from": 2560550,
+				"to": 2578030
+			},
+			"text": " So reminding people that trees were here on planet Earth before we were and that trees take in CO2 and they breathe out oxygen and that they created the conditions for human life to be possible on planet Earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,030",
+				"to": "00:43:01,500"
+			},
+			"offsets": {
+				"from": 2578030,
+				"to": 2581500
+			},
+			"text": " And here's carbon number six on the periodic table."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:01,500",
+				"to": "00:43:07,790"
+			},
+			"offsets": {
+				"from": 2581500,
+				"to": 2587790
+			},
+			"text": " And it's very abundant and sort of going through the whole kind of like this is how carbon moves through the system."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,790",
+				"to": "00:43:13,770"
+			},
+			"offsets": {
+				"from": 2587790,
+				"to": 2593770
+			},
+			"text": " And these are what fossil fuels are. And the only way to mitigate and reverse climate change is planting trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:13,770",
+				"to": "00:43:19,600"
+			},
+			"offsets": {
+				"from": 2593770,
+				"to": 2599600
+			},
+			"text": " You know, these are the sort of things that we think that they should be basic knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:19,600",
+				"to": "00:43:38,540"
+			},
+			"offsets": {
+				"from": 2599600,
+				"to": 2618540
+			},
+			"text": " But because ecology as a whole has been kind of smudged out of policymaking and these human and scientific interactions have been considered far too complicated to engage in the regulatory process, for instance."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:39,170",
+				"to": "00:43:44,230"
+			},
+			"offsets": {
+				"from": 2619170,
+				"to": 2624230
+			},
+			"text": " I mean, it should be common sense that there would be human outcomes of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:44,230",
+				"to": "00:43:47,890"
+			},
+			"offsets": {
+				"from": 2624230,
+				"to": 2627890
+			},
+			"text": " But, you know, it hasn't hasn't been abundantly clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,890",
+				"to": "00:43:59,460"
+			},
+			"offsets": {
+				"from": 2627890,
+				"to": 2639460
+			},
+			"text": " And, you know, and we're trying to make it more clear that unless we acknowledge those key interactions between human beings in the natural environment, there's always going to be people who lose at the bottom."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:59,460",
+				"to": "00:44:07,870"
+			},
+			"offsets": {
+				"from": 2639460,
+				"to": 2647870
+			},
+			"text": " And right now it's primarily farm worker communities who, you know, over a million of them don't have access to clean drinking water every year."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:08,510",
+				"to": "00:44:16,580"
+			},
+			"offsets": {
+				"from": 2648510,
+				"to": 2656580
+			},
+			"text": " And, you know, thousands of people who deal with high asthma rates in the San Joaquin Valley due to the air quality problems."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,510",
+				"to": "00:44:20,850"
+			},
+			"offsets": {
+				"from": 2657510,
+				"to": 2660850
+			},
+			"text": " Janaki, I have a million more questions for you, even more than when I started."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,990",
+				"to": "00:44:24,990"
+			},
+			"offsets": {
+				"from": 2660990,
+				"to": 2664990
+			},
+			"text": " But I think we're kind of coming up on on the time for the interview."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:25,170",
+				"to": "00:44:27,740"
+			},
+			"offsets": {
+				"from": 2665170,
+				"to": 2667740
+			},
+			"text": " Is there anything else that you want to talk about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,980",
+				"to": "00:44:34,460"
+			},
+			"offsets": {
+				"from": 2667980,
+				"to": 2674460
+			},
+			"text": " I would love for you to say where people could follow along with the work that you're doing and get involved or contribute to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:34,580",
+				"to": "00:44:38,920"
+			},
+			"offsets": {
+				"from": 2674580,
+				"to": 2678920
+			},
+			"text": " And also just let me know if there's anything else that you'd like to say as part of this episode."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:38,920",
+				"to": "00:44:56,360"
+			},
+			"offsets": {
+				"from": 2678920,
+				"to": 2696360
+			},
+			"text": " Yeah. So, I mean, people can definitely get involved in by checking us out online at allianceforagroecology.org and send a note through the email portal there to get connected to the new director of the alliance."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:56,360",
+				"to": "00:45:02,960"
+			},
+			"offsets": {
+				"from": 2696360,
+				"to": 2702960
+			},
+			"text": " Since I'm in law school, there is a wonderful new director there in Fresno."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:03,660",
+				"to": "00:45:18,260"
+			},
+			"offsets": {
+				"from": 2703660,
+				"to": 2718260
+			},
+			"text": " And there are ways to get involved on a number of different campaigns that I think, you know, by the organizations that are a part of the alliance are listed there."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,260",
+				"to": "00:45:25,100"
+			},
+			"offsets": {
+				"from": 2718260,
+				"to": 2725100
+			},
+			"text": " And folks can check out what's going on in terms of if there are local hearings in your community that you can participate in."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:26,760",
+				"to": "00:45:32,690"
+			},
+			"offsets": {
+				"from": 2726760,
+				"to": 2732690
+			},
+			"text": " And, you know, I'm not sure where this fits into what we were talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,790",
+				"to": "00:45:42,020"
+			},
+			"offsets": {
+				"from": 2732790,
+				"to": 2742020
+			},
+			"text": " But I did just want to mention that right now, I know there was a New York Times article that just came out a couple of days ago about the importance of soil health."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:42,020",
+				"to": "00:45:43,560"
+			},
+			"offsets": {
+				"from": 2742020,
+				"to": 2743560
+			},
+			"text": " Can soil save the planet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:44,610",
+				"to": "00:45:55,990"
+			},
+			"offsets": {
+				"from": 2744610,
+				"to": 2755990
+			},
+			"text": " Right now, soil is turning into like soil carbon sequestration is turning into this new hot issue to discuss within the environmental community."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:57,160",
+				"to": "00:46:13,980"
+			},
+			"offsets": {
+				"from": 2757160,
+				"to": 2773980
+			},
+			"text": " And, of course, as an alliance for agroecology, we incorporate soil health as a part of a larger, you know, holistic framework to promote the health and safety of farm workers and people who work in the field."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:13,980",
+				"to": "00:46:36,390"
+			},
+			"offsets": {
+				"from": 2773980,
+				"to": 2796390
+			},
+			"text": " And I would just like to mention that, you know, as this reckoning with soil health continues in our state, it's really important that it not become just another agricultural development machinery on the treadmill of development."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:36,390",
+				"to": "00:46:51,130"
+			},
+			"offsets": {
+				"from": 2796390,
+				"to": 2811130
+			},
+			"text": " Rather than really doing what it could do, which is to serve to mitigate the harms of climate change and to increase access to safe, healthy livelihood for farm workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:51,510",
+				"to": "00:46:56,420"
+			},
+			"offsets": {
+				"from": 2811510,
+				"to": 2816420
+			},
+			"text": " And, of course, improve environmental conditions and environmental justice communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:57,480",
+				"to": "00:47:08,060"
+			},
+			"offsets": {
+				"from": 2817480,
+				"to": 2828060
+			},
+			"text": " So, yeah, not to be like predictive or to create any, you know, prophecies about what could be happening with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:08,120",
+				"to": "00:47:26,380"
+			},
+			"offsets": {
+				"from": 2828120,
+				"to": 2846380
+			},
+			"text": " But I think it's just something that I always like to say is that when we protect the health and safety of our soil microbial community or the tiniest life that lives beneath our feet, we can also serve to protect the people walking around on top of the land."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:26,380",
+				"to": "00:47:37,020"
+			},
+			"offsets": {
+				"from": 2846380,
+				"to": 2857020
+			},
+			"text": " But that will only happen if we follow the guidance of communities of color who have lived on and worked the land in California for as long as agriculture has happened here."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:39,990",
+				"to": "00:47:45,450"
+			},
+			"offsets": {
+				"from": 2859990,
+				"to": 2865450
+			},
+			"text": " Thank you so much, Janaki. I'm so inspired by your work, and I really appreciate you taking the time to talk about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:46,050",
+				"to": "00:47:48,280"
+			},
+			"offsets": {
+				"from": 2866050,
+				"to": 2868280
+			},
+			"text": " Thank you very much for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:48,540",
+				"to": "00:48:00,400"
+			},
+			"offsets": {
+				"from": 2868540,
+				"to": 2880400
+			},
+			"text": " You're listening to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:00,820",
+				"to": "00:48:04,060"
+			},
+			"offsets": {
+				"from": 2880820,
+				"to": 2884060
+			},
+			"text": " Delicious Revolution is produced by Chelsea Wills and by me, Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:04,060",
+				"to": "00:48:11,060"
+			},
+			"offsets": {
+				"from": 2884060,
+				"to": 2891060
+			},
+			"text": " You can read and see and hear more about Delicious Revolution and all of our guests on our website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:12,110",
+				"to": "00:48:14,170"
+			},
+			"offsets": {
+				"from": 2892110,
+				"to": 2894170
+			},
+			"text": " And there you can also sign up for our email newsletter."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:14,390",
+				"to": "00:48:17,950"
+			},
+			"offsets": {
+				"from": 2894390,
+				"to": 2897950
+			},
+			"text": " We're in the process of reimagining and redesigning that, and it's going to be very cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:18,730",
+				"to": "00:48:20,670"
+			},
+			"offsets": {
+				"from": 2898730,
+				"to": 2900670
+			},
+			"text": " Sign up now to get the very next issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:21,600",
+				"to": "00:48:23,380"
+			},
+			"offsets": {
+				"from": 2901600,
+				"to": 2903380
+			},
+			"text": " Delicious Revolution is available as a podcast."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:23,540",
+				"to": "00:48:28,300"
+			},
+			"offsets": {
+				"from": 2903540,
+				"to": 2908300
+			},
+			"text": " Just search for us on any podcast app, or you can listen from SoundCloud or on our website."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:28,600",
+				"to": "00:48:35,040"
+			},
+			"offsets": {
+				"from": 2908600,
+				"to": 2915040
+			},
+			"text": " If you're lucky enough to be on the Northern California coast, you can hear us on KWMR or KOWS."
+		}
+	]
+}

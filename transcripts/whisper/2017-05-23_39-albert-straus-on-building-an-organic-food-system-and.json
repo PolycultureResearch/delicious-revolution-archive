@@ -1,0 +1,5015 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:02,470",
+				"to": "00:00:07,250"
+			},
+			"offsets": {
+				"from": 2470,
+				"to": 7250
+			},
+			"text": " You know, we were the first certified organic dairy and creamery in the western United States in the beginning of 1994."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,250",
+				"to": "00:00:14,930"
+			},
+			"offsets": {
+				"from": 7250,
+				"to": 14930
+			},
+			"text": " Now, probably close to 90% of the dairies in Marin County are certified organic, and actually 80 to 90% in Sonoma County as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,930",
+				"to": "00:00:22,530"
+			},
+			"offsets": {
+				"from": 14930,
+				"to": 22530
+			},
+			"text": " And we haven't lost any dairies. Looking at a trend, well, in the United States, there were 4.6 million dairy farms in 1940."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,530",
+				"to": "00:00:30,820"
+			},
+			"offsets": {
+				"from": 22530,
+				"to": 30820
+			},
+			"text": " Now there's 43,000 left today. I think going organic and starting the creamery were all the same decision."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,820",
+				"to": "00:00:36,260"
+			},
+			"offsets": {
+				"from": 30820,
+				"to": 36260
+			},
+			"text": " We had actually done organic vegetables, and we hadn't used any herbicides since the early 70s."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,260",
+				"to": "00:00:39,460"
+			},
+			"offsets": {
+				"from": 36260,
+				"to": 39460
+			},
+			"text": " We hadn't used any synthetic fertilizers since the early 80s."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,460",
+				"to": "00:00:45,460"
+			},
+			"offsets": {
+				"from": 39460,
+				"to": 45460
+			},
+			"text": " In my mind, organic is where we wanted to get to. We wanted to make a sustainable system."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,460",
+				"to": "00:00:52,180"
+			},
+			"offsets": {
+				"from": 45460,
+				"to": 52180
+			},
+			"text": " We're still working on how can we make farms sustainable, how can we make them where they're a positive influence"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,180",
+				"to": "00:00:59,610"
+			},
+			"offsets": {
+				"from": 52180,
+				"to": 59610
+			},
+			"text": " and a positive food supply for the community, and make a model that can be replicated other places."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,610",
+				"to": "00:01:01,930"
+			},
+			"offsets": {
+				"from": 59610,
+				"to": 61930
+			},
+			"text": " We don't sell nationally. We don't sell internationally."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,330",
+				"to": "00:01:08,060"
+			},
+			"offsets": {
+				"from": 62330,
+				"to": 68060
+			},
+			"text": " The idea is to build a regional model that other people can replicate around the country and around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,180",
+				"to": "00:01:10,980"
+			},
+			"offsets": {
+				"from": 68180,
+				"to": 70980
+			},
+			"text": " Well, I think there's huge challenges to the next generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,380",
+				"to": "00:01:16,120"
+			},
+			"offsets": {
+				"from": 71380,
+				"to": 76120
+			},
+			"text": " How can you start a farm when you can't get land, you can't get housing, you can't get financing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,680",
+				"to": "00:01:21,790"
+			},
+			"offsets": {
+				"from": 76680,
+				"to": 81790
+			},
+			"text": " So that's another aspect of food movement is how do you move it on to the next generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,490",
+				"to": "00:01:29,330"
+			},
+			"offsets": {
+				"from": 83490,
+				"to": 89330
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,510",
+				"to": "00:01:30,330"
+			},
+			"offsets": {
+				"from": 89510,
+				"to": 90330
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,330",
+				"to": "00:01:36,450"
+			},
+			"offsets": {
+				"from": 90330,
+				"to": 96450
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,170",
+				"to": "00:01:39,730"
+			},
+			"offsets": {
+				"from": 97170,
+				"to": 99730
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,430",
+				"to": "00:01:46,410"
+			},
+			"offsets": {
+				"from": 100430,
+				"to": 106410
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,750",
+				"to": "00:01:50,390"
+			},
+			"offsets": {
+				"from": 106750,
+				"to": 110390
+			},
+			"text": " kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,610",
+				"to": "00:01:53,230"
+			},
+			"offsets": {
+				"from": 110610,
+				"to": 113230
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,230",
+				"to": "00:01:59,830"
+			},
+			"offsets": {
+				"from": 113230,
+				"to": 119830
+			},
+			"text": " Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,210",
+				"to": "00:02:10,670"
+			},
+			"offsets": {
+				"from": 121210,
+				"to": 130670
+			},
+			"text": " Albert Strauss is the founder and CEO of Strauss Family Creamery and an advocate for organic, non-GMO dairy production, environmental stewardship, and family farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,830",
+				"to": "00:02:16,270"
+			},
+			"offsets": {
+				"from": 130830,
+				"to": 136270
+			},
+			"text": " He grew up on his family's dairy on the coast of Marin County, California, near Point Reyes National Park."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,270",
+				"to": "00:02:23,550"
+			},
+			"offsets": {
+				"from": 136270,
+				"to": 143550
+			},
+			"text": " Strauss continues to be a leader in sustainability with projects that include independent verification that his feed is GMO-free,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,010",
+				"to": "00:02:28,990"
+			},
+			"offsets": {
+				"from": 144010,
+				"to": 148990
+			},
+			"text": " a methane digester, and a water reuse system that recycles wastewater from the creamery."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,280",
+				"to": "00:02:34,910"
+			},
+			"offsets": {
+				"from": 149280,
+				"to": 154910
+			},
+			"text": " His carbon farming program is a model for the Marin Carbon Project and the California Healthy Soils Initiative."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,230",
+				"to": "00:02:44,300"
+			},
+			"offsets": {
+				"from": 155230,
+				"to": 164300
+			},
+			"text": " Thanks so much for being here and for making some time to talk to us on Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:46,840"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 166840
+			},
+			"text": " Thanks for being here."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,840",
+				"to": "00:02:54,680"
+			},
+			"offsets": {
+				"from": 166840,
+				"to": 174680
+			},
+			"text": " I do want to start in the beginning because you grew up on the dairy ranch out on Tomales Bay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,100",
+				"to": "00:02:57,320"
+			},
+			"offsets": {
+				"from": 175100,
+				"to": 177320
+			},
+			"text": " And what did it look like there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,460",
+				"to": "00:02:59,740"
+			},
+			"offsets": {
+				"from": 177460,
+				"to": 179740
+			},
+			"text": " What was life like there at that time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,250",
+				"to": "00:03:03,380"
+			},
+			"offsets": {
+				"from": 180250,
+				"to": 183380
+			},
+			"text": " Well, I grew up on our dairy farm in Marshall."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,040",
+				"to": "00:03:09,720"
+			},
+			"offsets": {
+				"from": 185040,
+				"to": 189720
+			},
+			"text": " And my father had started the farm in 1941."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,810",
+				"to": "00:03:13,340"
+			},
+			"offsets": {
+				"from": 190810,
+				"to": 193340
+			},
+			"text": " And ran it as a conventional farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,480",
+				"to": "00:03:17,620"
+			},
+			"offsets": {
+				"from": 193480,
+				"to": 197620
+			},
+			"text": " It was a family farm that started with 23 cows."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,800",
+				"to": "00:03:24,100"
+			},
+			"offsets": {
+				"from": 197800,
+				"to": 204100
+			},
+			"text": " We had a partner for 20 years that they did a lot of the work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,180",
+				"to": "00:03:33,460"
+			},
+			"offsets": {
+				"from": 205180,
+				"to": 213460
+			},
+			"text": " But it was always a struggle to make it profitable, make it something that you really could sustain as a family farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,900",
+				"to": "00:03:38,990"
+			},
+			"offsets": {
+				"from": 213900,
+				"to": 218990
+			},
+			"text": " And so there was always this pressure to be able to sell out at the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,130",
+				"to": "00:03:43,510"
+			},
+			"offsets": {
+				"from": 219130,
+				"to": 223510
+			},
+			"text": " If everything went, if you couldn't make it in the farming business, you would sell out for development."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,200",
+				"to": "00:03:47,570"
+			},
+			"offsets": {
+				"from": 224200,
+				"to": 227570
+			},
+			"text": " And so that was something that my parents didn't agree with."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,570",
+				"to": "00:04:07,750"
+			},
+			"offsets": {
+				"from": 227570,
+				"to": 247750
+			},
+			"text": " They worked very hard to start environmental organizations, community organizations, trying to facilitate between environmentalists, farmers, and governmental agencies to try to see how we could preserve the land in Marin County and keep it in agriculture and keep it open."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,750",
+				"to": "00:04:18,700"
+			},
+			"offsets": {
+				"from": 247750,
+				"to": 258700
+			},
+			"text": " And so there was a very, it took decades, but there was a very good synergy and kind of collaboration between all the different groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,340",
+				"to": "00:04:28,560"
+			},
+			"offsets": {
+				"from": 259340,
+				"to": 268560
+			},
+			"text": " And they passed, well, the Board of Supervisors passed one house per 60 acre zoning, agricultural zoning in the 70s."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,950",
+				"to": "00:04:43,130"
+			},
+			"offsets": {
+				"from": 269950,
+				"to": 283130
+			},
+			"text": " And actually, let me back up a little bit, because in the 60s, there was actually a plan to put 100,000 people in West Marin on a four-lane freeway and in one house per acre, even more dense than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,760",
+				"to": "00:04:49,910"
+			},
+			"offsets": {
+				"from": 283760,
+				"to": 289910
+			},
+			"text": " And so this one house per 60 acre zoning, agricultural zoning, was a huge revolutionary thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,090",
+				"to": "00:04:53,850"
+			},
+			"offsets": {
+				"from": 290090,
+				"to": 293850
+			},
+			"text": " But it could be overturned on a majority of the Board of Supervisors."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,290",
+				"to": "00:05:03,010"
+			},
+			"offsets": {
+				"from": 294290,
+				"to": 303010
+			},
+			"text": " So my mother and her friend, Phyllis Faber, got together and came up with the idea of starting a land trust, an agricultural land trust."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,090",
+				"to": "00:05:05,530"
+			},
+			"offsets": {
+				"from": 303090,
+				"to": 305530
+			},
+			"text": " And it was the first agricultural land trust in the nation."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,110",
+				"to": "00:05:19,890"
+			},
+			"offsets": {
+				"from": 306110,
+				"to": 319890
+			},
+			"text": " But the idea was that they would pay farmers to take the potential for development off their land and keep it in trust and keep it in agriculture in perpetuity and be compensated for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,590",
+				"to": "00:05:28,150"
+			},
+			"offsets": {
+				"from": 320590,
+				"to": 328150
+			},
+			"text": " And so that was something that I was kind of born in this environment of environmentalism, farming, family farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,150",
+				"to": "00:05:31,010"
+			},
+			"offsets": {
+				"from": 329150,
+				"to": 331010
+			},
+			"text": " We had done organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,110",
+				"to": "00:05:40,020"
+			},
+			"offsets": {
+				"from": 331110,
+				"to": 340020
+			},
+			"text": " Well, actually, in high school, I started, I think around the first Earth Day, I started a recycling club at the high school."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,340",
+				"to": "00:05:46,390"
+			},
+			"offsets": {
+				"from": 341340,
+				"to": 346390
+			},
+			"text": " And it was, you know, it was something different."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,710",
+				"to": "00:05:54,530"
+			},
+			"offsets": {
+				"from": 346710,
+				"to": 354530
+			},
+			"text": " But we kind of looked at, and actually one of the projects I did was on the ecology of West Marin for school."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,700",
+				"to": "00:06:08,240"
+			},
+			"offsets": {
+				"from": 355700,
+				"to": 368240
+			},
+			"text": " But it was born out of my parents' vision and life work to preserve the land and the community in West Marin."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,600",
+				"to": "00:06:15,720"
+			},
+			"offsets": {
+				"from": 368600,
+				"to": 375720
+			},
+			"text": " West Marin's a really incredible place for, I mean, we are focusing on California in this season, but we do have a global audience."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,720",
+				"to": "00:06:20,350"
+			},
+			"offsets": {
+				"from": 375720,
+				"to": 380350
+			},
+			"text": " It feels really wild, and it's really close to urban areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,490",
+				"to": "00:06:24,630"
+			},
+			"offsets": {
+				"from": 380490,
+				"to": 384630
+			},
+			"text": " Does it look and feel a lot like when you were growing up still?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,290",
+				"to": "00:06:37,610"
+			},
+			"offsets": {
+				"from": 386290,
+				"to": 397610
+			},
+			"text": " We've, well, the communities, we've lost our community, and we're losing, we've been able to stabilize agriculture, but we've got a lot of forces against us right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,850",
+				"to": "00:06:42,020"
+			},
+			"offsets": {
+				"from": 397850,
+				"to": 402020
+			},
+			"text": " And actually, some things I lose sleep about."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,380",
+				"to": "00:06:46,920"
+			},
+			"offsets": {
+				"from": 402380,
+				"to": 406920
+			},
+			"text": " But in Marshall, the community we have, there's, I think, somewhere around 125 homes."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,360",
+				"to": "00:06:52,320"
+			},
+			"offsets": {
+				"from": 407360,
+				"to": 412320
+			},
+			"text": " Less than 30% of them are actually lived in because it's all short-term rentals."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,560",
+				"to": "00:06:56,940"
+			},
+			"offsets": {
+				"from": 412560,
+				"to": 416940
+			},
+			"text": " It's, you know, people can't afford to live and work in the community because they're now businesses."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,200",
+				"to": "00:07:10,420"
+			},
+			"offsets": {
+				"from": 417200,
+				"to": 430420
+			},
+			"text": " We came up with a community plan back in the early 80s that tried to keep a balance of, you know, tourism and ag culture and mariculture and just a working community."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,780",
+				"to": "00:07:12,740"
+			},
+			"offsets": {
+				"from": 430780,
+				"to": 432740
+			},
+			"text": " And we've had that erode."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,840",
+				"to": "00:07:22,410"
+			},
+			"offsets": {
+				"from": 433840,
+				"to": 442410
+			},
+			"text": " I think ag culture, we have actually, you know, we were the first certified organic dairy and creamery in the western United States, west of Mississippi River, and began in 1994."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,810",
+				"to": "00:07:31,260"
+			},
+			"offsets": {
+				"from": 442810,
+				"to": 451260
+			},
+			"text": " Now, it's probably close to 90% of the dairies in Marin County are certified organic, and actually 80 to 90% in Sonoma County as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,660",
+				"to": "00:07:36,530"
+			},
+			"offsets": {
+				"from": 451660,
+				"to": 456530
+			},
+			"text": " And we haven't, we haven't lost any dairies, which is looking at a trend."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,530",
+				"to": "00:07:40,710"
+			},
+			"offsets": {
+				"from": 456530,
+				"to": 460710
+			},
+			"text": " Well, in the United States, there were 4.6 million dairy farms in 1940."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,930",
+				"to": "00:07:43,170"
+			},
+			"offsets": {
+				"from": 460930,
+				"to": 463170
+			},
+			"text": " Now there's 43,000 left today."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,190",
+				"to": "00:07:49,690"
+			},
+			"offsets": {
+				"from": 464190,
+				"to": 469690
+			},
+			"text": " And in Marin County, I think there was 150 in early 60s, and now there are 25 left."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,390",
+				"to": "00:08:06,330"
+			},
+			"offsets": {
+				"from": 470390,
+				"to": 486330
+			},
+			"text": " And so it's this trend, how do you stabilize a farming community that has these, you know, conventional dairy, you have a big volatility in pricing month to month, so you can't plan or budget or reinvest in your infrastructure or pass it on to the next generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,330",
+				"to": "00:08:12,760"
+			},
+			"offsets": {
+				"from": 486330,
+				"to": 492760
+			},
+			"text": " Who would want to, what child would want to grow up on a farm that they can't pay themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,720",
+				"to": "00:08:22,940"
+			},
+			"offsets": {
+				"from": 493720,
+				"to": 502940
+			},
+			"text": " And so we're making progress on that, and, you know, we've got huge challenges with the national park that owns a third of the land in West Marin."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,710",
+				"to": "00:08:28,160"
+			},
+			"offsets": {
+				"from": 503710,
+				"to": 508160
+			},
+			"text": " And it was formed on the premise that part of it was both state and agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,080",
+				"to": "00:08:32,580"
+			},
+			"offsets": {
+				"from": 509080,
+				"to": 512580
+			},
+			"text": " And there's six organic dairies in the National Seashore."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,280",
+				"to": "00:08:42,020"
+			},
+			"offsets": {
+				"from": 513280,
+				"to": 522020
+			},
+			"text": " There's, I think, 20 or 25 livestock operations in the park, and they're on year-to-year leases."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,300",
+				"to": "00:08:45,290"
+			},
+			"offsets": {
+				"from": 522300,
+				"to": 525290
+			},
+			"text": " They can't, you know, make improvements on land."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,470",
+				"to": "00:08:50,990"
+			},
+			"offsets": {
+				"from": 525470,
+				"to": 530990
+			},
+			"text": " They can't, or the infrastructure can't, they have no security, can't get loans to do anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,470",
+				"to": "00:08:54,450"
+			},
+			"offsets": {
+				"from": 531470,
+				"to": 534450
+			},
+			"text": " So it's not a sustainable way to farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,270",
+				"to": "00:08:57,330"
+			},
+			"offsets": {
+				"from": 535270,
+				"to": 537330
+			},
+			"text": " And so that's a concern for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,650",
+				"to": "00:09:04,020"
+			},
+			"offsets": {
+				"from": 538650,
+				"to": 544020
+			},
+			"text": " You grow up on a farm out there, and at some point you do decide to take off and go to college."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,180",
+				"to": "00:09:04,620"
+			},
+			"offsets": {
+				"from": 544180,
+				"to": 544620
+			},
+			"text": " Is that right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,540",
+				"to": "00:09:28,000"
+			},
+			"offsets": {
+				"from": 545540,
+				"to": 568000
+			},
+			"text": " Yeah, I grew up on the farm, fed calves, fed chickens, did a lot of things around the farm growing up, 4-H with, you know, I taught and took electricity and doing different types of projects that I think we've lost in our school systems and stuff like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,000",
+				"to": "00:09:36,920"
+			},
+			"offsets": {
+				"from": 568000,
+				"to": 576920
+			},
+			"text": " But so when I went to college, I had to kind of decide I wanted to either do electrical engineering or farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,320",
+				"to": "00:09:39,580"
+			},
+			"offsets": {
+				"from": 577320,
+				"to": 579580
+			},
+			"text": " And I had to decide which direction to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,840",
+				"to": "00:09:42,600"
+			},
+			"offsets": {
+				"from": 579840,
+				"to": 582600
+			},
+			"text": " And I liked farming because I could be my own boss."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,800",
+				"to": "00:09:48,030"
+			},
+			"offsets": {
+				"from": 582800,
+				"to": 588030
+			},
+			"text": " I could be outdoors, which is not as much anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,930",
+				"to": "00:09:55,900"
+			},
+			"offsets": {
+				"from": 589930,
+				"to": 595900
+			},
+			"text": " But it was something that I really enjoyed, and I loved animals also."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,900",
+				"to": "00:10:01,380"
+			},
+			"offsets": {
+				"from": 595900,
+				"to": 601380
+			},
+			"text": " So it was something that I continued on."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,480",
+				"to": "00:10:06,640"
+			},
+			"offsets": {
+				"from": 601480,
+				"to": 606640
+			},
+			"text": " I went to Cal Poly in San Luis Obispo and major in dairy science."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,280",
+				"to": "00:10:13,520"
+			},
+			"offsets": {
+				"from": 607280,
+				"to": 613520
+			},
+			"text": " And then my senior thesis was on setting up a processing plant, a milk processing plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,160",
+				"to": "00:10:31,130"
+			},
+			"offsets": {
+				"from": 614160,
+				"to": 631130
+			},
+			"text": " And it was – I had taken – I've been on the dairy products judging team, so I won third place in the Western Regional Dairy Products Scoring Contest in ice cream."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,150",
+				"to": "00:10:34,630"
+			},
+			"offsets": {
+				"from": 632150,
+				"to": 634630
+			},
+			"text": " So it was something that I really enjoyed."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,830",
+				"to": "00:10:36,430"
+			},
+			"offsets": {
+				"from": 634830,
+				"to": 636430
+			},
+			"text": " I learned how to make ice cream, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,650",
+				"to": "00:10:38,450"
+			},
+			"offsets": {
+				"from": 636650,
+				"to": 638450
+			},
+			"text": " You won an award in ice cream tasting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,110",
+				"to": "00:10:40,970"
+			},
+			"offsets": {
+				"from": 639110,
+				"to": 640970
+			},
+			"text": " Ice cream, yeah, for defects, yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,750",
+				"to": "00:10:54,620"
+			},
+			"offsets": {
+				"from": 641750,
+				"to": 654620
+			},
+			"text": " So it was – but I came back to the farm, became partners with my father, and kind of put out my mind that it was going to do anything about processing or anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,720",
+				"to": "00:11:00,310"
+			},
+			"offsets": {
+				"from": 654720,
+				"to": 660310
+			},
+			"text": " I just was working on how to make a conventional farm viable."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,750",
+				"to": "00:11:07,230"
+			},
+			"offsets": {
+				"from": 662750,
+				"to": 667230
+			},
+			"text": " It was – you have 46% of your income goes to feed the animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,830",
+				"to": "00:11:09,810"
+			},
+			"offsets": {
+				"from": 667830,
+				"to": 669810
+			},
+			"text": " So that was the biggest thing I was working on."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,890",
+				"to": "00:11:17,390"
+			},
+			"offsets": {
+				"from": 669890,
+				"to": 677390
+			},
+			"text": " So I looked through the yellow pages and tried to find feeds or different waste products that I could use for feed."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,950",
+				"to": "00:11:25,290"
+			},
+			"offsets": {
+				"from": 677950,
+				"to": 685290
+			},
+			"text": " I used sake waste and tofu waste and cocoa bean hulls and I think it was lettuce and cabbage."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,650",
+				"to": "00:11:27,190"
+			},
+			"offsets": {
+				"from": 685650,
+				"to": 687190
+			},
+			"text": " I'm trying to think what else I used."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,870",
+				"to": "00:11:38,960"
+			},
+			"offsets": {
+				"from": 687870,
+				"to": 698960
+			},
+			"text": " Anyway, oh, I used – I had a Nabisco contract for a couple years, too, during the 89 earthquake where the whole plant fell – the chimney fell down on the plant in Oakland."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,150",
+				"to": "00:11:51,470"
+			},
+			"offsets": {
+				"from": 700150,
+				"to": 711470
+			},
+			"text": " I worked a lot to try to make it more economically viable, but the prices never went above minimum price."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,210",
+				"to": "00:11:55,290"
+			},
+			"offsets": {
+				"from": 712210,
+				"to": 715290
+			},
+			"text": " And it kept – you know, it was always at a depressed price."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,830",
+				"to": "00:11:58,930"
+			},
+			"offsets": {
+				"from": 715830,
+				"to": 718930
+			},
+			"text": " Dairymen will – you know, when the price is up, they produce more milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,410",
+				"to": "00:12:01,090"
+			},
+			"offsets": {
+				"from": 719410,
+				"to": 721090
+			},
+			"text": " When the price is down, they produce more milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,190",
+				"to": "00:12:06,890"
+			},
+			"offsets": {
+				"from": 721190,
+				"to": 726890
+			},
+			"text": " So it was a kind of catch-22 where you always have a surplus of milk and the prices stay depressed."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,390",
+				"to": "00:12:09,070"
+			},
+			"offsets": {
+				"from": 727390,
+				"to": 729070
+			},
+			"text": " And so it's a big roller coaster."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,690",
+				"to": "00:12:11,590"
+			},
+			"offsets": {
+				"from": 729690,
+				"to": 731590
+			},
+			"text": " And who was buying the milk at that point?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,590",
+				"to": "00:12:22,250"
+			},
+			"offsets": {
+				"from": 731590,
+				"to": 742250
+			},
+			"text": " We were part of – well, actually, in the late 60s, I think we were part of Challenge that was a co-op that went broke."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,890",
+				"to": "00:12:30,470"
+			},
+			"offsets": {
+				"from": 742890,
+				"to": 750470
+			},
+			"text": " And then in the 70s, we went to – we were part of California Cooperative Creamery, which is California Gold, that went broke also."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,810",
+				"to": "00:12:38,760"
+			},
+			"offsets": {
+				"from": 750810,
+				"to": 758760
+			},
+			"text": " But just around the time it went broke is when someone approached me about the idea of making organic milk for ice cream."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,260",
+				"to": "00:12:51,990"
+			},
+			"offsets": {
+				"from": 759260,
+				"to": 771990
+			},
+			"text": " And it was 1990, and I kind of – they kind of gave up on the idea they were going to go to other manufacturers to look at doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,330",
+				"to": "00:12:55,730"
+			},
+			"offsets": {
+				"from": 773330,
+				"to": 775730
+			},
+			"text": " But I kept looking into what organic was."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,770",
+				"to": "00:12:56,910"
+			},
+			"offsets": {
+				"from": 775770,
+				"to": 776910
+			},
+			"text": " It was a new law in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,110",
+				"to": "00:12:59,550"
+			},
+			"offsets": {
+				"from": 778110,
+				"to": 779550
+			},
+			"text": " There was no federal law yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,030",
+				"to": "00:13:18,240"
+			},
+			"offsets": {
+				"from": 780030,
+				"to": 798240
+			},
+			"text": " And then how to build a processing plant, how to feed – well, back on the dairy side – how to feed the animals organically, how to – you know, what it meant for the land, what it meant for – how to treat them organically without antibiotics and hormones."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,300",
+				"to": "00:13:26,510"
+			},
+			"offsets": {
+				"from": 799300,
+				"to": 806510
+			},
+			"text": " And then also how to build a plant, get financing, equipment, everything, and develop the market."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,390",
+				"to": "00:13:30,800"
+			},
+			"offsets": {
+				"from": 807390,
+				"to": 810800
+			},
+			"text": " So that took me three and a half years to figure out."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,800",
+				"to": "00:13:41,820"
+			},
+			"offsets": {
+				"from": 810800,
+				"to": 821820
+			},
+			"text": " And we ended up getting started – underfunded, but getting some loans from family and friends and also leasing equipment."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,060",
+				"to": "00:13:47,020"
+			},
+			"offsets": {
+				"from": 823060,
+				"to": 827020
+			},
+			"text": " And so we were able to get started in the beginning of 1994."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,820",
+				"to": "00:13:50,090"
+			},
+			"offsets": {
+				"from": 827820,
+				"to": 830090
+			},
+			"text": " Was that here in Petaluma?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,530",
+				"to": "00:13:54,660"
+			},
+			"offsets": {
+				"from": 830530,
+				"to": 834660
+			},
+			"text": " No, it was actually – we were still in the same place 22 years later."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,560",
+				"to": "00:14:06,000"
+			},
+			"offsets": {
+				"from": 835560,
+				"to": 846000
+			},
+			"text": " I found an abandoned commercial kitchen in Marshall that was – used to be part of Synanon, the drug and alcohol rehab that turned into a cult."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,680",
+				"to": "00:14:12,360"
+			},
+			"offsets": {
+				"from": 847680,
+				"to": 852360
+			},
+			"text": " And their commercial kitchen that they served 1,000 to 2,000 people in Marshall."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,740",
+				"to": "00:14:13,920"
+			},
+			"offsets": {
+				"from": 852740,
+				"to": 853920
+			},
+			"text": " It was the national headquarters."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,000",
+				"to": "00:14:24,600"
+			},
+			"offsets": {
+				"from": 855000,
+				"to": 864600
+			},
+			"text": " And so there was a woman who has it as a – had bought it from the San Francisco Foundation at the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,320",
+				"to": "00:14:27,360"
+			},
+			"offsets": {
+				"from": 865320,
+				"to": 867360
+			},
+			"text": " And it was just sitting there."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,520",
+				"to": "00:14:33,480"
+			},
+			"offsets": {
+				"from": 867520,
+				"to": 873480
+			},
+			"text": " So I was able to get that, refurbish it, and get equipment in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,960",
+				"to": "00:14:38,160"
+			},
+			"offsets": {
+				"from": 873960,
+				"to": 878160
+			},
+			"text": " Actually, we got the equipment installed like in, I think, a month and a half."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,580",
+				"to": "00:14:41,180"
+			},
+			"offsets": {
+				"from": 879580,
+				"to": 881180
+			},
+			"text": " But very little."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,400",
+				"to": "00:14:43,600"
+			},
+			"offsets": {
+				"from": 881400,
+				"to": 883600
+			},
+			"text": " You know, we started very little and then built it over time."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,600",
+				"to": "00:14:48,780"
+			},
+			"offsets": {
+				"from": 883600,
+				"to": 888780
+			},
+			"text": " So what was behind that choice to start the creamery?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,440",
+				"to": "00:14:55,590"
+			},
+			"offsets": {
+				"from": 889440,
+				"to": 895590
+			},
+			"text": " And did it come before the idea to convert to organic, or was it part of that conversion for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,040",
+				"to": "00:15:02,830"
+			},
+			"offsets": {
+				"from": 896040,
+				"to": 902830
+			},
+			"text": " I think going organic and starting the creamery were all the same decision."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,920",
+				"to": "00:15:12,170"
+			},
+			"offsets": {
+				"from": 903920,
+				"to": 912170
+			},
+			"text": " We had actually done organic vegetables, and my mother grew shiitake mushrooms for a while, and we were selling in farmer's markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,170",
+				"to": "00:15:21,110"
+			},
+			"offsets": {
+				"from": 912170,
+				"to": 921110
+			},
+			"text": " But we hadn't used any herbicides since the early 70s on our land."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,270",
+				"to": "00:15:24,690"
+			},
+			"offsets": {
+				"from": 921270,
+				"to": 924690
+			},
+			"text": " We hadn't used any synthetic fertilizers since the early 80s."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,050",
+				"to": "00:15:26,950"
+			},
+			"offsets": {
+				"from": 925050,
+				"to": 926950
+			},
+			"text": " So the land was all certifiable."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,730",
+				"to": "00:15:32,000"
+			},
+			"offsets": {
+				"from": 927730,
+				"to": 932000
+			},
+			"text": " In my mind, organic is where we wanted to get to."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,360",
+				"to": "00:15:34,680"
+			},
+			"offsets": {
+				"from": 932360,
+				"to": 934680
+			},
+			"text": " We wanted to make a sustainable system."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,880",
+				"to": "00:15:47,100"
+			},
+			"offsets": {
+				"from": 934880,
+				"to": 947100
+			},
+			"text": " We're still working on how can we make farms sustainable, how can we make them where they're a positive influence and a positive food supply for the community,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,100",
+				"to": "00:15:51,740"
+			},
+			"offsets": {
+				"from": 947100,
+				"to": 951740
+			},
+			"text": " and make a model that can be replicated other places."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,860",
+				"to": "00:15:52,980"
+			},
+			"offsets": {
+				"from": 951860,
+				"to": 952980
+			},
+			"text": " We don't sell nationally."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,060",
+				"to": "00:15:54,120"
+			},
+			"offsets": {
+				"from": 953060,
+				"to": 954120
+			},
+			"text": " We don't sell internationally."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,900",
+				"to": "00:15:57,300"
+			},
+			"offsets": {
+				"from": 954900,
+				"to": 957300
+			},
+			"text": " There's been little odds and ends that have happened."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:57,300",
+				"to": "00:16:03,840"
+			},
+			"offsets": {
+				"from": 957300,
+				"to": 963840
+			},
+			"text": " But the idea is to build a regional model that other people can replicate around the country and around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,120",
+				"to": "00:16:06,260"
+			},
+			"offsets": {
+				"from": 964120,
+				"to": 966260
+			},
+			"text": " So those are tied hand in hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,000",
+				"to": "00:16:17,190"
+			},
+			"offsets": {
+				"from": 967000,
+				"to": 977190
+			},
+			"text": " You know, I decided to use reusable glass bottles as packaging for milk, not to homogenize the milk so it has cream coming to the top."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:18,000",
+				"to": "00:16:24,270"
+			},
+			"offsets": {
+				"from": 978000,
+				"to": 984270
+			},
+			"text": " So we tried to do minimally processed, no additives, and the highest quality we can make."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,570",
+				"to": "00:16:27,130"
+			},
+			"offsets": {
+				"from": 985570,
+				"to": 987130
+			},
+			"text": " And that is built."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,630",
+				"to": "00:16:33,790"
+			},
+			"offsets": {
+				"from": 987630,
+				"to": 993790
+			},
+			"text": " If we didn't have the quality, I don't think we would have consumers that would want to pay the extra cost for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,260",
+				"to": "00:16:41,840"
+			},
+			"offsets": {
+				"from": 995260,
+				"to": 1001840
+			},
+			"text": " So that's what we kind of try to keep true to and try to work towards."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,590",
+				"to": "00:16:47,880"
+			},
+			"offsets": {
+				"from": 1002590,
+				"to": 1007880
+			},
+			"text": " You know, we first started with, you know, just milk, like whole milk and non-fat."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,020",
+				"to": "00:16:55,840"
+			},
+			"offsets": {
+				"from": 1008020,
+				"to": 1015840
+			},
+			"text": " Actually, I did a survey before I started at the farmer's market and out in the public about what people drank."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,340",
+				"to": "00:16:58,240"
+			},
+			"offsets": {
+				"from": 1016340,
+				"to": 1018240
+			},
+			"text": " They said I did my business plan."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,380",
+				"to": "00:17:04,220"
+			},
+			"offsets": {
+				"from": 1018380,
+				"to": 1024220
+			},
+			"text": " Before I did my business or incorporated in my business plan, 80% of the people said they drank non-fat or low-fat milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,380",
+				"to": "00:17:08,590"
+			},
+			"offsets": {
+				"from": 1024380,
+				"to": 1028590
+			},
+			"text": " So when we started, I thought I'd have all this cream to make butter."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,580",
+				"to": "00:17:18,300"
+			},
+			"offsets": {
+				"from": 1029580,
+				"to": 1038300
+			},
+			"text": " And it turned out we had over, about between 60% and 70% of our customers brought only whole milk, the cream top whole milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:18,300",
+				"to": "00:17:23,240"
+			},
+			"offsets": {
+				"from": 1038300,
+				"to": 1043240
+			},
+			"text": " And so it was like so much for my model and my business plan."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,090",
+				"to": "00:17:33,950"
+			},
+			"offsets": {
+				"from": 1044090,
+				"to": 1053950
+			},
+			"text": " But it was something that was reminiscent for a lot of people of the milk delivery, you know, the milkman and the home delivery."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,630",
+				"to": "00:17:39,090"
+			},
+			"offsets": {
+				"from": 1054630,
+				"to": 1059090
+			},
+			"text": " And there wasn't too much like that around."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,390",
+				"to": "00:17:41,290"
+			},
+			"offsets": {
+				"from": 1059390,
+				"to": 1061290
+			},
+			"text": " So it was a good place to start."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,370",
+				"to": "00:17:50,990"
+			},
+			"offsets": {
+				"from": 1061370,
+				"to": 1070990
+			},
+			"text": " And then I had Chez Panisse and Alice Waters come to the farm and ask about us making butter just like they make in France."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,430",
+				"to": "00:17:52,670"
+			},
+			"offsets": {
+				"from": 1071430,
+				"to": 1072670
+			},
+			"text": " I said, what's it mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,790",
+				"to": "00:17:54,310"
+			},
+			"offsets": {
+				"from": 1072790,
+				"to": 1074310
+			},
+			"text": " And she said, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,310",
+				"to": "00:17:56,590"
+			},
+			"offsets": {
+				"from": 1075310,
+				"to": 1076590
+			},
+			"text": " Maybe it's the grass or the clover."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,590",
+				"to": "00:18:02,730"
+			},
+			"offsets": {
+				"from": 1076590,
+				"to": 1082730
+			},
+			"text": " And so I started making butter and asking, you know, how it was, did it meet our expectations?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,450",
+				"to": "00:18:03,890"
+			},
+			"offsets": {
+				"from": 1083450,
+				"to": 1083890
+			},
+			"text": " And it did."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:04,330",
+				"to": "00:18:07,650"
+			},
+			"offsets": {
+				"from": 1084330,
+				"to": 1087650
+			},
+			"text": " When you start this conversion to organic, you start building a creamery."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,530",
+				"to": "00:18:16,700"
+			},
+			"offsets": {
+				"from": 1089530,
+				"to": 1096700
+			},
+			"text": " You've written, I was reading the website, and some of your neighbors thought you were kind of crazy for doing this."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,860",
+				"to": "00:18:18,320"
+			},
+			"offsets": {
+				"from": 1096860,
+				"to": 1098320
+			},
+			"text": " Is that how it was?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,660",
+				"to": "00:18:22,260"
+			},
+			"offsets": {
+				"from": 1099660,
+				"to": 1102260
+			},
+			"text": " Yes, it was definitely that neighbors thought it was crazy."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,420",
+				"to": "00:18:30,990"
+			},
+			"offsets": {
+				"from": 1102420,
+				"to": 1110990
+			},
+			"text": " But actually, a lot of them are either, either they converted to organic or they aren't in the dairy business anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,190",
+				"to": "00:18:41,520"
+			},
+			"offsets": {
+				"from": 1111190,
+				"to": 1121520
+			},
+			"text": " So it was something that I figured that a lot of the things I do, I do to try them out and to see if it works or doesn't."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,520",
+				"to": "00:18:46,150"
+			},
+			"offsets": {
+				"from": 1121520,
+				"to": 1126150
+			},
+			"text": " And then other people hopefully will incorporate it if it works."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:46,750",
+				"to": "00:18:47,970"
+			},
+			"offsets": {
+				"from": 1126750,
+				"to": 1127970
+			},
+			"text": " So organic was one."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,330",
+				"to": "00:18:57,070"
+			},
+			"offsets": {
+				"from": 1129330,
+				"to": 1137070
+			},
+			"text": " I'm still, I think we're still the only creamery and dairy that actually tests for every load of feed for GMOs"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,070",
+				"to": "00:19:02,690"
+			},
+			"offsets": {
+				"from": 1137070,
+				"to": 1142690
+			},
+			"text": " and asks for certificate analysis on every load of feed and every ingredient."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,750",
+				"to": "00:19:14,040"
+			},
+			"offsets": {
+				"from": 1143750,
+				"to": 1154040
+			},
+			"text": " I found GMOs in our certified organic corn in 2005 and then started our own verification in 2008"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,040",
+				"to": "00:19:19,370"
+			},
+			"offsets": {
+				"from": 1154040,
+				"to": 1159370
+			},
+			"text": " and then became the first one, first creamery in North America to be verified non-GMO"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,370",
+				"to": "00:19:22,470"
+			},
+			"offsets": {
+				"from": 1159370,
+				"to": 1162470
+			},
+			"text": " in the beginning of 2010 under the non-GMO project."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,320",
+				"to": "00:19:33,520"
+			},
+			"offsets": {
+				"from": 1163320,
+				"to": 1173520
+			},
+			"text": " And so I think it's organic integrity is what we try to maintain and really hold tight to"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,520",
+				"to": "00:19:44,090"
+			},
+			"offsets": {
+				"from": 1173520,
+				"to": 1184090
+			},
+			"text": " because if we lose customers' confidence and trust in what organic food is and the organic label,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,720",
+				"to": "00:19:49,230"
+			},
+			"offsets": {
+				"from": 1184720,
+				"to": 1189230
+			},
+			"text": " we'll end up like in the UK where they had a 10-year decline in organic sales"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,230",
+				"to": "00:19:53,960"
+			},
+			"offsets": {
+				"from": 1189230,
+				"to": 1193960
+			},
+			"text": " because in my estimation, the supermarket chains took over the labels."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,110",
+				"to": "00:20:02,290"
+			},
+			"offsets": {
+				"from": 1195110,
+				"to": 1202290
+			},
+			"text": " There was a disconnect between farming methods and quality and consumers only thought it was more expensive."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,750",
+				"to": "00:20:09,580"
+			},
+			"offsets": {
+				"from": 1202750,
+				"to": 1209580
+			},
+			"text": " So that's what, in my mind, caused the decline, which is just starting to recover from."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,020",
+				"to": "00:20:14,610"
+			},
+			"offsets": {
+				"from": 1210020,
+				"to": 1214610
+			},
+			"text": " From the beginning, the idea was to make kind of a model that others could replicate"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,610",
+				"to": "00:20:20,080"
+			},
+			"offsets": {
+				"from": 1214610,
+				"to": 1220080
+			},
+			"text": " because it seems like I'd see glass bottles and really good milk all over the country now, I think."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,040",
+				"to": "00:20:30,110"
+			},
+			"offsets": {
+				"from": 1221040,
+				"to": 1230110
+			},
+			"text": " Yeah, and a lot of people have asked us for advice and we've tried to help other farmers"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,110",
+				"to": "00:20:34,800"
+			},
+			"offsets": {
+				"from": 1230110,
+				"to": 1234800
+			},
+			"text": " and other communities be able to get organic milk and organic products."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,800",
+				"to": "00:20:41,020"
+			},
+			"offsets": {
+				"from": 1234800,
+				"to": 1241020
+			},
+			"text": " So I think that the food system and the farming system that we've had for the last six years hasn't worked."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,550",
+				"to": "00:20:46,770"
+			},
+			"offsets": {
+				"from": 1242550,
+				"to": 1246770
+			},
+			"text": " You know, as I said, we've lost all these farmers, you know, we've lost rural communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,570",
+				"to": "00:20:48,850"
+			},
+			"offsets": {
+				"from": 1247570,
+				"to": 1248850
+			},
+			"text": " We need to change it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,190",
+				"to": "00:20:58,450"
+			},
+			"offsets": {
+				"from": 1249190,
+				"to": 1258450
+			},
+			"text": " And so by having a sustainable organic food system and help revitalize rural communities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,040",
+				"to": "00:21:04,220"
+			},
+			"offsets": {
+				"from": 1259040,
+				"to": 1264220
+			},
+			"text": " that's something that I think we can bring to the table and help other communities do as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,220",
+				"to": "00:21:09,840"
+			},
+			"offsets": {
+				"from": 1264220,
+				"to": 1269840
+			},
+			"text": " I was asked to go by Dr. Vedana Shiva to India, I think it's about four years ago now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,400",
+				"to": "00:21:15,800"
+			},
+			"offsets": {
+				"from": 1270400,
+				"to": 1275800
+			},
+			"text": " to go to India to help subsistent dairy farmers go towards organic practices and help on the quality of milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:16,520",
+				"to": "00:21:25,120"
+			},
+			"offsets": {
+				"from": 1276520,
+				"to": 1285120
+			},
+			"text": " And so we've been working in India, just having calls to people in India to help them eliminate antibiotics,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,800",
+				"to": "00:21:31,060"
+			},
+			"offsets": {
+				"from": 1285800,
+				"to": 1291060
+			},
+			"text": " double their milk production, and working on the sanitary milking practices even by hand"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,060",
+				"to": "00:21:33,640"
+			},
+			"offsets": {
+				"from": 1291060,
+				"to": 1293640
+			},
+			"text": " to get as good a quality of milk as it can here."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,900",
+				"to": "00:21:40,460"
+			},
+			"offsets": {
+				"from": 1293900,
+				"to": 1300460
+			},
+			"text": " You know, there's a next step to get them double the milk, double the price for their milk from consumers"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,460",
+				"to": "00:21:44,300"
+			},
+			"offsets": {
+				"from": 1300460,
+				"to": 1304300
+			},
+			"text": " so they can actually make it a primary income source."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,660",
+				"to": "00:21:49,010"
+			},
+			"offsets": {
+				"from": 1304660,
+				"to": 1309010
+			},
+			"text": " Are Indian farmers facing some of those same kind of challenges that you are?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,970",
+				"to": "00:21:53,980"
+			},
+			"offsets": {
+				"from": 1310970,
+				"to": 1313980
+			},
+			"text": " Farmers all over the world are facing the same issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,180",
+				"to": "00:22:00,920"
+			},
+			"offsets": {
+				"from": 1315180,
+				"to": 1320920
+			},
+			"text": " There's different scale, different issues, but I mean, not different issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,020",
+				"to": "00:22:02,460"
+			},
+			"offsets": {
+				"from": 1321020,
+				"to": 1322460
+			},
+			"text": " It's pretty much the same issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,310",
+				"to": "00:22:09,250"
+			},
+			"offsets": {
+				"from": 1323310,
+				"to": 1329250
+			},
+			"text": " A lot of people don't get exposure to outside advice that actually looks at it differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,250",
+				"to": "00:22:12,610"
+			},
+			"offsets": {
+				"from": 1329250,
+				"to": 1332610
+			},
+			"text": " You know, they have state veterinarians that treat the cows with antibiotics."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,450",
+				"to": "00:22:14,670"
+			},
+			"offsets": {
+				"from": 1333450,
+				"to": 1334670
+			},
+			"text": " You know, there's no prevention."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:14,910",
+				"to": "00:22:16,850"
+			},
+			"offsets": {
+				"from": 1334910,
+				"to": 1336850
+			},
+			"text": " There's no looking at it differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,210",
+				"to": "00:22:24,170"
+			},
+			"offsets": {
+				"from": 1337210,
+				"to": 1344170
+			},
+			"text": " And so coming from my experience as a dairyman, I can talk to farmers around the world and talk about my experiences"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,170",
+				"to": "00:22:28,370"
+			},
+			"offsets": {
+				"from": 1344170,
+				"to": 1348370
+			},
+			"text": " and how I've been able to change that paradigm."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,890",
+				"to": "00:22:34,330"
+			},
+			"offsets": {
+				"from": 1350890,
+				"to": 1354330
+			},
+			"text": " Do you see yourself as part of a food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,870",
+				"to": "00:22:38,430"
+			},
+			"offsets": {
+				"from": 1356870,
+				"to": 1358430
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:38,990",
+				"to": "00:22:50,130"
+			},
+			"offsets": {
+				"from": 1358990,
+				"to": 1370130
+			},
+			"text": " I think we're trying to change our community, our food system, to be something that's sustainable for everybody,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,160",
+				"to": "00:22:57,630"
+			},
+			"offsets": {
+				"from": 1371160,
+				"to": 1377630
+			},
+			"text": " for, you know, farmers, for the land, for the farmers, for the employees, for the animals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,280",
+				"to": "00:23:05,430"
+			},
+			"offsets": {
+				"from": 1378280,
+				"to": 1385430
+			},
+			"text": " and create a food system that's healthy, you know, bring something positive."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,650",
+				"to": "00:23:07,070"
+			},
+			"offsets": {
+				"from": 1385650,
+				"to": 1387070
+			},
+			"text": " So we're working on climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,190",
+				"to": "00:23:10,450"
+			},
+			"offsets": {
+				"from": 1387190,
+				"to": 1390450
+			},
+			"text": " You know, that's the biggest issue that we're dealing with today is, you know, through,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,130",
+				"to": "00:23:17,430"
+			},
+			"offsets": {
+				"from": 1391130,
+				"to": 1397430
+			},
+			"text": " we've had a methane digester that takes all our waste from our animals and produce all our electricity for the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,650",
+				"to": "00:23:22,220"
+			},
+			"offsets": {
+				"from": 1398650,
+				"to": 1402220
+			},
+			"text": " And we get hot water from that Russian equipment."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,300",
+				"to": "00:23:27,520"
+			},
+			"offsets": {
+				"from": 1403300,
+				"to": 1407520
+			},
+			"text": " And then we have electric vehicles that we run off of that as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,920",
+				"to": "00:23:33,470"
+			},
+			"offsets": {
+				"from": 1407920,
+				"to": 1413470
+			},
+			"text": " And I'm putting together, hopefully this week I'll have a test run of our full-scale truck to feed the cows."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,670",
+				"to": "00:23:35,250"
+			},
+			"offsets": {
+				"from": 1413670,
+				"to": 1415250
+			},
+			"text": " It'll be powered by the waste from the cows."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,310",
+				"to": "00:23:40,750"
+			},
+			"offsets": {
+				"from": 1416310,
+				"to": 1420750
+			},
+			"text": " And so that's one part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,810",
+				"to": "00:23:49,450"
+			},
+			"offsets": {
+				"from": 1420810,
+				"to": 1429450
+			},
+			"text": " And then the other part is we were the first dairy on the marine carbon project to look at how can you sequester carbon"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,450",
+				"to": "00:23:51,530"
+			},
+			"offsets": {
+				"from": 1429450,
+				"to": 1431530
+			},
+			"text": " from the atmosphere back into the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,210",
+				"to": "00:23:56,500"
+			},
+			"offsets": {
+				"from": 1432210,
+				"to": 1436500
+			},
+			"text": " And it could be by adding compost, planting hedgerows and windbreaks,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,000",
+				"to": "00:24:05,010"
+			},
+			"offsets": {
+				"from": 1437000,
+				"to": 1445010
+			},
+			"text": " having animals graze the pastures that actually promotes more plant growth that, you know, it's a cycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,010",
+				"to": "00:24:11,590"
+			},
+			"offsets": {
+				"from": 1445010,
+				"to": 1451590
+			},
+			"text": " So, you know, put more carbon back into the soil by adding, if you put a half an inch of compost on,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,330",
+				"to": "00:24:16,930"
+			},
+			"offsets": {
+				"from": 1452330,
+				"to": 1456930
+			},
+			"text": " the statistic is if you put a half an inch of compost on half the rangeland in California,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,650",
+				"to": "00:24:22,850"
+			},
+			"offsets": {
+				"from": 1457650,
+				"to": 1462850
+			},
+			"text": " you would offset all the commercial and residential energy uses."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,210",
+				"to": "00:24:29,030"
+			},
+			"offsets": {
+				"from": 1464210,
+				"to": 1469030
+			},
+			"text": " And then we calculated if you put methane digesters on two-thirds of dairies in California,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,610",
+				"to": "00:24:31,390"
+			},
+			"offsets": {
+				"from": 1469610,
+				"to": 1471390
+			},
+			"text": " you would offset the effects of a million cars."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,390",
+				"to": "00:24:41,130"
+			},
+			"offsets": {
+				"from": 1472390,
+				"to": 1481130
+			},
+			"text": " And so with this new law that just passed about a month ago to reduce methane emissions by 40% by 2030,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,190",
+				"to": "00:24:48,810"
+			},
+			"offsets": {
+				"from": 1481190,
+				"to": 1488810
+			},
+			"text": " we're looking at working, we've been working with this company to build and operate methane digesters on farms"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:48,810",
+				"to": "00:24:54,500"
+			},
+			"offsets": {
+				"from": 1488810,
+				"to": 1494500
+			},
+			"text": " and looking at how we can make it a model that farms can incorporate,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,640",
+				"to": "00:24:59,480"
+			},
+			"offsets": {
+				"from": 1494640,
+				"to": 1499480
+			},
+			"text": " our farms can incorporate and other farms where they're not actually running another business"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,480",
+				"to": "00:25:07,240"
+			},
+			"offsets": {
+				"from": 1499480,
+				"to": 1507240
+			},
+			"text": " trying to, you know, produce energy and deal with this other whole operation that takes their energy away from farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,360",
+				"to": "00:25:12,150"
+			},
+			"offsets": {
+				"from": 1508360,
+				"to": 1512150
+			},
+			"text": " So there's a lot of different dynamics going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,270",
+				"to": "00:25:19,290"
+			},
+			"offsets": {
+				"from": 1512270,
+				"to": 1519290
+			},
+			"text": " We're also part of Patrick Holden and the Sustainable Food Trust in the UK had a conference in April in San Francisco,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,970",
+				"to": "00:25:26,110"
+			},
+			"offsets": {
+				"from": 1519970,
+				"to": 1526110
+			},
+			"text": " the true cost of American food that we had four of our dairies do a survey by Dr."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,170",
+				"to": "00:25:29,010"
+			},
+			"offsets": {
+				"from": 1526170,
+				"to": 1529010
+			},
+			"text": " Harpenter Sandhu of Australia,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,010",
+				"to": "00:25:41,950"
+			},
+			"offsets": {
+				"from": 1529010,
+				"to": 1541950
+			},
+			"text": " who's an ecosystem services professor and advisor to the UN on climate change to use metrics to look at the environmental costs and benefits"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,950",
+				"to": "00:25:45,470"
+			},
+			"offsets": {
+				"from": 1541950,
+				"to": 1545470
+			},
+			"text": " and the social costs and benefits and equate it to a gallon of milk."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,530",
+				"to": "00:25:53,380"
+			},
+			"offsets": {
+				"from": 1546530,
+				"to": 1553380
+			},
+			"text": " And we were in this conference with Joel Salatin was one of the people that did the evaluation"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,380",
+				"to": "00:26:00,020"
+			},
+			"offsets": {
+				"from": 1553380,
+				"to": 1560020
+			},
+			"text": " and then a corn and soybean farmer from Minnesota also was part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,160",
+				"to": "00:26:07,000"
+			},
+			"offsets": {
+				"from": 1560160,
+				"to": 1567000
+			},
+			"text": " And so there was a lot of learnings around that and a lot of learnings about the effects of food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,060",
+				"to": "00:26:09,680"
+			},
+			"offsets": {
+				"from": 1567060,
+				"to": 1569680
+			},
+			"text": " the food system on health and on the environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,960",
+				"to": "00:26:12,320"
+			},
+			"offsets": {
+				"from": 1569960,
+				"to": 1572320
+			},
+			"text": " I guess I asked the question about being part of the food movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,840",
+				"to": "00:26:14,700"
+			},
+			"offsets": {
+				"from": 1572840,
+				"to": 1574700
+			},
+			"text": " I guess I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,960",
+				"to": "00:26:16,360"
+			},
+			"offsets": {
+				"from": 1574960,
+				"to": 1576360
+			},
+			"text": " No, I mean, it makes sense to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,480",
+				"to": "00:26:23,440"
+			},
+			"offsets": {
+				"from": 1576480,
+				"to": 1583440
+			},
+			"text": " I think Chelsea and I, one of the more kind of itches that got us to start the podcast was thinking about like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,500",
+				"to": "00:26:25,380"
+			},
+			"offsets": {
+				"from": 1583500,
+				"to": 1585380
+			},
+			"text": " oh, where do we fit in a food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,440",
+				"to": "00:26:27,980"
+			},
+			"offsets": {
+				"from": 1585440,
+				"to": 1587980
+			},
+			"text": " And maybe it's like a broader set of people and we thought."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,980",
+				"to": "00:26:31,980"
+			},
+			"offsets": {
+				"from": 1587980,
+				"to": 1591980
+			},
+			"text": " And I recently talked for the same season, talked to Nikki Silvestri,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,080",
+				"to": "00:26:35,900"
+			},
+			"offsets": {
+				"from": 1592080,
+				"to": 1595900
+			},
+			"text": " who's been working on the Marine Carbon Priority, doing interviews, gathering data for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,220",
+				"to": "00:26:37,180"
+			},
+			"offsets": {
+				"from": 1596220,
+				"to": 1597180
+			},
+			"text": " And it kind of surprised me."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,240",
+				"to": "00:26:39,320"
+			},
+			"offsets": {
+				"from": 1597240,
+				"to": 1599320
+			},
+			"text": " I was like, well, where does the food movement go now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,400",
+				"to": "00:26:40,180"
+			},
+			"offsets": {
+				"from": 1599400,
+				"to": 1600180
+			},
+			"text": " Or like, what's moving?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,260",
+				"to": "00:26:42,540"
+			},
+			"offsets": {
+				"from": 1600260,
+				"to": 1602540
+			},
+			"text": " It's like, oh, we need a lot more businesses."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,110",
+				"to": "00:26:50,350"
+			},
+			"offsets": {
+				"from": 1603110,
+				"to": 1610350
+			},
+			"text": " We need to work on our economic power as a food movement as well as our lobbying power and our movement building."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:50,690",
+				"to": "00:26:53,530"
+			},
+			"offsets": {
+				"from": 1610690,
+				"to": 1613530
+			},
+			"text": " Well, I think there's huge challenges to the next generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,910",
+				"to": "00:26:58,630"
+			},
+			"offsets": {
+				"from": 1613910,
+				"to": 1618630
+			},
+			"text": " How can you start a farm when you can't get land, you can't get housing, you can't get financing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,250",
+				"to": "00:27:05,090"
+			},
+			"offsets": {
+				"from": 1619250,
+				"to": 1625090
+			},
+			"text": " So that's another aspect of, you know, the food movement is how do you move it on to the next generation?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,830",
+				"to": "00:27:09,090"
+			},
+			"offsets": {
+				"from": 1625830,
+				"to": 1629090
+			},
+			"text": " And how do you, I think there's a lot of people cooking food."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,530",
+				"to": "00:27:11,650"
+			},
+			"offsets": {
+				"from": 1629530,
+				"to": 1631650
+			},
+			"text": " You know, there's just not that many people growing food."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,050",
+				"to": "00:27:17,700"
+			},
+			"offsets": {
+				"from": 1633050,
+				"to": 1637700
+			},
+			"text": " And so I come from the farming end course, you know, so I look at it from that aspect."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,700",
+				"to": "00:27:22,540"
+			},
+			"offsets": {
+				"from": 1637700,
+				"to": 1642540
+			},
+			"text": " But it's, I think it's all of us working together because we are still a minority."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,400",
+				"to": "00:27:31,180"
+			},
+			"offsets": {
+				"from": 1643400,
+				"to": 1651180
+			},
+			"text": " You know, even though I like to say that we're now a majority, we are the norm and we're not a niche in dairy in Marinston County."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,400",
+				"to": "00:27:35,960"
+			},
+			"offsets": {
+				"from": 1651400,
+				"to": 1655960
+			},
+			"text": " We're the norm and conventional is the exception, is the niche."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,960",
+				"to": "00:27:42,600"
+			},
+			"offsets": {
+				"from": 1656960,
+				"to": 1662600
+			},
+			"text": " So, but it's, it's, it's, it's a, it's a huge, it's a huge issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:42,780",
+				"to": "00:27:43,760"
+			},
+			"offsets": {
+				"from": 1662780,
+				"to": 1663760
+			},
+			"text": " It's a huge challenge."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,760",
+				"to": "00:27:46,080"
+			},
+			"offsets": {
+				"from": 1663760,
+				"to": 1666080
+			},
+			"text": " And it's, and it's going to take everybody working together."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,190",
+				"to": "00:27:55,900"
+			},
+			"offsets": {
+				"from": 1667190,
+				"to": 1675900
+			},
+			"text": " Like it did, like we've made the changes, my, my parents' generation, you know, just kind of working through the challenges of land use."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,060",
+				"to": "00:28:05,640"
+			},
+			"offsets": {
+				"from": 1676060,
+				"to": 1685640
+			},
+			"text": " And, you know, I think we have the same challenges of, you know, rural communities and of farming that we've had, you know, for the last 60 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,050",
+				"to": "00:28:18,500"
+			},
+			"offsets": {
+				"from": 1687050,
+				"to": 1698500
+			},
+			"text": " Let's talk about the rural communities just a little bit because I, you say you're just working on some, an internal project, talking with some workers about their experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,640",
+				"to": "00:28:26,320"
+			},
+			"offsets": {
+				"from": 1698640,
+				"to": 1706320
+			},
+			"text": " And I know, and you mentioned that it was, it's quite difficult to live in West Marin County."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,020",
+				"to": "00:28:31,320"
+			},
+			"offsets": {
+				"from": 1707020,
+				"to": 1711320
+			},
+			"text": " And I know that from a certain, I've tried and never been able to find a place."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,320",
+				"to": "00:28:49,340"
+			},
+			"offsets": {
+				"from": 1711320,
+				"to": 1729340
+			},
+			"text": " I mean, the one challenge we have is that the Coast Commission was supposed to be where they were enhancing and promote or encouraging agriculture in balance with community, in balance with tourism."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,960",
+				"to": "00:29:00,610"
+			},
+			"offsets": {
+				"from": 1729960,
+				"to": 1740610
+			},
+			"text": " It's now swung all the way to tourism and, you know, and what I see is that we're going to not have our rural communities or our farming in the future on the coast of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,970",
+				"to": "00:29:08,610"
+			},
+			"offsets": {
+				"from": 1740970,
+				"to": 1748610
+			},
+			"text": " So it's a huge concern for me, you know, most of our workforce is, is our Hispanic."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,210",
+				"to": "00:29:10,610"
+			},
+			"offsets": {
+				"from": 1749210,
+				"to": 1750610
+			},
+			"text": " Most of them are immigrants."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,540",
+				"to": "00:29:23,910"
+			},
+			"offsets": {
+				"from": 1752540,
+				"to": 1763910
+			},
+			"text": " And, and we've actually, they had an internal project of talking, you know, putting a video presentation of people's stories of how they came to this country, which we just saw today."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,990",
+				"to": "00:29:25,570"
+			},
+			"offsets": {
+				"from": 1763990,
+				"to": 1765570
+			},
+			"text": " So it was the first part."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,450",
+				"to": "00:29:30,340"
+			},
+			"offsets": {
+				"from": 1766450,
+				"to": 1770340
+			},
+			"text": " And there's some really amazing stories."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,360",
+				"to": "00:29:38,810"
+			},
+			"offsets": {
+				"from": 1771360,
+				"to": 1778810
+			},
+			"text": " But we're looking actually at moving our creamery to Santa Rosa because we're too far out in the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,010",
+				"to": "00:29:39,750"
+			},
+			"offsets": {
+				"from": 1779010,
+				"to": 1779750
+			},
+			"text": " There's no housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,070",
+				"to": "00:29:42,530"
+			},
+			"offsets": {
+				"from": 1780070,
+				"to": 1782530
+			},
+			"text": " There's, you know, it's, it's, it's people have to commute."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,150",
+				"to": "00:29:47,760"
+			},
+			"offsets": {
+				"from": 1783150,
+				"to": 1787760
+			},
+			"text": " I think that's part of the problem is that people can't live and work in the same community."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,920",
+				"to": "00:29:54,140"
+			},
+			"offsets": {
+				"from": 1787920,
+				"to": 1794140
+			},
+			"text": " So, you know, we have worse traffic than I've ever seen in my life on the, on one-on-one corridor."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,800",
+				"to": "00:30:02,080"
+			},
+			"offsets": {
+				"from": 1794800,
+				"to": 1802080
+			},
+			"text": " So how do you come up with solutions for, I'm not giving up on our rural communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,240",
+				"to": "00:30:20,100"
+			},
+			"offsets": {
+				"from": 1802240,
+				"to": 1820100
+			},
+			"text": " In my mind, we need to hold everybody accountable to, to our future and to look past smaller views to, to bigger, bigger views and to the future of having, having our communities, viable communities and viable farming and a viable food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,700",
+				"to": "00:30:24,120"
+			},
+			"offsets": {
+				"from": 1820700,
+				"to": 1824120
+			},
+			"text": " And it's going to take a lot of work to make that happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,390",
+				"to": "00:30:25,490"
+			},
+			"offsets": {
+				"from": 1825390,
+				"to": 1825490
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,590",
+				"to": "00:30:29,030"
+			},
+			"offsets": {
+				"from": 1825590,
+				"to": 1829030
+			},
+			"text": " I mean, and, and yeah, that's a great answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,150",
+				"to": "00:30:43,240"
+			},
+			"offsets": {
+				"from": 1829150,
+				"to": 1843240
+			},
+			"text": " And it's, when I think about really good organic food and amazing successful projects like the Marin Agricultural Land Trust, one of the most challenging aspects of that is that it becomes kind of elite."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,680",
+				"to": "00:30:43,920"
+			},
+			"offsets": {
+				"from": 1843680,
+				"to": 1843920
+			},
+			"text": " And so."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,920",
+				"to": "00:30:56,400"
+			},
+			"offsets": {
+				"from": 1843920,
+				"to": 1856400
+			},
+			"text": " I just came up with a proposal to the national park, um, um, to, um, to have Marin and cultural land trust manage all the ag land in the national parks or in the park in Marin County."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:56,990",
+				"to": "00:31:10,030"
+			},
+			"offsets": {
+				"from": 1856990,
+				"to": 1870030
+			},
+			"text": " And they would start with this one 52 acre ranch in Marshall that allows four to six small scale produce or small animal farmers to live and work on this one ranch."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:10,030",
+				"to": "00:31:18,690"
+			},
+			"offsets": {
+				"from": 1870030,
+				"to": 1878690
+			},
+			"text": " And so there'd be, there's three houses, three houses there, there's, you know, uh, the park wants to have it in open space and, and not have anybody live there."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,690",
+				"to": "00:31:28,570"
+			},
+			"offsets": {
+				"from": 1878690,
+				"to": 1888570
+			},
+			"text": " And so, um, at least that's the, that's the direction that I've seen proposed, you know, so it's the absence of people and a working environment in our parks."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:28,570",
+				"to": "00:31:39,040"
+			},
+			"offsets": {
+				"from": 1888570,
+				"to": 1899040
+			},
+			"text": " And I think that's, it's gone too far to one extreme when that was the whole founding principle of this national park that there was an area for wilderness."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,040",
+				"to": "00:31:47,270"
+			},
+			"offsets": {
+				"from": 1899040,
+				"to": 1907270
+			},
+			"text": " There was an area for wildlife and there was an area for farms and, um, uh, we were kind of gone away from that."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,530",
+				"to": "00:31:54,240"
+			},
+			"offsets": {
+				"from": 1907530,
+				"to": 1914240
+			},
+			"text": " Chelsea had an art residency out in West Marin a few years ago, but right at the height of the oyster controversies."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:54,500",
+				"to": "00:32:01,740"
+			},
+			"offsets": {
+				"from": 1914500,
+				"to": 1921740
+			},
+			"text": " And it seems like what was on everyone's mind was like, what kind of community do we want to have here on one hand, but also like what's nature for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,920",
+				"to": "00:32:03,320"
+			},
+			"offsets": {
+				"from": 1921920,
+				"to": 1923320
+			},
+			"text": " Is it just to look at it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,320",
+				"to": "00:32:04,040"
+			},
+			"offsets": {
+				"from": 1923320,
+				"to": 1924040
+			},
+			"text": " Is it to work in?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,590",
+				"to": "00:32:05,300"
+			},
+			"offsets": {
+				"from": 1924590,
+				"to": 1925300
+			},
+			"text": " Is there a balance?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:06,350",
+				"to": "00:32:06,590"
+			},
+			"offsets": {
+				"from": 1926350,
+				"to": 1926590
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:06,590",
+				"to": "00:32:19,430"
+			},
+			"offsets": {
+				"from": 1926590,
+				"to": 1939430
+			},
+			"text": " And what I put in, I did an op-ed piece in the local paper about the park services taken out over 130 houses in, in, in West Marin in the last, in the last 50 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,550",
+				"to": "00:32:29,960"
+			},
+			"offsets": {
+				"from": 1939550,
+				"to": 1949960
+			},
+			"text": " The leases are over, the houses are abandoned, and then, um, they wait 10 years and then they're too far gone before they, so they feel they have to destroy them."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,400",
+				"to": "00:32:33,860"
+			},
+			"offsets": {
+				"from": 1950400,
+				"to": 1953860
+			},
+			"text": " And I, I kind of said, you know, how can we work with the community?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,960",
+				"to": "00:32:38,670"
+			},
+			"offsets": {
+				"from": 1953960,
+				"to": 1958670
+			},
+			"text": " Can we put it into CLAM, which is the community affordable housing land trust?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,810",
+				"to": "00:32:44,360"
+			},
+			"offsets": {
+				"from": 1958810,
+				"to": 1964360
+			},
+			"text": " How can we look at it as a community rather than, you know, black and white?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,640",
+				"to": "00:32:48,050"
+			},
+			"offsets": {
+				"from": 1964640,
+				"to": 1968050
+			},
+			"text": " There's, there's grays that we're not even looking at, or shades of gray."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,720",
+				"to": "00:32:56,470"
+			},
+			"offsets": {
+				"from": 1968720,
+				"to": 1976470
+			},
+			"text": " So, um, yeah, I think it's a huge, and the oyster cut was the same thing, is that it was supposed to be a non-conforming use in the park."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,710",
+				"to": "00:32:58,710"
+			},
+			"offsets": {
+				"from": 1976710,
+				"to": 1978710
+			},
+			"text": " And, um, it was supposed to be staying there."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,950",
+				"to": "00:33:04,810"
+			},
+			"offsets": {
+				"from": 1978950,
+				"to": 1984810
+			},
+			"text": " And it was a family that had been there, has been there for, you know, two, two generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,770",
+				"to": "00:33:07,910"
+			},
+			"offsets": {
+				"from": 1985770,
+				"to": 1987910
+			},
+			"text": " And, um, I've known it very well."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,310",
+				"to": "00:33:09,990"
+			},
+			"offsets": {
+				"from": 1988310,
+				"to": 1989990
+			},
+			"text": " And so it's, it's a community member."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,130",
+				"to": "00:33:17,580"
+			},
+			"offsets": {
+				"from": 1990130,
+				"to": 1997580
+			},
+			"text": " So, you know, we need to look beyond the extremes and look towards, you know, how can we make it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,640",
+				"to": "00:33:19,340"
+			},
+			"offsets": {
+				"from": 1997640,
+				"to": 1999340
+			},
+			"text": " And it was part of our food system as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,010",
+				"to": "00:33:34,560"
+			},
+			"offsets": {
+				"from": 2000010,
+				"to": 2014560
+			},
+			"text": " Yeah, it was, it was easy for me to decide where to decide I came down on, um, partly because I love oysters, but partly because it's, um, yeah, that's part of what makes it so special out there is there's a, it's a working landscape, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:34,560",
+				"to": "00:33:42,800"
+			},
+			"offsets": {
+				"from": 2014560,
+				"to": 2022800
+			},
+			"text": " It's a, it's dynamic and it's the, that's the, a lot of, in a, in a community that, um, can feel like it lacks diversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,940",
+				"to": "00:33:45,140"
+			},
+			"offsets": {
+				"from": 2022940,
+				"to": 2025140
+			},
+			"text": " A lot of the diversity comes from the folks who live there."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,190",
+				"to": "00:33:46,310"
+			},
+			"offsets": {
+				"from": 2026190,
+				"to": 2026310
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,490",
+				"to": "00:33:52,020"
+			},
+			"offsets": {
+				"from": 2026490,
+				"to": 2032020
+			},
+			"text": " And, you know, yeah, the communities and we, we don't have enough of young people."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,340",
+				"to": "00:33:53,600"
+			},
+			"offsets": {
+				"from": 2032340,
+				"to": 2033600
+			},
+			"text": " People that can afford to live there."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,800",
+				"to": "00:34:21,310"
+			},
+			"offsets": {
+				"from": 2033800,
+				"to": 2061310
+			},
+			"text": " So we, you know, literally people are dying off, you know, so it's, um, um, and it's, it's, uh, discouraging, but I think we can also keep, continue to work to, to, to make an, you know, equitable environment for, so, so people can come to our community and live there and, and hopefully farm or, or do support type of businesses that, you know, revitalize our community."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:22,130",
+				"to": "00:34:22,570"
+			},
+			"offsets": {
+				"from": 2062130,
+				"to": 2062570
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:22,570",
+				"to": "00:34:45,170"
+			},
+			"offsets": {
+				"from": 2062570,
+				"to": 2085170
+			},
+			"text": " Um, I wanted to ask also about, um, about carbon farming and about climate change, another, another huge topic to talk about, but, um, um, I've been hearing a lot about the California healthy soils initiative and about how kind of the, the hope of ranching, especially to, to sequester a lot of carbon in a place like California."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,170",
+				"to": "00:34:54,570"
+			},
+			"offsets": {
+				"from": 2085170,
+				"to": 2094570
+			},
+			"text": " What have you learned over the last few years of participating in this or of, of, of working with different kinds of farming practices about, about how carbon works on a, on a dairy ranch?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:54,570",
+				"to": "00:35:07,680"
+			},
+			"offsets": {
+				"from": 2094570,
+				"to": 2107680
+			},
+			"text": " So we have a, uh, actually we have a 20 year carbon farm plan on our farm, uh, that we are looking at sequestering 2000 metric tons equivalent per year."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,820",
+				"to": "00:35:11,580"
+			},
+			"offsets": {
+				"from": 2107820,
+				"to": 2111580
+			},
+			"text": " 1,600 of it comes from our capital methane gas."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,470",
+				"to": "00:35:26,510"
+			},
+			"offsets": {
+				"from": 2112470,
+				"to": 2126510
+			},
+			"text": " So there's another 400 that comes from, um, compost application, um, hedgerows and windbreaks, uh, improving water development and, and fencing so that we can move, move animals around better."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,950",
+				"to": "00:35:36,200"
+			},
+			"offsets": {
+				"from": 2126950,
+				"to": 2136200
+			},
+			"text": " So it's all these practices to combine that will actually, I, I, my hope is that we can either be carbon neutral or carbon, carbon positive farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,760",
+				"to": "00:35:40,400"
+			},
+			"offsets": {
+				"from": 2136760,
+				"to": 2140400
+			},
+			"text": " And that would be something that, you know, farming should be positive."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,750",
+				"to": "00:35:44,250"
+			},
+			"offsets": {
+				"from": 2141750,
+				"to": 2144250
+			},
+			"text": " And I think we can make it a positive thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,810",
+				"to": "00:35:51,190"
+			},
+			"offsets": {
+				"from": 2144810,
+				"to": 2151190
+			},
+			"text": " Um, the next, you know, with my electric feature, I'm trying to get, um, off of fossil fuel."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,190",
+				"to": "00:36:01,380"
+			},
+			"offsets": {
+				"from": 2151190,
+				"to": 2161380
+			},
+			"text": " I drive electric car all the time, but I think 18 to 20,000 miles on a year, just going between Bellum and in the three places I have to work mostly."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,590",
+				"to": "00:36:08,510"
+			},
+			"offsets": {
+				"from": 2162590,
+				"to": 2168510
+			},
+			"text": " But, um, and we've got a handful of electric cars here, um, for employees."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,670",
+				"to": "00:36:12,690"
+			},
+			"offsets": {
+				"from": 2168670,
+				"to": 2172690
+			},
+			"text": " So how can we get off of fossil fuel?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,850",
+				"to": "00:36:23,500"
+			},
+			"offsets": {
+				"from": 2172850,
+				"to": 2183500
+			},
+			"text": " How can we, um, we're looking at water as a, as a resource that we've done a lot of, we reuse all our water as at least one time, um, between the creamery and the farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:23,520",
+				"to": "00:36:26,770"
+			},
+			"offsets": {
+				"from": 2183520,
+				"to": 2186770
+			},
+			"text": " Uh, cause we haul all our wastewater back to our farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,870",
+				"to": "00:36:36,440"
+			},
+			"offsets": {
+				"from": 2186870,
+				"to": 2196440
+			},
+			"text": " And we've done a lot of, um, reclaim systems and water minimization systems, which is part of carbon, you know, being a carbon neutral."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,440",
+				"to": "00:36:42,300"
+			},
+			"offsets": {
+				"from": 2196440,
+				"to": 2202300
+			},
+			"text": " Cause we were actually hauling all our water from Petaluma to our creamery right now and all our wastewater out."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:42,360",
+				"to": "00:36:48,500"
+			},
+			"offsets": {
+				"from": 2202360,
+				"to": 2208500
+			},
+			"text": " So if we can minimize that, um, that would help, uh, save fossil fuel, um, water."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:48,620",
+				"to": "00:36:49,920"
+			},
+			"offsets": {
+				"from": 2208620,
+				"to": 2209920
+			},
+			"text": " Water is a precious resource."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,160",
+				"to": "00:36:54,680"
+			},
+			"offsets": {
+				"from": 2210160,
+				"to": 2214680
+			},
+			"text": " So there's all these different parts are part of how you can make a viable farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,840",
+				"to": "00:36:58,640"
+			},
+			"offsets": {
+				"from": 2214840,
+				"to": 2218640
+			},
+			"text": " That's, you know, that is positive and, you know, climate friendly."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,920",
+				"to": "00:37:09,160"
+			},
+			"offsets": {
+				"from": 2218920,
+				"to": 2229160
+			},
+			"text": " And so I know that the Marine Carbon Project and it's called Carbon Cycle Institute have done between the resource conservation district and Marine County."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,280",
+				"to": "00:37:15,160"
+			},
+			"offsets": {
+				"from": 2229280,
+				"to": 2235160
+			},
+			"text": " I think they're doing 10 more projects this year and Sonoma County is doing, I don't know how many projects they're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,220",
+				"to": "00:37:17,080"
+			},
+			"offsets": {
+				"from": 2235220,
+				"to": 2237080
+			},
+			"text": " So, but it's going all over California."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,300",
+				"to": "00:37:29,810"
+			},
+			"offsets": {
+				"from": 2237300,
+				"to": 2249810
+			},
+			"text": " So it's starting to expand as being recognized internationally as a, as, as a system that really, where carbon is being squestered in the soil is being recognized internationally, um, as a solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,330",
+				"to": "00:37:48,490"
+			},
+			"offsets": {
+				"from": 2250330,
+				"to": 2268490
+			},
+			"text": " Um, the, you know, the, you know, the healthy soils initiative is starting to put money into it and hopefully get, um, you know, between, uh, the, the cap and trade, you know, hopefully we can start making a, a, um, income source also for, for farms so that they can be incentivized."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:48,570",
+				"to": "00:38:02,020"
+			},
+			"offsets": {
+				"from": 2268570,
+				"to": 2282020
+			},
+			"text": " The other thing we're doing is actually, we have a, um, a coffee company in San Francisco that actually charges five cents per drink extra for putting into carbon farm projects."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,160",
+				"to": "00:38:10,590"
+			},
+			"offsets": {
+				"from": 2282160,
+				"to": 2290590
+			},
+			"text": " These are milk, our, our coffee, it's called barista milk and they, they charge five cents extra that goes into carbon projects on our farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:11,290",
+				"to": "00:38:17,890"
+			},
+			"offsets": {
+				"from": 2291290,
+				"to": 2297890
+			},
+			"text": " And, um, we just started that last year, this year, last year, anyway, not that long ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:18,330",
+				"to": "00:38:37,740"
+			},
+			"offsets": {
+				"from": 2298330,
+				"to": 2317740
+			},
+			"text": " Um, and what, what it does is gets the connection between consumers and farming practices and, and, and, and get an understanding and education, which is part of what our mission is also is to, to try to educate the, the public and, and the, and the community at large about farming and, and sustainable farming practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:37,900",
+				"to": "00:38:47,010"
+			},
+			"offsets": {
+				"from": 2317900,
+				"to": 2327010
+			},
+			"text": " I guess, I guess, I guess picking up on that education part and also you've been working on this, but you also, you manage this business, um, and there's not a lot of incentives."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,490",
+				"to": "00:38:51,760"
+			},
+			"offsets": {
+				"from": 2327490,
+				"to": 2331760
+			},
+			"text": " I mean, carbon isn't, it's famously underpriced in the, in the world, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,880",
+				"to": "00:39:01,420"
+			},
+			"offsets": {
+				"from": 2331880,
+				"to": 2341420
+			},
+			"text": " Or, um, what, what would it take to, for that to become the norm for some of those practices, this carbon farming practice to become the norm?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:02,610",
+				"to": "00:39:04,030"
+			},
+			"offsets": {
+				"from": 2342610,
+				"to": 2344030
+			},
+			"text": " I think it makes economic sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,030",
+				"to": "00:39:14,290"
+			},
+			"offsets": {
+				"from": 2344030,
+				"to": 2354290
+			},
+			"text": " You know, I mean, you know, I think by saving resources, by doing good practices, you're actually, you should be rewarded by what you put out, you know, the products that you sell."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,530",
+				"to": "00:39:19,690"
+			},
+			"offsets": {
+				"from": 2354530,
+				"to": 2359690
+			},
+			"text": " I mean, in the longterm, I think it has to be something that's sustainable within its economic sense as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,090",
+				"to": "00:39:25,070"
+			},
+			"offsets": {
+				"from": 2360090,
+				"to": 2365070
+			},
+			"text": " You know, I don't think relying on governmental subsidies is going to be really the long-term answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,210",
+				"to": "00:39:28,260"
+			},
+			"offsets": {
+				"from": 2365210,
+				"to": 2368260
+			},
+			"text": " I think it has to make sense, business sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,010",
+				"to": "00:39:46,590"
+			},
+			"offsets": {
+				"from": 2369010,
+				"to": 2386590
+			},
+			"text": " And I think it does, I mean, for us to do reclaim systems on water and energy, we're actually looking at, we've actually, we have a system actually on our farm that, um, we use electrolyzed water to make cleaning solutions where we use, used to use heat and chemicals."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,810",
+				"to": "00:39:48,970"
+			},
+			"offsets": {
+				"from": 2386810,
+				"to": 2388970
+			},
+			"text": " We're now doing without heat and without chemicals."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,970",
+				"to": "00:39:50,990"
+			},
+			"offsets": {
+				"from": 2388970,
+				"to": 2390990
+			},
+			"text": " We're washing our, the milking equipment at farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,990",
+				"to": "00:39:54,690"
+			},
+			"offsets": {
+				"from": 2390990,
+				"to": 2394690
+			},
+			"text": " And so that's saving a lot of energy, that's saving chemicals."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:55,150",
+				"to": "00:39:58,130"
+			},
+			"offsets": {
+				"from": 2395150,
+				"to": 2398130
+			},
+			"text": " So those are types of things that make, it saves us a lot of money also."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,300",
+				"to": "00:40:01,460"
+			},
+			"offsets": {
+				"from": 2398300,
+				"to": 2401460
+			},
+			"text": " That's what I'm thinking about, you know, is that it actually makes sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,750",
+				"to": "00:40:07,650"
+			},
+			"offsets": {
+				"from": 2402750,
+				"to": 2407650
+			},
+			"text": " Does the compost application translate into a return on investment from a business perspective?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,480",
+				"to": "00:40:16,180"
+			},
+			"offsets": {
+				"from": 2408480,
+				"to": 2416180
+			},
+			"text": " Yeah, I think in yield, in yields on crops or pastures, we did an experiment this last year where we, we grazed our pastures for two months."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,280",
+				"to": "00:40:20,940"
+			},
+			"offsets": {
+				"from": 2416280,
+				"to": 2420940
+			},
+			"text": " We used to grow silage and just have one crop a year and didn't have animals on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:20,940",
+				"to": "00:40:26,160"
+			},
+			"offsets": {
+				"from": 2420940,
+				"to": 2426160
+			},
+			"text": " Now we grazed it for two months and then let it grow for two months and then took a crop off of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,680",
+				"to": "00:40:31,140"
+			},
+			"offsets": {
+				"from": 2426680,
+				"to": 2431140
+			},
+			"text": " And we actually got a very, the highest quality feed that we've ever had."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,540",
+				"to": "00:40:37,840"
+			},
+			"offsets": {
+				"from": 2431540,
+				"to": 2437840
+			},
+			"text": " And the yield wasn't that much less when you take in consideration that you had two months of pasture also."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,060",
+				"to": "00:40:42,420"
+			},
+			"offsets": {
+				"from": 2438060,
+				"to": 2442420
+			},
+			"text": " So it's, you know, we're still doing more experiments and get more quantification on that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,420",
+				"to": "00:40:45,710"
+			},
+			"offsets": {
+				"from": 2442420,
+				"to": 2445710
+			},
+			"text": " But, um, so I think there's, yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,830",
+				"to": "00:40:54,480"
+			},
+			"offsets": {
+				"from": 2445830,
+				"to": 2454480
+			},
+			"text": " And we've put on, my father started in the 1950s to use manure as, as nutrients for the, for the crop, for the pastures."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:54,940",
+				"to": "00:40:58,480"
+			},
+			"offsets": {
+				"from": 2454940,
+				"to": 2458480
+			},
+			"text": " And we applied it back on the pastures since the 50s."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,560",
+				"to": "00:41:04,240"
+			},
+			"offsets": {
+				"from": 2458560,
+				"to": 2464240
+			},
+			"text": " So it's, it's actually our carbon, the soil carbon is actually much higher than, than normal."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,520",
+				"to": "00:41:09,720"
+			},
+			"offsets": {
+				"from": 2464520,
+				"to": 2469720
+			},
+			"text": " Even, there was one of the test sites for the marine carbon project before they started, five years before they started."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,240",
+				"to": "00:41:13,050"
+			},
+			"offsets": {
+				"from": 2470240,
+				"to": 2473050
+			},
+			"text": " So it was actually very high levels as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:13,270",
+				"to": "00:41:22,600"
+			},
+			"offsets": {
+				"from": 2473270,
+				"to": 2482600
+			},
+			"text": " So, yes, I think that compost applications and manure applications and, and just doing the right practices come back in economic terms as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:22,940",
+				"to": "00:41:33,060"
+			},
+			"offsets": {
+				"from": 2482940,
+				"to": 2493060
+			},
+			"text": " And we're trying to make it also something we can help farmers as a business, as, as the creamery, help farmers actually implement those practices as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:33,320",
+				"to": "00:41:38,280"
+			},
+			"offsets": {
+				"from": 2493320,
+				"to": 2498280
+			},
+			"text": " How many, how many farms are, are supplying Straffs and how do you, how do you work with them to do that conversion?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:38,830",
+				"to": "00:41:46,950"
+			},
+			"offsets": {
+				"from": 2498830,
+				"to": 2506950
+			},
+			"text": " So there's now nine farms, eight families, including our own, um, that supply the creamery in Marin Sonoma County."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,950",
+				"to": "00:41:55,730"
+			},
+			"offsets": {
+				"from": 2506950,
+				"to": 2515730
+			},
+			"text": " And we actually have a different type of relationship than most than the norm, where we have, uh, we meet with them quarterly."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:56,110",
+				"to": "00:41:58,230"
+			},
+			"offsets": {
+				"from": 2516110,
+				"to": 2518230
+			},
+			"text": " We, we actually hand deliver the check."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,330",
+				"to": "00:42:01,390"
+			},
+			"offsets": {
+				"from": 2518330,
+				"to": 2521390
+			},
+			"text": " Someone from management hand delivers their milk check every two weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:01,670",
+				"to": "00:42:03,830"
+			},
+			"offsets": {
+				"from": 2521670,
+				"to": 2523830
+			},
+			"text": " So we have people going out to the farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,010",
+				"to": "00:42:12,240"
+			},
+			"offsets": {
+				"from": 2524010,
+				"to": 2532240
+			},
+			"text": " We have this trying to make a respectful, mutually beneficial relationship where historically it's been adversarial."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,240",
+				"to": "00:42:17,080"
+			},
+			"offsets": {
+				"from": 2532240,
+				"to": 2537080
+			},
+			"text": " The farmer needs more money, the cream, the processor needs to keep the price down."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,200",
+				"to": "00:42:19,660"
+			},
+			"offsets": {
+				"from": 2537200,
+				"to": 2539660
+			},
+			"text": " And so it's never, never collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,060",
+				"to": "00:42:28,670"
+			},
+			"offsets": {
+				"from": 2540060,
+				"to": 2548670
+			},
+			"text": " And so we've tried to make a collaborative where we meet quarterly to talk about volume and price and any issues on the farms, um, do education as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:29,230",
+				"to": "00:42:41,080"
+			},
+			"offsets": {
+				"from": 2549230,
+				"to": 2561080
+			},
+			"text": " And, um, we've been able to keep the pricing stable for us organic dairies that we keep a stable price where historically it's just a rollercoaster in pricing."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:41,680",
+				"to": "00:42:45,480"
+			},
+			"offsets": {
+				"from": 2561680,
+				"to": 2565480
+			},
+			"text": " And, um, we've actually not had to reduce the price."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:45,480",
+				"to": "00:42:56,760"
+			},
+			"offsets": {
+				"from": 2565480,
+				"to": 2576760
+			},
+			"text": " You know, we were, we actually had to reduce the volume just now because there's a, actually a first time in 22 years in my, we've actually had a flattening out of sales, which is something new."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,920",
+				"to": "00:42:59,870"
+			},
+			"offsets": {
+				"from": 2576920,
+				"to": 2579870
+			},
+			"text": " Um, and it's happening across the industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,310",
+				"to": "00:43:06,560"
+			},
+			"offsets": {
+				"from": 2580310,
+				"to": 2586560
+			},
+			"text": " And so, um, it's how do you approach these type of issues and, and challenges."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,580",
+				"to": "00:43:23,220"
+			},
+			"offsets": {
+				"from": 2587580,
+				"to": 2603220
+			},
+			"text": " But yeah, I think, I think we've had, we have had some great, um, relationships and, um, we feel that we need to have farms to be successful and be able to be profitable, be able to be sustainable and be able to pass on to next generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,860",
+				"to": "00:43:27,660"
+			},
+			"offsets": {
+				"from": 2603860,
+				"to": 2607660
+			},
+			"text": " I have one more question and let me know if you want to add anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:27,660",
+				"to": "00:43:41,710"
+			},
+			"offsets": {
+				"from": 2607660,
+				"to": 2621710
+			},
+			"text": " But I, uh, I went to the farmer's market in Santa Rosa last week and I asked the woman working at the Strauss booth, Wendy, I believe she, I asked her like, if there's something I should ask you about, which is I would definitely ask about ice cream."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:42,210",
+				"to": "00:43:56,170"
+			},
+			"offsets": {
+				"from": 2622210,
+				"to": 2636170
+			},
+			"text": " Well, ice cream is, you know, I really enjoy ice cream, but it's, um, I think it's something that, you know, I, I tried to make an ice cream that does, doesn't have preserves."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,170",
+				"to": "00:44:02,330"
+			},
+			"offsets": {
+				"from": 2636170,
+				"to": 2642330
+			},
+			"text": " It's, it just uses egg yolk stabilizer, uh, doesn't have, uh, it has, there's not, no coloring."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:02,990",
+				"to": "00:44:07,570"
+			},
+			"offsets": {
+				"from": 2642990,
+				"to": 2647570
+			},
+			"text": " And so it's very, you know, hopefully very simple, high quality product."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:07,910",
+				"to": "00:44:17,160"
+			},
+			"offsets": {
+				"from": 2647910,
+				"to": 2657160
+			},
+			"text": " Um, and I mean, we do make milk and reusable glass bottle, less cream top, butter, yogurt, ice cream, sour cream, Greek yogurt."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,420",
+				"to": "00:44:24,800"
+			},
+			"offsets": {
+				"from": 2657420,
+				"to": 2664800
+			},
+			"text": " And then we do like, uh, ice cream base for, uh, by right creamery and Fairfax scoop and Tara's and a few other ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:24,980",
+				"to": "00:44:26,860"
+			},
+			"offsets": {
+				"from": 2664980,
+				"to": 2666860
+			},
+			"text": " We make soft serve ice cream."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,120",
+				"to": "00:44:29,720"
+			},
+			"offsets": {
+				"from": 2667120,
+				"to": 2669720
+			},
+			"text": " So there's, there's a lot of, a lot of things that we're working on."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:29,800",
+				"to": "00:44:33,100"
+			},
+			"offsets": {
+				"from": 2669800,
+				"to": 2673100
+			},
+			"text": " We're always trying to reduce sugar in our products."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:33,100",
+				"to": "00:44:36,100"
+			},
+			"offsets": {
+				"from": 2673100,
+				"to": 2676100
+			},
+			"text": " So looking at that, but there's more ice cream coming too."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:36,780",
+				"to": "00:44:47,270"
+			},
+			"offsets": {
+				"from": 2676780,
+				"to": 2687270
+			},
+			"text": " I'm reformulating a couple of them and, and we're, we just came out this, this last year with, uh, a, um, lemon ginger snap and a, and a strawberry."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,710",
+				"to": "00:44:51,030"
+			},
+			"offsets": {
+				"from": 2687710,
+				"to": 2691030
+			},
+			"text": " And so, you know, so there's always more things coming out."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:51,290",
+				"to": "00:44:53,680"
+			},
+			"offsets": {
+				"from": 2691290,
+				"to": 2693680
+			},
+			"text": " So wait, wait, can you tell me a future ice cream flavor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:54,190",
+				"to": "00:45:00,410"
+			},
+			"offsets": {
+				"from": 2694190,
+				"to": 2700410
+			},
+			"text": " Um, well, I'm re I'm looking at redoing our banana, brown sugar banana and making a really good banana."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:00,630",
+				"to": "00:45:06,810"
+			},
+			"offsets": {
+				"from": 2700630,
+				"to": 2706810
+			},
+			"text": " So, um, and then, um, I'm not sure where we're going from there."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:06,830",
+				"to": "00:45:07,170"
+			},
+			"offsets": {
+				"from": 2706830,
+				"to": 2707170
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,210",
+				"to": "00:45:07,430"
+			},
+			"offsets": {
+				"from": 2707210,
+				"to": 2707430
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,490",
+				"to": "00:45:07,910"
+			},
+			"offsets": {
+				"from": 2707490,
+				"to": 2707910
+			},
+			"text": " Fair enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:08,230",
+				"to": "00:45:08,490"
+			},
+			"offsets": {
+				"from": 2708230,
+				"to": 2708490
+			},
+			"text": " Great."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:08,790",
+				"to": "00:45:10,930"
+			},
+			"offsets": {
+				"from": 2708790,
+				"to": 2710930
+			},
+			"text": " Well, Albert, it's been really great to talk to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,110",
+				"to": "00:45:14,950"
+			},
+			"offsets": {
+				"from": 2711110,
+				"to": 2714950
+			},
+			"text": " Do you have any last things or anything I didn't ask you about that you'd like to talk about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:14,950",
+				"to": "00:45:18,490"
+			},
+			"offsets": {
+				"from": 2714950,
+				"to": 2718490
+			},
+			"text": " No, I think that, you know, I, I, I think we've come a long way."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,490",
+				"to": "00:45:22,580"
+			},
+			"offsets": {
+				"from": 2718490,
+				"to": 2722580
+			},
+			"text": " And I think there's, you know, we've got a long way to go, but I think that we're working"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:22,580",
+				"to": "00:45:26,460"
+			},
+			"offsets": {
+				"from": 2722580,
+				"to": 2726460
+			},
+			"text": " on the challenges that we face and, and working together on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:26,520",
+				"to": "00:45:28,400"
+			},
+			"offsets": {
+				"from": 2726520,
+				"to": 2728400
+			},
+			"text": " So I think I'm really encouraged about the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:29,730",
+				"to": "00:45:30,680"
+			},
+			"offsets": {
+				"from": 2729730,
+				"to": 2730680
+			},
+			"text": " Thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:30,860",
+				"to": "00:45:31,540"
+			},
+			"offsets": {
+				"from": 2730860,
+				"to": 2731540
+			},
+			"text": " Appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,700",
+				"to": "00:45:32,020"
+			},
+			"offsets": {
+				"from": 2731700,
+				"to": 2732020
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:35,960",
+				"to": "00:45:41,260"
+			},
+			"offsets": {
+				"from": 2735960,
+				"to": 2741260
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me, Chelsea"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,260",
+				"to": "00:45:41,540"
+			},
+			"offsets": {
+				"from": 2741260,
+				"to": 2741540
+			},
+			"text": " Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,860",
+				"to": "00:45:47,180"
+			},
+			"offsets": {
+				"from": 2741860,
+				"to": 2747180
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,330",
+				"to": "00:45:51,820"
+			},
+			"offsets": {
+				"from": 2747330,
+				"to": 2751820
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:51,900",
+				"to": "00:45:56,970"
+			},
+			"offsets": {
+				"from": 2751900,
+				"to": 2756970
+			},
+			"text": " There, we've got pictures and notes all about the interviews, and you can sign up for our monthly"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:56,970",
+				"to": "00:45:57,370"
+			},
+			"offsets": {
+				"from": 2756970,
+				"to": 2757370
+			},
+			"text": " email."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:57,830",
+				"to": "00:45:59,910"
+			},
+			"offsets": {
+				"from": 2757830,
+				"to": 2759910
+			},
+			"text": " You can find us on Facebook and Twitter too."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:00,340",
+				"to": "00:46:05,040"
+			},
+			"offsets": {
+				"from": 2760340,
+				"to": 2765040
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:05,300",
+				"to": "00:46:08,660"
+			},
+			"offsets": {
+				"from": 2765300,
+				"to": 2768660
+			},
+			"text": " a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:08,940",
+				"to": "00:46:12,540"
+			},
+			"offsets": {
+				"from": 2768940,
+				"to": 2772540
+			},
+			"text": " Visit www.calhom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:12,840",
+				"to": "00:46:18,220"
+			},
+			"offsets": {
+				"from": 2772840,
+				"to": 2778220
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:18,220",
+				"to": "00:46:18,540"
+			},
+			"offsets": {
+				"from": 2778220,
+				"to": 2778540
+			},
+			"text": " intern."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:18,540",
+				"to": "00:46:19,450"
+			},
+			"offsets": {
+				"from": 2778540,
+				"to": 2779450
+			},
+			"text": " Thank you."
+		}
+	]
+}

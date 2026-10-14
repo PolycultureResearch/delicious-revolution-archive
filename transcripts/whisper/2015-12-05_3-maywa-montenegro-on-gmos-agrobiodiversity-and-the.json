@@ -1,0 +1,3783 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:01,030",
+				"to": "00:00:18,990"
+			},
+			"offsets": {
+				"from": 1030,
+				"to": 18990
+			},
+			"text": " I think that's one of the fascinating things is genetic engineering is actually a brilliant solution for many of the agricultural problems that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,990",
+				"to": "00:00:27,810"
+			},
+			"offsets": {
+				"from": 18990,
+				"to": 27810
+			},
+			"text": " It's a technical solution to the current system. I'm just not really sure if it's the solution to the system that we want."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,810",
+				"to": "00:00:39,810"
+			},
+			"offsets": {
+				"from": 27810,
+				"to": 39810
+			},
+			"text": " So that's, I am not against, but I'm wondering if we made all the changes to the food system that we should in order to make it more resilient and more equitable."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,810",
+				"to": "00:00:45,760"
+			},
+			"offsets": {
+				"from": 39810,
+				"to": 45760
+			},
+			"text": " How necessary and how interesting genetic modification would even be at that point?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,760",
+				"to": "00:00:56,250"
+			},
+			"offsets": {
+				"from": 45760,
+				"to": 56250
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place, made by Devon Samson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,250",
+				"to": "00:01:05,690"
+			},
+			"offsets": {
+				"from": 56250,
+				"to": 65690
+			},
+			"text": " We talk with people who work in and think about all aspects of the food movement, including farmers, chefs, artists, and activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,690",
+				"to": "00:01:09,020"
+			},
+			"offsets": {
+				"from": 65690,
+				"to": 69020
+			},
+			"text": " These people have a vision for a different food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,020",
+				"to": "00:01:15,900"
+			},
+			"offsets": {
+				"from": 69020,
+				"to": 75900
+			},
+			"text": " This first season of Delicious Revolution, we talked to friends who are deeply engaged with many aspects of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,900",
+				"to": "00:01:20,650"
+			},
+			"offsets": {
+				"from": 75900,
+				"to": 80650
+			},
+			"text": " These people have inspired us over many years with their thoughts and stories."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,650",
+				"to": "00:01:44,810"
+			},
+			"offsets": {
+				"from": 80650,
+				"to": 104810
+			},
+			"text": " Myla Montenegro is a seed scholar and a science writer who I know through many mutual friends, especially Annie Shattuck, and through the agroecology movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,810",
+				"to": "00:02:03,090"
+			},
+			"offsets": {
+				"from": 104810,
+				"to": 123090
+			},
+			"text": " I love to keep up with her written work in part because it's so well-crafted, but also because she continually brings up fresh analysis and perspective into conversations that can feel tired, like the conversations about the role of urban agriculture in the food system, the importance of biodiversity conservation, and the use of genetically modified organisms."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,090",
+				"to": "00:02:09,330"
+			},
+			"offsets": {
+				"from": 123090,
+				"to": 129330
+			},
+			"text": " She is a PhD candidate at UC Berkeley, where her research focuses on the social relations around seeds and seed systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,330",
+				"to": "00:02:14,210"
+			},
+			"offsets": {
+				"from": 129330,
+				"to": 134210
+			},
+			"text": " She also has a degree in molecular biology and a master's of science writing from MIT."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,210",
+				"to": "00:02:18,820"
+			},
+			"offsets": {
+				"from": 134210,
+				"to": 138820
+			},
+			"text": " She publishes work in academic journals, and also widely in the popular press."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,820",
+				"to": "00:02:28,060"
+			},
+			"offsets": {
+				"from": 138820,
+				"to": 148060
+			},
+			"text": " She was an editor at Seed Magazine, and her work is published recently by NCF, Gastronomica, The Huffington Post, Grist.org, and many other publications."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,700",
+				"to": "00:02:34,040"
+			},
+			"offsets": {
+				"from": 148700,
+				"to": 154040
+			},
+			"text": " Public Radio International recently picked up a piece that we'll talk about related to genetically modified foods."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,580",
+				"to": "00:02:37,180"
+			},
+			"offsets": {
+				"from": 154580,
+				"to": 157180
+			},
+			"text": " So, Myla, welcome to the Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,800",
+				"to": "00:02:38,830"
+			},
+			"offsets": {
+				"from": 157800,
+				"to": 158830
+			},
+			"text": " Hi, Devin."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,500",
+				"to": "00:02:44,190"
+			},
+			"offsets": {
+				"from": 159500,
+				"to": 164190
+			},
+			"text": " So, I guess to start, I want to start broadly about the food movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,190",
+				"to": "00:02:48,290"
+			},
+			"offsets": {
+				"from": 164190,
+				"to": 168290
+			},
+			"text": " And you've been writing about food and thinking about food for a long time now."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,650",
+				"to": "00:02:51,110"
+			},
+			"offsets": {
+				"from": 168650,
+				"to": 171110
+			},
+			"text": " So, I'm curious to know, how did you get started?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,330",
+				"to": "00:02:52,960"
+			},
+			"offsets": {
+				"from": 171330,
+				"to": 172960
+			},
+			"text": " What got you interested at first?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,120",
+				"to": "00:03:09,860"
+			},
+			"offsets": {
+				"from": 173120,
+				"to": 189860
+			},
+			"text": " And also, let's talk just a little bit about what it's like to have this food movement grow up in popularity and its share of the public discourse over the time that you've been thinking about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,860",
+				"to": "00:03:11,160"
+			},
+			"offsets": {
+				"from": 189860,
+				"to": 191160
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,160",
+				"to": "00:03:16,710"
+			},
+			"offsets": {
+				"from": 191160,
+				"to": 196710
+			},
+			"text": " Well, I really got interested from a biological standpoint."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,710",
+				"to": "00:03:23,130"
+			},
+			"offsets": {
+				"from": 196710,
+				"to": 203130
+			},
+			"text": " When I was an undergrad at Williams College, I worked in a laboratory that focused on agrobacterium."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,550",
+				"to": "00:03:27,440"
+			},
+			"offsets": {
+				"from": 203550,
+				"to": 207440
+			},
+			"text": " So, I was very much in the nitty-gritty of protein complexes."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,440",
+				"to": "00:03:40,900"
+			},
+			"offsets": {
+				"from": 207440,
+				"to": 220900
+			},
+			"text": " And my undergrad honors thesis was kind of trying to understand how this whole complex forms a pore through which agrobacterium sends DNA into the plant cell."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,500",
+				"to": "00:03:56,280"
+			},
+			"offsets": {
+				"from": 221500,
+				"to": 236280
+			},
+			"text": " So, when you start writing about this, and I started reading about what are the ultimate uses, and often when you write grant proposals, you're supposed to come up with applied ends for this technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,280",
+				"to": "00:04:16,980"
+			},
+			"offsets": {
+				"from": 236280,
+				"to": 256980
+			},
+			"text": " And that's when I started reading a little bit more about genetically modified crops and biofortification, read a little bit about Norman Borlaug and MS Swaminathan, and I got interested in the intersection of biology, technology, and feeding the world, so to speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,540",
+				"to": "00:04:23,750"
+			},
+			"offsets": {
+				"from": 257540,
+				"to": 263750
+			},
+			"text": " And was your perspective critical from the start, or how did you first read things about Norman Borlaug?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,930",
+				"to": "00:04:25,050"
+			},
+			"offsets": {
+				"from": 263930,
+				"to": 265050
+			},
+			"text": " Not critical at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,050",
+				"to": "00:04:39,910"
+			},
+			"offsets": {
+				"from": 265050,
+				"to": 279910
+			},
+			"text": " Well, I actually thought it was very exciting, and I thought coming out of undergrad that that would be a potential future career path for me to go into plant genetics and work on these systems myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,530",
+				"to": "00:04:46,900"
+			},
+			"offsets": {
+				"from": 280530,
+				"to": 286900
+			},
+			"text": " So, that was career goal number one, was mini-Maiwa MS Swaminathan."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,290",
+				"to": "00:04:48,170"
+			},
+			"offsets": {
+				"from": 287290,
+				"to": 288170
+			},
+			"text": " So, what happened?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,170",
+				"to": "00:04:57,620"
+			},
+			"offsets": {
+				"from": 288170,
+				"to": 297620
+			},
+			"text": " So, what happened is, well, I actually, at Williams, we take a lot of, a wide breadth of courses."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,800",
+				"to": "00:05:01,320"
+			},
+			"offsets": {
+				"from": 297800,
+				"to": 301320
+			},
+			"text": " And one of these courses that I took was one in science writing."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,540",
+				"to": "00:05:10,610"
+			},
+			"offsets": {
+				"from": 301540,
+				"to": 310610
+			},
+			"text": " And when I wrote my organic chemistry, like, final paper, orgo was so hard, and I enjoyed it a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,670",
+				"to": "00:05:15,990"
+			},
+			"offsets": {
+				"from": 310670,
+				"to": 315990
+			},
+			"text": " I did actually a lot of biochemistry undergrad, but I remember distinctly the comments that came back."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,210",
+				"to": "00:05:18,280"
+			},
+			"offsets": {
+				"from": 316210,
+				"to": 318280
+			},
+			"text": " It was like, really beautifully written."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,960",
+				"to": "00:05:23,780"
+			},
+			"offsets": {
+				"from": 318960,
+				"to": 323780
+			},
+			"text": " And I'm like, oh, I did that whole synthesis, and all I got was beautiful writing."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,880",
+				"to": "00:05:28,000"
+			},
+			"offsets": {
+				"from": 323880,
+				"to": 328000
+			},
+			"text": " But it also kind of, you know, it set off some bells in my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,320",
+				"to": "00:05:33,460"
+			},
+			"offsets": {
+				"from": 328320,
+				"to": 333460
+			},
+			"text": " And the year after I graduated was actually the inaugural year for the MIT Science Writing Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,920",
+				"to": "00:05:35,480"
+			},
+			"offsets": {
+				"from": 333920,
+				"to": 335480
+			},
+			"text": " It looked very exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,720",
+				"to": "00:05:39,680"
+			},
+			"offsets": {
+				"from": 335720,
+				"to": 339680
+			},
+			"text": " It was 12 months, kind of compact, and I thought, I'm just going to go for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,680",
+				"to": "00:05:53,020"
+			},
+			"offsets": {
+				"from": 339680,
+				"to": 353020
+			},
+			"text": " So, I applied, and I spent a year at MIT with a wonderful group of professors who were kind of a novelist, a beat reporter, a book writer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,460",
+				"to": "00:05:58,200"
+			},
+			"offsets": {
+				"from": 353460,
+				"to": 358200
+			},
+			"text": " and kind of learned some of the technical and structural components of journalism."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,910",
+				"to": "00:06:05,170"
+			},
+			"offsets": {
+				"from": 358910,
+				"to": 365170
+			},
+			"text": " And being at MIT, you also are, like, surrounded with scientists, and you get to embed in labs there."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,590",
+				"to": "00:06:10,410"
+			},
+			"offsets": {
+				"from": 365590,
+				"to": 370410
+			},
+			"text": " And I spent that year just researching and writing more about rice."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,880",
+				"to": "00:06:18,740"
+			},
+			"offsets": {
+				"from": 370880,
+				"to": 378740
+			},
+			"text": " So, my interest in the biofortification and in agriculture continued through that journey in the science writing program."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,840",
+				"to": "00:06:26,450"
+			},
+			"offsets": {
+				"from": 379840,
+				"to": 386450
+			},
+			"text": " But to be very brief about it, I came out of it still thinking that that's what I would maybe want to do in the long term,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,590",
+				"to": "00:06:30,100"
+			},
+			"offsets": {
+				"from": 386590,
+				"to": 390100
+			},
+			"text": " is be one of those biologists, one of those geneticists."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,100",
+				"to": "00:06:41,610"
+			},
+			"offsets": {
+				"from": 390100,
+				"to": 401610
+			},
+			"text": " So, I actually finished MIT, applied to PhD programs in molecular biology, and then decided, I'm not really sure yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,830",
+				"to": "00:06:43,630"
+			},
+			"offsets": {
+				"from": 401830,
+				"to": 403630
+			},
+			"text": " So, this has been a long and windy path."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,790",
+				"to": "00:06:48,110"
+			},
+			"offsets": {
+				"from": 403790,
+				"to": 408110
+			},
+			"text": " I decided instead to work as a bookseller."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,390",
+				"to": "00:06:50,590"
+			},
+			"offsets": {
+				"from": 408390,
+				"to": 410590
+			},
+			"text": " I worked at Barnes & Noble for a year and a half."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,250",
+				"to": "00:06:56,870"
+			},
+			"offsets": {
+				"from": 411250,
+				"to": 416870
+			},
+			"text": " And while I was there shelving magazines, I came across Seed Magazine on the shelf."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,070",
+				"to": "00:07:03,850"
+			},
+			"offsets": {
+				"from": 417070,
+				"to": 423850
+			},
+			"text": " And I remember seeing profiles of Brian Green, Al Gore's Inconvenient Truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,850",
+				"to": "00:07:14,480"
+			},
+			"offsets": {
+				"from": 423850,
+				"to": 434480
+			},
+			"text": " And they were treating scientists sort of like celebrities, giving them kind of attention and interest in conversations at the intersection of art and science and culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,860",
+				"to": "00:07:25,650"
+			},
+			"offsets": {
+				"from": 434860,
+				"to": 445650
+			},
+			"text": " So, I applied for an internship, made my way to New York, and spent the next five years working as a staff editor and writer for Seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,890",
+				"to": "00:07:29,050"
+			},
+			"offsets": {
+				"from": 447890,
+				"to": 449050
+			},
+			"text": " Okay, I had no idea."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,510",
+				"to": "00:07:29,950"
+			},
+			"offsets": {
+				"from": 449510,
+				"to": 449950
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,370",
+				"to": "00:07:39,480"
+			},
+			"offsets": {
+				"from": 450370,
+				"to": 459480
+			},
+			"text": " Yeah, I just recently discovered in doing my research that, well, there was actually a time about a year ago where I was like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,560",
+				"to": "00:07:41,280"
+			},
+			"offsets": {
+				"from": 459560,
+				"to": 461280
+			},
+			"text": " oh, that's why Maya was such a good writer."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,440",
+				"to": "00:07:43,500"
+			},
+			"offsets": {
+				"from": 461440,
+				"to": 463500
+			},
+			"text": " She actually worked as a journalist for a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,520",
+				"to": "00:07:44,480"
+			},
+			"offsets": {
+				"from": 463520,
+				"to": 464480
+			},
+			"text": " I did, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,770",
+				"to": "00:07:48,270"
+			},
+			"offsets": {
+				"from": 465770,
+				"to": 468270
+			},
+			"text": " Yeah, it made me feel better about my own writing when I heard of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,330",
+				"to": "00:07:54,050"
+			},
+			"offsets": {
+				"from": 469330,
+				"to": 474050
+			},
+			"text": " The other thing, you've become quite an expert in agrobiodiversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,570",
+				"to": "00:07:56,010"
+			},
+			"offsets": {
+				"from": 474570,
+				"to": 476010
+			},
+			"text": " And that's also what I study."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,230",
+				"to": "00:08:00,450"
+			},
+			"offsets": {
+				"from": 476230,
+				"to": 480450
+			},
+			"text": " But I think we have really different approaches and different areas of expertise within that thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,570",
+				"to": "00:08:01,550"
+			},
+			"offsets": {
+				"from": 480570,
+				"to": 481550
+			},
+			"text": " So, like, will you help me out?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,590",
+				"to": "00:08:06,230"
+			},
+			"offsets": {
+				"from": 481590,
+				"to": 486230
+			},
+			"text": " It's actually not that hard or it's not that easy to define agrobiodiversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,930",
+				"to": "00:08:07,990"
+			},
+			"offsets": {
+				"from": 486930,
+				"to": 487990
+			},
+			"text": " So, will you help me do it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,380",
+				"to": "00:08:10,700"
+			},
+			"offsets": {
+				"from": 488380,
+				"to": 490700
+			},
+			"text": " Oh, will I help you define agrobiodiversity?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,960",
+				"to": "00:08:12,900"
+			},
+			"offsets": {
+				"from": 490960,
+				"to": 492900
+			},
+			"text": " Well, I find it challenging as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,900",
+				"to": "00:08:24,130"
+			},
+			"offsets": {
+				"from": 492900,
+				"to": 504130
+			},
+			"text": " And I've written passages and scratched them out and written them again because I think people from different academic backgrounds use them in different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,130",
+				"to": "00:08:34,040"
+			},
+			"offsets": {
+				"from": 504130,
+				"to": 514040
+			},
+			"text": " You can look back at some of the CGIAR literature, and they're very much thinking about it in terms of plant genetics and agricultural."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,330",
+				"to": "00:08:39,110"
+			},
+			"offsets": {
+				"from": 515330,
+				"to": 519110
+			},
+			"text": " In the context of agriculture, they're looking at genetic diversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,740",
+				"to": "00:08:48,370"
+			},
+			"offsets": {
+				"from": 519740,
+				"to": 528370
+			},
+			"text": " If you look more from agroecology literature, I think Louise Jackson had a nicely written definition."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,370",
+				"to": "00:08:56,630"
+			},
+			"offsets": {
+				"from": 528370,
+				"to": 536630
+			},
+			"text": " And they're looking more at the entire, like, web of interactions that take place in an agroecosystem."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,640",
+				"to": "00:09:00,100"
+			},
+			"offsets": {
+				"from": 537640,
+				"to": 540100
+			},
+			"text": " So, and that's the definition that I would prefer."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,280",
+				"to": "00:09:08,710"
+			},
+			"offsets": {
+				"from": 540280,
+				"to": 548710
+			},
+			"text": " So, it would have to do with the diversity of genes, organisms, the, you know, communities, landscapes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,760",
+				"to": "00:09:18,030"
+			},
+			"offsets": {
+				"from": 549760,
+				"to": 558030
+			},
+			"text": " What I like about, I think it was Yvette Perfecto who first came up with the planned agrobiodiversity and then the associated."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,290",
+				"to": "00:09:31,460"
+			},
+			"offsets": {
+				"from": 558290,
+				"to": 571460
+			},
+			"text": " So, it's what the farmers intentionally introduce into the agroecosystem and then all of the other associated interactions that are kind of concomitant with that intentional practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,060",
+				"to": "00:09:42,220"
+			},
+			"offsets": {
+				"from": 572060,
+				"to": 582220
+			},
+			"text": " So, I would like to have a mural or some kind of massive mosaic that demonstrates it because I think it's a concept that's hard to articulate in words."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,220",
+				"to": "00:09:46,890"
+			},
+			"offsets": {
+				"from": 582220,
+				"to": 586890
+			},
+			"text": " I've tried and I can, I'll send you my best effort."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,090",
+				"to": "00:09:57,590"
+			},
+			"offsets": {
+				"from": 587090,
+				"to": 597590
+			},
+			"text": " But I think an illustration would probably be a better way of getting across the multiple webs of interactions that we're talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,250",
+				"to": "00:09:58,390"
+			},
+			"offsets": {
+				"from": 598250,
+				"to": 598390
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,750",
+				"to": "00:10:04,700"
+			},
+			"offsets": {
+				"from": 598750,
+				"to": 604700
+			},
+			"text": " As shorthand, I've started saying it's just a set of biodiversity in the world that farmers manage."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,600",
+				"to": "00:10:06,320"
+			},
+			"offsets": {
+				"from": 605600,
+				"to": 606320
+			},
+			"text": " That's handy."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,640",
+				"to": "00:10:07,640"
+			},
+			"offsets": {
+				"from": 606640,
+				"to": 607640
+			},
+			"text": " I like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,780",
+				"to": "00:10:08,460"
+			},
+			"offsets": {
+				"from": 607780,
+				"to": 608460
+			},
+			"text": " It's a partial bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,460",
+				"to": "00:10:21,240"
+			},
+			"offsets": {
+				"from": 608460,
+				"to": 621240
+			},
+			"text": " Yeah, if, yeah, if you, the associated would be on top of that because they aren't necessarily managing those like crop wild relatives that they wouldn't be managing but are important components of agrobiodiversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,750",
+				"to": "00:10:36,920"
+			},
+			"offsets": {
+				"from": 621750,
+				"to": 636920
+			},
+			"text": " Something that comes across really strongly in your writing about crop wild relatives, about crop wild relatives, okay, is this attention between conservation and innovation."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,280",
+				"to": "00:10:55,960"
+			},
+			"offsets": {
+				"from": 637280,
+				"to": 655960
+			},
+			"text": " And on the one hand, there's like the first, the most obvious of that I think is this idea that there's new crop varieties and new technologies in agriculture that in some ways threaten old varieties and threaten the project of conservation."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,300",
+				"to": "00:11:03,460"
+			},
+			"offsets": {
+				"from": 656300,
+				"to": 663460
+			},
+			"text": " But on the other hand, there's this tension of the farmers innovation that have led to that biodiversity that we're trying to conserve in the first place."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,680",
+				"to": "00:11:07,600"
+			},
+			"offsets": {
+				"from": 663680,
+				"to": 667600
+			},
+			"text": " So, yeah, I guess just talk about that a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,760",
+				"to": "00:11:09,860"
+			},
+			"offsets": {
+				"from": 667760,
+				"to": 669860
+			},
+			"text": " Like, what is that tension?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,980",
+				"to": "00:11:10,700"
+			},
+			"offsets": {
+				"from": 669980,
+				"to": 670700
+			},
+			"text": " How does it come up?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,580",
+				"to": "00:11:19,390"
+			},
+			"offsets": {
+				"from": 671580,
+				"to": 679390
+			},
+			"text": " Yeah, that's a, it's a fascinating, very difficult question to answer because I think how you even begin to define innovation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,390",
+				"to": "00:11:34,590"
+			},
+			"offsets": {
+				"from": 679390,
+				"to": 694590
+			},
+			"text": " whether it's more a trajectory towards simplification and technology and labor-saving innovations versus ones that are engendering complexity and knowledge and labor embedded in what we are defining."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,590",
+				"to": "00:11:46,560"
+			},
+			"offsets": {
+				"from": 694590,
+				"to": 706560
+			},
+			"text": " I mean, I have a technology and its utility with, in particular, these, the problems with loss of crop genetic diversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,560",
+				"to": "00:11:59,520"
+			},
+			"offsets": {
+				"from": 706560,
+				"to": 719520
+			},
+			"text": " I think there is a broad recognition amongst breeders and biologists who were very much a part of the green revolution paradigm"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,520",
+				"to": "00:12:12,280"
+			},
+			"offsets": {
+				"from": 719520,
+				"to": 732280
+			},
+			"text": " that they have somewhat shot themselves in the foot and are realizing those green revolution approaches are eroding the very foundation of tomorrow's biotechnology."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,230",
+				"to": "00:12:20,460"
+			},
+			"offsets": {
+				"from": 733230,
+				"to": 740460
+			},
+			"text": " And Kerry Fowler, in particular, he's the head of the Svalbard Seed Bank, has been at the forefront of saying, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,200",
+				"to": "00:12:24,190"
+			},
+			"offsets": {
+				"from": 741200,
+				"to": 744190
+			},
+			"text": " biotechnology doesn't emerge magically from nowhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:24,370",
+				"to": "00:12:29,530"
+			},
+			"offsets": {
+				"from": 744370,
+				"to": 749530
+			},
+			"text": " We've got to have the substance, and his approach has been largely ex-C2 conservation."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,530",
+				"to": "00:12:43,500"
+			},
+			"offsets": {
+				"from": 749530,
+				"to": 763500
+			},
+			"text": " So let's identify these hot spots where we're rapidly losing it and try to cache them, freeze them, dehydrate them, and preserve them for future use."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,240",
+				"to": "00:12:50,150"
+			},
+			"offsets": {
+				"from": 764240,
+				"to": 770150
+			},
+			"text": " And there are multiple ex-C2 institutions around the world that support that kind of effort."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,090",
+				"to": "00:12:59,750"
+			},
+			"offsets": {
+				"from": 771090,
+				"to": 779750
+			},
+			"text": " On the other hand, there are people who recognize that ex-C2 will be insufficient in the long run as well,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,850",
+				"to": "00:13:02,670"
+			},
+			"offsets": {
+				"from": 779850,
+				"to": 782670
+			},
+			"text": " because you have changing environmental circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,490",
+				"to": "00:13:11,080"
+			},
+			"offsets": {
+				"from": 783490,
+				"to": 791080
+			},
+			"text": " And most importantly, a banked seed doesn't have the knowledge context that a seed on the land does."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,180",
+				"to": "00:13:22,740"
+			},
+			"offsets": {
+				"from": 791180,
+				"to": 802740
+			},
+			"text": " So they're more in favor of in-C2 approaches where the seed is regenerated on the farm under the caretaking of the farmer and the surrounding communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,120",
+				"to": "00:13:36,090"
+			},
+			"offsets": {
+				"from": 803120,
+				"to": 816090
+			},
+			"text": " And that paradigm is actually very interestingly and in a beautiful book written by Gary Paul Nabin was favored by Nikolai Bavilov,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,210",
+				"to": "00:13:43,170"
+			},
+			"offsets": {
+				"from": 816210,
+				"to": 823170
+			},
+			"text": " who is often remembered as like the world's first seed banker because he went around the world collecting seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,170",
+				"to": "00:13:57,840"
+			},
+			"offsets": {
+				"from": 823170,
+				"to": 837840
+			},
+			"text": " But he also recognized that what really matters is being able to regenerate biodiversity where it exists so that it has kind of the chance to evolve in those locally specific conditions."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,300",
+				"to": "00:14:01,480"
+			},
+			"offsets": {
+				"from": 838300,
+				"to": 841480
+			},
+			"text": " And that's true insurance for the long term."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,690",
+				"to": "00:14:02,790"
+			},
+			"offsets": {
+				"from": 842690,
+				"to": 842790
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,360",
+				"to": "00:14:16,050"
+			},
+			"offsets": {
+				"from": 844360,
+				"to": 856050
+			},
+			"text": " There's, so Gary Nabin, he pushes it into the cultural realm too, about where the uses and the beliefs and the cultural context of the seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,050",
+				"to": "00:14:28,520"
+			},
+			"offsets": {
+				"from": 856050,
+				"to": 868520
+			},
+			"text": " Yeah, so knowledge was actually shorthand for what is a much broader sphere of these seeds are embedded in material production and livelihoods."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,640",
+				"to": "00:14:32,460"
+			},
+			"offsets": {
+				"from": 868640,
+				"to": 872460
+			},
+			"text": " They're embedded in the belief systems of those communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,280",
+				"to": "00:14:38,020"
+			},
+			"offsets": {
+				"from": 873280,
+				"to": 878020
+			},
+			"text": " And even in their languages, farmers will have particular names for varieties."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,620",
+				"to": "00:14:44,360"
+			},
+			"offsets": {
+				"from": 878620,
+				"to": 884360
+			},
+			"text": " They might recognize and distinguish different varieties through their different farmer taxonomies."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,560",
+				"to": "00:14:55,420"
+			},
+			"offsets": {
+				"from": 884560,
+				"to": 895420
+			},
+			"text": " And what I find really interesting is that very active recognition would lead a farmer to plant them as two separate varieties because they recognize them as distinct."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,700",
+				"to": "00:14:59,080"
+			},
+			"offsets": {
+				"from": 895700,
+				"to": 899080
+			},
+			"text": " Whereas if you only saw one, you might only plant one."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,600",
+				"to": "00:15:08,820"
+			},
+			"offsets": {
+				"from": 899600,
+				"to": 908820
+			},
+			"text": " And so you have material diversity in the biology being reproduced in that genetic material through the epistemic diversity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,940",
+				"to": "00:15:22,490"
+			},
+			"offsets": {
+				"from": 908940,
+				"to": 922490
+			},
+			"text": " which is why it's really fun to look at farmer names for seeds and farmer names for variety."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,220",
+				"to": "00:15:30,660"
+			},
+			"offsets": {
+				"from": 923220,
+				"to": 930660
+			},
+			"text": " And there are studies that have compared that kind of diversity with the diversity that can be measured through things like molecular markers."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,000",
+				"to": "00:15:34,500"
+			},
+			"offsets": {
+				"from": 931000,
+				"to": 934500
+			},
+			"text": " And they look at whether those actually coincide or don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,840",
+				"to": "00:15:36,470"
+			},
+			"offsets": {
+				"from": 934840,
+				"to": 936470
+			},
+			"text": " So I find that really interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,410",
+				"to": "00:15:42,780"
+			},
+			"offsets": {
+				"from": 937410,
+				"to": 942780
+			},
+			"text": " I think you bring up a lot of time in a lot of these articles,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,940",
+				"to": "00:15:48,420"
+			},
+			"offsets": {
+				"from": 942940,
+				"to": 948420
+			},
+			"text": " this question of who the conservation is for or who benefits from certain kinds of conservation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,000",
+				"to": "00:15:58,320"
+			},
+			"offsets": {
+				"from": 949000,
+				"to": 958320
+			},
+			"text": " Can you talk a little bit about maybe some of the less obvious projects involved with XCTO conservation and GM banks,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,400",
+				"to": "00:16:05,570"
+			},
+			"offsets": {
+				"from": 958400,
+				"to": 965570
+			},
+			"text": " but also where you've seen people push for conservation that benefits farmers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,570",
+				"to": "00:16:12,770"
+			},
+			"offsets": {
+				"from": 965570,
+				"to": 972770
+			},
+			"text": " Well, I think conservation kind of, if we think in aggregate on the global scale,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:13,470",
+				"to": "00:16:21,400"
+			},
+			"offsets": {
+				"from": 973470,
+				"to": 981400
+			},
+			"text": " conservation has to benefit everyone because without this underlying genetic diversity in the agricultural supply,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,660",
+				"to": "00:16:23,870"
+			},
+			"offsets": {
+				"from": 981660,
+				"to": 983870
+			},
+			"text": " we're all doomed, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,110",
+				"to": "00:16:30,680"
+			},
+			"offsets": {
+				"from": 984110,
+				"to": 990680
+			},
+			"text": " So in that kind of, if we're thinking in scalar levels, the quote unquote global population will benefit."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,640",
+				"to": "00:16:48,230"
+			},
+			"offsets": {
+				"from": 991640,
+				"to": 1008230
+			},
+			"text": " When it comes to lower levels, I feel like right now the system really of XCTO conservation will tend to move germplasm through a pipeline"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,230",
+				"to": "00:16:56,710"
+			},
+			"offsets": {
+				"from": 1008230,
+				"to": 1016710
+			},
+			"text": " in which extraction from a particular ecosystem or landscape and placement in a gene bank,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,710",
+				"to": "00:17:04,960"
+			},
+			"offsets": {
+				"from": 1016710,
+				"to": 1024960
+			},
+			"text": " because those are currently regulated under institutions like the International Treaty on Plant Genetic Resources"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,960",
+				"to": "00:17:13,250"
+			},
+			"offsets": {
+				"from": 1024960,
+				"to": 1033250
+			},
+			"text": " for Food and Agriculture, it's a weak system of intellectual property."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,510",
+				"to": "00:17:26,650"
+			},
+			"offsets": {
+				"from": 1033510,
+				"to": 1046650
+			},
+			"text": " So it sets up what they call a commons, but it has very weak barriers against derivations of material being then changed"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,650",
+				"to": "00:17:32,300"
+			},
+			"offsets": {
+				"from": 1046650,
+				"to": 1052300
+			},
+			"text": " and commodified in some way, whether through plant variety protection,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,300",
+				"to": "00:17:37,500"
+			},
+			"offsets": {
+				"from": 1052300,
+				"to": 1057500
+			},
+			"text": " which is the common in Europe or patents in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:38,170",
+				"to": "00:17:47,430"
+			},
+			"offsets": {
+				"from": 1058170,
+				"to": 1067430
+			},
+			"text": " So I think that movement of material germplasm off of the land, even when they are nominally protected in a CGIAR,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,430",
+				"to": "00:17:52,250"
+			},
+			"offsets": {
+				"from": 1067430,
+				"to": 1072250
+			},
+			"text": " which is a public institution, the benefits will then tend to flow."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,210",
+				"to": "00:17:57,290"
+			},
+			"offsets": {
+				"from": 1073210,
+				"to": 1077290
+			},
+			"text": " If they flow back to farmers, they will generally return to them as a commodity."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,830",
+				"to": "00:18:08,610"
+			},
+			"offsets": {
+				"from": 1077830,
+				"to": 1088610
+			},
+			"text": " So, sure, it might be improved, but it comes improved at a price, and that's a very distinctive difference from an active conservation in situ."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,610",
+				"to": "00:18:15,620"
+			},
+			"offsets": {
+				"from": 1088610,
+				"to": 1095620
+			},
+			"text": " I'm not saying that breeding is bad or that breeding necessarily will disempower or impoverish farmers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,620",
+				"to": "00:18:22,180"
+			},
+			"offsets": {
+				"from": 1095620,
+				"to": 1102180
+			},
+			"text": " but that has been the general trend of kind of a pipeline moving the germplasm off of the land,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,400",
+				"to": "00:18:25,980"
+			},
+			"offsets": {
+				"from": 1102400,
+				"to": 1105980
+			},
+			"text": " and when it returns, it returns as a proprietary seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,100",
+				"to": "00:18:35,060"
+			},
+			"offsets": {
+				"from": 1107100,
+				"to": 1115060
+			},
+			"text": " And the breeding thus far in the more of a green revolution kind of breeding has been to improve it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,180",
+				"to": "00:18:38,700"
+			},
+			"offsets": {
+				"from": 1115180,
+				"to": 1118700
+			},
+			"text": " to be compatible with an industrial type of farming system."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,700",
+				"to": "00:18:45,280"
+			},
+			"offsets": {
+				"from": 1118700,
+				"to": 1125280
+			},
+			"text": " So as you return it to the farmer, it comes back with compatibility for pesticides and herbicides,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,640",
+				"to": "00:18:52,560"
+			},
+			"offsets": {
+				"from": 1125640,
+				"to": 1132560
+			},
+			"text": " for fertilizers, for irrigation equipment, and maybe not necessarily for the kind of locally specific conditions,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:53,270",
+				"to": "00:18:54,940"
+			},
+			"offsets": {
+				"from": 1133270,
+				"to": 1134940
+			},
+			"text": " the biodiversity, etc."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,220",
+				"to": "00:19:00,040"
+			},
+			"offsets": {
+				"from": 1135220,
+				"to": 1140040
+			},
+			"text": " And what I tried to cover in one of my first papers is it's certainly not uniform."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,040",
+				"to": "00:19:09,610"
+			},
+			"offsets": {
+				"from": 1140040,
+				"to": 1149610
+			},
+			"text": " Many farmers continue to plant their traditional varieties right alongside modern, in quotation marks, improved seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,430",
+				"to": "00:19:19,030"
+			},
+			"offsets": {
+				"from": 1150430,
+				"to": 1159030
+			},
+			"text": " And so there are many sorts of resistances to full homogenization and overtaking of improved seeds everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,470",
+				"to": "00:19:32,510"
+			},
+			"offsets": {
+				"from": 1159470,
+				"to": 1172510
+			},
+			"text": " But a general trend is of displacement of varieties, particularly if they are seen as more efficient or superior to their backwards ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,510",
+				"to": "00:19:46,790"
+			},
+			"offsets": {
+				"from": 1172510,
+				"to": 1186790
+			},
+			"text": " So there's a lot of underlying cultural pressures as well to modernize and move towards what farmers are told are better and more modern ways of doing things."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,350",
+				"to": "00:19:52,830"
+			},
+			"offsets": {
+				"from": 1187350,
+				"to": 1192830
+			},
+			"text": " Right. And in Mexico, it took me a long time to figure out that when people had hybrid seeds planted,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,090",
+				"to": "00:19:57,250"
+			},
+			"offsets": {
+				"from": 1193090,
+				"to": 1197250
+			},
+			"text": " it didn't mean that they didn't have native corn seeds also that they managed."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,470",
+				"to": "00:20:01,870"
+			},
+			"offsets": {
+				"from": 1197470,
+				"to": 1201870
+			},
+			"text": " It also took me a long time to figure out that most of the time when people said they were planting hybrid seeds,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,290",
+				"to": "00:20:11,250"
+			},
+			"offsets": {
+				"from": 1202290,
+				"to": 1211250
+			},
+			"text": " they meant that they were planting varieties that had once come from hybrid seeds and were many generations past the F1 stage."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,090",
+				"to": "00:20:15,360"
+			},
+			"offsets": {
+				"from": 1212090,
+				"to": 1215360
+			},
+			"text": " And they had been intentionally crossing with natives also."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,620",
+				"to": "00:20:16,840"
+			},
+			"offsets": {
+				"from": 1215620,
+				"to": 1216840
+			},
+			"text": " Yeah, that's super interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,840",
+				"to": "00:20:24,470"
+			},
+			"offsets": {
+				"from": 1216840,
+				"to": 1224470
+			},
+			"text": " So there's a lot of creolization that goes on and many generations removed, then they've made their own."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,710",
+				"to": "00:20:32,360"
+			},
+			"offsets": {
+				"from": 1224710,
+				"to": 1232360
+			},
+			"text": " And I think that that's a really interesting thing to, that's a more nuanced than is it hybrid or land race."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:32,480",
+				"to": "00:20:34,830"
+			},
+			"offsets": {
+				"from": 1232480,
+				"to": 1234830
+			},
+			"text": " It's something that is mixed."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,110",
+				"to": "00:20:36,950"
+			},
+			"offsets": {
+				"from": 1235110,
+				"to": 1236950
+			},
+			"text": " Yeah, there's some fluidity between those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,970",
+				"to": "00:20:37,330"
+			},
+			"offsets": {
+				"from": 1236970,
+				"to": 1237330
+			},
+			"text": " Yeah, for sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,660",
+				"to": "00:20:41,460"
+			},
+			"offsets": {
+				"from": 1237660,
+				"to": 1241460
+			},
+			"text": " I think it's the perfect time then to jump into talking about GMOs."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,620",
+				"to": "00:20:48,250"
+			},
+			"offsets": {
+				"from": 1241620,
+				"to": 1248250
+			},
+			"text": " And you say, you write in your recent article that you've avoided the issue so far."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,510",
+				"to": "00:20:50,830"
+			},
+			"offsets": {
+				"from": 1249510,
+				"to": 1250830
+			},
+			"text": " And I feel the same way."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,890",
+				"to": "00:20:51,670"
+			},
+			"offsets": {
+				"from": 1250890,
+				"to": 1251670
+			},
+			"text": " I totally feel the same way."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,810",
+				"to": "00:20:58,190"
+			},
+			"offsets": {
+				"from": 1251810,
+				"to": 1258190
+			},
+			"text": " I read the article and it felt like the most reasonable and level-headed look at GMOs."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,250",
+				"to": "00:21:01,700"
+			},
+			"offsets": {
+				"from": 1258250,
+				"to": 1261700
+			},
+			"text": " It was like, well, maybe we shouldn't be talking about frankenfoods."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,760",
+				"to": "00:21:07,550"
+			},
+			"offsets": {
+				"from": 1261760,
+				"to": 1267550
+			},
+			"text": " And maybe it's pretty suspect to say that yet another seed technology will feed everybody in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,550",
+				"to": "00:21:19,690"
+			},
+			"offsets": {
+				"from": 1267550,
+				"to": 1279690
+			},
+			"text": " But we can talk about how these interact, how this technology functions in the context of economies and development projects and power relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,690",
+				"to": "00:21:26,470"
+			},
+			"offsets": {
+				"from": 1279690,
+				"to": 1286470
+			},
+			"text": " So I was surprised, I was actually surprised to hear that you had gotten such a reaction out of this article."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,690",
+				"to": "00:21:38,020"
+			},
+			"offsets": {
+				"from": 1286690,
+				"to": 1298020
+			},
+			"text": " Oh, I think GMOs probably command the most ink online and in popular discourse of any other issue in the food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,430",
+				"to": "00:21:46,500"
+			},
+			"offsets": {
+				"from": 1298430,
+				"to": 1306500
+			},
+			"text": " At most events that I go to here that are related to the Berkeley Food Institute, invariably there's a question about GMOs,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,600",
+				"to": "00:21:50,900"
+			},
+			"offsets": {
+				"from": 1306600,
+				"to": 1310900
+			},
+			"text": " whether the subject of the conversation is related to GMOs or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,080",
+				"to": "00:21:54,200"
+			},
+			"offsets": {
+				"from": 1311080,
+				"to": 1314200
+			},
+			"text": " Somebody will ask, how about GMOs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,740",
+				"to": "00:21:58,140"
+			},
+			"offsets": {
+				"from": 1314740,
+				"to": 1318140
+			},
+			"text": " So I was pretty prepared for this kind of reaction."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,060",
+				"to": "00:22:06,230"
+			},
+			"offsets": {
+				"from": 1319060,
+				"to": 1326230
+			},
+			"text": " And I'll say that it's not entirely true that I avoided the issue until now."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,230",
+				"to": "00:22:17,200"
+			},
+			"offsets": {
+				"from": 1326230,
+				"to": 1337200
+			},
+			"text": " I did write about it in my days at Seed Magazine, and I was much more of a proponent of genetic modification at the time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,320",
+				"to": "00:22:25,870"
+			},
+			"offsets": {
+				"from": 1337320,
+				"to": 1345870
+			},
+			"text": " I'm still more in line with my positivist science and technology, like an undying faith in their benefits."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,360",
+				"to": "00:22:35,570"
+			},
+			"offsets": {
+				"from": 1347360,
+				"to": 1355570
+			},
+			"text": " So since that time, I've learned a great deal about agroecology, about political ecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,670",
+				"to": "00:22:43,510"
+			},
+			"offsets": {
+				"from": 1356670,
+				"to": 1363510
+			},
+			"text": " Just being here at Berkeley, you're kind of in a crucible of a lot of conversations about food justice and food sovereignty."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,210",
+				"to": "00:22:53,010"
+			},
+			"offsets": {
+				"from": 1364210,
+				"to": 1373010
+			},
+			"text": " And honestly, that kind of transition has made me think more deeply about, let me say, who do these innovations benefit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,410",
+				"to": "00:22:54,550"
+			},
+			"offsets": {
+				"from": 1373410,
+				"to": 1374550
+			},
+			"text": " And are they necessary?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,150",
+				"to": "00:22:56,610"
+			},
+			"offsets": {
+				"from": 1375150,
+				"to": 1376610
+			},
+			"text": " Are there lower hanging fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,090",
+				"to": "00:23:02,190"
+			},
+			"offsets": {
+				"from": 1377090,
+				"to": 1382190
+			},
+			"text": " And what are they, what kinds of systems are they currently embedded in?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,370",
+				"to": "00:23:07,640"
+			},
+			"offsets": {
+				"from": 1382370,
+				"to": 1387640
+			},
+			"text": " And is that something that is tractable or not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,780",
+				"to": "00:23:15,350"
+			},
+			"offsets": {
+				"from": 1387780,
+				"to": 1395350
+			},
+			"text": " And I think that's a really interesting question is, is a genetically modified seed necessarily bound up in patents?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,510",
+				"to": "00:23:18,970"
+			},
+			"offsets": {
+				"from": 1395510,
+				"to": 1398970
+			},
+			"text": " Is it necessarily going to engender corporate monopolies?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,190",
+				"to": "00:23:28,670"
+			},
+			"offsets": {
+				"from": 1399190,
+				"to": 1408670
+			},
+			"text": " Is it necessarily going to come packaged with an herbicide and all of the downstream impacts of spraying pesticides and herbicides on those seeds?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,130",
+				"to": "00:23:36,070"
+			},
+			"offsets": {
+				"from": 1409130,
+				"to": 1416070
+			},
+			"text": " Or can you kind of, I have this mental picture of a seed with a whole root system underneath."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,270",
+				"to": "00:23:42,180"
+			},
+			"offsets": {
+				"from": 1416270,
+				"to": 1422180
+			},
+			"text": " Can you pick that up without that root mass and move it into a different social ecological context?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,580",
+				"to": "00:23:47,280"
+			},
+			"offsets": {
+				"from": 1422580,
+				"to": 1427280
+			},
+			"text": " And I'm not really sure whether when you pick it up out of that is something else altogether."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,820",
+				"to": "00:23:51,680"
+			},
+			"offsets": {
+				"from": 1427820,
+				"to": 1431680
+			},
+			"text": " And it's, it's a changed thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,780",
+				"to": "00:23:54,540"
+			},
+			"offsets": {
+				"from": 1431780,
+				"to": 1434540
+			},
+			"text": " I'm not sure what the boundaries of technology are sometimes."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,300",
+				"to": "00:24:11,090"
+			},
+			"offsets": {
+				"from": 1435300,
+				"to": 1451090
+			},
+			"text": " Because right now, one of the largest issues for me is, is the consolidation of the seed industry that has grown up around the coupling of patenting and other forms of intellectual property with the genetic modification."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,790",
+				"to": "00:24:25,090"
+			},
+			"offsets": {
+				"from": 1451790,
+				"to": 1465090
+			},
+			"text": " So the, what we call the enclosure or the blocking of a farmer's right to replant and reproduce, I think is one of the, one of the rots at the core of the food system right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,090",
+				"to": "00:24:38,390"
+			},
+			"offsets": {
+				"from": 1465090,
+				"to": 1478390
+			},
+			"text": " And, and it's, it's very much an entrenched way of thinking, particularly, I think for farmers in the US, it's very, it's very normal to view a seed as a commodity that you buy every year."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,390",
+				"to": "00:24:44,230"
+			},
+			"offsets": {
+				"from": 1478390,
+				"to": 1484230
+			},
+			"text": " And that historical memory has been pretty truncated, you know, since the 1930s."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,310",
+				"to": "00:24:50,330"
+			},
+			"offsets": {
+				"from": 1484310,
+				"to": 1490330
+			},
+			"text": " And Jack Kloppenberg has written a fascinating history of biotechnology called First the Seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:50,780",
+				"to": "00:24:59,430"
+			},
+			"offsets": {
+				"from": 1490780,
+				"to": 1499430
+			},
+			"text": " And very quickly, farmers were told that, learned that a seed is something that belongs to professionals."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,850",
+				"to": "00:25:00,830"
+			},
+			"offsets": {
+				"from": 1499850,
+				"to": 1500830
+			},
+			"text": " They breed them."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,350",
+				"to": "00:25:06,610"
+			},
+			"offsets": {
+				"from": 1501350,
+				"to": 1506610
+			},
+			"text": " And it's outside of the hands of expertise of a, of a farmer."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,950",
+				"to": "00:25:18,010"
+			},
+			"offsets": {
+				"from": 1506950,
+				"to": 1518010
+			},
+			"text": " Of course, the sophistication of breeding and engineering is now at a level that most farmers probably don't have that kind of education to be engaging."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,010",
+				"to": "00:25:22,990"
+			},
+			"offsets": {
+				"from": 1518010,
+				"to": 1522990
+			},
+			"text": " But we've also created a system that makes it so."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,250",
+				"to": "00:25:35,150"
+			},
+			"offsets": {
+				"from": 1523250,
+				"to": 1535150
+			},
+			"text": " So I think that's one of the fascinating things is genetic engineering is actually a brilliant solution for many of the agricultural problems that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,190",
+				"to": "00:25:39,680"
+			},
+			"offsets": {
+				"from": 1535190,
+				"to": 1539680
+			},
+			"text": " It's a technical solution to the current system."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,820",
+				"to": "00:25:44,320"
+			},
+			"offsets": {
+				"from": 1539820,
+				"to": 1544320
+			},
+			"text": " I'm just not really sure if it's the solution to the system that we want."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,320",
+				"to": "00:25:52,850"
+			},
+			"offsets": {
+				"from": 1544320,
+				"to": 1552850
+			},
+			"text": " So that's where I am right now in kind of this ongoing conversation around, around genetically modified crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,250",
+				"to": "00:26:04,380"
+			},
+			"offsets": {
+				"from": 1553250,
+				"to": 1564380
+			},
+			"text": " I am not against, but I'm wondering if we made all the changes to the food system that we should in order to make it more resilient and more equitable."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,920",
+				"to": "00:26:10,500"
+			},
+			"offsets": {
+				"from": 1564920,
+				"to": 1570500
+			},
+			"text": " How necessary and how interesting genetic modification would even be at that point."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,220",
+				"to": "00:26:21,720"
+			},
+			"offsets": {
+				"from": 1571220,
+				"to": 1581720
+			},
+			"text": " Do you really need a drought-tolerant variety of corn if you can just plant a drought-tolerant variety of one of the many, many land races of corn that are drought-tolerant or of other grains?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,720",
+				"to": "00:26:28,570"
+			},
+			"offsets": {
+				"from": 1581720,
+				"to": 1588570
+			},
+			"text": " Exactly. And if you're employing the right kinds of soil conservation practices, cover cropping,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,130",
+				"to": "00:26:35,390"
+			},
+			"offsets": {
+				"from": 1589130,
+				"to": 1595390
+			},
+			"text": " that you increase the water infiltration rate into your soils at a higher level."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,530",
+				"to": "00:26:39,690"
+			},
+			"offsets": {
+				"from": 1595530,
+				"to": 1599690
+			},
+			"text": " You get a lot of drought resilience or drought resistance in your soil structure."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,820",
+				"to": "00:26:52,660"
+			},
+			"offsets": {
+				"from": 1600820,
+				"to": 1612660
+			},
+			"text": " So with a lot of other agronomic techniques as well, I think that the tendency to focus on a solution that is just in that, in the seed too,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,320",
+				"to": "00:27:05,330"
+			},
+			"offsets": {
+				"from": 1613320,
+				"to": 1625330
+			},
+			"text": " kind of sets us off on a path of technological solutions when we can probably address a lot of the challenges with a more systems approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,330",
+				"to": "00:27:22,290"
+			},
+			"offsets": {
+				"from": 1625330,
+				"to": 1642290
+			},
+			"text": " I think one of the extremes of the claims is that I think genetically modified genetic splices certainly can solve certain problems, like certain pests."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,510",
+				"to": "00:27:31,790"
+			},
+			"offsets": {
+				"from": 1642510,
+				"to": 1651790
+			},
+			"text": " Yeah, certain viruses. But they're not going to solve hunger, because hunger isn't really caused by a genetic defect or a lack of a trait."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,950",
+				"to": "00:27:41,690"
+			},
+			"offsets": {
+				"from": 1652950,
+				"to": 1661690
+			},
+			"text": " Right. But proponents will argue that if you introduce resistance to a virus or another pathogen, then you'll increase yield."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,690",
+				"to": "00:27:48,770"
+			},
+			"offsets": {
+				"from": 1661690,
+				"to": 1668770
+			},
+			"text": " And then yields will obviously feed more people, leading to hunger being solved."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,370",
+				"to": "00:28:02,970"
+			},
+			"offsets": {
+				"from": 1669370,
+				"to": 1682970
+			},
+			"text": " And this is why I think people who work more from a food justice or food sovereignty perspective have been working to shift the conversation away from yield as not being the sine qua non of food security,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,970",
+				"to": "00:28:10,010"
+			},
+			"offsets": {
+				"from": 1682970,
+				"to": 1690010
+			},
+			"text": " because there's a very little correlation between those figures."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,450",
+				"to": "00:28:14,650"
+			},
+			"offsets": {
+				"from": 1691450,
+				"to": 1694650
+			},
+			"text": " So let's talk a little bit about the reaction you've gotten from this."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,970",
+				"to": "00:28:26,960"
+			},
+			"offsets": {
+				"from": 1694970,
+				"to": 1706960
+			},
+			"text": " And there's been, as you mentioned in the article itself, there's been a push to characterize critics of GMOs as anti-scientific,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,120",
+				"to": "00:28:33,610"
+			},
+			"offsets": {
+				"from": 1707120,
+				"to": 1713610
+			},
+			"text": " the way that we have all asserted that skeptics of climate change are anti-scientific."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,850",
+				"to": "00:28:36,250"
+			},
+			"offsets": {
+				"from": 1713850,
+				"to": 1716250
+			},
+			"text": " Is that the kind of, have you got that kind of pushback?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,250",
+				"to": "00:28:45,190"
+			},
+			"offsets": {
+				"from": 1716250,
+				"to": 1725190
+			},
+			"text": " Yes. There is even a website that's called We Love Vaccines and GMOs. It's a Facebook group."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,360",
+				"to": "00:29:00,280"
+			},
+			"offsets": {
+				"from": 1727360,
+				"to": 1740280
+			},
+			"text": " So I think that that's a, it's a common comparison of climate denialism, anti-vaccines and anti-GMO as being all one in the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,740",
+				"to": "00:29:15,300"
+			},
+			"offsets": {
+				"from": 1740740,
+				"to": 1755300
+			},
+			"text": " So I think one of my goals in writing this piece was to push back against the idea of there being a consensus at all around the safety of genetically modified crops,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,620",
+				"to": "00:29:25,120"
+			},
+			"offsets": {
+				"from": 1755620,
+				"to": 1765120
+			},
+			"text": " because multiple studies indicate that there is a lot of what we call undone science."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,120",
+				"to": "00:29:33,510"
+			},
+			"offsets": {
+				"from": 1765120,
+				"to": 1773510
+			},
+			"text": " You know, there's a lot of research that lacks sufficient statistical power in order to say anything conclusive."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,070",
+				"to": "00:29:46,770"
+			},
+			"offsets": {
+				"from": 1774070,
+				"to": 1786770
+			},
+			"text": " There have been many, many studies that find GMOs are safe when ingested by rodents or by horses or other livestock over 90 days."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,370",
+				"to": "00:29:55,920"
+			},
+			"offsets": {
+				"from": 1787370,
+				"to": 1795920
+			},
+			"text": " But there are, there's a lot of questions about whether those can be extrapolated to humans, what happens in the longer term."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,920",
+				"to": "00:30:01,080"
+			},
+			"offsets": {
+				"from": 1795920,
+				"to": 1801080
+			},
+			"text": " And there's been lots of ink expended over the back and forth over that."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,220",
+				"to": "00:30:04,160"
+			},
+			"offsets": {
+				"from": 1801220,
+				"to": 1804160
+			},
+			"text": " Yeah. 90 days is sufficient and, and on and on."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,900",
+				"to": "00:30:18,430"
+			},
+			"offsets": {
+				"from": 1804900,
+				"to": 1818430
+			},
+			"text": " But what I'm also trying to get at in this piece is that I think we focus too narrowly on the nutritional and dietary effects of ingesting a genetically modified crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:18,570",
+				"to": "00:30:22,630"
+			},
+			"offsets": {
+				"from": 1818570,
+				"to": 1822630
+			},
+			"text": " I am actually not terrified of that aspect."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,630",
+				"to": "00:30:31,460"
+			},
+			"offsets": {
+				"from": 1822630,
+				"to": 1831460
+			},
+			"text": " I would eat a genetically modified soy, corn, wheat, and not go to bed fearing for my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,540",
+				"to": "00:30:31,640"
+			},
+			"offsets": {
+				"from": 1831540,
+				"to": 1831640
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,860",
+				"to": "00:30:36,520"
+			},
+			"offsets": {
+				"from": 1831860,
+				"to": 1836520
+			},
+			"text": " I do it all the time, probably, since so many are unlabeled."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,880",
+				"to": "00:30:44,280"
+			},
+			"offsets": {
+				"from": 1837880,
+				"to": 1844280
+			},
+			"text": " What I've tried to argue here is that that in itself is an overly narrow definition of safety."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,280",
+				"to": "00:30:44,600"
+			},
+			"offsets": {
+				"from": 1844280,
+				"to": 1844600
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,240",
+				"to": "00:30:54,490"
+			},
+			"offsets": {
+				"from": 1845240,
+				"to": 1854490
+			},
+			"text": " You know, we're not looking at the effects that come when those seeds are packaged with Roundup and other herbicides."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,810",
+				"to": "00:31:02,520"
+			},
+			"offsets": {
+				"from": 1854810,
+				"to": 1862520
+			},
+			"text": " We are certainly not taking a robust enough appraisal of the social effects, the cultural effects."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:03,050",
+				"to": "00:31:15,300"
+			},
+			"offsets": {
+				"from": 1863050,
+				"to": 1875300
+			},
+			"text": " There are economic analyses of enhanced farmer income, but they tend to come at it from a fairly reductionist kind of cost and benefits economic perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,300",
+				"to": "00:31:30,360"
+			},
+			"offsets": {
+				"from": 1875300,
+				"to": 1890360
+			},
+			"text": " They are not really looking at, you know, what happens with farmers who are displaced through a system that comes ushered in on the coattails of introduction of a genetically modified seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,820",
+				"to": "00:31:44,450"
+			},
+			"offsets": {
+				"from": 1890820,
+				"to": 1904450
+			},
+			"text": " Farmers being coerced or encouraged to buy those seeds, gradually taking on more and more of the commodity products that come associated with those seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,950",
+				"to": "00:32:03,320"
+			},
+			"offsets": {
+				"from": 1904950,
+				"to": 1923320
+			},
+			"text": " And, you know, it's happening in Africa very much right now when they are pushing for laws that are more favorable for genetically modified crops that they work at."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,540",
+				"to": "00:32:04,980"
+			},
+			"offsets": {
+				"from": 1923540,
+				"to": 1924980
+			},
+			"text": " It works at many levels."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,980",
+				"to": "00:32:17,360"
+			},
+			"offsets": {
+				"from": 1924980,
+				"to": 1937360
+			},
+			"text": " It works at the marketing level, at the trade and intellectual property level, that companies then kind of create a pathway for themselves to become more involved in the local agri-food economies."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,360",
+				"to": "00:32:32,690"
+			},
+			"offsets": {
+				"from": 1937360,
+				"to": 1952690
+			},
+			"text": " And I see their GM more serving as a wrench to kind of pry open the local food economies and make them more dependent on a system of commodity inputs."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,340",
+				"to": "00:32:47,900"
+			},
+			"offsets": {
+				"from": 1953340,
+				"to": 1967900
+			},
+			"text": " And that's an enormous change in the fabric of rural livelihoods that is very hard to capture in any kind of cost benefit done at a reductionist scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,900",
+				"to": "00:32:59,920"
+			},
+			"offsets": {
+				"from": 1967900,
+				"to": 1979920
+			},
+			"text": " And we're trying to kind of look a little bit more at how you then assess genetically modified organisms through a larger lens."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,660",
+				"to": "00:33:13,260"
+			},
+			"offsets": {
+				"from": 1980660,
+				"to": 1993260
+			},
+			"text": " And so I'm working right now with some colleagues on that kind of assessment because I think that that's one that is very challenging to do because it's not as quantitative in many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,260",
+				"to": "00:33:17,380"
+			},
+			"offsets": {
+				"from": 1993260,
+				"to": 1997380
+			},
+			"text": " You have to kind of look historically and then still keep an open mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,380",
+				"to": "00:33:25,850"
+			},
+			"offsets": {
+				"from": 1997380,
+				"to": 2005850
+			},
+			"text": " Does that mean that that locks in possibilities for the future or can they be still utilized in a different way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:25,850",
+				"to": "00:33:28,540"
+			},
+			"offsets": {
+				"from": 2005850,
+				"to": 2008540
+			},
+			"text": " I'm holding out hope that they can."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:28,920",
+				"to": "00:33:50,920"
+			},
+			"offsets": {
+				"from": 2008920,
+				"to": 2030920
+			},
+			"text": " But again, it's one of those things for me that I'm more interested in getting to the justice components, to the diversity components, to the can we provide nutritious food for everyone than in ensuring that genetically modified seeds are included in getting there."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,920",
+				"to": "00:34:10,090"
+			},
+			"offsets": {
+				"from": 2030920,
+				"to": 2050090
+			},
+			"text": " For such a scientific technology and such a positivist rhetoric around them, GMOs and the debate around them have this way of running headlong into social issues and to inequalities in power."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:10,310",
+				"to": "00:34:14,010"
+			},
+			"offsets": {
+				"from": 2050310,
+				"to": 2054010
+			},
+			"text": " They just kind of crash into it in ways that seem like it's on accident."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:14,010",
+				"to": "00:34:32,290"
+			},
+			"offsets": {
+				"from": 2054010,
+				"to": 2072290
+			},
+			"text": " And I'm thinking specifically of Michael Spector's piece on a critical profile of Vandana Shiva in the New Yorker about a year ago, where the focus seemed to be to take a profile of an activist and the main argument seemed to be that she is not a scientist."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,360",
+				"to": "00:35:00,450"
+			},
+			"offsets": {
+				"from": 2073360,
+				"to": 2100450
+			},
+			"text": " And it felt to me like a kind of a smear piece that only could have been written about a woman and only could have been written about a woman of color, because it seems hard to imagine writing a whole article like that about a man, especially a man in a developed country, and saying, well, he's not a valid activist because even though he has a PhD in a scientific field, he's never worked as a scientist."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:00,450",
+				"to": "00:35:06,460"
+			},
+			"offsets": {
+				"from": 2100450,
+				"to": 2106460
+			},
+			"text": " It seems like a strange argument to make about why someone's activism is invalid."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:06,640",
+				"to": "00:35:08,280"
+			},
+			"offsets": {
+				"from": 2106640,
+				"to": 2108280
+			},
+			"text": " Did you have the same feeling about that piece?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,050",
+				"to": "00:35:14,000"
+			},
+			"offsets": {
+				"from": 2110050,
+				"to": 2114000
+			},
+			"text": " I can totally see that perspective, and you might be right."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,000",
+				"to": "00:35:33,200"
+			},
+			"offsets": {
+				"from": 2114000,
+				"to": 2133200
+			},
+			"text": " I actually didn't have that reaction myself, because I've seen similar portrayals of other activists and some heavyweight journalists who are not scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:33,640",
+				"to": "00:35:38,540"
+			},
+			"offsets": {
+				"from": 2133640,
+				"to": 2138540
+			},
+			"text": " And so then they're portrayed as fringe, or they're portrayed as only activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,980",
+				"to": "00:35:56,510"
+			},
+			"offsets": {
+				"from": 2138980,
+				"to": 2156510
+			},
+			"text": " We have a lot of people who work at NGOs who then the pro-GMO side or contingent will say they aren't credible because they work at a nonprofit organization."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,180",
+				"to": "00:36:27,700"
+			},
+			"offsets": {
+				"from": 2158180,
+				"to": 2187700
+			},
+			"text": " That's kind of the third element of what I was trying to get at in this piece is this idea that science itself is never non-neutral, that people who, whether they work at an NGO or whether they work in an academic context, that the act of doing science is always going to be kind of impregnated with political and social influences."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,700",
+				"to": "00:36:44,240"
+			},
+			"offsets": {
+				"from": 2187700,
+				"to": 2204240
+			},
+			"text": " So I find, and you might be right in terms of this kind of story on Vandana Shiva, but people have told me not long ago that, you know, Michael Pollan can't be trusted because, you know, he's just a journalist."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,400",
+				"to": "00:37:15,210"
+			},
+			"offsets": {
+				"from": 2204400,
+				"to": 2235210
+			},
+			"text": " And I'm finding in my own research and kind of learning curve that there's also a lot more fluidity between science and non-science, between what is practical and experiential and situated knowledge that comes from, you know, decades of farming or decades of food labor or decades of other kinds of organizational work that, you know, scientists can learn equally from that other kind of knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,210",
+				"to": "00:37:23,220"
+			},
+			"offsets": {
+				"from": 2235210,
+				"to": 2243220
+			},
+			"text": " And can we have a different approach to engaging in conversations?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:23,220",
+				"to": "00:37:34,720"
+			},
+			"offsets": {
+				"from": 2243220,
+				"to": 2254720
+			},
+			"text": " I really like the term Peter Rosset uses, the dialogue of knowledge is, so science is one way of thinking about things, but it shouldn't be kind of this hierarchy where it's better than the other ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,800",
+				"to": "00:37:35,320"
+			},
+			"offsets": {
+				"from": 2254800,
+				"to": 2255320
+			},
+			"text": " It's different."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,900",
+				"to": "00:37:46,250"
+			},
+			"offsets": {
+				"from": 2255900,
+				"to": 2266250
+			},
+			"text": " But how do we kind of engage in a more, call it epistemic humility, a conversation that has different perspectives and different kinds of expertise?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,560",
+				"to": "00:37:53,290"
+			},
+			"offsets": {
+				"from": 2267560,
+				"to": 2273290
+			},
+			"text": " Because I'm sure you can dismiss somebody as being, they don't have the PhD."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,810",
+				"to": "00:37:56,550"
+			},
+			"offsets": {
+				"from": 2274810,
+				"to": 2276550
+			},
+			"text": " And in this case, Vandana Shiva did."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,910",
+				"to": "00:38:07,480"
+			},
+			"offsets": {
+				"from": 2276910,
+				"to": 2287480
+			},
+			"text": " But yeah, I think in order to tackle this, these many huge challenges of the food system, we're definitely going to need more than just science."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,970",
+				"to": "00:38:14,480"
+			},
+			"offsets": {
+				"from": 2287970,
+				"to": 2294480
+			},
+			"text": " We need a science that's kind of in constant dialogue with other knowledges."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:14,480",
+				"to": "00:38:26,010"
+			},
+			"offsets": {
+				"from": 2294480,
+				"to": 2306010
+			},
+			"text": " So it turns out that even scientists at universities have other things going on in their lives that tie them to interest about biotechnology."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:26,510",
+				"to": "00:38:41,160"
+			},
+			"offsets": {
+				"from": 2306510,
+				"to": 2321160
+			},
+			"text": " And I've been thinking about this New York Times piece that they requested some emails through a Freedom of Information Act from a handful of academics and their contacts at Monsanto and the Biotechnology Industry Association and Stonyfield Farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:41,680",
+				"to": "00:38:45,580"
+			},
+			"offsets": {
+				"from": 2321680,
+				"to": 2325580
+			},
+			"text": " When we were talking before this, you were saying that you were really interested in this expose."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:45,580",
+				"to": "00:38:58,340"
+			},
+			"offsets": {
+				"from": 2325580,
+				"to": 2338340
+			},
+			"text": " Well, I think the Lipton piece in the New York Times kind of broke out into the open what many people who have worked in this area have kind of long known about and suspected."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,340",
+				"to": "00:39:23,750"
+			},
+			"offsets": {
+				"from": 2338340,
+				"to": 2363750
+			},
+			"text": " I think having the email trail and seeing names and seeing the actual black and white arrangements for flying people to conferences paid for by Dow or paid for by Monsanto to speak as an unbiased and scientific party in favor of the technology."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,750",
+				"to": "00:39:38,180"
+			},
+			"offsets": {
+				"from": 2363750,
+				"to": 2378180
+			},
+			"text": " I think that that's really what kind of got this this expose going and other journalists have followed up on the New York Times piece and gone even into further detail through their own readings of the emails."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,180",
+				"to": "00:39:57,830"
+			},
+			"offsets": {
+				"from": 2378180,
+				"to": 2397830
+			},
+			"text": " I think what comes out of that is that it's actually more than just a handful of scientists is that there's a very large network of influence that propagates through researchers, through university administrators, through the PR firms and through lobbyists."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,830",
+				"to": "00:40:14,400"
+			},
+			"offsets": {
+				"from": 2397830,
+				"to": 2414400
+			},
+			"text": " That it becomes this very dense dynamic that has been pushing at high levels of policy to create more funding and institutional support for biotechnology at research institutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,400",
+				"to": "00:40:29,160"
+			},
+			"offsets": {
+				"from": 2414400,
+				"to": 2429160
+			},
+			"text": " And you see then how kind of you get a snowballing or a self-reinforcing effect for more research in this area, more validation of this as the way forward, the way to feed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,820",
+				"to": "00:40:35,630"
+			},
+			"offsets": {
+				"from": 2429820,
+				"to": 2435630
+			},
+			"text": " And the more reinforcement there is, then the more science there is for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,630",
+				"to": "00:41:04,390"
+			},
+			"offsets": {
+				"from": 2435630,
+				"to": 2464390
+			},
+			"text": " So, but some people who wrote on comments to the article were saying that I'm obviously buying into the constructionism of GMOs, that I'm not understanding that all of the anti-GMO activists are constructing their own narratives and their own anti-science storytelling."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,390",
+				"to": "00:41:21,990"
+			},
+			"offsets": {
+				"from": 2464390,
+				"to": 2481990
+			},
+			"text": " And that wasn't at all what I was trying to say, because of course, we're all in this kind of very messy and very kind of everybody uses narratives and stories and nobody is unbiased in what they are doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:22,110",
+				"to": "00:41:31,260"
+			},
+			"offsets": {
+				"from": 2482110,
+				"to": 2491260
+			},
+			"text": " And that's what I was trying to get at is there is no science that is somehow pristine and above the floor of culture and society and politics."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,260",
+				"to": "00:41:38,180"
+			},
+			"offsets": {
+				"from": 2491260,
+				"to": 2498180
+			},
+			"text": " And that's what's interesting about it, but it's also what makes it quite challenging for a journalist."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:38,760",
+				"to": "00:41:49,980"
+			},
+			"offsets": {
+				"from": 2498760,
+				"to": 2509980
+			},
+			"text": " Their mission should not be to go out and find the pure, unbiased, impartial perspective of the scientist because it's not there."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:49,980",
+				"to": "00:42:04,490"
+			},
+			"offsets": {
+				"from": 2509980,
+				"to": 2524490
+			},
+			"text": " And I don't mean to say that it's bad corporate money flowing to good, unbiased science and, you know, sullying their pristine research and we need to cut those ties off."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,490",
+				"to": "00:42:11,840"
+			},
+			"offsets": {
+				"from": 2524490,
+				"to": 2531840
+			},
+			"text": " What I'm trying to say is that there's deep historical layering to why some sciences exist."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,020",
+				"to": "00:42:14,160"
+			},
+			"offsets": {
+				"from": 2532020,
+				"to": 2534160
+			},
+			"text": " Why are they supported at certain institutions?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:14,560",
+				"to": "00:42:20,860"
+			},
+			"offsets": {
+				"from": 2534560,
+				"to": 2540860
+			},
+			"text": " Why do we have a molecular biology department or a biotech institute at this school and plant breeding is down in the dumps?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,860",
+				"to": "00:42:25,600"
+			},
+			"offsets": {
+				"from": 2540860,
+				"to": 2545600
+			},
+			"text": " Why is there no biological control department anymore at Berkeley?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,920",
+				"to": "00:42:32,640"
+			},
+			"offsets": {
+				"from": 2545920,
+				"to": 2552640
+			},
+			"text": " Why certain communities of researchers are around today and others aren't?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,060",
+				"to": "00:42:39,520"
+			},
+			"offsets": {
+				"from": 2553060,
+				"to": 2559520
+			},
+			"text": " It's much more than individual cognitive bias through money or through a paid flight to Pittsburgh."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,300",
+				"to": "00:42:55,550"
+			},
+			"offsets": {
+				"from": 2560300,
+				"to": 2575550
+			},
+			"text": " So that's, I didn't actually get to tell all of that story, but I'm working on another paper right now that deals more with the creation of scientific legitimacy and how it relates to agroecology and the agroecology movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,790",
+				"to": "00:43:03,110"
+			},
+			"offsets": {
+				"from": 2575790,
+				"to": 2583110
+			},
+			"text": " So I'm kind of in that headspace right now thinking about how agroecologists can learn from that as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:03,200",
+				"to": "00:43:34,140"
+			},
+			"offsets": {
+				"from": 2583200,
+				"to": 2614140
+			},
+			"text": " I'm not afraid I can't wait to read that and think about it all the time because there's this, as scientists, there's this dance that we do when we work closely with farmers and especially farmers far away from the big institutions of science to try to come at it from some common ground and try to have a diablo go des severes in our work."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:34,140",
+				"to": "00:43:40,860"
+			},
+			"offsets": {
+				"from": 2614140,
+				"to": 2620860
+			},
+			"text": " But then there's also this other dance that we do when we try to present what we found in those places in a scientific context."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,820",
+				"to": "00:43:53,650"
+			},
+			"offsets": {
+				"from": 2621820,
+				"to": 2633650
+			},
+			"text": " So I think we're playing all the time with that privileged way that scientific knowledge is seen in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:54,110",
+				"to": "00:44:00,160"
+			},
+			"offsets": {
+				"from": 2634110,
+				"to": 2640160
+			},
+			"text": " And we hope that it does some good once we put in the time to have PhDs."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,620",
+				"to": "00:44:01,600"
+			},
+			"offsets": {
+				"from": 2640620,
+				"to": 2641600
+			},
+			"text": " Yeah, I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:01,740",
+				"to": "00:44:06,360"
+			},
+			"offsets": {
+				"from": 2641740,
+				"to": 2646360
+			},
+			"text": " That's a tough thing because here I am trying to get my own PhD and become a credible source of knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:07,680",
+				"to": "00:44:14,580"
+			},
+			"offsets": {
+				"from": 2647680,
+				"to": 2654580
+			},
+			"text": " And where I think we're going in this article right now is that we need multiple bases of legitimacy."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:15,280",
+				"to": "00:44:32,900"
+			},
+			"offsets": {
+				"from": 2655280,
+				"to": 2672900
+			},
+			"text": " So there is very much value in kind of the thorough empirical research and the data collection and a methodological approach to kind of systematizing what we look at, how we process it, the tradition of peer review and so forth."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:32,900",
+				"to": "00:44:50,460"
+			},
+			"offsets": {
+				"from": 2672900,
+				"to": 2690460
+			},
+			"text": " But I don't think we'll ever make any headway towards getting kind of to the broader transformation of this food system that is embedded in law, that is embedded in markets, that's embedded in many of the kind of larger structural processes of society."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,460",
+				"to": "00:45:16,960"
+			},
+			"offsets": {
+				"from": 2690460,
+				"to": 2716960
+			},
+			"text": " If we aren't simultaneously drawing on bases of legitimacy that exist in those spheres, if we aren't kind of drawing from social movements in particular and asking them to take up the discourse and language of agroecology, if we aren't dialoguing with policymakers, if we aren't talking to farmers and coming at it from science is going to give you a solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,180",
+				"to": "00:45:33,470"
+			},
+			"offsets": {
+				"from": 2718180,
+				"to": 2733470
+			},
+			"text": " You know, it has not worked so well in climate science, so I don't think that it's going to work so well in agriculture and food systems, which in some ways is many times more complicated."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:34,460",
+				"to": "00:45:40,380"
+			},
+			"offsets": {
+				"from": 2734460,
+				"to": 2740380
+			},
+			"text": " Great, thanks. I think that's a great place to leave it. And thanks so much, Myla."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:40,900",
+				"to": "00:45:46,620"
+			},
+			"offsets": {
+				"from": 2740900,
+				"to": 2746620
+			},
+			"text": " Just I want to ask, what's the best way to follow along with your work and to read the most recent?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:48,640",
+				"to": "00:45:56,170"
+			},
+			"offsets": {
+				"from": 2748640,
+				"to": 2756170
+			},
+			"text": " Well, I have become more of a Twitter user lately, and you can find me on Twitter at Myla Montenegro."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:57,610",
+				"to": "00:46:09,640"
+			},
+			"offsets": {
+				"from": 2757610,
+				"to": 2769640
+			},
+			"text": " Occasionally, I post to the Friday Food Links. It's a kind of roundup of news and views, and that's at the Berkeley Food Institute, so bfi.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:11,110",
+				"to": "00:46:21,170"
+			},
+			"offsets": {
+				"from": 2771110,
+				"to": 2781170
+			},
+			"text": " And I am also on Facebook, but I'm trying to limit my social media because I'm supposed to be writing my research."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:22,420",
+				"to": "00:46:26,050"
+			},
+			"offsets": {
+				"from": 2782420,
+				"to": 2786050
+			},
+			"text": " But I'm also available by email for people who would really like to get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:26,250",
+				"to": "00:46:30,470"
+			},
+			"offsets": {
+				"from": 2786250,
+				"to": 2790470
+			},
+			"text": " I think email offers a little bit more space for a conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,230",
+				"to": "00:46:40,100"
+			},
+			"offsets": {
+				"from": 2791230,
+				"to": 2800100
+			},
+			"text": " Sounds good. And we'll have, as always, links. Well, you will have your Twitter and links to those websites that you mentioned, and also all those books that you mentioned."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:40,220",
+				"to": "00:46:45,720"
+			},
+			"offsets": {
+				"from": 2800220,
+				"to": 2805720
+			},
+			"text": " You mentioned my five books on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,940",
+				"to": "00:46:51,160"
+			},
+			"offsets": {
+				"from": 2805940,
+				"to": 2811160
+			},
+			"text": " And so thanks so much for taking the time to talk to me, and I really appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:51,460",
+				"to": "00:46:53,080"
+			},
+			"offsets": {
+				"from": 2811460,
+				"to": 2813080
+			},
+			"text": " Thank you, Devin. It was really my pleasure."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:53,200",
+				"to": "00:47:09,910"
+			},
+			"offsets": {
+				"from": 2813200,
+				"to": 2829910
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place, produced by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:10,530",
+				"to": "00:47:19,980"
+			},
+			"offsets": {
+				"from": 2830530,
+				"to": 2839980
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app, and you can find us at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:20,180",
+				"to": "00:47:22,030"
+			},
+			"offsets": {
+				"from": 2840180,
+				"to": 2842030
+			},
+			"text": " You can get in touch with us there, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:22,670",
+				"to": "00:47:32,060"
+			},
+			"offsets": {
+				"from": 2842670,
+				"to": 2852060
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:32,450",
+				"to": "00:47:33,310"
+			},
+			"offsets": {
+				"from": 2852450,
+				"to": 2853310
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

@@ -1,0 +1,3629 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,030",
+				"to": "00:00:05,630"
+			},
+			"offsets": {
+				"from": 30,
+				"to": 5630
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,630",
+				"to": "00:00:11,520"
+			},
+			"offsets": {
+				"from": 5630,
+				"to": 11520
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,520",
+				"to": "00:00:14,370"
+			},
+			"offsets": {
+				"from": 11520,
+				"to": 14370
+			},
+			"text": " What's your food movement? Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,370",
+				"to": "00:00:18,540"
+			},
+			"offsets": {
+				"from": 14370,
+				"to": 18540
+			},
+			"text": " DeliciousRevolutionShow.com"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,540",
+				"to": "00:00:33,220"
+			},
+			"offsets": {
+				"from": 18540,
+				"to": 33220
+			},
+			"text": " One of the most frequent questions I hear is, \"But Anna, can we really feed the world using organic farming practices or using sustainable practices?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,220",
+				"to": "00:00:41,460"
+			},
+			"offsets": {
+				"from": 33220,
+				"to": 41460
+			},
+			"text": " And increasingly, there is scientific evidence that shows that farming solutions that help farmers get rid of their chemicals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,460",
+				"to": "00:00:49,220"
+			},
+			"offsets": {
+				"from": 41460,
+				"to": 49220
+			},
+			"text": " those are the solutions that not only create great productivity at the farm level, but they're also economically great for farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,220",
+				"to": "00:00:54,100"
+			},
+			"offsets": {
+				"from": 49220,
+				"to": 54100
+			},
+			"text": " It's huge. I mean, it's the myth my mom has been trying to debunk for four decades."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,100",
+				"to": "00:00:59,140"
+			},
+			"offsets": {
+				"from": 54100,
+				"to": 59140
+			},
+			"text": " But the reason why it is so hard to debunk isn't because the evidence is on our side."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,140",
+				"to": "00:01:07,380"
+			},
+			"offsets": {
+				"from": 59140,
+				"to": 67380
+			},
+			"text": " It's because there is such a profit to be made in the status quo. There are such interests aligned with having us"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,380",
+				"to": "00:01:15,380"
+			},
+			"offsets": {
+				"from": 67380,
+				"to": 75380
+			},
+			"text": " believe that we need this chemical arsenal in order to feed the world, that we need to be using these genetically engineered seeds to feed the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,380",
+				"to": "00:01:21,380"
+			},
+			"offsets": {
+				"from": 75380,
+				"to": 81380
+			},
+			"text": " that we need synthetic fertilizer to feed the world. You're talking about billions and billions of dollars at stake."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,380",
+				"to": "00:01:32,700"
+			},
+			"offsets": {
+				"from": 81380,
+				"to": 92700
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,700",
+				"to": "00:01:40,870"
+			},
+			"offsets": {
+				"from": 92700,
+				"to": 100870
+			},
+			"text": " And I'm Devin Sampson. We talk with people who work in and think about all aspects of food, including farmers, chefs, artists, and activists,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,870",
+				"to": "00:01:44,390"
+			},
+			"offsets": {
+				"from": 100870,
+				"to": 104390
+			},
+			"text": " bringing you in-depth conversations with some amazing people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,390",
+				"to": "00:01:51,030"
+			},
+			"offsets": {
+				"from": 104390,
+				"to": 111030
+			},
+			"text": " On this third season of Delicious Revolution, we're bringing you stories and perspectives from the unseen places in food systems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,590",
+				"to": "00:02:00,390"
+			},
+			"offsets": {
+				"from": 111590,
+				"to": 120390
+			},
+			"text": " going behind kitchen doors, into underground nests of native bees, under the waves, and to the far away origins of flavors we love, just to name a few."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,670",
+				"to": "00:02:09,090"
+			},
+			"offsets": {
+				"from": 120670,
+				"to": 129090
+			},
+			"text": " I'm speaking with people who work with food in places we normally cannot see or don't notice. It's a season of unseen stories of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,090",
+				"to": "00:02:17,810"
+			},
+			"offsets": {
+				"from": 129090,
+				"to": 137810
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app. Just search for Delicious Revolution wherever you get your podcasts and you'll find us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,810",
+				"to": "00:02:24,930"
+			},
+			"offsets": {
+				"from": 137810,
+				"to": 144930
+			},
+			"text": " Our website is deliciousrevolutionshow.com, where we have pictures, links, and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,930",
+				"to": "00:02:39,150"
+			},
+			"offsets": {
+				"from": 144930,
+				"to": 159150
+			},
+			"text": " Anna LePay is a best-selling author and widely respected educator, known for her work as an expert on food systems and as a sustainable food advocate."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,150",
+				"to": "00:02:45,440"
+			},
+			"offsets": {
+				"from": 159150,
+				"to": 165440
+			},
+			"text": " Anna is a founding principal of the Small Planet Institute and the Small Planet Fund with her mother, Frances Moore-Bloppe."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,920",
+				"to": "00:02:58,530"
+			},
+			"offsets": {
+				"from": 165920,
+				"to": 178530
+			},
+			"text": " She is also the founder and director of the Real Food Media Project, which uses creative movies, an online movie contest, a web-based action center, and grassroots events to grow the movement for sustainable food and farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,970",
+				"to": "00:03:08,150"
+			},
+			"offsets": {
+				"from": 178970,
+				"to": 188150
+			},
+			"text": " Her latest book, Diet for a Hot Planet, The Climate Crisis at the End of Your Fork and What You Can Do About It, was named by Booklist and Kirkus as one of the best environmental books of the year."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,550",
+				"to": "00:03:17,750"
+			},
+			"offsets": {
+				"from": 188550,
+				"to": 197750
+			},
+			"text": " Anna was also the author of Hope's Edge, which chronicles social movements fighting hunger around the world, and Grubb, Ideas for an Urban Organic Kitchen, with Chef Brian Terry."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,220",
+				"to": "00:03:20,820"
+			},
+			"offsets": {
+				"from": 198220,
+				"to": 200820
+			},
+			"text": " Here's Chelsea's interview with Anna LePay."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,050",
+				"to": "00:03:26,720"
+			},
+			"offsets": {
+				"from": 202050,
+				"to": 206720
+			},
+			"text": " When did your work with food start, and how did that love come about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,720",
+				"to": "00:03:30,980"
+			},
+			"offsets": {
+				"from": 206720,
+				"to": 210980
+			},
+			"text": " I think the origin story for me really starts in my childhood."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,400",
+				"to": "00:03:53,220"
+			},
+			"offsets": {
+				"from": 211400,
+				"to": 233220
+			},
+			"text": " My mother is Frances Moore-Loppe, who wrote when she was 26 years old, wrote a book called Diet for a Small Planet that set her on her life's course of following her questions around why we have hunger in the world, and why do we have hunger in a world when there's plenty of food to feed us all, which was true when she wrote her book almost 40 years ago, and it's still true today."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,220",
+				"to": "00:04:05,240"
+			},
+			"offsets": {
+				"from": 233220,
+				"to": 245240
+			},
+			"text": " And so from a really early age, I had a household and a family that was asking these questions about food that was really the center of our family was really the dinner table."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,500",
+				"to": "00:04:22,030"
+			},
+			"offsets": {
+				"from": 245500,
+				"to": 262030
+			},
+			"text": " And so it was really a part of my life growing up, but as an adult, this path that I'm on really started when I was a graduate student, and I was studying economic and political development and burying my head in books and textbooks."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,030",
+				"to": "00:04:35,960"
+			},
+			"offsets": {
+				"from": 262030,
+				"to": 275960
+			},
+			"text": " And I was really frustrated by the limitations of what I was learning in the classroom, and I encouraged my mother to revisit those questions she was asking in Diet for a Small Planet and write another book."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,960",
+				"to": "00:04:42,650"
+			},
+			"offsets": {
+				"from": 275960,
+				"to": 282650
+			},
+			"text": " And she'd written many books in the interim, but to really revisit Diet for a Small Planet with a 30th anniversary edition."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,090",
+				"to": "00:05:04,450"
+			},
+			"offsets": {
+				"from": 283090,
+				"to": 304450
+			},
+			"text": " And she agreed, she thought it was wise counsel from her daughter, and I ended up working with her initially just as a research assistant, and then as the work progressed as a co-author on a book that took us on a journey from India to Bangladesh to Poland, Kenya, France, and several other countries, as well as places within the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,450",
+				"to": "00:05:16,390"
+			},
+			"offsets": {
+				"from": 304450,
+				"to": 316390
+			},
+			"text": " And that experience is really what set me on what's been now 15-year life path of being an advocate for sustainable food systems, being an advocate for justice along the food chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,650",
+				"to": "00:05:20,130"
+			},
+			"offsets": {
+				"from": 316650,
+				"to": 320130
+			},
+			"text": " And it was really that journey that set me on this path."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,860",
+				"to": "00:05:21,020"
+			},
+			"offsets": {
+				"from": 320860,
+				"to": 321020
+			},
+			"text": " Cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,500",
+				"to": "00:05:32,860"
+			},
+			"offsets": {
+				"from": 321500,
+				"to": 332860
+			},
+			"text": " Something that kind of strikes me when I hear you talk about that is that it sounds like you work with a lot of different aspects of the food system, and that's always been part of your work."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,860",
+				"to": "00:05:36,000"
+			},
+			"offsets": {
+				"from": 332860,
+				"to": 336000
+			},
+			"text": " So you don't just work with farmers or chefs."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,160",
+				"to": "00:05:40,330"
+			},
+			"offsets": {
+				"from": 336160,
+				"to": 340330
+			},
+			"text": " You kind of do a lot of the bridging the gaps between places and people."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,430",
+				"to": "00:05:40,870"
+			},
+			"offsets": {
+				"from": 340430,
+				"to": 340870
+			},
+			"text": " Is that true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,650",
+				"to": "00:05:42,050"
+			},
+			"offsets": {
+				"from": 341650,
+				"to": 342050
+			},
+			"text": " That's right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,270",
+				"to": "00:05:47,590"
+			},
+			"offsets": {
+				"from": 342270,
+				"to": 347590
+			},
+			"text": " I like to think of myself as a generalist, although I dove into specific topics in this work."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,590",
+				"to": "00:06:06,770"
+			},
+			"offsets": {
+				"from": 347590,
+				"to": 366770
+			},
+			"text": " Yes, I very much see my particular role that I can play is providing those connections, making those connections, helping people see that food is not just an environmental issue, but a social justice issue, and not just in a social justice issue, but also a cultural, spiritual issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,150",
+				"to": "00:06:24,180"
+			},
+			"offsets": {
+				"from": 367150,
+				"to": 384180
+			},
+			"text": " So drawing those connections has been always really important to me, and also really trying to help specialists in particular fields really amplify their message and their story so that their messages can be understood by a really wide audience."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,180",
+				"to": "00:06:30,810"
+			},
+			"offsets": {
+				"from": 384180,
+				"to": 390810
+			},
+			"text": " Could you give me – I think that's such an important role, that kind of synthetic role in movement, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,910",
+				"to": "00:06:51,390"
+			},
+			"offsets": {
+				"from": 390910,
+				"to": 411390
+			},
+			"text": " It creates this context that I think is so necessary for people to really be able to do their jobs as farmers or as – I'm thinking about the edible schoolyard people reinventing kind of what school lunches look like or something like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,470",
+				"to": "00:06:55,790"
+			},
+			"offsets": {
+				"from": 411470,
+				"to": 415790
+			},
+			"text": " I think that these bigger containers really support that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,790",
+				"to": "00:07:01,350"
+			},
+			"offsets": {
+				"from": 415790,
+				"to": 421350
+			},
+			"text": " Can you give me an example of how you do that, or what did that look like maybe on your trip?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,800",
+				"to": "00:07:19,130"
+			},
+			"offsets": {
+				"from": 421800,
+				"to": 439130
+			},
+			"text": " Yeah, well, I think a really great example of that is the last book I wrote called Diet for a Hot Planet, obviously an homage to my mother's book, Diet for a Small Planet, that was really helping draw those connections between the food system and climate disruption."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,130",
+				"to": "00:07:42,360"
+			},
+			"offsets": {
+				"from": 439130,
+				"to": 462360
+			},
+			"text": " And I think that book really brings to life this attempt that I was making to draw those connections and draw communities together, so to really help environmentalists and those really focused on addressing the climate crisis, help them understand how the food system, the global food system, is both a driver of the crisis as well as really a key part of the solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,360",
+				"to": "00:08:01,440"
+			},
+			"offsets": {
+				"from": 462360,
+				"to": 481440
+			},
+			"text": " And to really understand and to really understand and bring farmers into the story of how we're going to fix climate change by helping people see that when farmers are using the most sustainable methods, they're actually able to reduce the amount of energy used in a farming operation, reduce the greenhouse gas emissions from a farming operation."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,440",
+				"to": "00:08:12,360"
+			},
+			"offsets": {
+				"from": 481440,
+				"to": 492360
+			},
+			"text": " And even better than that, help store carbon in the soils so that farms can actually be part of what a climate scientist would call a mitigation strategy."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,200",
+				"to": "00:08:29,970"
+			},
+			"offsets": {
+				"from": 493200,
+				"to": 509970
+			},
+			"text": " And my book was really an attempt to help people draw those connections at a moment when the book came out several years ago that the story of food and climate was really not a core part of the story about climate change and how we're going to address it and take it on."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,970",
+				"to": "00:08:45,590"
+			},
+			"offsets": {
+				"from": 509970,
+				"to": 525590
+			},
+			"text": " And when I started working on Diet for Hot Planet, I was really struck by analysis that colleagues of mine had done at Johns Hopkins University that looked at all of the newspaper articles in the U.S. from 2006 to 2008 about climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,590",
+				"to": "00:09:14,120"
+			},
+			"offsets": {
+				"from": 525590,
+				"to": 554120
+			},
+			"text": " And they did an analysis to look at how many of them talked about food systems or agriculture, and it was less than 2% of those articles about climate change mentioned food systems or agriculture, despite the fact that our global food system is responsible for about one-third of all the greenhouse gas emissions that's causing the crisis, largely because agribusiness is one of the biggest forces behind forest destruction,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,120",
+				"to": "00:09:20,320"
+			},
+			"offsets": {
+				"from": 554120,
+				"to": 560320
+			},
+			"text": " which we know is a huge, huge problem in terms of global warming and climate disruption."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,880",
+				"to": "00:09:31,320"
+			},
+			"offsets": {
+				"from": 560880,
+				"to": 571320
+			},
+			"text": " So that, to me, was evidence that there was a conversation gap, and I really wanted to help bridge that gap by helping spark those conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,040",
+				"to": "00:09:43,250"
+			},
+			"offsets": {
+				"from": 573040,
+				"to": 583250
+			},
+			"text": " Well, I just saw you talk in February in Petaluma, and I was really struck by how that conversation has changed since your book came out."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,250",
+				"to": "00:09:45,030"
+			},
+			"offsets": {
+				"from": 583250,
+				"to": 585030
+			},
+			"text": " And I feel like there's so much more of a link."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,020",
+				"to": "00:09:48,300"
+			},
+			"offsets": {
+				"from": 586020,
+				"to": 588300
+			},
+			"text": " Do you feel like that's true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,940",
+				"to": "00:09:49,700"
+			},
+			"offsets": {
+				"from": 588940,
+				"to": 589700
+			},
+			"text": " Oh, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,980",
+				"to": "00:10:00,120"
+			},
+			"offsets": {
+				"from": 589980,
+				"to": 600120
+			},
+			"text": " And by no means, don't get me wrong, I do not take credit for the fact that I do feel like there has been this shift in the past five years, let's say."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,560",
+				"to": "00:10:04,320"
+			},
+			"offsets": {
+				"from": 600560,
+				"to": 604320
+			},
+			"text": " I do not take personal credit, but I think there's been a shift, and there's a couple reasons why."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,360",
+				"to": "00:10:15,270"
+			},
+			"offsets": {
+				"from": 604360,
+				"to": 615270
+			},
+			"text": " First of all, I think that myself and many other advocates have really pushed a lot of the big environmental groups to see the importance of talking about food systems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,410",
+				"to": "00:10:23,270"
+			},
+			"offsets": {
+				"from": 615410,
+				"to": 623270
+			},
+			"text": " to see the importance about taking on agribusiness as one of the corporate drivers of global warming."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,270",
+				"to": "00:10:35,400"
+			},
+			"offsets": {
+				"from": 623270,
+				"to": 635400
+			},
+			"text": " I think, secondly, the climate movement as a whole is just much more sophisticated, and really, we know so much more now than we did five years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,060",
+				"to": "00:10:52,950"
+			},
+			"offsets": {
+				"from": 636060,
+				"to": 652950
+			},
+			"text": " And the third thing is I think those of us who might consider ourselves more squarely in the food movement are ourselves understanding the need to not silo ourselves and not think about food as separate from the environment, as separate from climate, but to really see them together."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,030",
+				"to": "00:11:10,310"
+			},
+			"offsets": {
+				"from": 653030,
+				"to": 670310
+			},
+			"text": " And then the final thing I would say is that I think all of us are so much clearer that the impacts of climate change aren't going to happen in some distant, imagined future, that we are experiencing the impacts in a major way today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,710",
+				"to": "00:11:18,150"
+			},
+			"offsets": {
+				"from": 670710,
+				"to": 678150
+			},
+			"text": " And I would argue that farmers, those who are working on the ground, in the ground, in the soil, are on the front lines of that impact."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,150",
+				"to": "00:11:36,040"
+			},
+			"offsets": {
+				"from": 678150,
+				"to": 696040
+			},
+			"text": " So there's a much deeper understanding that farmers are among the key casualties of climate change, and therefore figuring out how to ensure that farmers are able to stay on their land, farm sustainably, and be protected from the climate disruption is a really, really critical part of the conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,040",
+				"to": "00:11:55,490"
+			},
+			"offsets": {
+				"from": 696040,
+				"to": 715490
+			},
+			"text": " Well, it just brought up that change, because I think that's a pretty extraordinary change in discourse over the last 10 years, I would say, but that so much coalition building has happened, so much coming together has happened with the climate movement in a way that I felt like was unimaginable before."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,890",
+				"to": "00:11:57,350"
+			},
+			"offsets": {
+				"from": 715890,
+				"to": 717350
+			},
+			"text": " So I feel like that's really hopeful."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,350",
+				"to": "00:12:26,390"
+			},
+			"offsets": {
+				"from": 717350,
+				"to": 746390
+			},
+			"text": " Well, I think it is, I would also caution us to add to that, or balance it with saying, there's, I think when you look at what the conversation is in the halls of Congress, or, you know, sort of the international treaty level, you know, still food systems and agribusiness role in rainforest destruction is still certainly not at the heart of those conversations as much as it needs to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,390",
+				"to": "00:12:39,750"
+			},
+			"offsets": {
+				"from": 746390,
+				"to": 759750
+			},
+			"text": " Well, absolutely, I think there's, I mean, I also feel, unfortunately, concerned that, that there's still so much lack of awareness on these issues that people are easily influenced by misinformation."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,310",
+				"to": "00:13:00,110"
+			},
+			"offsets": {
+				"from": 760310,
+				"to": 780110
+			},
+			"text": " And one of the examples of that, I was just listening to an interview with the filmmaker behind a movie called Cowspiracy, which puts out totally wrong facts and figures about these issues, and says and claims that livestock alone is responsible for half of all of greenhouse gas emissions."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,110",
+				"to": "00:13:02,290"
+			},
+			"offsets": {
+				"from": 780110,
+				"to": 782290
+			},
+			"text": " And that's just patently untrue."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,290",
+				"to": "00:13:16,330"
+			},
+			"offsets": {
+				"from": 782290,
+				"to": 796330
+			},
+			"text": " And ultimately, it's so frustrating because the film is speaking to people who care about these issues, whose hearts and minds are very much in sync with many of the groups that I work with."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,670",
+				"to": "00:13:20,050"
+			},
+			"offsets": {
+				"from": 796670,
+				"to": 800050
+			},
+			"text": " And yet what they're getting in the film is this absolute misinformation."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,950",
+				"to": "00:13:24,310"
+			},
+			"offsets": {
+				"from": 800950,
+				"to": 804310
+			},
+			"text": " And I think ultimately, it's a really divisive film."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:24,590",
+				"to": "00:13:32,870"
+			},
+			"offsets": {
+				"from": 804590,
+				"to": 812870
+			},
+			"text": " And, and so that, you know, so I would just say, I would caution us to say that there's still so much education work to be done to inoculate people from misinformation from both sides."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,530",
+				"to": "00:13:38,250"
+			},
+			"offsets": {
+				"from": 813530,
+				"to": 818250
+			},
+			"text": " And Cowspiracy, I think, is a great example of some of that misinformation that's getting out there."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,910",
+				"to": "00:13:47,610"
+			},
+			"offsets": {
+				"from": 818910,
+				"to": 827610
+			},
+			"text": " Well, that was what I was going to ask you next with the changing conversation that I think allows for more of that complexity to come to the surface, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,610",
+				"to": "00:13:55,890"
+			},
+			"offsets": {
+				"from": 827610,
+				"to": 835890
+			},
+			"text": " I think there is maybe this basic awareness that climate change and food politics are connected to each other, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:56,090",
+				"to": "00:14:00,850"
+			},
+			"offsets": {
+				"from": 836090,
+				"to": 840850
+			},
+			"text": " But, but now what, what's really important for people to know about what's happening now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,050",
+				"to": "00:14:02,000"
+			},
+			"offsets": {
+				"from": 841050,
+				"to": 842000
+			},
+			"text": " Right, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,100",
+				"to": "00:14:12,520"
+			},
+			"offsets": {
+				"from": 842100,
+				"to": 852520
+			},
+			"text": " So, you know, I think on, on this topic, I think what's really important for people to know about is, um, is people to understand kind of food systems on these multiple levels."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,520",
+				"to": "00:14:19,960"
+			},
+			"offsets": {
+				"from": 852520,
+				"to": 859960
+			},
+			"text": " I imagine them as kind of concentric circles moving out from us as an individual to our community, to our country, to the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,960",
+				"to": "00:14:37,460"
+			},
+			"offsets": {
+				"from": 859960,
+				"to": 877460
+			},
+			"text": " Um, and in that smallest concentric circle of oneself, uh, I really like to stress that there are some basic practices we can all deploy when it comes to our own, uh, consumption patterns and our own relationship to food that put us squarely aligned with a climate friendly diet."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,460",
+				"to": "00:14:52,260"
+			},
+			"offsets": {
+				"from": 877460,
+				"to": 892260
+			},
+			"text": " And those are things that probably many people who might be listening to your podcast are already doing things like supporting organic farmers who by design, by the organic practices are much, uh, uh, are much better for the environment and the climate."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,260",
+				"to": "00:14:58,480"
+			},
+			"offsets": {
+				"from": 892260,
+				"to": 898480
+			},
+			"text": " By doing things like reducing the amount of processed foods we eat and, and packaged foods we eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:58,480",
+				"to": "00:15:10,040"
+			},
+			"offsets": {
+				"from": 898480,
+				"to": 910040
+			},
+			"text": " And if we are, uh, typical, uh, American eating a typical amount of meat and consuming the typical amount of dairy in this country, we could definitely reduce that meat and dairy consumption."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,040",
+				"to": "00:15:20,090"
+			},
+			"offsets": {
+				"from": 910040,
+				"to": 920090
+			},
+			"text": " Because the lion's share of meat and dairy produced in this country is still done in such, um, horribly polluting and, uh, and really, really energy intensive ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,210",
+				"to": "00:15:28,010"
+			},
+			"offsets": {
+				"from": 920210,
+				"to": 928010
+			},
+			"text": " Um, so there's these really basic principles we can, we can uphold as individuals, but then as we move out to these broader concentric circles, what can be done?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,010",
+				"to": "00:15:49,690"
+			},
+			"offsets": {
+				"from": 928010,
+				"to": 949690
+			},
+			"text": " And I'm really encouraged by the work of advocates who are working on policies at the state level here in California and then policies on the national level that are really looking at how can we put money behind the practices that are going to improve, uh, agriculture, reduce the greenhouse gas emissions from the sector."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,690",
+				"to": "00:15:59,170"
+			},
+			"offsets": {
+				"from": 949690,
+				"to": 959170
+			},
+			"text": " And, uh, uh, have other kinds of co-benefits like not creating terribly polluting, uh, factory farms that are impacting waterways and impacting the air."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,170",
+				"to": "00:16:02,990"
+			},
+			"offsets": {
+				"from": 959170,
+				"to": 962990
+			},
+			"text": " And there's great policies here in California that are doing that, that we can get behind."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,990",
+				"to": "00:16:12,970"
+			},
+			"offsets": {
+				"from": 962990,
+				"to": 972970
+			},
+			"text": " Uh, and there's work, uh, on the national level to ensure things like, um, our conservation, uh, uh, programs at the national level support that kind of farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,970",
+				"to": "00:16:21,450"
+			},
+			"offsets": {
+				"from": 972970,
+				"to": 981450
+			},
+			"text": " And then internationally, there is still so much work to be done to really halt the incredibly destructive practices of agribusiness companies."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,830",
+				"to": "00:16:38,370"
+			},
+			"offsets": {
+				"from": 981830,
+				"to": 998370
+			},
+			"text": " Groups, uh, that I'm involved with include Rainforest Action Network that's doing some of that work that's, you know, direct action, directly taking on those corporate players who are really at the heart of, of the climate crisis and need to be called out as much as we call out Exxon and Shell and BP."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,370",
+				"to": "00:16:52,790"
+			},
+			"offsets": {
+				"from": 998370,
+				"to": 1012790
+			},
+			"text": " Um, so, so we, so we, we need to work at all these levels and of course not every single one of us can or should work on all those levels, but it's important to really understand that, that those multiple levels exist and, and, and, and all of them need to be actively engaged."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:52,790",
+				"to": "00:16:57,830"
+			},
+			"offsets": {
+				"from": 1012790,
+				"to": 1017830
+			},
+			"text": " Maybe let's back up and let's talk a little bit more specifically about each one of those levels."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,490",
+				"to": "00:17:03,990"
+			},
+			"offsets": {
+				"from": 1018490,
+				"to": 1023990
+			},
+			"text": " So, um, in the basic practices levels, you're talking about supporting organic farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,390",
+				"to": "00:17:14,170"
+			},
+			"offsets": {
+				"from": 1024390,
+				"to": 1034170
+			},
+			"text": " So in a fairly literal way, that means like if you live somewhere where there's a farmer's market or something like that, that's a good place to shop or what, I mean, what can people actually do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,610",
+				"to": "00:17:14,810"
+			},
+			"offsets": {
+				"from": 1034610,
+				"to": 1034810
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,910",
+				"to": "00:17:18,530"
+			},
+			"offsets": {
+				"from": 1034910,
+				"to": 1038530
+			},
+			"text": " So it's seeking out organic and, and, and local products."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:18,530",
+				"to": "00:17:30,350"
+			},
+			"offsets": {
+				"from": 1038530,
+				"to": 1050350
+			},
+			"text": " I mean, I'm so fortunate that I live in a place, uh, in the East Bay and the San Francisco Bay area in California, where that's, uh, relatively easy for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,350",
+				"to": "00:17:44,130"
+			},
+			"offsets": {
+				"from": 1050350,
+				"to": 1064130
+			},
+			"text": " That is not the case for many of us, but for those of us who do live in places that can seek out, uh, locally owned and operated grocery stores or cooperatively owned grocery stores that are really supporting, uh, the local farming base."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,130",
+				"to": "00:17:46,290"
+			},
+			"offsets": {
+				"from": 1064130,
+				"to": 1066290
+			},
+			"text": " We can put our dollars in that direction."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,290",
+				"to": "00:17:55,290"
+			},
+			"offsets": {
+				"from": 1066290,
+				"to": 1075290
+			},
+			"text": " We can do things like, uh, uh, shop at a farmer's market, which most farmer's markets in this country require that if you're selling food there, you are also a producer."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,290",
+				"to": "00:18:01,350"
+			},
+			"offsets": {
+				"from": 1075290,
+				"to": 1081350
+			},
+			"text": " So buying in a farmer's market means that you're really investing in your local food economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,830",
+				"to": "00:18:17,260"
+			},
+			"offsets": {
+				"from": 1081830,
+				"to": 1097260
+			},
+			"text": " And we can, of course, also seek out that USDA organic seal, uh, and, and in doing so again, uh, when you support those kinds of food production practices, it means you're supporting farmers that aren't using petroleum based chemicals."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,480",
+				"to": "00:18:25,600"
+			},
+			"offsets": {
+				"from": 1097480,
+				"to": 1105600
+			},
+			"text": " That are really building the soil fertility, which means increasing the soil carbon, taking that carbon dioxide in the atmosphere."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,600",
+				"to": "00:18:29,740"
+			},
+			"offsets": {
+				"from": 1105600,
+				"to": 1109740
+			},
+			"text": " That's a contributor, a big contributor to climate change and storing it in the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,920",
+				"to": "00:18:33,880"
+			},
+			"offsets": {
+				"from": 1109920,
+				"to": 1113880
+			},
+			"text": " That is one of the outcomes of good organic farming practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,660",
+				"to": "00:18:50,200"
+			},
+			"offsets": {
+				"from": 1114660,
+				"to": 1130200
+			},
+			"text": " And while I said, most of us, not all of us live in places where seeking out these foods is easy, increasingly thanks to advocacy and activism, it's, it's, uh, more possible than it's been ever before."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,200",
+				"to": "00:18:59,080"
+			},
+			"offsets": {
+				"from": 1130200,
+				"to": 1139080
+			},
+			"text": " I think about farmer's markets, for instance, in the 1970s, when I was born, there were several hundred farmer's markets left in this country."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,080",
+				"to": "00:19:10,800"
+			},
+			"offsets": {
+				"from": 1139080,
+				"to": 1150800
+			},
+			"text": " Today, the USDA Agricultural Marketing Service tracks the official number of farmers markets inched up past 8,400 this year."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,960",
+				"to": "00:19:17,660"
+			},
+			"offsets": {
+				"from": 1150960,
+				"to": 1157660
+			},
+			"text": " So we're really talking about thousands of communities around the country where you can have that direct connection."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,660",
+				"to": "00:19:32,370"
+			},
+			"offsets": {
+				"from": 1157660,
+				"to": 1172370
+			},
+			"text": " We also can support our local farmers through subscription services like community-supported agriculture, where you can have a direct relationship with the farm and get produce or other products from, from that farm or from a collection of farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,470",
+				"to": "00:19:38,920"
+			},
+			"offsets": {
+				"from": 1172470,
+				"to": 1178920
+			},
+			"text": " So those are all great, great ways to support, uh, your local economy and, and have food that, again, it's not just climate friendly."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,920",
+				"to": "00:19:44,140"
+			},
+			"offsets": {
+				"from": 1178920,
+				"to": 1184140
+			},
+			"text": " It's also fresher, uh, healthier, uh, and again, great for your local economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,000",
+				"to": "00:19:51,490"
+			},
+			"offsets": {
+				"from": 1186000,
+				"to": 1191490
+			},
+			"text": " And what about at this mid-level, what does that look like for people who would like to get involved?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,520",
+				"to": "00:20:05,690"
+			},
+			"offsets": {
+				"from": 1192520,
+				"to": 1205690
+			},
+			"text": " Well, you know, for people who are really passionate about getting involved at that policy level and that advocacy level, uh, it's really seeking out the groups in your state that are working at that state level."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,690",
+				"to": "00:20:20,950"
+			},
+			"offsets": {
+				"from": 1205690,
+				"to": 1220950
+			},
+			"text": " And, uh, and, you know, it can be as small step as, uh, getting on those groups' email lists and picking up the phone when they say, hey, call your representative, let them know you, you know, you stand for, for, for this policy that, that we're pushing for at the state level."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,950",
+				"to": "00:20:25,700"
+			},
+			"offsets": {
+				"from": 1220950,
+				"to": 1225700
+			},
+			"text": " You know, or it can mean really thinking about, might it be a career path for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,760",
+				"to": "00:20:27,660"
+			},
+			"offsets": {
+				"from": 1225760,
+				"to": 1227660
+			},
+			"text": " Might you want to get into policy work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:27,740",
+				"to": "00:20:34,260"
+			},
+			"offsets": {
+				"from": 1227740,
+				"to": 1234260
+			},
+			"text": " We need so many more people with the values of sustainability and justice working for policy change."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,420",
+				"to": "00:20:41,420"
+			},
+			"offsets": {
+				"from": 1234420,
+				"to": 1241420
+			},
+			"text": " Here in California, there's a great group called CALCAN, which stands for the California Climate and Agriculture Network."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,820",
+				"to": "00:20:51,400"
+			},
+			"offsets": {
+				"from": 1241820,
+				"to": 1251400
+			},
+			"text": " And they've really been at the heart of helping to, to conceive and draft policies that would really benefit farmers in the state as well as benefit the climate."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,680",
+				"to": "00:20:53,180"
+			},
+			"offsets": {
+				"from": 1251680,
+				"to": 1253180
+			},
+			"text": " And there's lots of groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,280",
+				"to": "00:20:56,340"
+			},
+			"offsets": {
+				"from": 1253280,
+				"to": 1256340
+			},
+			"text": " Every single state has groups that are working, uh, at that state level."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,800",
+				"to": "00:21:03,420"
+			},
+			"offsets": {
+				"from": 1256800,
+				"to": 1263420
+			},
+			"text": " And, again, it sort of depends on, on how much you want to throw your hat in the ring, but I think there's a lot of opportunity there that we could, we could tap into."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,980",
+				"to": "00:21:04,790"
+			},
+			"offsets": {
+				"from": 1263980,
+				"to": 1264790
+			},
+			"text": " Wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,110",
+				"to": "00:21:15,160"
+			},
+			"offsets": {
+				"from": 1265110,
+				"to": 1275160
+			},
+			"text": " And, and at a global level, I remember hearing the reports back from Paris in November and feeling struck at how much was about food this time."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,460",
+				"to": "00:21:17,210"
+			},
+			"offsets": {
+				"from": 1275460,
+				"to": 1277210
+			},
+			"text": " So could you kind of recap that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,530",
+				"to": "00:21:19,770"
+			},
+			"offsets": {
+				"from": 1277530,
+				"to": 1279770
+			},
+			"text": " Yeah, again, you know, so much more."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,890",
+				"to": "00:21:21,870"
+			},
+			"offsets": {
+				"from": 1279890,
+				"to": 1281870
+			},
+			"text": " And I would argue we still have so much farther to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,870",
+				"to": "00:21:30,230"
+			},
+			"offsets": {
+				"from": 1281870,
+				"to": 1290230
+			},
+			"text": " I think, you know, I'll, I don't think, um, many people would disagree with me there that there's still so much more work to be done to bring the conversation forward."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,470",
+				"to": "00:21:45,660"
+			},
+			"offsets": {
+				"from": 1290470,
+				"to": 1305660
+			},
+			"text": " And, you know, I think that the conversation at that international level and how much it's changed, I think really speaks to the advocacy of, of the work of grassroots groups around the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,080",
+				"to": "00:21:55,830"
+			},
+			"offsets": {
+				"from": 1306080,
+				"to": 1315830
+			},
+			"text": " not letting their leaders be silent on this issue that is, one could argue, one of the most important issues that our planet faces."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:56,390",
+				"to": "00:22:05,350"
+			},
+			"offsets": {
+				"from": 1316390,
+				"to": 1325350
+			},
+			"text": " I remember marching in the streets of New York City for the People's Climate March and being struck that it was hundreds of thousands of people that turned out for that march."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,570",
+				"to": "00:22:09,070"
+			},
+			"offsets": {
+				"from": 1325570,
+				"to": 1329070
+			},
+			"text": " And there were, uh, solidarity marches all around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,070",
+				"to": "00:22:19,640"
+			},
+			"offsets": {
+				"from": 1329070,
+				"to": 1339640
+			},
+			"text": " And I, I think that we need all forms of advocacy and activism to really make the change that's needed in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,640",
+				"to": "00:22:24,480"
+			},
+			"offsets": {
+				"from": 1339640,
+				"to": 1344480
+			},
+			"text": " And, and one of those forms of activism is, is getting out in the streets and making your voices heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,480",
+				"to": "00:22:30,430"
+			},
+			"offsets": {
+				"from": 1344480,
+				"to": 1350430
+			},
+			"text": " And it was so encouraging to hear so many people, uh, in the streets and see so many people."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,430",
+				"to": "00:22:32,690"
+			},
+			"offsets": {
+				"from": 1350430,
+				"to": 1352690
+			},
+			"text": " And again, to see food being a part of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,770",
+				"to": "00:22:39,350"
+			},
+			"offsets": {
+				"from": 1352770,
+				"to": 1359350
+			},
+			"text": " So the Organic Consumers Association here in the U.S. organized a section of that march for food activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,350",
+				"to": "00:22:53,070"
+			},
+			"offsets": {
+				"from": 1359350,
+				"to": 1373070
+			},
+			"text": " And, uh, I remember standing in the midst of all of these hundreds of hundreds, thousands of people with their, um, their signs promoting that link between organic food and a cool planet."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,070",
+				"to": "00:22:54,910"
+			},
+			"offsets": {
+				"from": 1373070,
+				"to": 1374910
+			},
+			"text": " And it was really encouraging to see that."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,030",
+				"to": "00:22:57,030"
+			},
+			"offsets": {
+				"from": 1376030,
+				"to": 1377030
+			},
+			"text": " Yeah, that's really wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,030",
+				"to": "00:23:06,830"
+			},
+			"offsets": {
+				"from": 1377030,
+				"to": 1386830
+			},
+			"text": " I think it's so nice to hear about all those different levels because, um, you know, part of the magic of food is that we, we have to engage with it multiple times a day."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,830",
+				"to": "00:23:07,230"
+			},
+			"offsets": {
+				"from": 1386830,
+				"to": 1387230
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,290",
+				"to": "00:23:09,250"
+			},
+			"offsets": {
+				"from": 1387290,
+				"to": 1389250
+			},
+			"text": " But sometimes it feels like you're all by yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,710",
+				"to": "00:23:17,600"
+			},
+			"offsets": {
+				"from": 1389710,
+				"to": 1397600
+			},
+			"text": " So it's nice to hear about, um, ways that it brings kind of these disparate groups together or seemingly disparate groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,000",
+				"to": "00:23:18,480"
+			},
+			"offsets": {
+				"from": 1398000,
+				"to": 1398480
+			},
+			"text": " Absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,620",
+				"to": "00:23:19,300"
+			},
+			"offsets": {
+				"from": 1398620,
+				"to": 1399300
+			},
+			"text": " It really can."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,300",
+				"to": "00:23:33,220"
+			},
+			"offsets": {
+				"from": 1399300,
+				"to": 1413220
+			},
+			"text": " And I, I often think about a, uh, statistic from the Department of Agriculture and about how much of our food dollar goes to farmers on average, uh, the typical food dollar that's spent."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,380",
+				"to": "00:23:47,980"
+			},
+			"offsets": {
+				"from": 1413380,
+				"to": 1427980
+			},
+			"text": " And, uh, the Department of Agriculture recalibrates this figure, uh, every few years, but it's roughly about 10 to 20 cents of every dollar we spend is actually going to farmer, the actual producer."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,980",
+				"to": "00:23:51,400"
+			},
+			"offsets": {
+				"from": 1427980,
+				"to": 1431400
+			},
+			"text": " And so much of it is going to marketing, to packaging, to transportation."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,860",
+				"to": "00:24:11,770"
+			},
+			"offsets": {
+				"from": 1431860,
+				"to": 1451770
+			},
+			"text": " And again, when I think about how it makes me feel so much more connected to my food, to be seeking out ways to directly support producers, whether it's through a community supported agriculture program or through a farmer's market or through buying from a local store that I know has great practices with its purchases."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,350",
+				"to": "00:24:16,490"
+			},
+			"offsets": {
+				"from": 1452350,
+				"to": 1456490
+			},
+			"text": " Uh, you know, those are things that, that, that add to that feeling of connection and connectivity."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,770",
+				"to": "00:24:18,170"
+			},
+			"offsets": {
+				"from": 1456770,
+				"to": 1458170
+			},
+			"text": " Yeah, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,170",
+				"to": "00:24:21,590"
+			},
+			"offsets": {
+				"from": 1458170,
+				"to": 1461590
+			},
+			"text": " So let's back up and get a little more abstract."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,790",
+				"to": "00:24:25,570"
+			},
+			"offsets": {
+				"from": 1461790,
+				"to": 1465570
+			},
+			"text": " What, what do you imagine a healthy food system to look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,910",
+				"to": "00:24:37,500"
+			},
+			"offsets": {
+				"from": 1469910,
+				"to": 1477500
+			},
+			"text": " Well, I think a healthy food system is healthy for every element in that system."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,500",
+				"to": "00:25:08,110"
+			},
+			"offsets": {
+				"from": 1477500,
+				"to": 1508110
+			},
+			"text": " And that, and that's why I think this word system is so important because you can't have a healthy system if, if, uh, the, the workers, the farm workers, the, uh, truck drivers who are transporting the food, the, the processors who are processing it aren't themselves healthy or, uh, given, uh, a workplace where they're given real dignity or have protections on the job from work."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,130",
+				"to": "00:25:13,050"
+			},
+			"offsets": {
+				"from": 1508130,
+				"to": 1513050
+			},
+			"text": " So, uh, similarly, you can't have a healthy food system if, uh, you know, the workers are protected and the food is good for the eater."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,050",
+				"to": "00:25:21,670"
+			},
+			"offsets": {
+				"from": 1513050,
+				"to": 1521670
+			},
+			"text": " Uh, uh, the climate is, uh, the climate is despoiled in the process of producing that food."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,830",
+				"to": "00:25:31,630"
+			},
+			"offsets": {
+				"from": 1521830,
+				"to": 1531630
+			},
+			"text": " And, and, and similarly, you can't have a healthy food system if, you know, so yes, the eaters might be healthy and the climate might, and the environment might be protected and the workers might be protected."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,630",
+				"to": "00:25:41,270"
+			},
+			"offsets": {
+				"from": 1531630,
+				"to": 1541270
+			},
+			"text": " But if you're exploiting, uh, animals in the practice of getting that food to your plate, if, if animals are treated inhumanely, similarly, that's not a healthy food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,690",
+				"to": "00:25:46,490"
+			},
+			"offsets": {
+				"from": 1541690,
+				"to": 1546490
+			},
+			"text": " And, and so, you know, I like to think of them as all interlocking parts."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,990",
+				"to": "00:26:00,120"
+			},
+			"offsets": {
+				"from": 1546990,
+				"to": 1560120
+			},
+			"text": " And, uh, what is encouraging is that so often when you get each of those pieces in the system, right, it has a ripple effect that improves other parts of the system."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,120",
+				"to": "00:26:07,500"
+			},
+			"offsets": {
+				"from": 1560120,
+				"to": 1567500
+			},
+			"text": " And so, for instance, a lot of the work I do is with, uh, food worker organizations, um, who work along the food chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,840",
+				"to": "00:26:21,520"
+			},
+			"offsets": {
+				"from": 1567840,
+				"to": 1581520
+			},
+			"text": " And one of the arguments I make is if you look at what is good, for instance, for a, a worker in a meat processing plant, what's good for that worker on the floor of that meat processing plant is a slower, a slower line."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,520",
+				"to": "00:26:29,900"
+			},
+			"offsets": {
+				"from": 1581520,
+				"to": 1589900
+			},
+			"text": " So they're not having to repeat the same practices at a, such a speed that ultimately is totally damaging to their bodies."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,240",
+				"to": "00:26:44,720"
+			},
+			"offsets": {
+				"from": 1590240,
+				"to": 1604720
+			},
+			"text": " Uh, what's also, you know, good for them, for that worker is a plant that is handling its waste in a way that protects the worker from, uh, uh, fumes or off gases, uh, that protects the workers, uh, in, in those ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,800",
+				"to": "00:26:51,350"
+			},
+			"offsets": {
+				"from": 1604800,
+				"to": 1611350
+			},
+			"text": " So I could go down the line with all of these, these practices that would need to change in a meat processing plant that would be good for a worker."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:51,690",
+				"to": "00:27:01,290"
+			},
+			"offsets": {
+				"from": 1611690,
+				"to": 1621290
+			},
+			"text": " And almost every single one of those practices are also going to increase the level of, uh, of animal welfare that you see in that operation."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,290",
+				"to": "00:27:10,550"
+			},
+			"offsets": {
+				"from": 1621290,
+				"to": 1630550
+			},
+			"text": " If you slow down line speeds, if you're handling the waste better, if you're, um, improving those practices for workers, it also has that improvement for the, for animal welfare as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,550",
+				"to": "00:27:21,730"
+			},
+			"offsets": {
+				"from": 1630550,
+				"to": 1641730
+			},
+			"text": " As well as for, for, for, for the human health that it decreases the amount of, uh, the likelihood of a foodborne illness, for instance, uh, that could be impacting a consumer at the end of the chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,730",
+				"to": "00:27:35,090"
+			},
+			"offsets": {
+				"from": 1641730,
+				"to": 1655090
+			},
+			"text": " So, um, so, so, so, so often what's great is that when you start looking at food as a system and solution systemically, they have a ripple effect and a co-benefit across the solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,290",
+				"to": "00:27:45,120"
+			},
+			"offsets": {
+				"from": 1655290,
+				"to": 1665120
+			},
+			"text": " Yeah. And I think, you know, there's been, I'm thinking about around 2008 when there was this whole vote with your fork kind of idea."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,540",
+				"to": "00:27:56,640"
+			},
+			"offsets": {
+				"from": 1665540,
+				"to": 1676640
+			},
+			"text": " And I think what quickly happened with that idea was that people realized that because of these interlocking systems, there was no way to just vote with your fork as a consumer, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,780",
+				"to": "00:27:59,390"
+			},
+			"offsets": {
+				"from": 1676780,
+				"to": 1679390
+			},
+			"text": " All these things got complicated."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,390",
+				"to": "00:28:27,100"
+			},
+			"offsets": {
+				"from": 1679390,
+				"to": 1707100
+			},
+			"text": " Right. And I, I think this is where I, I get concerned that sometimes my message gets, uh, misconstrued in the game of telephone that is sometimes, uh, our, our media, which is that I think that we are, are not going to fix our, our broken food system through acting solely as consumers."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,100",
+				"to": "00:28:32,020"
+			},
+			"offsets": {
+				"from": 1707100,
+				"to": 1712020
+			},
+			"text": " And, and only as you say, voting with our fork, there's a lot of reasons why that's the case."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,020",
+				"to": "00:28:51,680"
+			},
+			"offsets": {
+				"from": 1712020,
+				"to": 1731680
+			},
+			"text": " I think one of them is that for that it, there are so many consumers, if that's your frame that we need to vote with your fork, there are so many consumers that I would describe as then disenfranchised eaters that they cannot vote with their fork because a, they don't have access to the kind of food that they would want to support with their food dollars."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,680",
+				"to": "00:29:06,980"
+			},
+			"offsets": {
+				"from": 1731680,
+				"to": 1746980
+			},
+			"text": " It's not in their communities. It's not in their grocery stores. Um, secondly, you have a lot of consumers who, who don't have the, um, who, who don't have the income to be making different choices about what, what they're spending, uh, food on."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,980",
+				"to": "00:29:15,050"
+			},
+			"offsets": {
+				"from": 1746980,
+				"to": 1755050
+			},
+			"text": " So you're talking about if you're only limited, if you're only saying to people, Hey, how you can make change in the system is by what you purchase."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,050",
+				"to": "00:29:25,130"
+			},
+			"offsets": {
+				"from": 1755050,
+				"to": 1765130
+			},
+			"text": " You're shutting out millions of people from, from being part of the change and you're really limiting, uh, your understanding of how change happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,130",
+				"to": "00:29:38,410"
+			},
+			"offsets": {
+				"from": 1765130,
+				"to": 1778410
+			},
+			"text": " It doesn't just happen in a marketplace. We need advocates that are, uh, are pushing corporations in, uh, really powerful ways to change their supply chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,410",
+				"to": "00:29:41,390"
+			},
+			"offsets": {
+				"from": 1778410,
+				"to": 1781390
+			},
+			"text": " It doesn't just happen at the cash register at the grocery store."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,510",
+				"to": "00:29:50,970"
+			},
+			"offsets": {
+				"from": 1781510,
+				"to": 1790970
+			},
+			"text": " Yeah. Thanks. Thanks for saying that. Cause I think, I think one of the big criticisms of the food movement is, um, oftentimes that it's really elitist, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:50,970",
+				"to": "00:30:07,730"
+			},
+			"offsets": {
+				"from": 1790970,
+				"to": 1807730
+			},
+			"text": " And that it does exclude these huge swaths of people and, and the world. Right. So, well, and I think that that's, to me, I, I always find myself getting, uh, frustrated when I hear that depiction of the food movement, because that isn't the food movement that I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,730",
+				"to": "00:30:20,760"
+			},
+			"offsets": {
+				"from": 1807730,
+				"to": 1820760
+			},
+			"text": " It's not the food movement that I see or work with. Uh, I think some of that, you know, not to say that that isn't, there isn't some truth to that, but I feel like that is, uh, another example of how the media has mischaracterized"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,760",
+				"to": "00:30:33,610"
+			},
+			"offsets": {
+				"from": 1820760,
+				"to": 1833610
+			},
+			"text": " What I think, um, this broader food movement as I see it stands for. Because when I see and think about the groups that are part of my definition of the food movement, um, it's so much broader than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,610",
+				"to": "00:30:39,030"
+			},
+			"offsets": {
+				"from": 1833610,
+				"to": 1839030
+			},
+			"text": " And I see the food movement as, as really, uh, human, part of the human rights movement and part of the environmental movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,030",
+				"to": "00:30:52,110"
+			},
+			"offsets": {
+				"from": 1839030,
+				"to": 1852110
+			},
+			"text": " And I see some of the best leaders in the food movement are those representing farm workers, those representing, uh, uh, uh, communities that are, uh, uh, are not getting access to, to healthy food."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,190",
+				"to": "00:31:02,140"
+			},
+			"offsets": {
+				"from": 1852190,
+				"to": 1862140
+			},
+			"text": " You know, I don't, I don't, I don't, I don't think of, you know, that wealthy, uh, whole foods grocery shopper as synonymous with the food movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,140",
+				"to": "00:31:07,160"
+			},
+			"offsets": {
+				"from": 1862140,
+				"to": 1867160
+			},
+			"text": " Um, the movement is really happening at that grassroots level and it's very diverse."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,220",
+				"to": "00:31:08,780"
+			},
+			"offsets": {
+				"from": 1867220,
+				"to": 1868780
+			},
+			"text": " It's multifaceted."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,780",
+				"to": "00:31:12,700"
+			},
+			"offsets": {
+				"from": 1868780,
+				"to": 1872700
+			},
+			"text": " It's really working at all these different entry points in the system."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,340",
+				"to": "00:31:30,910"
+			},
+			"offsets": {
+				"from": 1873340,
+				"to": 1890910
+			},
+			"text": " And, and that's the food movement that I get inspired by and that I see and that I try to amplify and, um, uh, and, and showcase, uh, to, to, to really help disabuse people of that myth that the food movement, you know, are just rich people who care too much about the provenance of their wine."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,310",
+				"to": "00:31:32,760"
+			},
+			"offsets": {
+				"from": 1891310,
+				"to": 1892760
+			},
+			"text": " Yeah, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,180",
+				"to": "00:31:41,580"
+			},
+			"offsets": {
+				"from": 1893180,
+				"to": 1901580
+			},
+			"text": " And I think, um, you know, anyone who does work in the food movement quickly runs into all the rest of those places, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,700",
+				"to": "00:31:51,400"
+			},
+			"offsets": {
+				"from": 1901700,
+				"to": 1911400
+			},
+			"text": " So would you mind just walking, you know, naming a few of those examples for people who may not know what those grass movements are or some of the kinds of work that they do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,800",
+				"to": "00:31:52,020"
+			},
+			"offsets": {
+				"from": 1911800,
+				"to": 1912020
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,140",
+				"to": "00:31:59,620"
+			},
+			"offsets": {
+				"from": 1912140,
+				"to": 1919620
+			},
+			"text": " So one of the groups I've been working a lot with that I've just really come to respect so much is a group called the Food Chain Workers Alliance."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,620",
+				"to": "00:32:16,080"
+			},
+			"offsets": {
+				"from": 1919620,
+				"to": 1936080
+			},
+			"text": " It started about five years ago and the idea behind it is that, you know, as we've been saying, food is a system, uh, there is a food chain that goes from, you know, from field to plate and there are workers at every point along that food chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:16,080",
+				"to": "00:32:31,020"
+			},
+			"offsets": {
+				"from": 1936080,
+				"to": 1951020
+			},
+			"text": " And so, uh, the group, this group came together to say, you know, could we be stronger together if we brought together worker member organizations from the point of, uh, of the field to all the way to restaurant workers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:31,440",
+				"to": "00:32:35,520"
+			},
+			"offsets": {
+				"from": 1951440,
+				"to": 1955520
+			},
+			"text": " And could we, uh, come up with campaigns that we could work on together?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,740",
+				"to": "00:32:38,740"
+			},
+			"offsets": {
+				"from": 1955740,
+				"to": 1958740
+			},
+			"text": " Could we share lessons learned across our experiences?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,080",
+				"to": "00:32:43,120"
+			},
+			"offsets": {
+				"from": 1959080,
+				"to": 1963120
+			},
+			"text": " Could we help amplify our stories by working together?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,820",
+				"to": "00:32:54,060"
+			},
+			"offsets": {
+				"from": 1963820,
+				"to": 1974060
+			},
+			"text": " And, uh, they've grown to, I think by latest count, they have 23 worker member organizations that are now part of the Alliance representing hundreds of thousands of members."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,060",
+				"to": "00:32:57,920"
+			},
+			"offsets": {
+				"from": 1974060,
+				"to": 1977920
+			},
+			"text": " So that's a great example to me of one of those coalition groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,120",
+				"to": "00:33:02,530"
+			},
+			"offsets": {
+				"from": 1979120,
+				"to": 1982530
+			},
+			"text": " Is that your project that you've been involved with called Voices of a Food Chain?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,360",
+				"to": "00:33:05,220"
+			},
+			"offsets": {
+				"from": 1983360,
+				"to": 1985220
+			},
+			"text": " Is that, are those related to each other?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,220",
+				"to": "00:33:07,040"
+			},
+			"offsets": {
+				"from": 1985220,
+				"to": 1987040
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,140",
+				"to": "00:33:19,630"
+			},
+			"offsets": {
+				"from": 1987140,
+				"to": 1999630
+			},
+			"text": " So Voices of the Food Chain is a project that Real Food Media, the group that I run, uh, created with Food Chain Workers Alliance with this idea that we really wanted to amplify the voices of workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,950",
+				"to": "00:33:25,010"
+			},
+			"offsets": {
+				"from": 1999950,
+				"to": 2005010
+			},
+			"text": " So we partnered with the Alliance and with a wonderful organization called StoryCorps."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:25,370",
+				"to": "00:33:29,120"
+			},
+			"offsets": {
+				"from": 2005370,
+				"to": 2009120
+			},
+			"text": " Uh, some of your listeners might be listeners of StoryCorps as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,240",
+				"to": "00:33:35,160"
+			},
+			"offsets": {
+				"from": 2009240,
+				"to": 2015160
+			},
+			"text": " Really, uh, beautiful project that captures the voices of people all across the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,160",
+				"to": "00:33:45,350"
+			},
+			"offsets": {
+				"from": 2015160,
+				"to": 2025350
+			},
+			"text": " And, uh, so I wanted to capture the voices of workers and we brought StoryCorps to an Alliance, uh, meeting and, and help those workers share their stories with each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:45,350",
+				"to": "00:33:51,450"
+			},
+			"offsets": {
+				"from": 2025350,
+				"to": 2031450
+			},
+			"text": " And then created Voices of the Food Chain dot com to, to showcase those stories and have done other work through that project."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,750",
+				"to": "00:33:57,730"
+			},
+			"offsets": {
+				"from": 2031750,
+				"to": 2037730
+			},
+			"text": " But it, it, to me, I feel like the food worker voice is, is one of the missing voices."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,730",
+				"to": "00:33:59,510"
+			},
+			"offsets": {
+				"from": 2037730,
+				"to": 2039510
+			},
+			"text": " We don't hear enough from food workers."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,810",
+				"to": "00:34:11,220"
+			},
+			"offsets": {
+				"from": 2039810,
+				"to": 2051220
+			},
+			"text": " And if we listen to their voices and heard their voices, I think we would learn so much more about what changes are needed to really create a more sustainable food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,400",
+				"to": "00:34:15,570"
+			},
+			"offsets": {
+				"from": 2051400,
+				"to": 2055570
+			},
+			"text": " So I'm very passionate about getting their voices into, into the mainstream."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,900",
+				"to": "00:34:24,260"
+			},
+			"offsets": {
+				"from": 2055900,
+				"to": 2064260
+			},
+			"text": " That's exciting for me because tomorrow I'm interviewing Saru Jayaraman about, um, her new book, Forked."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,720",
+				"to": "00:34:24,900"
+			},
+			"offsets": {
+				"from": 2064720,
+				"to": 2064900
+			},
+			"text": " Great."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,000",
+				"to": "00:34:40,980"
+			},
+			"offsets": {
+				"from": 2065000,
+				"to": 2080980
+			},
+			"text": " She, you know, she works with restaurant workers and I think a lot, um, for me, there's so much that stands out about this kind of choral representation of voices in, in a food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,980",
+				"to": "00:34:41,420"
+			},
+			"offsets": {
+				"from": 2080980,
+				"to": 2081420
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,540",
+				"to": "00:34:51,620"
+			},
+			"offsets": {
+				"from": 2081540,
+				"to": 2091620
+			},
+			"text": " When you, I listened to just a few of those from Voices of the Food Chain and I thought about how many, how many of these people we actually know, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,640",
+				"to": "00:34:53,320"
+			},
+			"offsets": {
+				"from": 2091640,
+				"to": 2093320
+			},
+			"text": " And interact with all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,320",
+				"to": "00:34:57,910"
+			},
+			"offsets": {
+				"from": 2093320,
+				"to": 2097910
+			},
+			"text": " And it kind of becomes impossible to see them as other in this process."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,910",
+				"to": "00:34:58,820"
+			},
+			"offsets": {
+				"from": 2097910,
+				"to": 2098820
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,940",
+				"to": "00:35:05,180"
+			},
+			"offsets": {
+				"from": 2098940,
+				"to": 2105180
+			},
+			"text": " And you're talking about 20 million people who are workers in the food system in the United States alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,900",
+				"to": "00:35:11,360"
+			},
+			"offsets": {
+				"from": 2105900,
+				"to": 2111360
+			},
+			"text": " And they are consistently the most underpaid and exploited workers in the economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,940",
+				"to": "00:35:15,680"
+			},
+			"offsets": {
+				"from": 2111940,
+				"to": 2115680
+			},
+			"text": " Seven of the 10 lowest paying jobs in this country are in the food sector."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,820",
+				"to": "00:35:21,600"
+			},
+			"offsets": {
+				"from": 2115820,
+				"to": 2121600
+			},
+			"text": " And as you'll hear from Saru, who is a founder of the Restaurant Opportunity Center, many of those are in the restaurant industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,120",
+				"to": "00:35:41,320"
+			},
+			"offsets": {
+				"from": 2122120,
+				"to": 2141320
+			},
+			"text": " So you're talking about some of the most underpaid workers and so if you're, you're thinking about how do you address hunger in this country, how do you address poverty in this country, talking about paying food workers better and having their benefits restored is a really key part of that conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,480",
+				"to": "00:35:51,340"
+			},
+			"offsets": {
+				"from": 2141480,
+				"to": 2151340
+			},
+			"text": " And so food workers, as you've discussed a little bit, go all the way from farmers and people who work in fields to the people who serve your food at a restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:52,130",
+				"to": "00:36:11,160"
+			},
+			"offsets": {
+				"from": 2152130,
+				"to": 2171160
+			},
+			"text": " Right. And what we're seeing in the American diet is this huge shift, a real radical shift in where we get our food, where we're eating it, what we're eating from 50, 60 years ago when most of the food we consumed, we consumed in our homes that we made ourselves to today."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,160",
+				"to": "00:36:18,020"
+			},
+			"offsets": {
+				"from": 2171160,
+				"to": 2178020
+			},
+			"text": " We've just inched over the 50 percent mark where now the little bit more of the majority of our food we're eating out."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,140",
+				"to": "00:36:34,370"
+			},
+			"offsets": {
+				"from": 2178140,
+				"to": 2194370
+			},
+			"text": " We're either eating out at quick serve restaurants or fast food restaurants or increasingly grocery stores are becoming semi-restaurants with pre, I'm sorry, grocery stores are becoming, you know, kind of these semi-restaurants where they have prepared foods that people are buying and eating."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,830",
+				"to": "00:36:47,650"
+			},
+			"offsets": {
+				"from": 2194830,
+				"to": 2207650
+			},
+			"text": " So this is why you see the food sector as this really important sector to be addressing for both food access issues, sustainability issues, and worker welfare issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,460",
+				"to": "00:36:55,540"
+			},
+			"offsets": {
+				"from": 2209460,
+				"to": 2215540
+			},
+			"text": " Yeah. I had no idea about that statistic. That's an enormous amount of food that's eaten out."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,540",
+				"to": "00:37:15,000"
+			},
+			"offsets": {
+				"from": 2215540,
+				"to": 2235000
+			},
+			"text": " Yeah. And it's really, yeah, it changes our relationship to food and is one of the reasons why you see the spike in diet-related illnesses is because so much of that food we're eating outside of our homes has added sugars, added salt, has very high fat."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,500",
+				"to": "00:37:32,770"
+			},
+			"offsets": {
+				"from": 2235500,
+				"to": 2252770
+			},
+			"text": " And so thinking about how do we improve the healthfulness of those foods and how do we also get people to still be eating in their homes and preparing their own foods, cooking their own foods."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,920",
+				"to": "00:37:40,080"
+			},
+			"offsets": {
+				"from": 2253920,
+				"to": 2260080
+			},
+			"text": " So let's talk about quickly your myth-busting project and how that relates to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,160",
+				"to": "00:37:42,560"
+			},
+			"offsets": {
+				"from": 2260160,
+				"to": 2262560
+			},
+			"text": " Does that address every aspect of the food system?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:43,370",
+				"to": "00:37:56,350"
+			},
+			"offsets": {
+				"from": 2263370,
+				"to": 2276350
+			},
+			"text": " So foodmyths.org is our Food Mythbusters project, and we've done two myth-busting videos so far taking on two aspects of some of the biggest myths I see out there that are being pushed by the food industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,170",
+				"to": "00:38:04,610"
+			},
+			"offsets": {
+				"from": 2277170,
+				"to": 2284610
+			},
+			"text": " And one is this myth that we need chemical agriculture and genetically engineered foods to feed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,170",
+				"to": "00:38:13,710"
+			},
+			"offsets": {
+				"from": 2285170,
+				"to": 2293710
+			},
+			"text": " It's a very persistent myth. I hear it all the time when I speak to audiences about sustainable food, organic farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,710",
+				"to": "00:38:23,580"
+			},
+			"offsets": {
+				"from": 2293710,
+				"to": 2303580
+			},
+			"text": " One of the most frequent questions I hear is, but Anna, can we really feed the world using organic farming practices or using sustainable practices?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,340",
+				"to": "00:38:44,210"
+			},
+			"offsets": {
+				"from": 2304340,
+				"to": 2324210
+			},
+			"text": " And it struck me that this question that comes up so often is the myth that is put out there by the public relations firms hired by some of the biggest agrochemical companies in the world and grain traders in the world and the companies that are benefiting from the status quo."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,210",
+				"to": "00:38:57,870"
+			},
+			"offsets": {
+				"from": 2324210,
+				"to": 2337870
+			},
+			"text": " So I really wanted to take that myth on and create a video that helps people debunk that myth themselves and then be able to debunk it when they're talking to their cousins or their fellow students or their teachers."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,530",
+				"to": "00:39:15,420"
+			},
+			"offsets": {
+				"from": 2338530,
+				"to": 2355420
+			},
+			"text": " Because if we can't upend that myth, I think we are so limited in what we're able to argue because no one, no one wants to feel that the kind of food system they're promoting would cause hunger in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:15,420",
+				"to": "00:39:31,820"
+			},
+			"offsets": {
+				"from": 2355420,
+				"to": 2371820
+			},
+			"text": " And so I find a lot of people are reticent to embrace organic farming as a solution, as a global solution, because they fear that there might be this ramification that it might cause hunger and nothing could be farther from the truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,140",
+				"to": "00:39:40,640"
+			},
+			"offsets": {
+				"from": 2372140,
+				"to": 2380640
+			},
+			"text": " And there's a lot of reasons why it's a myth that it's a myth that it's a myth that is so easy to debunk."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,080",
+				"to": "00:39:43,400"
+			},
+			"offsets": {
+				"from": 2381080,
+				"to": 2383400
+			},
+			"text": " And again, it's so important to do so."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,860",
+				"to": "00:39:46,000"
+			},
+			"offsets": {
+				"from": 2385860,
+				"to": 2386000
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,120",
+				"to": "00:39:49,990"
+			},
+			"offsets": {
+				"from": 2386120,
+				"to": 2389990
+			},
+			"text": " And it comes from it's a big myth to debunk, though, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,270",
+				"to": "00:39:51,190"
+			},
+			"offsets": {
+				"from": 2390270,
+				"to": 2391190
+			},
+			"text": " Oh, it's huge."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,330",
+				"to": "00:39:54,750"
+			},
+			"offsets": {
+				"from": 2391330,
+				"to": 2394750
+			},
+			"text": " I mean, it's the myth my mom has been trying to debunk for four decades."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:55,250",
+				"to": "00:40:00,150"
+			},
+			"offsets": {
+				"from": 2395250,
+				"to": 2400150
+			},
+			"text": " But the reason why it is so hard to debunk isn't because the evidence is on our side."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:00,370",
+				"to": "00:40:09,690"
+			},
+			"offsets": {
+				"from": 2400370,
+				"to": 2409690
+			},
+			"text": " It's because there is such a profit to be made in the status quo."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:09,830",
+				"to": "00:40:25,890"
+			},
+			"offsets": {
+				"from": 2409830,
+				"to": 2425890
+			},
+			"text": " There are such interests aligned with having us believe that we need this chemical arsenal in order to feed the world, that we need to be using these genetically engineered seeds to feed the world, that we need synthetic fertilizer to feed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,890",
+				"to": "00:40:40,290"
+			},
+			"offsets": {
+				"from": 2425890,
+				"to": 2440290
+			},
+			"text": " You're talking about billions and billions of dollars at stake, that there's a powerful vested interest in keeping us believing that we need these practices when the science increasingly shows."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,430",
+				"to": "00:40:44,730"
+			},
+			"offsets": {
+				"from": 2440430,
+				"to": 2444730
+			},
+			"text": " And this is, again, people have been trying to up in this myth for decades."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:44,730",
+				"to": "00:41:09,860"
+			},
+			"offsets": {
+				"from": 2444730,
+				"to": 2469860
+			},
+			"text": " And increasingly, there is scientific evidence that shows that farming solutions that help farmers get rid of their chemicals, get rid of those petrochemicals and the toxic chemicals used on the field, farming solutions that get farmers to build up their fertility with the ecology of the farm,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,860",
+				"to": "00:41:24,740"
+			},
+			"offsets": {
+				"from": 2469860,
+				"to": 2484740
+			},
+			"text": " not with synthetic fertilizers that they have to buy and spend a lot of money on and that incredibly energy intensive to produce, that those are the solutions that not only create great productivity at the farm level, but they're also economically great for farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:24,740",
+				"to": "00:41:35,590"
+			},
+			"offsets": {
+				"from": 2484740,
+				"to": 2495590
+			},
+			"text": " Because you're not actually having to be dependent on buying chemicals or buying fertilizer or buying seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,010",
+				"to": "00:41:46,320"
+			},
+			"offsets": {
+				"from": 2496010,
+				"to": 2506320
+			},
+			"text": " A farmer, especially a cash-strapped farmer in the developing world, is able to resource its farm itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,840",
+				"to": "00:41:48,520"
+			},
+			"offsets": {
+				"from": 2506840,
+				"to": 2508520
+			},
+			"text": " And that is powerful stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:48,520",
+				"to": "00:42:00,060"
+			},
+			"offsets": {
+				"from": 2508520,
+				"to": 2520060
+			},
+			"text": " And again, in the decades since my mother and her colleagues have been working to take on this myth, there's been just increasing evidence of the power of these sustainable solutions."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:00,600",
+				"to": "00:42:06,200"
+			},
+			"offsets": {
+				"from": 2520600,
+				"to": 2526200
+			},
+			"text": " She just released a new edition of her book, World Hunger, 10 Myths."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,200",
+				"to": "00:42:18,150"
+			},
+			"offsets": {
+				"from": 2526200,
+				"to": 2538150
+			},
+			"text": " And I highly recommend it as kind of the textbook if you're going to read one book about hunger in the world and how do we take it on and how do we solve it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,150",
+				"to": "00:42:34,350"
+			},
+			"offsets": {
+				"from": 2538150,
+				"to": 2554350
+			},
+			"text": " World Hunger, 10 Myths is the best resource out there and really goes into depth with some of the best peer-reviewed studies, the best research out there to really show the power of sustainable solutions and why we need to take this myth on."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:36,130",
+				"to": "00:42:38,010"
+			},
+			"offsets": {
+				"from": 2556130,
+				"to": 2558010
+			},
+			"text": " Right. I'm so glad that you mentioned that."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,130",
+				"to": "00:42:39,410"
+			},
+			"offsets": {
+				"from": 2558130,
+				"to": 2559410
+			},
+			"text": " That's a good resource for people."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,120",
+				"to": "00:42:48,490"
+			},
+			"offsets": {
+				"from": 2560120,
+				"to": 2568490
+			},
+			"text": " So maybe let's finish up by having you tell me about Real Food Media and what the idea behind that is and what you're doing with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:48,490",
+				"to": "00:43:00,880"
+			},
+			"offsets": {
+				"from": 2568490,
+				"to": 2580880
+			},
+			"text": " Real Food Media is a project I started several years ago with a coalition of groups working on food system change from a variety of entry points that we've been discussing today."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:01,240",
+				"to": "00:43:06,320"
+			},
+			"offsets": {
+				"from": 2581240,
+				"to": 2586320
+			},
+			"text": " Groups that come at it from the environmental perspective or the worker justice perspective or the public health perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,020",
+				"to": "00:43:34,090"
+			},
+			"offsets": {
+				"from": 2587020,
+				"to": 2614090
+			},
+			"text": " And our idea behind Real Food Media was to create an initiative that would really help communicate the stories of solutions and communicate these myth-busting messages to really help promote the power of sustainable food and farming and to really help engage people with how they could be part of the movement, how they could be part of really shifting the food system toward more justice and more sustainability."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:34,410",
+				"to": "00:43:38,120"
+			},
+			"offsets": {
+				"from": 2614410,
+				"to": 2618120
+			},
+			"text": " So we've done it through this work through a couple of different ways since we started."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:38,120",
+				"to": "00:43:50,200"
+			},
+			"offsets": {
+				"from": 2618120,
+				"to": 2630200
+			},
+			"text": " We have an international short films competition called Real Food Films that showcases the best of the crop every year of contributed films."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:50,340",
+				"to": "00:43:59,860"
+			},
+			"offsets": {
+				"from": 2630340,
+				"to": 2639860
+			},
+			"text": " We have 10 films every year that we promote as part of our pop-up film festivals that anybody in the world can host and show in their community."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,120",
+				"to": "00:44:12,270"
+			},
+			"offsets": {
+				"from": 2640120,
+				"to": 2652270
+			},
+			"text": " We have about 80 films now in our film library all under four minutes on a range of topics that any educator can use, any community can use in workshops, in classrooms, in conferences."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:12,950",
+				"to": "00:44:21,450"
+			},
+			"offsets": {
+				"from": 2652950,
+				"to": 2661450
+			},
+			"text": " So Real Food Films is our attempt to catalyze creative short films and then to share those films and distribute them widely through partners around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:22,320",
+				"to": "00:44:27,580"
+			},
+			"offsets": {
+				"from": 2662320,
+				"to": 2667580
+			},
+			"text": " And then we mentioned Food Mythbusters, that's our work to really take on big myths in the food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,940",
+				"to": "00:44:33,060"
+			},
+			"offsets": {
+				"from": 2667940,
+				"to": 2673060
+			},
+			"text": " And our other work is these creative partnerships that we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:33,220",
+				"to": "00:44:35,100"
+			},
+			"offsets": {
+				"from": 2673220,
+				"to": 2675100
+			},
+			"text": " So one was the Voices of the Food Chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,480",
+				"to": "00:44:48,660"
+			},
+			"offsets": {
+				"from": 2675480,
+				"to": 2688660
+			},
+			"text": " We're also working on a new project with the partners at the Center for Good Food Purchasing to help pass the good food purchasing policy in cities across the country and helping them with their storytelling and communications."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,090",
+				"to": "00:45:01,580"
+			},
+			"offsets": {
+				"from": 2690090,
+				"to": 2701580
+			},
+			"text": " And we do a lot of other public education, all, we hope, really part of helping to strengthen the food movement and helping inspire more people to get involved."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,900",
+				"to": "00:45:04,240"
+			},
+			"offsets": {
+				"from": 2702900,
+				"to": 2704240
+			},
+			"text": " Wonderful. That's really important."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:04,780",
+				"to": "00:45:06,340"
+			},
+			"offsets": {
+				"from": 2704780,
+				"to": 2706340
+			},
+			"text": " How can we follow along with that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,060",
+				"to": "00:45:08,010"
+			},
+			"offsets": {
+				"from": 2707060,
+				"to": 2708010
+			},
+			"text": " It's very easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:08,170",
+				"to": "00:45:09,350"
+			},
+			"offsets": {
+				"from": 2708170,
+				"to": 2709350
+			},
+			"text": " You can go to Real Food Media."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,010",
+				"to": "00:45:12,950"
+			},
+			"offsets": {
+				"from": 2710010,
+				"to": 2712950
+			},
+			"text": " We have lots of ways to follow our work there."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:13,410",
+				"to": "00:45:15,460"
+			},
+			"offsets": {
+				"from": 2713410,
+				"to": 2715460
+			},
+			"text": " I'm on Twitter at Anna LaPay."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:15,460",
+				"to": "00:45:20,480"
+			},
+			"offsets": {
+				"from": 2715460,
+				"to": 2720480
+			},
+			"text": " You can also check out our movies at realfoodfilms.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:20,940",
+				"to": "00:45:24,680"
+			},
+			"offsets": {
+				"from": 2720940,
+				"to": 2724680
+			},
+			"text": " And if you want to host your own pop-up, we highly recommend it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:24,760",
+				"to": "00:45:25,820"
+			},
+			"offsets": {
+				"from": 2724760,
+				"to": 2725820
+			},
+			"text": " They're really fun to host."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:25,960",
+				"to": "00:45:26,360"
+			},
+			"offsets": {
+				"from": 2725960,
+				"to": 2726360
+			},
+			"text": " They're free."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:26,680",
+				"to": "00:45:29,420"
+			},
+			"offsets": {
+				"from": 2726680,
+				"to": 2729420
+			},
+			"text": " And you can go to realfoodfilms.org to find out more about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:30,180",
+				"to": "00:45:30,460"
+			},
+			"offsets": {
+				"from": 2730180,
+				"to": 2730460
+			},
+			"text": " Wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,080",
+				"to": "00:45:33,340"
+			},
+			"offsets": {
+				"from": 2731080,
+				"to": 2733340
+			},
+			"text": " Well, thanks so much for taking the time today."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:33,420",
+				"to": "00:45:34,920"
+			},
+			"offsets": {
+				"from": 2733420,
+				"to": 2734920
+			},
+			"text": " It's been really wonderful to talk to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:35,230",
+				"to": "00:45:36,330"
+			},
+			"offsets": {
+				"from": 2735230,
+				"to": 2736330
+			},
+			"text": " Oh, thank you so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,370",
+				"to": "00:45:37,070"
+			},
+			"offsets": {
+				"from": 2736370,
+				"to": 2737070
+			},
+			"text": " It's been really fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,680",
+				"to": "00:45:53,320"
+			},
+			"offsets": {
+				"from": 2741680,
+				"to": 2753320
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:53,520",
+				"to": "00:45:59,140"
+			},
+			"offsets": {
+				"from": 2753520,
+				"to": 2759140
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:59,450",
+				"to": "00:46:00,340"
+			},
+			"offsets": {
+				"from": 2759450,
+				"to": 2760340
+			},
+			"text": " What's your food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:00,620",
+				"to": "00:46:01,980"
+			},
+			"offsets": {
+				"from": 2760620,
+				"to": 2761980
+			},
+			"text": " Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:03,180",
+				"to": "00:46:04,340"
+			},
+			"offsets": {
+				"from": 2763180,
+				"to": 2764340
+			},
+			"text": " DeliciousRevolutionShow.com"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:04,340",
+				"to": "00:46:08,900"
+			},
+			"offsets": {
+				"from": 2764340,
+				"to": 2768900
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:09,270",
+				"to": "00:46:11,990"
+			},
+			"offsets": {
+				"from": 2769270,
+				"to": 2771990
+			},
+			"text": " Produced by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:12,450",
+				"to": "00:46:16,990"
+			},
+			"offsets": {
+				"from": 2772450,
+				"to": 2776990
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:17,500",
+				"to": "00:46:20,440"
+			},
+			"offsets": {
+				"from": 2777500,
+				"to": 2780440
+			},
+			"text": " If you have a food story of your own, we'd love to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:20,680",
+				"to": "00:46:25,540"
+			},
+			"offsets": {
+				"from": 2780680,
+				"to": 2785540
+			},
+			"text": " Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:25,980",
+				"to": "00:46:28,940"
+			},
+			"offsets": {
+				"from": 2785980,
+				"to": 2788940
+			},
+			"text": " Of course, you can get in touch with us in lots of different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:28,940",
+				"to": "00:46:32,540"
+			},
+			"offsets": {
+				"from": 2788940,
+				"to": 2792540
+			},
+			"text": " And they are all on the website, DeliciousRevolutionShow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:33,100",
+				"to": "00:46:37,660"
+			},
+			"offsets": {
+				"from": 2793100,
+				"to": 2797660
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:37,960",
+				"to": "00:46:42,240"
+			},
+			"offsets": {
+				"from": 2797960,
+				"to": 2802240
+			},
+			"text": " please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:42,500",
+				"to": "00:46:43,360"
+			},
+			"offsets": {
+				"from": 2802500,
+				"to": 2803360
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

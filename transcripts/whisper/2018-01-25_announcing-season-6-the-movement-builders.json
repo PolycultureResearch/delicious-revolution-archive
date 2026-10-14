@@ -1,0 +1,538 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,740",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 740,
+				"to": 9400
+			},
+			"text": " Hey, Devon Sampson here. I'm really excited to announce the sixth season of Delicious Revolution. We're calling it The Movement Builders."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:23,740"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 23740
+			},
+			"text": " Just about every one of the 50 episodes we've done so far touches on movement. I'm thinking of our conversations with farmer organizers like Katie Hackmeyer, Joy Smith, Jim Cochran, to artist organizers like Amanda Eicher, Alexa Walsh, Amy Franceschini."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,740",
+				"to": "00:00:31,730"
+			},
+			"offsets": {
+				"from": 23740,
+				"to": 31730
+			},
+			"text": " I'm thinking about activist chefs like Jessica Prentice and the People's Kitchen Collective, and activist artisans like David Asher and Sandor Katz,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,730",
+				"to": "00:00:38,730"
+			},
+			"offsets": {
+				"from": 31730,
+				"to": 38730
+			},
+			"text": " and activist restaurateurs like Emma Rosenbush. All of these, and many more that I just don't have time to call out by name here,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,730",
+				"to": "00:00:44,780"
+			},
+			"offsets": {
+				"from": 38730,
+				"to": 44780
+			},
+			"text": " make up this kind of living archive of a diverse movement around food. Listening back on these recordings,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,780",
+				"to": "00:00:52,380"
+			},
+			"offsets": {
+				"from": 44780,
+				"to": 52380
+			},
+			"text": " I feel like I'm listening in on many lifetimes of experience about building movements. And it feels to me like movement building is in the air."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,380",
+				"to": "00:01:00,380"
+			},
+			"offsets": {
+				"from": 52380,
+				"to": 60380
+			},
+			"text": " We started Delicious Revolution well before Trump and this rise of fascist politics, but like a lot of people, I think this absurd and terrifying year"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,380",
+				"to": "00:01:07,410"
+			},
+			"offsets": {
+				"from": 60380,
+				"to": 67410
+			},
+			"text": " reminded us of the importance of building strong movements. Or maybe what I want to say is it kicked me hard towards something that I already knew,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,410",
+				"to": "00:01:14,410"
+			},
+			"offsets": {
+				"from": 67410,
+				"to": 74410
+			},
+			"text": " but maybe I've forgotten a little bit. That the way to get through this, not just to survive, but to flourish despite this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,410",
+				"to": "00:01:19,410"
+			},
+			"offsets": {
+				"from": 74410,
+				"to": 79410
+			},
+			"text": " has a lot to do with building strong, diverse movements for collective liberation."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,410",
+				"to": "00:01:27,770"
+			},
+			"offsets": {
+				"from": 79410,
+				"to": 87770
+			},
+			"text": " And I have some questions about the food movement. Like, what is it? Who is it? And is it really a movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,770",
+				"to": "00:01:33,770"
+			},
+			"offsets": {
+				"from": 87770,
+				"to": 93770
+			},
+			"text": " A movement, I know, is more than just a collection of nonprofit organizations or a change in consumer preferences."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,770",
+				"to": "00:01:39,790"
+			},
+			"offsets": {
+				"from": 93770,
+				"to": 99790
+			},
+			"text": " It often feels to me like there's something more to this thing that we call the food movement, but I'm not so sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,790",
+				"to": "00:01:43,780"
+			},
+			"offsets": {
+				"from": 99790,
+				"to": 103780
+			},
+			"text": " And to be honest, I've never been quite sure if I'm a part of it or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,780",
+				"to": "00:01:50,100"
+			},
+			"offsets": {
+				"from": 103780,
+				"to": 110100
+			},
+			"text": " So maybe there's more important questions. Like, how do we build a movement, or maybe it's many movements,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,100",
+				"to": "00:01:55,100"
+			},
+			"offsets": {
+				"from": 110100,
+				"to": 115100
+			},
+			"text": " that are capable of bringing this fair, sustainable food system we envision into this complicated world."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,100",
+				"to": "00:02:02,220"
+			},
+			"offsets": {
+				"from": 115100,
+				"to": 122220
+			},
+			"text": " And the people we've recorded so far have such diverse approaches to making a change and such unique contributions to this vision."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,220",
+				"to": "00:02:05,220"
+			},
+			"offsets": {
+				"from": 122220,
+				"to": 125220
+			},
+			"text": " They don't all agree. I think Chelsea, my co-host, put it best."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,220",
+				"to": "00:02:11,220"
+			},
+			"offsets": {
+				"from": 125220,
+				"to": 131220
+			},
+			"text": " She says she doesn't want to be part of a movement where coming together means that we agree on everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,220",
+				"to": "00:02:14,360"
+			},
+			"offsets": {
+				"from": 131220,
+				"to": 134360
+			},
+			"text": " She doesn't want to work towards speaking with one voice."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,360",
+				"to": "00:02:18,360"
+			},
+			"offsets": {
+				"from": 134360,
+				"to": 138360
+			},
+			"text": " She wants to be part of a movement that sounds like a chorus of different voices."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,360",
+				"to": "00:02:21,610"
+			},
+			"offsets": {
+				"from": 138360,
+				"to": 141610
+			},
+			"text": " So I think it's time to take movement building head on this season."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,610",
+				"to": "00:02:26,860"
+			},
+			"offsets": {
+				"from": 141610,
+				"to": 146860
+			},
+			"text": " We'll bring you interviews with organizers and activists and get deep into what it means to build a movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,860",
+				"to": "00:02:29,890"
+			},
+			"offsets": {
+				"from": 146860,
+				"to": 149890
+			},
+			"text": " The season is going to sound a little bit different from the previous ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,890",
+				"to": "00:02:34,920"
+			},
+			"offsets": {
+				"from": 149890,
+				"to": 154920
+			},
+			"text": " Instead of producing an entire season at once and releasing an interview every couple of weeks,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,920",
+				"to": "00:02:39,920"
+			},
+			"offsets": {
+				"from": 154920,
+				"to": 159920
+			},
+			"text": " we're going to produce one episode at a time and bring you that freshly recorded episode once a month."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,920",
+				"to": "00:02:44,300"
+			},
+			"offsets": {
+				"from": 159920,
+				"to": 164300
+			},
+			"text": " I'm going to do a little less editing too, so you might notice that they sound a little bit rougher."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,300",
+				"to": "00:02:47,750"
+			},
+			"offsets": {
+				"from": 164300,
+				"to": 167750
+			},
+			"text": " I know a lot of you listening are movement builders."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,750",
+				"to": "00:02:49,750"
+			},
+			"offsets": {
+				"from": 167750,
+				"to": 169750
+			},
+			"text": " If you want to talk about movement, please get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,750",
+				"to": "00:02:52,750"
+			},
+			"offsets": {
+				"from": 169750,
+				"to": 172750
+			},
+			"text": " All our info is on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,750",
+				"to": "00:02:56,750"
+			},
+			"offsets": {
+				"from": 172750,
+				"to": 176750
+			},
+			"text": " And if you happen to be headed to Ecofarm conference this year, I'll be there."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,750",
+				"to": "00:02:57,750"
+			},
+			"offsets": {
+				"from": 176750,
+				"to": 177750
+			},
+			"text": " Please do say hi."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,750",
+				"to": "00:03:03,740"
+			},
+			"offsets": {
+				"from": 177750,
+				"to": 183740
+			},
+			"text": " And we'll be at the AAGs, the Association for American Geographers conference in New Orleans, this April too."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,740",
+				"to": "00:03:07,770"
+			},
+			"offsets": {
+				"from": 183740,
+				"to": 187770
+			},
+			"text": " We're going to start things off this season with a short interview I recorded last year"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,770",
+				"to": "00:03:12,770"
+			},
+			"offsets": {
+				"from": 187770,
+				"to": 192770
+			},
+			"text": " with farmer organizer Elizabeth Mpofu, chairperson of Zimbabwe's Smallholder Farmers Forum"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,770",
+				"to": "00:03:19,770"
+			},
+			"offsets": {
+				"from": 192770,
+				"to": 199770
+			},
+			"text": " and the general coordinator of La Via Campesina, the global network of more than 164 peasant organizations."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,770",
+				"to": "00:03:21,770"
+			},
+			"offsets": {
+				"from": 199770,
+				"to": 201770
+			},
+			"text": " She's a truly amazing organizer."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,770",
+				"to": "00:03:26,950"
+			},
+			"offsets": {
+				"from": 201770,
+				"to": 206950
+			},
+			"text": " I spoke to her about her story and about this message from a talk that stayed with me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,950",
+				"to": "00:03:28,950"
+			},
+			"offsets": {
+				"from": 206950,
+				"to": 208950
+			},
+			"text": " which I think is at the heart of what movement building is."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,950",
+				"to": "00:03:32,230"
+			},
+			"offsets": {
+				"from": 208950,
+				"to": 212230
+			},
+			"text": " She said nothing for us, without us."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,230",
+				"to": "00:03:39,230"
+			},
+			"offsets": {
+				"from": 212230,
+				"to": 219230
+			},
+			"text": " Meaning, in this case Peasant Farmers, we don't want anything done for us without us as equal participants."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,230",
+				"to": "00:03:44,540"
+			},
+			"offsets": {
+				"from": 219230,
+				"to": 224540
+			},
+			"text": " Anyway, she says it much better than I can, so look for that interview in the podcast feed soon."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,540",
+				"to": "00:03:53,890"
+			},
+			"offsets": {
+				"from": 224540,
+				"to": 233890
+			},
+			"text": " Delicious Revolution is hosted and produced by Chelsea Wills and me, Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,890",
+				"to": "00:04:00,890"
+			},
+			"offsets": {
+				"from": 233890,
+				"to": 240890
+			},
+			"text": " Find it on radio stations KWMR and KOWS in coastal California and anywhere you get podcasts."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,890",
+				"to": "00:04:07,090"
+			},
+			"offsets": {
+				"from": 240890,
+				"to": 247090
+			},
+			"text": " If you need more details on how to listen, we have them on our website, deliciousrevolutionshow.com,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,090",
+				"to": "00:04:10,270"
+			},
+			"offsets": {
+				"from": 247090,
+				"to": 250270
+			},
+			"text": " along with photos and more information about everyone we interview."
+		}
+	]
+}

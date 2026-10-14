@@ -1,0 +1,4685 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:07,590",
+				"to": "00:00:13,890"
+			},
+			"offsets": {
+				"from": 7590,
+				"to": 13890
+			},
+			"text": " One of the big problems with conventional agriculture is that low expectation that it has of farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,890",
+				"to": "00:00:31,050"
+			},
+			"offsets": {
+				"from": 13890,
+				"to": 31050
+			},
+			"text": " And that was something that farmers articulated to me, too, about why, in addition to these economic reasons, they went organic, or what they appreciated about being organic is that they felt well utilized as knowledgeable, curious analysts in their systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,050",
+				"to": "00:00:36,520"
+			},
+			"offsets": {
+				"from": 31050,
+				"to": 36520
+			},
+			"text": " They were able to engage with their systems in a much more dynamic, rewarding way."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,520",
+				"to": "00:01:06,270"
+			},
+			"offsets": {
+				"from": 36520,
+				"to": 66270
+			},
+			"text": " And some of them had come back from other careers or from other lives to a farm and had worried that they were giving up the richness of those other lives and had found that in converting that they, you know, they got to do so many interesting things and they were learning, they were scientists, they were business people, they were all of these different things as an organic farmer that they weren't necessarily as a conventional farmer, where they were more sort of a recipe farmer."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,270",
+				"to": "00:01:12,230"
+			},
+			"offsets": {
+				"from": 66270,
+				"to": 72230
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,230",
+				"to": "00:01:13,290"
+			},
+			"offsets": {
+				"from": 72230,
+				"to": 73290
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,290",
+				"to": "00:01:14,290"
+			},
+			"offsets": {
+				"from": 73290,
+				"to": 74290
+			},
+			"text": " And I'm Devon Samson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,290",
+				"to": "00:01:21,480"
+			},
+			"offsets": {
+				"from": 74290,
+				"to": 81480
+			},
+			"text": " We talk with people who work in and think about all aspects of food, including farmers, chefs, artists, and activists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,480",
+				"to": "00:01:28,220"
+			},
+			"offsets": {
+				"from": 81480,
+				"to": 88220
+			},
+			"text": " On the second season, we bring you in-depth conversations with some amazing people who work with food in incredible ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,450",
+				"to": "00:01:32,830"
+			},
+			"offsets": {
+				"from": 88450,
+				"to": 92830
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,030",
+				"to": "00:01:35,310"
+			},
+			"offsets": {
+				"from": 93030,
+				"to": 95310
+			},
+			"text": " Just search for Delicious Revolution and you'll find us."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,310",
+				"to": "00:01:41,610"
+			},
+			"offsets": {
+				"from": 95310,
+				"to": 101610
+			},
+			"text": " Our website is deliciousrevolutionshow.com, where we have pictures, links, and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,250",
+				"to": "00:01:44,960"
+			},
+			"offsets": {
+				"from": 102250,
+				"to": 104960
+			},
+			"text": " If you have a food story of your own, we'd love to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,410",
+				"to": "00:01:50,240"
+			},
+			"offsets": {
+				"from": 105410,
+				"to": 110240
+			},
+			"text": " Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,940",
+				"to": "00:01:53,600"
+			},
+			"offsets": {
+				"from": 110940,
+				"to": 113600
+			},
+			"text": " Delicious Revolution is brought to you by Satori Travel."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,820",
+				"to": "00:01:58,680"
+			},
+			"offsets": {
+				"from": 113820,
+				"to": 118680
+			},
+			"text": " If you're a traveler, and especially if you're thinking about going to Mexico or Japan, you've got to check it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,080",
+				"to": "00:02:05,200"
+			},
+			"offsets": {
+				"from": 119080,
+				"to": 125200
+			},
+			"text": " They offer unique guidebooks, custom-tailored trips, and a concierge service for planning your next great adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,260",
+				"to": "00:02:08,370"
+			},
+			"offsets": {
+				"from": 125260,
+				"to": 128370
+			},
+			"text": " Find out more at SatoriSatori.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,250",
+				"to": "00:02:14,470"
+			},
+			"offsets": {
+				"from": 129250,
+				"to": 134470
+			},
+			"text": " So I'm here today with Liz Carlisle."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,670",
+				"to": "00:02:20,550"
+			},
+			"offsets": {
+				"from": 134670,
+				"to": 140550
+			},
+			"text": " Liz has written a book called The Lentil Underground, and it's a story of culture and counterculture"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,550",
+				"to": "00:02:25,750"
+			},
+			"offsets": {
+				"from": 140550,
+				"to": 145750
+			},
+			"text": " and this dramatic story of organic conversion in Montana farming communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,370",
+				"to": "00:02:27,370"
+			},
+			"offsets": {
+				"from": 146370,
+				"to": 147370
+			},
+			"text": " Liz is from Montana."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,030",
+				"to": "00:02:30,270"
+			},
+			"offsets": {
+				"from": 148030,
+				"to": 150270
+			},
+			"text": " She recently got a PhD at UC Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,990",
+				"to": "00:02:31,510"
+			},
+			"offsets": {
+				"from": 150990,
+				"to": 151510
+			},
+			"text": " Is that right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,510",
+				"to": "00:02:31,830"
+			},
+			"offsets": {
+				"from": 151510,
+				"to": 151830
+			},
+			"text": " Is that right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,870",
+				"to": "00:02:32,170"
+			},
+			"offsets": {
+				"from": 151870,
+				"to": 152170
+			},
+			"text": " You're done?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,290",
+				"to": "00:02:32,790"
+			},
+			"offsets": {
+				"from": 152290,
+				"to": 152790
+			},
+			"text": " You're done, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,830",
+				"to": "00:02:33,230"
+			},
+			"offsets": {
+				"from": 152830,
+				"to": 153230
+			},
+			"text": " I'm done."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,270",
+				"to": "00:02:33,570"
+			},
+			"offsets": {
+				"from": 153270,
+				"to": 153570
+			},
+			"text": " You're done."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,650",
+				"to": "00:02:34,070"
+			},
+			"offsets": {
+				"from": 153650,
+				"to": 154070
+			},
+			"text": " Okay, cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,170",
+				"to": "00:02:34,850"
+			},
+			"offsets": {
+				"from": 154170,
+				"to": 154850
+			},
+			"text": " Yeah, me too."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,850",
+				"to": "00:02:35,990"
+			},
+			"offsets": {
+				"from": 154850,
+				"to": 155990
+			},
+			"text": " We're about at the same point."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,530",
+				"to": "00:02:38,730"
+			},
+			"offsets": {
+				"from": 156530,
+				"to": 158730
+			},
+			"text": " And is now working."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,030",
+				"to": "00:02:43,260"
+			},
+			"offsets": {
+				"from": 159030,
+				"to": 163260
+			},
+			"text": " Half of your time is spent working here in Palo Hotel, half of the time is spent working in Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,870",
+				"to": "00:02:50,220"
+			},
+			"offsets": {
+				"from": 163870,
+				"to": 170220
+			},
+			"text": " Let's just start and talk about some of the things in that book and kind of the impetus behind it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,260",
+				"to": "00:02:56,180"
+			},
+			"offsets": {
+				"from": 170260,
+				"to": 176180
+			},
+			"text": " One of the things that really stood out to me, well, Chelsea and I, when we were doing work in the Yucatan,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,300",
+				"to": "00:02:59,840"
+			},
+			"offsets": {
+				"from": 176300,
+				"to": 179840
+			},
+			"text": " we started calling people the crazy farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,840",
+				"to": "00:03:12,440"
+			},
+			"offsets": {
+				"from": 179840,
+				"to": 192440
+			},
+			"text": " And that might not be like the nicest, but what we meant is that like it's farmers who kept telling us that they just love traditional varieties and traditional ways of farming and everyone calls them crazy for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,700",
+				"to": "00:03:18,960"
+			},
+			"offsets": {
+				"from": 192700,
+				"to": 198960
+			},
+			"text": " And I definitely recognized that kind of feeling in a lot of the characters in Montana in your book."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,960",
+				"to": "00:03:23,980"
+			},
+			"offsets": {
+				"from": 198960,
+				"to": 203980
+			},
+			"text": " Yeah, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,980",
+				"to": "00:03:34,920"
+			},
+			"offsets": {
+				"from": 203980,
+				"to": 214920
+			},
+			"text": " When a culture has been built around a particular kind of agriculture, in this case, wheat monoculture, since the mid-century, then to step outside of that agriculture is also to step outside of that culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,640",
+				"to": "00:03:48,280"
+			},
+			"offsets": {
+				"from": 215640,
+				"to": 228280
+			},
+			"text": " And it was such a huge risk for people, not only economically, to not sell the commodity that was the only thing that anybody purchased in the agriculture market at the time they started growing alternative crops,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,280",
+				"to": "00:03:59,000"
+			},
+			"offsets": {
+				"from": 228280,
+				"to": 239000
+			},
+			"text": " but also just, you know, what happens to those relationships with people you go to church with, who you went to kindergarten with, who are your fertilizer dealer, the person you contract with to spray your crops."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,240",
+				"to": "00:04:04,480"
+			},
+			"offsets": {
+				"from": 239240,
+				"to": 244480
+			},
+			"text": " It was just a massive life change for people to convert to organics in that kind of a community."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,840",
+				"to": "00:04:09,200"
+			},
+			"offsets": {
+				"from": 245840,
+				"to": 249200
+			},
+			"text": " And they came at it from a lot of different directions, it sounds like."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,320",
+				"to": "00:04:14,760"
+			},
+			"offsets": {
+				"from": 250320,
+				"to": 254760
+			},
+			"text": " Why don't we start talking a little bit about David Oyen, kind of the main thread to your book?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,370",
+				"to": "00:04:15,680"
+			},
+			"offsets": {
+				"from": 255370,
+				"to": 255680
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,880",
+				"to": "00:04:21,720"
+			},
+			"offsets": {
+				"from": 255880,
+				"to": 261720
+			},
+			"text": " So David Oyen, a third-generation farmer from Conrad, Montana, which is a little tiny town."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,860",
+				"to": "00:04:29,160"
+			},
+			"offsets": {
+				"from": 261860,
+				"to": 269160
+			},
+			"text": " You probably haven't heard of it, but it is part of a region called the Golden Triangle, which is a really fertile region to grow wheat."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,280",
+				"to": "00:04:37,040"
+			},
+			"offsets": {
+				"from": 269280,
+				"to": 277040
+			},
+			"text": " So he grew up on this wheat farm that was 280 acres, and in his grandparents' time, that was a normal size of a farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,280",
+				"to": "00:04:38,620"
+			},
+			"offsets": {
+				"from": 277280,
+				"to": 278620
+			},
+			"text": " You know, you could raise a family."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,870",
+				"to": "00:04:43,470"
+			},
+			"offsets": {
+				"from": 279870,
+				"to": 283470
+			},
+			"text": " His parents were able to send all of their kids to college who wanted to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,570",
+				"to": "00:04:45,630"
+			},
+			"offsets": {
+				"from": 283570,
+				"to": 285630
+			},
+			"text": " I think three of their four kids took him up on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,050",
+				"to": "00:04:54,510"
+			},
+			"offsets": {
+				"from": 286050,
+				"to": 294510
+			},
+			"text": " But by the time David was coming of age, and, you know, now we're talking about the 60s and 70s, that was no longer a viable commercial farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,510",
+				"to": "00:05:00,300"
+			},
+			"offsets": {
+				"from": 294510,
+				"to": 300300
+			},
+			"text": " You know, I mean, he needed to have thousands of acres in the new era of Earl Butts, get big or get out."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,440",
+				"to": "00:05:04,270"
+			},
+			"offsets": {
+				"from": 301440,
+				"to": 304270
+			},
+			"text": " But he really wanted to farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,550",
+				"to": "00:05:06,810"
+			},
+			"offsets": {
+				"from": 304550,
+				"to": 306810
+			},
+			"text": " He wanted to farm for some really basic reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,170",
+				"to": "00:05:08,790"
+			},
+			"offsets": {
+				"from": 307170,
+				"to": 308790
+			},
+			"text": " He loved that piece of land."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,050",
+				"to": "00:05:10,270"
+			},
+			"offsets": {
+				"from": 309050,
+				"to": 310270
+			},
+			"text": " He liked working outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,210",
+				"to": "00:05:13,260"
+			},
+			"offsets": {
+				"from": 311210,
+				"to": 313260
+			},
+			"text": " It just felt like what he was born to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,040",
+				"to": "00:05:16,440"
+			},
+			"offsets": {
+				"from": 314040,
+				"to": 316440
+			},
+			"text": " And so he needed to figure out a different way to farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,440",
+				"to": "00:05:31,020"
+			},
+			"offsets": {
+				"from": 316440,
+				"to": 331020
+			},
+			"text": " And while he was in college, he'd read Silent Spring, he'd gotten involved in anti-Vietnam War protests, and he'd come to see that the new agriculture, the Earl Butts agriculture, was part of the military-industrial complex."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,100",
+				"to": "00:05:46,000"
+			},
+			"offsets": {
+				"from": 331100,
+				"to": 346000
+			},
+			"text": " And that there was some connection between this violence in Southeast Asia, in urban communities in the United States, and this rural violence of these chemicals and the cancers that he saw some of his parents' peers dying from."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,160",
+				"to": "00:05:59,900"
+			},
+			"offsets": {
+				"from": 346160,
+				"to": 359900
+			},
+			"text": " So he's this combination of different social movements in one person, because there's kind of this traditional agrarian sensibility about responsibility to the land that's common in these communities in rural Montana."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,140",
+				"to": "00:06:06,020"
+			},
+			"offsets": {
+				"from": 360140,
+				"to": 366020
+			},
+			"text": " And there's also this 60s counterculture thread of, we need to change agriculture, and we need to change society."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,320",
+				"to": "00:06:18,530"
+			},
+			"offsets": {
+				"from": 368320,
+				"to": 378530
+			},
+			"text": " And then it seems like he starts trying to convert his farm and runs into all sorts of barriers to organic conversion."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,090",
+				"to": "00:06:23,720"
+			},
+			"offsets": {
+				"from": 379090,
+				"to": 383720
+			},
+			"text": " And one of them, one of the most compelling there, is this idea that he can't do it alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,820",
+				"to": "00:06:24,960"
+			},
+			"offsets": {
+				"from": 383820,
+				"to": 384960
+			},
+			"text": " He can't do it on his own."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,360",
+				"to": "00:06:29,390"
+			},
+			"offsets": {
+				"from": 385360,
+				"to": 389390
+			},
+			"text": " And he starts to do community organizing in a pretty serious way."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,690",
+				"to": "00:06:40,780"
+			},
+			"offsets": {
+				"from": 389690,
+				"to": 400780
+			},
+			"text": " Yeah, yeah, well, something David talks about a lot, and we've had a lot of interaction since I wrote the book, because we've gone and done a bunch of educational events and community organizing events together."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,320",
+				"to": "00:06:49,020"
+			},
+			"offsets": {
+				"from": 401320,
+				"to": 409020
+			},
+			"text": " Something he talks about a lot is, I went from thinking about this as farming and the farming system to thinking about the food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,240",
+				"to": "00:06:57,580"
+			},
+			"offsets": {
+				"from": 409240,
+				"to": 417580
+			},
+			"text": " Because as a farmer, you grew the crop, you dropped it off at the grain elevator, you know, next to the railroad tracks, and that was the last you knew about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,580",
+				"to": "00:07:02,290"
+			},
+			"offsets": {
+				"from": 417580,
+				"to": 422290
+			},
+			"text": " You got paid whatever the growing price was, and that was your job."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,790",
+				"to": "00:07:16,230"
+			},
+			"offsets": {
+				"from": 422790,
+				"to": 436230
+			},
+			"text": " But once he started growing alternative crops that would make an organic system work, when he needed to grow the crops that would provide fertility and other ecosystem services, because he wasn't using chemicals to do those things, there wasn't anywhere to sell them."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,230",
+				"to": "00:07:33,350"
+			},
+			"offsets": {
+				"from": 436230,
+				"to": 453350
+			},
+			"text": " So he had to get involved in agriculture, not to mention in agronomy, because there also weren't resources for how do you grow these things or what other experiences have farmers had, you know, seeding rate, some basic stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,550",
+				"to": "00:07:44,860"
+			},
+			"offsets": {
+				"from": 453550,
+				"to": 464860
+			},
+			"text": " So that required really connecting with a lot of other people and also reimagining what the farmer's role was if they were going to organize and get involved throughout the entire food chain."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,920",
+				"to": "00:08:02,320"
+			},
+			"offsets": {
+				"from": 464920,
+				"to": 482320
+			},
+			"text": " So one of the themes that I saw going through that story is that it's like it's going back and forth between wanting to be a mainstream, wanting to change the farming system and the food system and leap into this mainstream market and culture,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,320",
+				"to": "00:08:10,710"
+			},
+			"offsets": {
+				"from": 482320,
+				"to": 490710
+			},
+			"text": " and also wanting to be sure that they're doing the kind of community organization that started it as a counterculture in the first place."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,810",
+				"to": "00:08:24,450"
+			},
+			"offsets": {
+				"from": 490810,
+				"to": 504450
+			},
+			"text": " I'm thinking specifically about these contracts that they get with Trader Joe's and with Whole Foods that propel them into the mainstream for a minute and then fall apart and reiterate the necessity of doing that kind of grassroots organizing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,280",
+				"to": "00:08:25,980"
+			},
+			"offsets": {
+				"from": 505280,
+				"to": 505980
+			},
+			"text": " Yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,980",
+				"to": "00:08:40,560"
+			},
+			"offsets": {
+				"from": 505980,
+				"to": 520560
+			},
+			"text": " I think once the rest of the food system ceased to be this black box, once it wasn't just like, oh, there's a distribution system out there, there's retail stores out there, when they realized, well, these systems are riddled with the same problems that our farm systems were riddled with."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,560",
+				"to": "00:08:50,040"
+			},
+			"offsets": {
+				"from": 520560,
+				"to": 530040
+			},
+			"text": " They too are monocultures in a way, if your only place you're selling your product is through Trader Joe's, they can fail in the same way as a monoculture does."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,100",
+				"to": "00:08:51,080"
+			},
+			"offsets": {
+				"from": 530100,
+				"to": 531080
+			},
+			"text": " This is not resilient."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,660",
+				"to": "00:09:01,820"
+			},
+			"offsets": {
+				"from": 531660,
+				"to": 541820
+			},
+			"text": " And so they also got involved in organizing at that level in how a business run by a bunch of farmers articulates with the system that consumers see."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,820",
+				"to": "00:09:08,880"
+			},
+			"offsets": {
+				"from": 541820,
+				"to": 548880
+			},
+			"text": " And so they now work with, you know, 400, 500 natural food stores across the country with regional distributors."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,460",
+				"to": "00:09:15,560"
+			},
+			"offsets": {
+				"from": 549460,
+				"to": 555560
+			},
+			"text": " And so they have that resilience and that relationship-based approach also sort of further downstream."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,570",
+				"to": "00:09:17,670"
+			},
+			"offsets": {
+				"from": 556570,
+				"to": 557670
+			},
+			"text": " And what are they selling?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,950",
+				"to": "00:09:18,800"
+			},
+			"offsets": {
+				"from": 557950,
+				"to": 558800
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,420",
+				"to": "00:09:20,900"
+			},
+			"offsets": {
+				"from": 560420,
+				"to": 560900
+			},
+			"text": " Lentils!"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,560",
+				"to": "00:09:29,940"
+			},
+			"offsets": {
+				"from": 561560,
+				"to": 569940
+			},
+			"text": " So not surprising, since this work is called Lentil Underground, it was a grain monoculture before these farmers tried to convert to organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,360",
+				"to": "00:09:36,260"
+			},
+			"offsets": {
+				"from": 570360,
+				"to": 576260
+			},
+			"text": " And they knew they needed a new source of nitrogen fertility if they weren't going to be spraying it on."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,210",
+				"to": "00:09:46,870"
+			},
+			"offsets": {
+				"from": 577210,
+				"to": 586870
+			},
+			"text": " So they looked for a leguminous crop, a plant that could fix its own nitrogen, pull it out of the atmosphere, work with bacteria to convert it into a plant-available form."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,110",
+				"to": "00:09:51,630"
+			},
+			"offsets": {
+				"from": 587110,
+				"to": 591630
+			},
+			"text": " That would work in their ecosystem because this is so common around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,630",
+				"to": "00:10:01,440"
+			},
+			"offsets": {
+				"from": 591630,
+				"to": 601440
+			},
+			"text": " Of course, corn, beans, and squash in much of North America, Central America, South America, and soybeans in the Midwest being rotated with corn."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,440",
+				"to": "00:10:09,940"
+			},
+			"offsets": {
+				"from": 601440,
+				"to": 609940
+			},
+			"text": " But the conventional wisdom in the semi-arid Northern Great Plains was that the seasons were too short to accommodate, for example, soybeans."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,180",
+				"to": "00:10:10,720"
+			},
+			"offsets": {
+				"from": 610180,
+				"to": 610720
+			},
+			"text": " It was cold."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,960",
+				"to": "00:10:12,240"
+			},
+			"offsets": {
+				"from": 610960,
+				"to": 612240
+			},
+			"text": " First frost would come soon."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,780",
+				"to": "00:10:21,180"
+			},
+			"offsets": {
+				"from": 612780,
+				"to": 621180
+			},
+			"text": " And also because there wasn't very much rainfall, that you needed a fallow year in between your grain years and that anything else would take too much moisture."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,400",
+				"to": "00:10:25,920"
+			},
+			"offsets": {
+				"from": 621400,
+				"to": 625920
+			},
+			"text": " You'd literally be robbing the moisture you needed for your grain crop by planting anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,460",
+				"to": "00:10:34,280"
+			},
+			"offsets": {
+				"from": 626460,
+				"to": 634280
+			},
+			"text": " And so this group of farmers had to look around the world at other semi-arid systems and say, well, what are they using for their legume phase?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,280",
+				"to": "00:10:44,260"
+			},
+			"offsets": {
+				"from": 634280,
+				"to": 644260
+			},
+			"text": " And they kind of had to challenge the agricultural establishment, the experts at their state university system, and say, well, no, I think we can do this instead of the fallow year."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,460",
+				"to": "00:10:47,880"
+			},
+			"offsets": {
+				"from": 644460,
+				"to": 647880
+			},
+			"text": " And I think it's going to be better for the long-term sustainability of our land."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,070",
+				"to": "00:10:58,860"
+			},
+			"offsets": {
+				"from": 649070,
+				"to": 658860
+			},
+			"text": " And there's – you mentioned or you talk about agroecology as kind of this approach to farming that people are taking maybe before they even start calling it that."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,180",
+				"to": "00:11:04,400"
+			},
+			"offsets": {
+				"from": 659180,
+				"to": 664400
+			},
+			"text": " But one of the things that I've heard a lot of agroecologists say is that there's just no recipe for how to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,400",
+				"to": "00:11:06,840"
+			},
+			"offsets": {
+				"from": 664400,
+				"to": 666840
+			},
+			"text": " I mean, people say that in Mexico all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,940",
+				"to": "00:11:07,700"
+			},
+			"offsets": {
+				"from": 666940,
+				"to": 667700
+			},
+			"text": " No, I ever said this."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,240",
+				"to": "00:11:19,010"
+			},
+			"offsets": {
+				"from": 668240,
+				"to": 679010
+			},
+			"text": " But there's this ethos and this way of seeing things and this set of very general principles that people try to apply."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,150",
+				"to": "00:11:25,750"
+			},
+			"offsets": {
+				"from": 680150,
+				"to": 685750
+			},
+			"text": " Yeah, and I think for this group of farmers, you know, this movement really got started in the late 80s."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,850",
+				"to": "00:11:26,910"
+			},
+			"offsets": {
+				"from": 685850,
+				"to": 686910
+			},
+			"text": " It was a farm crisis."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,910",
+				"to": "00:11:31,830"
+			},
+			"offsets": {
+				"from": 686910,
+				"to": 691830
+			},
+			"text": " So there were some very immediate problems, which was farmers were going bankrupt."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,230",
+				"to": "00:11:34,010"
+			},
+			"offsets": {
+				"from": 692230,
+				"to": 694010
+			},
+			"text": " Fertilizer prices were very high."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,430",
+				"to": "00:11:38,330"
+			},
+			"offsets": {
+				"from": 694430,
+				"to": 698330
+			},
+			"text": " Commodity grain prices were low and were volatile because of global events."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,870",
+				"to": "00:11:42,710"
+			},
+			"offsets": {
+				"from": 698870,
+				"to": 702710
+			},
+			"text": " And also they were seeing environmental problems and health problems."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,830",
+				"to": "00:11:48,470"
+			},
+			"offsets": {
+				"from": 702830,
+				"to": 708470
+			},
+			"text": " People were starting to see that cancer was maybe connected to some of the chemicals they'd been using on their farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,010",
+				"to": "00:11:55,610"
+			},
+			"offsets": {
+				"from": 709010,
+				"to": 715610
+			},
+			"text": " So really the imperative was to reduce, maybe eliminate from any of these farmers the reliance on chemicals."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,310",
+				"to": "00:12:04,870"
+			},
+			"offsets": {
+				"from": 716310,
+				"to": 724870
+			},
+			"text": " So organic farming, agroecological farming was about how can we replace what we were doing with chemicals with the farm itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,870",
+				"to": "00:12:08,170"
+			},
+			"offsets": {
+				"from": 724870,
+				"to": 728170
+			},
+			"text": " So the farm itself can be this regenerative ecosystem."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,170",
+				"to": "00:12:14,230"
+			},
+			"offsets": {
+				"from": 728170,
+				"to": 734230
+			},
+			"text": " Is there something I can plant and include in my rotation that will replace what I was doing with fertilizer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,230",
+				"to": "00:12:22,370"
+			},
+			"offsets": {
+				"from": 734230,
+				"to": 742370
+			},
+			"text": " If it's diverse enough, can I control my weeds without A, herbicide, and B, a whole heck of a lot of tillage?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:24,380",
+				"to": "00:12:30,140"
+			},
+			"offsets": {
+				"from": 744380,
+				"to": 750140
+			},
+			"text": " I can hardly imagine what it would have driven through that part of Montana once, a long time ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,240",
+				"to": "00:12:32,650"
+			},
+			"offsets": {
+				"from": 750240,
+				"to": 752650
+			},
+			"text": " And I just remember going on and on forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,890",
+				"to": "00:12:38,310"
+			},
+			"offsets": {
+				"from": 752890,
+				"to": 758310
+			},
+			"text": " And I remember there were these yellow butterflies everywhere that ended up stuck all over the grill."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,230",
+				"to": "00:12:42,380"
+			},
+			"offsets": {
+				"from": 759230,
+				"to": 762380
+			},
+			"text": " The scale is so much bigger than anything I know here."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,500",
+				"to": "00:12:44,680"
+			},
+			"offsets": {
+				"from": 762500,
+				"to": 764680
+			},
+			"text": " And what does it feel like to be out there in the conventional field?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,820",
+				"to": "00:12:50,200"
+			},
+			"offsets": {
+				"from": 764820,
+				"to": 770200
+			},
+			"text": " And how is that different when you're standing in someone's field that's a little more diverse?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,440",
+				"to": "00:12:55,410"
+			},
+			"offsets": {
+				"from": 770440,
+				"to": 775410
+			},
+			"text": " Yeah, actually, that was something that a lot of farmers talked to me about when they converted."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,750",
+				"to": "00:13:02,550"
+			},
+			"offsets": {
+				"from": 775750,
+				"to": 782550
+			},
+			"text": " And some of them, it was a coming back to a landscape they remembered from earlier in their parents' time or their grandparents' time."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,630",
+				"to": "00:13:04,270"
+			},
+			"offsets": {
+				"from": 782630,
+				"to": 784270
+			},
+			"text": " And for some of them, it was brand new."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,570",
+				"to": "00:13:13,290"
+			},
+			"offsets": {
+				"from": 784570,
+				"to": 793290
+			},
+			"text": " But the vastness of eastern Montana, these plains, you can see for so far because there are not very many mountains."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,450",
+				"to": "00:13:15,070"
+			},
+			"offsets": {
+				"from": 793450,
+				"to": 795070
+			},
+			"text": " There's some little island mountain ranges."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,650",
+				"to": "00:13:18,490"
+			},
+			"offsets": {
+				"from": 795650,
+				"to": 798490
+			},
+			"text": " But there's a reason they call it big sky country."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,290",
+				"to": "00:13:27,270"
+			},
+			"offsets": {
+				"from": 799290,
+				"to": 807270
+			},
+			"text": " And for some people, I think it's almost like being near the ocean, that feeling of being in this vast environment where you're really small."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,270",
+				"to": "00:13:33,270"
+			},
+			"offsets": {
+				"from": 807270,
+				"to": 813270
+			},
+			"text": " And there's this sense that the natural world is this powerful, animated entity."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,330",
+				"to": "00:13:38,790"
+			},
+			"offsets": {
+				"from": 814330,
+				"to": 818790
+			},
+			"text": " If you're in a conventional wheat field, it is literally all wheat."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,990",
+				"to": "00:13:40,510"
+			},
+			"offsets": {
+				"from": 818990,
+				"to": 820510
+			},
+			"text": " You're surrounded by that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,650",
+				"to": "00:13:42,410"
+			},
+			"offsets": {
+				"from": 820650,
+				"to": 822410
+			},
+			"text": " And there's a kind of beauty to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,510",
+				"to": "00:13:54,690"
+			},
+			"offsets": {
+				"from": 822510,
+				"to": 834690
+			},
+			"text": " And there's definitely an aesthetic around that that, you know, from my study, I would say goes back to early European imaginaries of nature as sort of empty in many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,230",
+				"to": "00:14:09,040"
+			},
+			"offsets": {
+				"from": 835230,
+				"to": 849040
+			},
+			"text": " And if you're in one of these fields with, you know, a timeless seeds farmer who's rotating maybe 10, maybe 20 different crops, there's incredible diversity of what's flowering and the colors of those flowers."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,640",
+				"to": "00:14:13,560"
+			},
+			"offsets": {
+				"from": 849640,
+				"to": 853560
+			},
+			"text": " And something I really noticed was the presence of pollinators, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,220",
+				"to": "00:14:18,520"
+			},
+			"offsets": {
+				"from": 854220,
+				"to": 858520
+			},
+			"text": " And just, you know, everybody who is happy when there aren't a lot of chemicals around."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,020",
+				"to": "00:14:23,580"
+			},
+			"offsets": {
+				"from": 859020,
+				"to": 863580
+			},
+			"text": " One of these farmers said that the minute that he, well, he actually never went conventional."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,580",
+				"to": "00:14:34,400"
+			},
+			"offsets": {
+				"from": 863580,
+				"to": 874400
+			},
+			"text": " His family stayed organic, but when the people around him went conventional, and eventually it became all conventional, that all of the pronghorn antelope concentrated in his fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,620",
+				"to": "00:14:36,320"
+			},
+			"offsets": {
+				"from": 874620,
+				"to": 876320
+			},
+			"text": " He's like, you know, it's a mixed blessing."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,140",
+				"to": "00:14:40,680"
+			},
+			"offsets": {
+				"from": 877140,
+				"to": 880680
+			},
+			"text": " I know I'm providing good habitat, but there might be a few too many."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,030",
+				"to": "00:14:55,170"
+			},
+			"offsets": {
+				"from": 884030,
+				"to": 895170
+			},
+			"text": " Yeah, there's this, there seems to be this tension between, a lot of it's a story of converting to organic."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,370",
+				"to": "00:15:05,910"
+			},
+			"offsets": {
+				"from": 895370,
+				"to": 905910
+			},
+			"text": " But there's also this memory about what was there before, and it's easy, when we talk about conventional agriculture, it's easy to forget what a brief time on earth that kind of system has existed."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,810",
+				"to": "00:15:21,140"
+			},
+			"offsets": {
+				"from": 906810,
+				"to": 921140
+			},
+			"text": " It seems like, and what it makes me think about is this, like, the farming is this, I think farmers sometimes talk about it like they're just following the same thing that they've always done and that their parents have done."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,380",
+				"to": "00:15:31,170"
+			},
+			"offsets": {
+				"from": 921380,
+				"to": 931170
+			},
+			"text": " But it's, it's not, I don't, I'm not sure why farmers talk about it like that, because at the same time, they're doing an incredible amount of innovation and experimentation all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,550",
+				"to": "00:15:37,770"
+			},
+			"offsets": {
+				"from": 932550,
+				"to": 937770
+			},
+			"text": " Yeah, well, I think certainly among farmers in Montana, there's an incredible culture of humility."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,990",
+				"to": "00:15:41,430"
+			},
+			"offsets": {
+				"from": 938990,
+				"to": 941430
+			},
+			"text": " And that maybe is a challenge for an ethnographer."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,330",
+				"to": "00:15:45,410"
+			},
+			"offsets": {
+				"from": 942330,
+				"to": 945410
+			},
+			"text": " And you have to think about the kinds of questions you ask."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,510",
+				"to": "00:15:53,070"
+			},
+			"offsets": {
+				"from": 945510,
+				"to": 953070
+			},
+			"text": " I think there's a certain amount of time that you have to spend with people to even get them to sort of admit and open up about that innovation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,430",
+				"to": "00:16:08,360"
+			},
+			"offsets": {
+				"from": 954430,
+				"to": 968360
+			},
+			"text": " Because I think the tendency is, you know, definitely never to put oneself forward as any kind of expert, you know, a reticence, a sort of, kind of a beautiful, actually, succinctness."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,360",
+				"to": "00:16:12,560"
+			},
+			"offsets": {
+				"from": 968360,
+				"to": 972560
+			},
+			"text": " As a writer, I appreciated the economy of speech of many of these people."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,680",
+				"to": "00:16:22,380"
+			},
+			"offsets": {
+				"from": 972680,
+				"to": 982380
+			},
+			"text": " But to sort of get people to elaborate on everything they've been experimenting with and what they've actually done in their systems, I didn't find anybody sort of eager to be a star."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:23,060",
+				"to": "00:16:26,380"
+			},
+			"offsets": {
+				"from": 983060,
+				"to": 986380
+			},
+			"text": " There definitely wasn't anybody hoping I would write a book about them."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,060",
+				"to": "00:16:37,020"
+			},
+			"offsets": {
+				"from": 987060,
+				"to": 997020
+			},
+			"text": " I think eventually we all came to feel really strongly that this was a story that would have, you know, a certain resonance for people and could be a good thing for larger reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,020",
+				"to": "00:16:45,600"
+			},
+			"offsets": {
+				"from": 997020,
+				"to": 1005600
+			},
+			"text": " But there wasn't anybody, you know, who wanted to be the poster child for sustainable agriculture out of their own desire to be the center of attention."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,410",
+				"to": "00:16:54,670"
+			},
+			"offsets": {
+				"from": 1006410,
+				"to": 1014670
+			},
+			"text": " It's funny to talk about that here in the middle of Silicon Valley where innovators are outsized heroes or egos."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,970",
+				"to": "00:17:03,940"
+			},
+			"offsets": {
+				"from": 1015970,
+				"to": 1023940
+			},
+			"text": " But it also makes me think a lot about, like, where we expect innovation and creativity to take place."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,240",
+				"to": "00:17:15,280"
+			},
+			"offsets": {
+				"from": 1024240,
+				"to": 1035280
+			},
+			"text": " And I think a lot about conventional agriculture was this removal of that expectation of where the creativity of agriculture takes place from farms to research stations."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,150",
+				"to": "00:17:25,950"
+			},
+			"offsets": {
+				"from": 1036150,
+				"to": 1045950
+			},
+			"text": " Yeah, that's a really insightful way to frame what one of the big problems with conventional agriculture is, is that low expectation that it has of farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,090",
+				"to": "00:17:43,390"
+			},
+			"offsets": {
+				"from": 1046090,
+				"to": 1063390
+			},
+			"text": " And that was something that farmers articulated to me, too, about why, in addition to these economic reasons, they went organic or what they appreciated about being organic is that they felt well utilized as knowledgeable, curious analysts in their systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,390",
+				"to": "00:17:48,590"
+			},
+			"offsets": {
+				"from": 1063390,
+				"to": 1068590
+			},
+			"text": " They were able to engage with their systems in a much more dynamic, rewarding way."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,590",
+				"to": "00:18:06,420"
+			},
+			"offsets": {
+				"from": 1068590,
+				"to": 1086420
+			},
+			"text": " And some of them had come back from other careers or from other lives to a farm and had worried that they were giving up the richness of those other lives and had found that in converting that they, you know, they got to do so many interesting things and they were learning."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,540",
+				"to": "00:18:07,340"
+			},
+			"offsets": {
+				"from": 1086540,
+				"to": 1087340
+			},
+			"text": " They were scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,340",
+				"to": "00:18:09,160"
+			},
+			"offsets": {
+				"from": 1087340,
+				"to": 1089160
+			},
+			"text": " They were business people."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,160",
+				"to": "00:18:16,720"
+			},
+			"offsets": {
+				"from": 1089160,
+				"to": 1096720
+			},
+			"text": " They were all of these different things as an organic farmer that they weren't necessarily as a conventional farmer where they were more sort of a recipe farmer."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:18,120",
+				"to": "00:18:20,740"
+			},
+			"offsets": {
+				"from": 1098120,
+				"to": 1100740
+			},
+			"text": " And people form groups, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:20,840",
+				"to": "00:18:36,440"
+			},
+			"offsets": {
+				"from": 1100840,
+				"to": 1116440
+			},
+			"text": " I mean, it seems like that's one of the main catalysts that happened for this movement to grow is that people started forming groups where they experimented and tried to work with researchers and each other mostly to try to solve some of these, their stumbling blocks."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,440",
+				"to": "00:18:45,720"
+			},
+			"offsets": {
+				"from": 1116440,
+				"to": 1125720
+			},
+			"text": " Yeah, there was this fabulous program called the Farm Improvement Club Program that an organization called the Alternative Energy Resources Organization ran."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,900",
+				"to": "00:18:49,460"
+			},
+			"offsets": {
+				"from": 1125900,
+				"to": 1129460
+			},
+			"text": " That organization is still going strong after 40 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,680",
+				"to": "00:18:54,380"
+			},
+			"offsets": {
+				"from": 1129680,
+				"to": 1134380
+			},
+			"text": " And this program ran through the 1990s and it was a small grants program."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,380",
+				"to": "00:19:02,880"
+			},
+			"offsets": {
+				"from": 1134380,
+				"to": 1142880
+			},
+			"text": " It was just a few hundred dollars that each of these farm improvement clubs got as a grant to explore a common question about sustainable agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,140",
+				"to": "00:19:10,500"
+			},
+			"offsets": {
+				"from": 1143140,
+				"to": 1150500
+			},
+			"text": " So it would be something like non-chemical weed control or a trial of a bunch of different varieties of a crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,660",
+				"to": "00:19:12,740"
+			},
+			"offsets": {
+				"from": 1150660,
+				"to": 1152740
+			},
+			"text": " They wanted to see what would work well in their environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,200",
+				"to": "00:19:16,980"
+			},
+			"offsets": {
+				"from": 1153200,
+				"to": 1156980
+			},
+			"text": " And it had to be at least four farmers and then a technical advisor."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,980",
+				"to": "00:19:24,740"
+			},
+			"offsets": {
+				"from": 1156980,
+				"to": 1164740
+			},
+			"text": " So they had to recruit somebody from the university system or from the Department of Agriculture, from extension, who would be part of their group."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,840",
+				"to": "00:19:26,600"
+			},
+			"offsets": {
+				"from": 1164840,
+				"to": 1166600
+			},
+			"text": " But the question originated with the farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,600",
+				"to": "00:19:40,370"
+			},
+			"offsets": {
+				"from": 1166600,
+				"to": 1180370
+			},
+			"text": " And this did so much to disseminate knowledge about sustainable agriculture and to develop relationships, to really speed up the process by which single farmers would experiment with these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,510",
+				"to": "00:19:49,030"
+			},
+			"offsets": {
+				"from": 1180510,
+				"to": 1189030
+			},
+			"text": " And also to really convince people who were part of the extension system in the university that not only were lots of farmers interested in these things, but they were working."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,030",
+				"to": "00:19:55,630"
+			},
+			"offsets": {
+				"from": 1189030,
+				"to": 1195630
+			},
+			"text": " And if you're actually a signatory to one of these clubs and you have a stake in it, you could start to believe in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,690",
+				"to": "00:20:02,570"
+			},
+			"offsets": {
+				"from": 1195690,
+				"to": 1202570
+			},
+			"text": " You could even have an incentive to believe in it and see really with your own eyes, okay, this is working."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,710",
+				"to": "00:20:04,770"
+			},
+			"offsets": {
+				"from": 1202710,
+				"to": 1204770
+			},
+			"text": " This is a viable way to farm here."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,750",
+				"to": "00:20:08,610"
+			},
+			"offsets": {
+				"from": 1205750,
+				"to": 1208610
+			},
+			"text": " Maybe we could advise other people to consider this."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,940",
+				"to": "00:20:21,010"
+			},
+			"offsets": {
+				"from": 1209940,
+				"to": 1221010
+			},
+			"text": " And you recently, you sent me in preparation for this, you sent me a draft of a paper that you're working on about why farmers adopt or don't adopt soil management practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,070",
+				"to": "00:20:27,780"
+			},
+			"offsets": {
+				"from": 1221070,
+				"to": 1227780
+			},
+			"text": " That are considered best practices and especially ones that diversify the farm, like cover crops and reduce tillage."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,510",
+				"to": "00:20:44,590"
+			},
+			"offsets": {
+				"from": 1229510,
+				"to": 1244590
+			},
+			"text": " Can you talk a little bit about what – it seems like you identify some of the – there's a different – you have a different theory about how farmers decide or to change – how to change their management practices that comes across in that paper."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,590",
+				"to": "00:20:56,430"
+			},
+			"offsets": {
+				"from": 1244590,
+				"to": 1256430
+			},
+			"text": " And you cite a lot of studies that are kind of researchers who are confounded about, like, why aren't people, despite all the evidence, that this is a better practice, why aren't farmers adopting it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,430",
+				"to": "00:21:01,190"
+			},
+			"offsets": {
+				"from": 1256430,
+				"to": 1261190
+			},
+			"text": " Yeah, and there's so many different reasons, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,310",
+				"to": "00:21:02,990"
+			},
+			"offsets": {
+				"from": 1261310,
+				"to": 1262990
+			},
+			"text": " I mean, there are policy reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,170",
+				"to": "00:21:05,070"
+			},
+			"offsets": {
+				"from": 1263170,
+				"to": 1265070
+			},
+			"text": " There's sort of legacies of policies."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,470",
+				"to": "00:21:17,550"
+			},
+			"offsets": {
+				"from": 1265470,
+				"to": 1277550
+			},
+			"text": " Even when policies change, it takes a while for people to become confident in a new structure, even for that new structure to really come about, for businesses to change the way they do their work."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,290",
+				"to": "00:21:31,910"
+			},
+			"offsets": {
+				"from": 1278290,
+				"to": 1291910
+			},
+			"text": " For people who are in the business of advising farmers about federal policy to even fully grasp, there are still a lot of rural advisory personnel who haven't quite adjusted to changes in the farm bill."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,750",
+				"to": "00:21:43,660"
+			},
+			"offsets": {
+				"from": 1292750,
+				"to": 1303660
+			},
+			"text": " And then beyond that, for farmers who are making decisions on really long timescales to be confident that those policies that have shifted aren't just a short-term experiment, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,220",
+				"to": "00:21:56,910"
+			},
+			"offsets": {
+				"from": 1304220,
+				"to": 1316910
+			},
+			"text": " We have a lot of wonderful new programs like EQIP, you know, relatively new in sort of the history of U.S. agricultural policy, environmental quality incentives program, the conservation stewardship program."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,250",
+				"to": "00:22:05,630"
+			},
+			"offsets": {
+				"from": 1317250,
+				"to": 1325630
+			},
+			"text": " And these provide cost share for a lot of wonderful things for the soil, for agroecology, when farmers want to plant a hedgerow, for example."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,890",
+				"to": "00:22:23,400"
+			},
+			"offsets": {
+				"from": 1325890,
+				"to": 1343400
+			},
+			"text": " But if you're a farmer making long-term decisions, and this program has only been around for maybe 10 or 20 years, but the commodity programs have been around for as long as you've been alive, you know, it takes a while, I think, for the mindset to shift around policy changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,840",
+				"to": "00:22:28,500"
+			},
+			"offsets": {
+				"from": 1343840,
+				"to": 1348500
+			},
+			"text": " It takes a while for knowledge to move around in ways that are helpful."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,000",
+				"to": "00:22:32,460"
+			},
+			"offsets": {
+				"from": 1349000,
+				"to": 1352460
+			},
+			"text": " And I think it takes even longer for culture to shift."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,920",
+				"to": "00:22:44,630"
+			},
+			"offsets": {
+				"from": 1352920,
+				"to": 1364630
+			},
+			"text": " And that's something that's come out of, you know, really interesting work that Michael Bell has done, Michael Carolyn, about, you know, even connections between conventional farming and masculinity, for example, in the Midwest."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,490",
+				"to": "00:22:53,310"
+			},
+			"offsets": {
+				"from": 1365490,
+				"to": 1373310
+			},
+			"text": " That, you know, how could you be a proper masculine member of society if you don't have the largest available combine, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,450",
+				"to": "00:23:01,530"
+			},
+			"offsets": {
+				"from": 1374450,
+				"to": 1381530
+			},
+			"text": " Obviously, you need to be in the field doing things that are very macho and involve managing your land actively."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,670",
+				"to": "00:23:11,260"
+			},
+			"offsets": {
+				"from": 1382670,
+				"to": 1391260
+			},
+			"text": " When you start working with nature to do some of those things, and that process looks different, that can be really challenging to people's identities."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,260",
+				"to": "00:23:21,600"
+			},
+			"offsets": {
+				"from": 1391260,
+				"to": 1401600
+			},
+			"text": " I think that there's a way that you track culture changing as part of these farm improvement groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,720",
+				"to": "00:23:22,820"
+			},
+			"offsets": {
+				"from": 1401720,
+				"to": 1402820
+			},
+			"text": " That's the farm improvement groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,300",
+				"to": "00:23:29,490"
+			},
+			"offsets": {
+				"from": 1403300,
+				"to": 1409490
+			},
+			"text": " Yeah, unlikely characters end up cooperating together."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,250",
+				"to": "00:23:38,890"
+			},
+			"offsets": {
+				"from": 1410250,
+				"to": 1418890
+			},
+			"text": " But there's also this thing where there's a need that's driving it and that's met by these groups that aren't really, isn't what I expected."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,190",
+				"to": "00:23:49,250"
+			},
+			"offsets": {
+				"from": 1419190,
+				"to": 1429250
+			},
+			"text": " It doesn't have a lot to do with agriculture, but it's like about being lonely out there in the middle of nowhere in a rural place and about creating the kind of community that's part of what farmers need."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,970",
+				"to": "00:23:58,340"
+			},
+			"offsets": {
+				"from": 1429970,
+				"to": 1438340
+			},
+			"text": " Yeah, can you talk a little bit about that, like, unlikely coming together and how that happens in a place like rural Montana?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,950",
+				"to": "00:23:59,270"
+			},
+			"offsets": {
+				"from": 1438950,
+				"to": 1439270
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,490",
+				"to": "00:24:09,110"
+			},
+			"offsets": {
+				"from": 1439490,
+				"to": 1449110
+			},
+			"text": " Well, I think all places like rural Montana, and this is sort of general sociological insight, are going to need some form of community for people to get along well."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,110",
+				"to": "00:24:29,650"
+			},
+			"offsets": {
+				"from": 1449110,
+				"to": 1469650
+			},
+			"text": " And so conventional agriculture provides those communities, those groups exist for people in conventional agriculture, both more informally through their relationships, for example, with their fertilizer dealer and with people who spray their crops, and formally, there are formal groups for conventional agriculture, the Farm Bureau, the Wheat and Barley Commission."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,650",
+				"to": "00:24:37,430"
+			},
+			"offsets": {
+				"from": 1469650,
+				"to": 1477430
+			},
+			"text": " And so when people step outside that system, they lose that community, which is such a key social resource."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,710",
+				"to": "00:24:44,110"
+			},
+			"offsets": {
+				"from": 1477710,
+				"to": 1484110
+			},
+			"text": " And, I mean, key to so many things that you do in the course of your life, that you have these relationships and these networks with other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,870",
+				"to": "00:24:46,450"
+			},
+			"offsets": {
+				"from": 1484870,
+				"to": 1486450
+			},
+			"text": " You know, what if your kid is unhealthy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,570",
+				"to": "00:24:49,150"
+			},
+			"offsets": {
+				"from": 1486570,
+				"to": 1489150
+			},
+			"text": " Well, you know all these people who might be able to help."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,030",
+				"to": "00:25:05,110"
+			},
+			"offsets": {
+				"from": 1491030,
+				"to": 1505110
+			},
+			"text": " So when they went to an organic system, they needed to recreate those kinds of mutual support networks, both immediately to support what they were doing in agriculture, but then all of those other aspects of just being part of community in rural life."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,290",
+				"to": "00:25:16,490"
+			},
+			"offsets": {
+				"from": 1505290,
+				"to": 1516490
+			},
+			"text": " So it reorganized community that maybe was geographic before that you would have these relationships with people who were your neighbors, and it became around shared values."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,690",
+				"to": "00:25:28,860"
+			},
+			"offsets": {
+				"from": 1516690,
+				"to": 1528860
+			},
+			"text": " And so people who lived a little further away from each other, but similarly wanted to be involved in low-input organic agriculture, were driving so that they could see each other through these Farm Improvement Club meetings."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,660",
+				"to": "00:25:34,220"
+			},
+			"offsets": {
+				"from": 1529660,
+				"to": 1534220
+			},
+			"text": " All the clubs would get together at the end of the year and demonstrate what they'd learned."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,480",
+				"to": "00:25:35,700"
+			},
+			"offsets": {
+				"from": 1534480,
+				"to": 1535700
+			},
+			"text": " There were farm tours."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,080",
+				"to": "00:25:39,040"
+			},
+			"offsets": {
+				"from": 1536080,
+				"to": 1539040
+			},
+			"text": " And, of course, there were fun things for people who eat food, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,660",
+				"to": "00:25:42,700"
+			},
+			"offsets": {
+				"from": 1539660,
+				"to": 1542700
+			},
+			"text": " You know, pig roasts for people who were doing pastured pigs."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,900",
+				"to": "00:25:46,210"
+			},
+			"offsets": {
+				"from": 1542900,
+				"to": 1546210
+			},
+			"text": " And that became the new community."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,470",
+				"to": "00:25:52,030"
+			},
+			"offsets": {
+				"from": 1546470,
+				"to": 1552030
+			},
+			"text": " And it did cross new social lines because that was the important thing that people shared in common."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,190",
+				"to": "00:25:59,930"
+			},
+			"offsets": {
+				"from": 1552190,
+				"to": 1559930
+			},
+			"text": " So you had, you know, these libertarians who were involved in organics because they didn't want Monsanto or the government telling them what to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,010",
+				"to": "00:26:07,970"
+			},
+			"offsets": {
+				"from": 1560010,
+				"to": 1567970
+			},
+			"text": " And you had these hippies who were, you know, had Red Silent Spring and really believed that we shouldn't be spraying chemicals on anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,970",
+				"to": "00:26:20,760"
+			},
+			"offsets": {
+				"from": 1567970,
+				"to": 1580760
+			},
+			"text": " And you had these people who had deep Christian values and believed that care for creation was at the center of what they needed to do as farmers and really didn't see chemicals as part of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,160",
+				"to": "00:26:27,200"
+			},
+			"offsets": {
+				"from": 1581160,
+				"to": 1587200
+			},
+			"text": " And so you have all of them coming together in these groups because they believe in organic agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,200",
+				"to": "00:26:41,690"
+			},
+			"offsets": {
+				"from": 1587200,
+				"to": 1601690
+			},
+			"text": " When I was designing my study in southern Mexico for my dissertation, I was looking at biodiversity and how people use diversity to get through hard times and to achieve food security when they're poor."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:42,210",
+				"to": "00:26:52,170"
+			},
+			"offsets": {
+				"from": 1602210,
+				"to": 1612170
+			},
+			"text": " But all the ways that I knew how to look at it were this tying together of the ecologies and the economies of those places."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,390",
+				"to": "00:27:02,850"
+			},
+			"offsets": {
+				"from": 1612390,
+				"to": 1622850
+			},
+			"text": " And I quickly realized, and luckily Chelsea was there with me to help to point this out, is that I couldn't touch some of the bigger questions that I wanted to ask there."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,330",
+				"to": "00:27:11,510"
+			},
+			"offsets": {
+				"from": 1623330,
+				"to": 1631510
+			},
+			"text": " Such as like these young people that we were working with, were they going to stay in that town and keep farming or they're going to leave?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,610",
+				"to": "00:27:12,470"
+			},
+			"offsets": {
+				"from": 1631610,
+				"to": 1632470
+			},
+			"text": " Like a lot of people were."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,230",
+				"to": "00:27:23,300"
+			},
+			"offsets": {
+				"from": 1633230,
+				"to": 1643300
+			},
+			"text": " And so there's like this need for like a vibrant rural culture that I think we don't talk about a lot when we talk about food sovereignty or we talk about agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,460",
+				"to": "00:27:35,890"
+			},
+			"offsets": {
+				"from": 1643460,
+				"to": 1655890
+			},
+			"text": " Yes. And I think actually that's an interesting segue into a conversation about agroecology and technology too and, you know, traditional farming systems versus agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,890",
+				"to": "00:27:49,390"
+			},
+			"offsets": {
+				"from": 1655890,
+				"to": 1669390
+			},
+			"text": " Because I think a lot of technologies and ideas that were not part of these people's parents' time or these people's grandparents' time are really important to people our age who want to engage in the little underground movement in Montana."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,090",
+				"to": "00:27:55,960"
+			},
+			"offsets": {
+				"from": 1670090,
+				"to": 1675960
+			},
+			"text": " So I think the internet has just been massively important in facilitating this way of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:57,330",
+				"to": "00:28:02,150"
+			},
+			"offsets": {
+				"from": 1677330,
+				"to": 1682150
+			},
+			"text": " You know, two young farmers who are doing this are both journalists and teachers."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,290",
+				"to": "00:28:16,730"
+			},
+			"offsets": {
+				"from": 1682290,
+				"to": 1696730
+			},
+			"text": " And they're able to teach and they're able to edit and they're able to be part of the larger intellectual community that really inspires and feeds them in doing what they do and be there in Power Montana."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,430",
+				"to": "00:28:21,530"
+			},
+			"offsets": {
+				"from": 1697430,
+				"to": 1701530
+			},
+			"text": " You know, which another community, probably most people listening to this have not heard of."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,010",
+				"to": "00:28:28,450"
+			},
+			"offsets": {
+				"from": 1702010,
+				"to": 1708450
+			},
+			"text": " And through those connections, people from all over the country, all over the world who are on a road trip end up stopping by."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:29,240",
+				"to": "00:28:30,880"
+			},
+			"offsets": {
+				"from": 1709240,
+				"to": 1710880
+			},
+			"text": " And so I think it's very different."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,760",
+				"to": "00:28:41,640"
+			},
+			"offsets": {
+				"from": 1711760,
+				"to": 1721640
+			},
+			"text": " The woman in this couple, Courtney, Courtney Cogill, reflected to me that her mother was a feminist and she grew up on a farm with her mom and her dad."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,820",
+				"to": "00:28:45,250"
+			},
+			"offsets": {
+				"from": 1721820,
+				"to": 1725250
+			},
+			"text": " And her mom said, you know, don't be a farmer."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,750",
+				"to": "00:28:47,420"
+			},
+			"offsets": {
+				"from": 1725750,
+				"to": 1727420
+			},
+			"text": " You have other opportunities."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,420",
+				"to": "00:28:54,780"
+			},
+			"offsets": {
+				"from": 1727420,
+				"to": 1734780
+			},
+			"text": " As a woman, it's going to be really important for you to be able to engage more broadly with your community and have other roles."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,160",
+				"to": "00:29:14,160"
+			},
+			"offsets": {
+				"from": 1735160,
+				"to": 1754160
+			},
+			"text": " And Courtney said, it's just blown her mom's mind to see who she can be as a woman farmer with a very different society that in many ways is facilitated by these connections we have through the Internet, that she can be a rural woman and be engaged in so many things that were not available to her mom."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,380",
+				"to": "00:29:17,320"
+			},
+			"offsets": {
+				"from": 1754380,
+				"to": 1757320
+			},
+			"text": " And I just think that's beautiful and really important."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,320",
+				"to": "00:29:24,890"
+			},
+			"offsets": {
+				"from": 1757320,
+				"to": 1764890
+			},
+			"text": " A lot of rural places I've visited, you have that immediate feeling that it's the middle of nowhere, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,950",
+				"to": "00:29:27,350"
+			},
+			"offsets": {
+				"from": 1764950,
+				"to": 1767350
+			},
+			"text": " That you're far from where things are happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,570",
+				"to": "00:29:36,720"
+			},
+			"offsets": {
+				"from": 1767570,
+				"to": 1776720
+			},
+			"text": " But there's other ones, like a cooperative I recently visited in the Pueblo Mountains in Mexico, where it's far from things."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,920",
+				"to": "00:29:40,590"
+			},
+			"offsets": {
+				"from": 1776920,
+				"to": 1780590
+			},
+			"text": " But you have just that feeling that this is where things are happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,130",
+				"to": "00:29:47,060"
+			},
+			"offsets": {
+				"from": 1781130,
+				"to": 1787060
+			},
+			"text": " I just feel the excitement in some of those places where it's like, we're making the world as we do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,360",
+				"to": "00:30:01,180"
+			},
+			"offsets": {
+				"from": 1787360,
+				"to": 1801180
+			},
+			"text": " Right. Yeah. And, you know, from another perspective, you can feel really isolated in an urban environment if you have no connection to land or no connection to where the resources that supply your life come from."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,420",
+				"to": "00:30:09,020"
+			},
+			"offsets": {
+				"from": 1801420,
+				"to": 1809020
+			},
+			"text": " So it's interesting, you know, people in a very rural place connecting the Internet, people in a very urban place making a community garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,860",
+				"to": "00:30:13,980"
+			},
+			"offsets": {
+				"from": 1809860,
+				"to": 1813980
+			},
+			"text": " We're all trying to fashion these complete lives that make us feel connected."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,600",
+				"to": "00:30:21,650"
+			},
+			"offsets": {
+				"from": 1815600,
+				"to": 1821650
+			},
+			"text": " So I think this is a related question, but when did you know that this was a story for a popular audience?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,420",
+				"to": "00:30:25,920"
+			},
+			"offsets": {
+				"from": 1823420,
+				"to": 1825920
+			},
+			"text": " Well, I did most of this work in 2012."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:26,440",
+				"to": "00:30:31,060"
+			},
+			"offsets": {
+				"from": 1826440,
+				"to": 1831060
+			},
+			"text": " So I knew the first thing I knew was that I wanted to learn from this group of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,060",
+				"to": "00:30:38,650"
+			},
+			"offsets": {
+				"from": 1831060,
+				"to": 1838650
+			},
+			"text": " And I knew that coming into graduate school, I had worked for one of them who's a United States senator, John Tester."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,910",
+				"to": "00:30:42,390"
+			},
+			"offsets": {
+				"from": 1838910,
+				"to": 1842390
+			},
+			"text": " I was his legislative correspondent for agriculture and natural resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,730",
+				"to": "00:30:45,690"
+			},
+			"offsets": {
+				"from": 1842730,
+				"to": 1845690
+			},
+			"text": " So that job came out of I had been a country singer."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,970",
+				"to": "00:30:47,550"
+			},
+			"offsets": {
+				"from": 1845970,
+				"to": 1847550
+			},
+			"text": " I was seeing farmers struggling."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,890",
+				"to": "00:30:57,750"
+			},
+			"offsets": {
+				"from": 1847890,
+				"to": 1857750
+			},
+			"text": " I felt there was this distance between what I was singing about and this rural utopia that I very much hoped was true and the structural conditions that farmers were up against."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:58,010",
+				"to": "00:31:08,450"
+			},
+			"offsets": {
+				"from": 1858010,
+				"to": 1868450
+			},
+			"text": " So I went to work for John Tester through him, became aware that he was part of a much larger movement, that he wasn't just this one guy who stood up and said, I want to be organic and was so charismatic."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,450",
+				"to": "00:31:12,350"
+			},
+			"offsets": {
+				"from": 1868450,
+				"to": 1872350
+			},
+			"text": " He made it all the way to the Senate that he came out of a larger group."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,110",
+				"to": "00:31:17,720"
+			},
+			"offsets": {
+				"from": 1873110,
+				"to": 1877720
+			},
+			"text": " So I knew I wanted to learn from this group and I came into graduate school with that intention."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,640",
+				"to": "00:31:35,060"
+			},
+			"offsets": {
+				"from": 1878640,
+				"to": 1895060
+			},
+			"text": " And then I came into my research with the intention of doing a participatory action project that through my research, I would learn and I would serve, that there would be a contribution in my work that would reciprocate from, of course, the value of all that knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,640",
+				"to": "00:31:41,440"
+			},
+			"offsets": {
+				"from": 1895640,
+				"to": 1901440
+			},
+			"text": " And then when I was talking to people, they had such amazing narratives to share."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,440",
+				"to": "00:31:55,840"
+			},
+			"offsets": {
+				"from": 1901440,
+				"to": 1915840
+			},
+			"text": " Nearly everything I learned was in the form of a narrative and I could certainly sort of code that and turn it into sort of a sociological paper, but it lost some of its richness in that process."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,840",
+				"to": "00:32:10,030"
+			},
+			"offsets": {
+				"from": 1915840,
+				"to": 1930030
+			},
+			"text": " These stories had a profundity in that farmers would talk about ecology and the necessity of plants working together in certain ways, but they would transition very fluidly to talking about how they were working together in their human community."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:10,770",
+				"to": "00:32:18,590"
+			},
+			"offsets": {
+				"from": 1930770,
+				"to": 1938590
+			},
+			"text": " And their reflection on moving from a paradigm that was more about competition to one that was more about complementarity and working together."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,290",
+				"to": "00:32:24,710"
+			},
+			"offsets": {
+				"from": 1939290,
+				"to": 1944710
+			},
+			"text": " And I felt that message in its narrative form was so necessary."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,710",
+				"to": "00:32:37,870"
+			},
+			"offsets": {
+				"from": 1944710,
+				"to": 1957870
+			},
+			"text": " It just seemed like a wisdom so appropriate to our times and something that I thought would really communicate to a wide range of people, including young people who wanted to hear from their elders."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,870",
+				"to": "00:32:47,030"
+			},
+			"offsets": {
+				"from": 1957870,
+				"to": 1967030
+			},
+			"text": " I mean, that's what brought me there, right, as a Montanan back among people from my home state who were doing something that I felt was really deeply right in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,250",
+				"to": "00:33:03,130"
+			},
+			"offsets": {
+				"from": 1967250,
+				"to": 1983130
+			},
+			"text": " And I thought that that could communicate through writing to others who, whether they work in agriculture or whether they work in housing justice or, you know, any number of things, could hear in the voices of these people hope and inspiration and some guidance."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,130",
+				"to": "00:33:11,170"
+			},
+			"offsets": {
+				"from": 1983130,
+				"to": 1991170
+			},
+			"text": " And so you've got to talk to a lot of audiences and including talk to people that you wrote about after that book came out."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,250",
+				"to": "00:33:12,530"
+			},
+			"offsets": {
+				"from": 1991250,
+				"to": 1992530
+			},
+			"text": " So how has it been received?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,280",
+				"to": "00:33:16,870"
+			},
+			"offsets": {
+				"from": 1993280,
+				"to": 1996870
+			},
+			"text": " What's been like, how has that engagement worked?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,450",
+				"to": "00:33:18,900"
+			},
+			"offsets": {
+				"from": 1997450,
+				"to": 1998900
+			},
+			"text": " I think it's been wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,060",
+				"to": "00:33:25,180"
+			},
+			"offsets": {
+				"from": 1999060,
+				"to": 2005180
+			},
+			"text": " And I think, you know, the most wonderful thing for me personally is that it has brought me in touch with lots of other kindred spirits."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:25,740",
+				"to": "00:33:35,890"
+			},
+			"offsets": {
+				"from": 2005740,
+				"to": 2015890
+			},
+			"text": " So what we did when the book came out in January of 2015 is David Oyen, the farmer at the center of this story, and I went to about 50 cities."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,890",
+				"to": "00:33:37,350"
+			},
+			"offsets": {
+				"from": 2015890,
+				"to": 2017350
+			},
+			"text": " We went to college campuses."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,350",
+				"to": "00:33:38,650"
+			},
+			"offsets": {
+				"from": 2017350,
+				"to": 2018650
+			},
+			"text": " We went to restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,650",
+				"to": "00:33:39,910"
+			},
+			"offsets": {
+				"from": 2018650,
+				"to": 2019910
+			},
+			"text": " We went to bookstores."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:40,330",
+				"to": "00:33:46,690"
+			},
+			"offsets": {
+				"from": 2020330,
+				"to": 2026690
+			},
+			"text": " And who we met was a wide range of people, but we met a lot of people who are doing these things in their own communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,330",
+				"to": "00:34:05,830"
+			},
+			"offsets": {
+				"from": 2027330,
+				"to": 2045830
+			},
+			"text": " So, you know, I hope that it was kind of this spur to trans-local organizing and communication that there's kind of a shot in the arm for all of us when we meet people in other places who are doing something appropriate to their own ecology and community, but inspired by a similar set of values."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,730",
+				"to": "00:34:09,810"
+			},
+			"offsets": {
+				"from": 2046730,
+				"to": 2049810
+			},
+			"text": " The first week of that was just the most amazing thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,810",
+				"to": "00:34:24,910"
+			},
+			"offsets": {
+				"from": 2049810,
+				"to": 2064910
+			},
+			"text": " 25 of these farmers came to the Bay Area, and we did four events here, and, you know, their children were there, and there was this amazing engagement of different people in my life who I respect for so many reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,010",
+				"to": "00:34:35,870"
+			},
+			"offsets": {
+				"from": 2065010,
+				"to": 2075870
+			},
+			"text": " My student colleagues and some of my faculty mentors and these farmers who I've been working with, the Bay Area community around sustainable food, all having a conversation and eating lentils."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,730",
+				"to": "00:34:42,370"
+			},
+			"offsets": {
+				"from": 2076730,
+				"to": 2082370
+			},
+			"text": " So, you know, I hope it's been an opportunity for reflection, an opportunity for inspiration."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,710",
+				"to": "00:34:51,110"
+			},
+			"offsets": {
+				"from": 2083710,
+				"to": 2091110
+			},
+			"text": " And, you know, it's the International Year of Pulses this year declared by the UN, so we have another round of it coming up."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,190",
+				"to": "00:34:53,450"
+			},
+			"offsets": {
+				"from": 2091190,
+				"to": 2093450
+			},
+			"text": " The book is coming out in paperback in February."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,010",
+				"to": "00:34:57,370"
+			},
+			"offsets": {
+				"from": 2095010,
+				"to": 2097370
+			},
+			"text": " And so there's a lot of elements to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,430",
+				"to": "00:35:14,080"
+			},
+			"offsets": {
+				"from": 2097430,
+				"to": 2114080
+			},
+			"text": " There's all these elements about working in community, but there's also some elements more literally about lentils and pulses and plant-based proteins as really important sources of health, as really important in the health of our agro-ecosystems."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,080",
+				"to": "00:35:16,300"
+			},
+			"offsets": {
+				"from": 2114080,
+				"to": 2116300
+			},
+			"text": " So it has many threads."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,660",
+				"to": "00:35:30,900"
+			},
+			"offsets": {
+				"from": 2117660,
+				"to": 2130900
+			},
+			"text": " The flip side to my question about the popular audiences, you chose one of the most theoretical and elite programs that I can think of to study agriculture in."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,440",
+				"to": "00:35:45,970"
+			},
+			"offsets": {
+				"from": 2131440,
+				"to": 2145970
+			},
+			"text": " So how did you choose UC Berkeley geography and how was there a tension with like the narratives and the folksy nature of Montana and that highly theoretical graduate program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,970",
+				"to": "00:35:50,910"
+			},
+			"offsets": {
+				"from": 2146970,
+				"to": 2150910
+			},
+			"text": " I was naive going into graduate school, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,390",
+				"to": "00:35:57,190"
+			},
+			"offsets": {
+				"from": 2151390,
+				"to": 2157190
+			},
+			"text": " Universities are places where we all learn together and it's wonderful and all knowledge is welcome."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,370",
+				"to": "00:35:59,410"
+			},
+			"offsets": {
+				"from": 2158370,
+				"to": 2159410
+			},
+			"text": " No, it's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,410",
+				"to": "00:36:09,840"
+			},
+			"offsets": {
+				"from": 2159410,
+				"to": 2169840
+			},
+			"text": " It's true that graduate programs in the social sciences and particularly the one I was in, they are structured to train people to produce new theory."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,400",
+				"to": "00:36:23,300"
+			},
+			"offsets": {
+				"from": 2170400,
+				"to": 2183300
+			},
+			"text": " That is what is assumed you will do with your project, that you will find holes in existing bodies of social theory and you will come up with a case study that allows you to fill those holes, to speak to those holes."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:24,440",
+				"to": "00:36:26,530"
+			},
+			"offsets": {
+				"from": 2184440,
+				"to": 2186530
+			},
+			"text": " I'm on the job market now."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,590",
+				"to": "00:36:27,370"
+			},
+			"offsets": {
+				"from": 2186590,
+				"to": 2187370
+			},
+			"text": " I'm teaching now."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,850",
+				"to": "00:36:48,530"
+			},
+			"offsets": {
+				"from": 2187850,
+				"to": 2208530
+			},
+			"text": " I'm really passionate about thinking about which holes we're filling differently, that maybe we could look at the public dialogue and ask which questions need to be answered for the public good and the good of this dialogue, rather than starting with, you know, what are the holes in the bodies of social theory?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,320",
+				"to": "00:37:03,600"
+			},
+			"offsets": {
+				"from": 2209320,
+				"to": 2223600
+			},
+			"text": " So me and many of my colleagues, I think, had to try to find alignment to some extent between what appeared to be filling a hole in a body of social theory and, you know, what we were passionate about in terms of contributing to public dialogue."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,960",
+				"to": "00:37:26,320"
+			},
+			"offsets": {
+				"from": 2223960,
+				"to": 2246320
+			},
+			"text": " What I did really value about that social science training and reading Foucault and reading Marx and particularly reading Donna Haraway and Jean Lave, you know, these are feminist theories of knowledge production discussing what it means to be a situated knower, what it really means to be a curious person in the middle of an ecosystem."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:26,420",
+				"to": "00:37:40,220"
+			},
+			"offsets": {
+				"from": 2246420,
+				"to": 2260220
+			},
+			"text": " I valued that because it gave me time for deep reflection and I met so many people who had thought really, really deeply about their responsibility as people in an inequitable society."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,420",
+				"to": "00:37:58,600"
+			},
+			"offsets": {
+				"from": 2260420,
+				"to": 2278600
+			},
+			"text": " And that's kind of in the water, I think, in the air at UC Berkeley is that people who are there as graduate students, definitely in the social sciences, but also often in the natural sciences of the humanities, their basic fundamental motive force is that they wish to see a better world."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,800",
+				"to": "00:38:20,760"
+			},
+			"offsets": {
+				"from": 2278800,
+				"to": 2300760
+			},
+			"text": " So, you know, even through sometimes kind of the maddening hoops that sometimes come with social science training that sometimes is rooted in older paradigms of what education is about in the place of the university and society, that was always present for me at Berkeley and my graduate student colleagues were such a source of support."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:20,760",
+				"to": "00:38:38,010"
+			},
+			"offsets": {
+				"from": 2300760,
+				"to": 2318010
+			},
+			"text": " I remember the first semester when people started talking about this hole and how your job as a scholar is to kind of contort yourself into filling them."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:39,220",
+				"to": "00:38:52,300"
+			},
+			"offsets": {
+				"from": 2319220,
+				"to": 2332300
+			},
+			"text": " I've always hated that metaphor for our responsibility as thinkers because it totally divorces us from curiosity and it totally divorces us from this feeling of like engagement."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,300",
+				"to": "00:39:11,270"
+			},
+			"offsets": {
+				"from": 2332300,
+				"to": 2351270
+			},
+			"text": " And I think some of those scholars that you cited, particularly Donna Haraway, you know, I don't think she was looking for a hole when she wrote a book about her dogs, but it busted open this, like there's this feeling of being pulled through creativity in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:11,570",
+				"to": "00:39:13,630"
+			},
+			"offsets": {
+				"from": 2351570,
+				"to": 2353630
+			},
+			"text": " And I think that comes across in your book too."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:13,730",
+				"to": "00:39:18,900"
+			},
+			"offsets": {
+				"from": 2353730,
+				"to": 2358900
+			},
+			"text": " Like, is there a resistance to that idea of what we're supposed to do as thinkers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,030",
+				"to": "00:39:22,930"
+			},
+			"offsets": {
+				"from": 2360030,
+				"to": 2362930
+			},
+			"text": " Like, is there, do you know what I mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,930",
+				"to": "00:39:27,870"
+			},
+			"offsets": {
+				"from": 2362930,
+				"to": 2367870
+			},
+			"text": " Like, like, did you have to resist that idea even as you like engaged as part of it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,850",
+				"to": "00:39:30,370"
+			},
+			"offsets": {
+				"from": 2368850,
+				"to": 2370370
+			},
+			"text": " Yeah, yeah, I think so."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:30,470",
+				"to": "00:39:38,350"
+			},
+			"offsets": {
+				"from": 2370470,
+				"to": 2378350
+			},
+			"text": " And I think, you know, looking back, I actually had this fabulous professor in undergrad who said, you know, social science is a mythology."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,350",
+				"to": "00:39:40,350"
+			},
+			"offsets": {
+				"from": 2378350,
+				"to": 2380350
+			},
+			"text": " There is no such thing as social science."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:40,410",
+				"to": "00:39:44,790"
+			},
+			"offsets": {
+				"from": 2380410,
+				"to": 2384790
+			},
+			"text": " And I kind of didn't understand why he'd taken on, you know, this battle or what that was about."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:44,790",
+				"to": "00:39:56,760"
+			},
+			"offsets": {
+				"from": 2384790,
+				"to": 2396760
+			},
+			"text": " But looking back, I think it has to do with when people engaged in trying to answer questions about society and structures want to imitate the scientific method."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,000",
+				"to": "00:40:02,840"
+			},
+			"offsets": {
+				"from": 2397000,
+				"to": 2402840
+			},
+			"text": " It pushes us into this really funny way of thinking about how knowledge is constructed."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,840",
+				"to": "00:40:05,460"
+			},
+			"offsets": {
+				"from": 2402840,
+				"to": 2405460
+			},
+			"text": " And it's probably wrong for the natural sciences too."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:05,700",
+				"to": "00:40:09,880"
+			},
+			"offsets": {
+				"from": 2405700,
+				"to": 2409880
+			},
+			"text": " And I think Donna Haraway is a fabulous critique of all of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:09,940",
+				"to": "00:40:13,840"
+			},
+			"offsets": {
+				"from": 2409940,
+				"to": 2413840
+			},
+			"text": " But it's definitely wrong for how we think about social structures."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,780",
+				"to": "00:40:23,340"
+			},
+			"offsets": {
+				"from": 2414780,
+				"to": 2423340
+			},
+			"text": " You know, that we should follow this particular logic model of, you know, where's the hole in the knowledge and what experiment do we design to try to fill it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:23,740",
+				"to": "00:40:26,040"
+			},
+			"offsets": {
+				"from": 2423740,
+				"to": 2426040
+			},
+			"text": " And there are so many unfortunate results."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,300",
+				"to": "00:40:36,540"
+			},
+			"offsets": {
+				"from": 2426300,
+				"to": 2436540
+			},
+			"text": " The one that really bothered me was the idea that in order to create the notion that there is a hole, that there is genuinely some question no one has thought about adequately,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,020",
+				"to": "00:40:39,820"
+			},
+			"offsets": {
+				"from": 2437020,
+				"to": 2439820
+			},
+			"text": " I am going to have to throw people under the bus."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,080",
+				"to": "00:40:42,800"
+			},
+			"offsets": {
+				"from": 2440080,
+				"to": 2442800
+			},
+			"text": " I am going to have to discount other knowledges."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,800",
+				"to": "00:40:51,800"
+			},
+			"offsets": {
+				"from": 2442800,
+				"to": 2451800
+			},
+			"text": " I am going to, you know, have to do some combination of taking academic knowledges and framing them as inadequate to create space for what I'm doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,640",
+				"to": "00:40:59,700"
+			},
+			"offsets": {
+				"from": 2452640,
+				"to": 2459700
+			},
+			"text": " And or deny that these other knowledges exist in places outside the academy to speak to this question."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,840",
+				"to": "00:41:06,980"
+			},
+			"offsets": {
+				"from": 2459840,
+				"to": 2466980
+			},
+			"text": " It just never seemed, it just didn't seem right to me to start some kind of a statement about what I'd learned with,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:07,160",
+				"to": "00:41:10,080"
+			},
+			"offsets": {
+				"from": 2467160,
+				"to": 2470080
+			},
+			"text": " here's why nobody else has done something worthwhile."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:11,980",
+				"to": "00:41:16,170"
+			},
+			"offsets": {
+				"from": 2471980,
+				"to": 2476170
+			},
+			"text": " You know, I really think that knowledge is built on each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:16,530",
+				"to": "00:41:23,650"
+			},
+			"offsets": {
+				"from": 2476530,
+				"to": 2483650
+			},
+			"text": " And I mean, that's why we're all at the university learning is not to figure out what's inadequate about the things we're reading."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:23,650",
+				"to": "00:41:29,690"
+			},
+			"offsets": {
+				"from": 2483650,
+				"to": 2489690
+			},
+			"text": " That was so frustrating to me when that was supposed to be the idea of the seminar or the paper is to discuss what was inadequate."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,910",
+				"to": "00:41:36,950"
+			},
+			"offsets": {
+				"from": 2490910,
+				"to": 2496950
+			},
+			"text": " We're all there reading that because we think there's something insightful that's going to help us think about what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,650",
+				"to": "00:41:40,320"
+			},
+			"offsets": {
+				"from": 2497650,
+				"to": 2500320
+			},
+			"text": " So I think that leads to different rhetorical practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,240",
+				"to": "00:41:46,240"
+			},
+			"offsets": {
+				"from": 2501240,
+				"to": 2506240
+			},
+			"text": " And I think it has to lead to a different way of thinking about how you formulate a research question."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,890",
+				"to": "00:41:47,990"
+			},
+			"offsets": {
+				"from": 2507890,
+				"to": 2507990
+			},
+			"text": " Awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:48,630",
+				"to": "00:41:53,500"
+			},
+			"offsets": {
+				"from": 2508630,
+				"to": 2513500
+			},
+			"text": " I guess to bring it back to, to build on this and bring it back to sustainable agriculture,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,980",
+				"to": "00:42:01,640"
+			},
+			"offsets": {
+				"from": 2513980,
+				"to": 2521640
+			},
+			"text": " over the course of this research and of writing it and on sharing that experience with broader audiences,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:02,040",
+				"to": "00:42:06,500"
+			},
+			"offsets": {
+				"from": 2522040,
+				"to": 2526500
+			},
+			"text": " has your, has your theory of how things changed, changed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,740",
+				"to": "00:42:07,420"
+			},
+			"offsets": {
+				"from": 2526740,
+				"to": 2527420
+			},
+			"text": " Do you know what I mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,460",
+				"to": "00:42:10,880"
+			},
+			"offsets": {
+				"from": 2527460,
+				"to": 2530880
+			},
+			"text": " Like, has, what have you learned about like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,880",
+				"to": "00:42:17,580"
+			},
+			"offsets": {
+				"from": 2530880,
+				"to": 2537580
+			},
+			"text": " like how we move towards a world that feels more livable, feels more, more possible?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:19,730",
+				"to": "00:42:24,190"
+			},
+			"offsets": {
+				"from": 2539730,
+				"to": 2544190
+			},
+			"text": " Well, I think, you know, Martin Luther King, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:24,850",
+				"to": "00:42:30,370"
+			},
+			"offsets": {
+				"from": 2544850,
+				"to": 2550370
+			},
+			"text": " The arc of justice is long or the arc of history is long, but it bends toward justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,830",
+				"to": "00:42:37,540"
+			},
+			"offsets": {
+				"from": 2550830,
+				"to": 2557540
+			},
+			"text": " One reason I wanted to work with this group of farmers is something I understood from them from my earliest interactions with them"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:37,540",
+				"to": "00:42:43,960"
+			},
+			"offsets": {
+				"from": 2557540,
+				"to": 2563960
+			},
+			"text": " is that they had a much longer horizon view of the world and their lives than I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:44,200",
+				"to": "00:42:46,360"
+			},
+			"offsets": {
+				"from": 2564200,
+				"to": 2566360
+			},
+			"text": " I don't think I was trained that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,360",
+				"to": "00:42:53,990"
+			},
+			"offsets": {
+				"from": 2566360,
+				"to": 2573990
+			},
+			"text": " I don't think most of us are trained that way in, you know, sort of a middle-class academic environment"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:53,990",
+				"to": "00:42:59,710"
+			},
+			"offsets": {
+				"from": 2573990,
+				"to": 2579710
+			},
+			"text": " as young people who are being trained to make a difference and do well in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:59,810",
+				"to": "00:43:05,270"
+			},
+			"offsets": {
+				"from": 2579810,
+				"to": 2585270
+			},
+			"text": " I think there were a lot of these kind of short-term projects, you know, do well on the SAT,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,890",
+				"to": "00:43:07,710"
+			},
+			"offsets": {
+				"from": 2585890,
+				"to": 2587710
+			},
+			"text": " classes that are a semester long."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,810",
+				"to": "00:43:11,790"
+			},
+			"offsets": {
+				"from": 2587810,
+				"to": 2591790
+			},
+			"text": " There's all these small tasks to complete and try to complete well."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:12,030",
+				"to": "00:43:19,670"
+			},
+			"offsets": {
+				"from": 2592030,
+				"to": 2599670
+			},
+			"text": " And I realized that I had never done anything with a longer than maybe four-year horizon, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:19,750",
+				"to": "00:43:25,290"
+			},
+			"offsets": {
+				"from": 2599750,
+				"to": 2605290
+			},
+			"text": " If you're talking about college or high school, and really within that were these shorter-term projects."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:25,670",
+				"to": "00:43:33,660"
+			},
+			"offsets": {
+				"from": 2605670,
+				"to": 2613660
+			},
+			"text": " And I wanted to try to get a sense for what it would be like to think about a goal that maybe you wouldn't even meet within your own lifetime,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,660",
+				"to": "00:43:39,600"
+			},
+			"offsets": {
+				"from": 2613660,
+				"to": 2619600
+			},
+			"text": " that you would work toward and that you would encourage future generations to continue to work toward."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:40,420",
+				"to": "00:43:44,060"
+			},
+			"offsets": {
+				"from": 2620420,
+				"to": 2624060
+			},
+			"text": " And how different that is as a way of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:44,200",
+				"to": "00:43:50,820"
+			},
+			"offsets": {
+				"from": 2624200,
+				"to": 2630820
+			},
+			"text": " I mean, really how different that is in your identity as a person who wants to value yourself and feel like you're contributing."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,080",
+				"to": "00:43:57,620"
+			},
+			"offsets": {
+				"from": 2631080,
+				"to": 2637620
+			},
+			"text": " What if you never, what if there's no sort of paper handed back with an A every month or every couple weeks?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:57,620",
+				"to": "00:44:04,010"
+			},
+			"offsets": {
+				"from": 2637620,
+				"to": 2644010
+			},
+			"text": " There's no like response paper, there's no sort of quick hit with building an agroecological system."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:04,010",
+				"to": "00:44:09,990"
+			},
+			"offsets": {
+				"from": 2644010,
+				"to": 2649990
+			},
+			"text": " And the more landscape scale, social scale you get with that vision, the more patient you have to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,990",
+				"to": "00:44:19,860"
+			},
+			"offsets": {
+				"from": 2649990,
+				"to": 2659860
+			},
+			"text": " Which is not to say, you know, patient in the sense of putting up with a system that's not just and that's not sustainable,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,300",
+				"to": "00:44:25,540"
+			},
+			"offsets": {
+				"from": 2660300,
+				"to": 2665540
+			},
+			"text": " but working really hard and working with a sense of urgency on a long-term project."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:26,360",
+				"to": "00:44:36,080"
+			},
+			"offsets": {
+				"from": 2666360,
+				"to": 2676080
+			},
+			"text": " And the more involved I am with sustainable agriculture, the longer I do it, the more I realize that that particular kind of patience is key."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:36,360",
+				"to": "00:44:41,100"
+			},
+			"offsets": {
+				"from": 2676360,
+				"to": 2681100
+			},
+			"text": " And I will be working on cultivating that for the rest of my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:42,370",
+				"to": "00:44:50,270"
+			},
+			"offsets": {
+				"from": 2682370,
+				"to": 2690270
+			},
+			"text": " So what's next in this year of pulses for you and your, like, where's your curiosity bringing you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,510",
+				"to": "00:44:54,300"
+			},
+			"offsets": {
+				"from": 2690510,
+				"to": 2694300
+			},
+			"text": " And where does this project go from here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:55,240",
+				"to": "00:44:59,180"
+			},
+			"offsets": {
+				"from": 2695240,
+				"to": 2699180
+			},
+			"text": " Well, I have a really exciting year ahead of me on a number of fronts."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:59,360",
+				"to": "00:45:05,740"
+			},
+			"offsets": {
+				"from": 2699360,
+				"to": 2705740
+			},
+			"text": " I get to do a lot of teaching this year, which I've been really excited about for a while and finally have the opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:06,120",
+				"to": "00:45:12,820"
+			},
+			"offsets": {
+				"from": 2706120,
+				"to": 2712820
+			},
+			"text": " I'm teaching a class at Stanford right now called Meeting the Global Sustainability Challenge for first-year students."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:12,820",
+				"to": "00:45:19,140"
+			},
+			"offsets": {
+				"from": 2712820,
+				"to": 2719140
+			},
+			"text": " And it's just phenomenally interesting to hear how they think about how we're going to meet these long-term goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:19,860",
+				"to": "00:45:24,900"
+			},
+			"offsets": {
+				"from": 2719860,
+				"to": 2724900
+			},
+			"text": " And at Berkeley, we have a new minor in food systems that just launched this academic year."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:25,340",
+				"to": "00:45:31,880"
+			},
+			"offsets": {
+				"from": 2725340,
+				"to": 2731880
+			},
+			"text": " And I get to teach a community engagement course that's a requirement that all these students take as juniors or seniors."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,140",
+				"to": "00:45:46,120"
+			},
+			"offsets": {
+				"from": 2732140,
+				"to": 2746120
+			},
+			"text": " And so that's also been really interesting to think about how do we structure community-engaged scholarship, even just over the course of a semester, so that students can have transformative learning experiences working with groups in the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,210",
+				"to": "00:45:51,990"
+			},
+			"offsets": {
+				"from": 2747210,
+				"to": 2751990
+			},
+			"text": " And then, yeah, then the paperback of Lentil Underground is coming out, and it's the year of the pulses."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:52,770",
+				"to": "00:45:55,890"
+			},
+			"offsets": {
+				"from": 2752770,
+				"to": 2755890
+			},
+			"text": " I get to do some really interesting events around Earth Day."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:56,570",
+				"to": "00:46:01,130"
+			},
+			"offsets": {
+				"from": 2756570,
+				"to": 2761130
+			},
+			"text": " There's this great program in Hayward, actually, called the Hayward Book to Action Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:01,470",
+				"to": "00:46:06,790"
+			},
+			"offsets": {
+				"from": 2761470,
+				"to": 2766790
+			},
+			"text": " It's a partnership between California State University, East Bay, and the Hayward Public Library."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:07,070",
+				"to": "00:46:10,030"
+			},
+			"offsets": {
+				"from": 2767070,
+				"to": 2770030
+			},
+			"text": " And it's sort of like a common reading program book club."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:10,350",
+				"to": "00:46:16,390"
+			},
+			"offsets": {
+				"from": 2770350,
+				"to": 2776390
+			},
+			"text": " Everybody reads the same book and there are discussions, but there's also service connected to the message of the book."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:16,830",
+				"to": "00:46:23,650"
+			},
+			"offsets": {
+				"from": 2776830,
+				"to": 2783650
+			},
+			"text": " And so they've chosen Lentil Underground this year, and there will be all these wonderful seed library events and community gardening events."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:23,930",
+				"to": "00:46:26,430"
+			},
+			"offsets": {
+				"from": 2783930,
+				"to": 2786430
+			},
+			"text": " So that's a little bit about what I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:26,750",
+				"to": "00:46:32,410"
+			},
+			"offsets": {
+				"from": 2786750,
+				"to": 2792410
+			},
+			"text": " And I get to go to Australia for the first time for a festival called Taste Australia."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:32,830",
+				"to": "00:46:44,470"
+			},
+			"offsets": {
+				"from": 2792830,
+				"to": 2804470
+			},
+			"text": " I've wanted to do that for a long time, and it's a neat full circle because that was the system, the Australian lay system, that originally inspired farmers in Montana to think about lentils."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,490",
+				"to": "00:46:55,090"
+			},
+			"offsets": {
+				"from": 2805490,
+				"to": 2815090
+			},
+			"text": " One of their comrades, a renegade scientist, went to this soil science congress in Australia in the late 60s and saw that people were using lentils in rotation with grain."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:55,770",
+				"to": "00:47:01,610"
+			},
+			"offsets": {
+				"from": 2815770,
+				"to": 2821610
+			},
+			"text": " So I get to go back to the origin of that idea and meet lentil farmers there."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:02,580",
+				"to": "00:47:02,680"
+			},
+			"offsets": {
+				"from": 2822580,
+				"to": 2822680
+			},
+			"text": " Awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:03,100",
+				"to": "00:47:06,100"
+			},
+			"offsets": {
+				"from": 2823100,
+				"to": 2826100
+			},
+			"text": " People can find your book, The Lentil Underground, anywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:06,760",
+				"to": "00:47:08,890"
+			},
+			"offsets": {
+				"from": 2826760,
+				"to": 2828890
+			},
+			"text": " But where else can they follow along with what you're doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:08,890",
+				"to": "00:47:16,690"
+			},
+			"offsets": {
+				"from": 2828890,
+				"to": 2836690
+			},
+			"text": " Yeah, so lentilunderground.com is intended to be community organizing virtually."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:17,410",
+				"to": "00:47:23,070"
+			},
+			"offsets": {
+				"from": 2837410,
+				"to": 2843070
+			},
+			"text": " So we have a resources for educators feature there, you know, obviously lots of recipes."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:23,880",
+				"to": "00:47:25,220"
+			},
+			"offsets": {
+				"from": 2843880,
+				"to": 2845220
+			},
+			"text": " So that's kind of the hub."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:26,070",
+				"to": "00:47:33,370"
+			},
+			"offsets": {
+				"from": 2846070,
+				"to": 2853370
+			},
+			"text": " I'm not a major social media user, but there is a Lentil Underground Facebook and a Lentil Underground Twitter."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:33,890",
+				"to": "00:47:34,920"
+			},
+			"offsets": {
+				"from": 2853890,
+				"to": 2854920
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:35,670",
+				"to": "00:47:36,880"
+			},
+			"offsets": {
+				"from": 2855670,
+				"to": 2856880
+			},
+			"text": " Well, thanks so much, Liz."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:36,920",
+				"to": "00:47:37,820"
+			},
+			"offsets": {
+				"from": 2856920,
+				"to": 2857820
+			},
+			"text": " I really appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:37,820",
+				"to": "00:47:40,050"
+			},
+			"offsets": {
+				"from": 2857820,
+				"to": 2860050
+			},
+			"text": " It's great to talk to you about these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:40,560",
+				"to": "00:47:41,270"
+			},
+			"offsets": {
+				"from": 2860560,
+				"to": 2861270
+			},
+			"text": " Thanks, Devin."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:41,620",
+				"to": "00:47:42,050"
+			},
+			"offsets": {
+				"from": 2861620,
+				"to": 2862050
+			},
+			"text": " Oh, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,090",
+				"to": "00:47:48,170"
+			},
+			"offsets": {
+				"from": 2862090,
+				"to": 2868170
+			},
+			"text": " And we'll have links to all those things in the show notes on our website, which is deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:48,890",
+				"to": "00:48:00,150"
+			},
+			"offsets": {
+				"from": 2868890,
+				"to": 2880150
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:00,470",
+				"to": "00:48:03,250"
+			},
+			"offsets": {
+				"from": 2880470,
+				"to": 2883250
+			},
+			"text": " Produced by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:03,760",
+				"to": "00:48:08,250"
+			},
+			"offsets": {
+				"from": 2883760,
+				"to": 2888250
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:08,790",
+				"to": "00:48:11,670"
+			},
+			"offsets": {
+				"from": 2888790,
+				"to": 2891670
+			},
+			"text": " If you have a food story of your own, we'd love to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:11,930",
+				"to": "00:48:16,810"
+			},
+			"offsets": {
+				"from": 2891930,
+				"to": 2896810
+			},
+			"text": " Call 510-859-7430 and leave us a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:17,300",
+				"to": "00:48:20,190"
+			},
+			"offsets": {
+				"from": 2897300,
+				"to": 2900190
+			},
+			"text": " Of course, you can get in touch with us in lots of different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:20,190",
+				"to": "00:48:23,810"
+			},
+			"offsets": {
+				"from": 2900190,
+				"to": 2903810
+			},
+			"text": " And they are all on the website, deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:24,570",
+				"to": "00:48:33,460"
+			},
+			"offsets": {
+				"from": 2904570,
+				"to": 2913460
+			},
+			"text": " If you like Delicious Revolution and want to help our show reach more people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:33,820",
+				"to": "00:48:34,620"
+			},
+			"offsets": {
+				"from": 2913820,
+				"to": 2914620
+			},
+			"text": " Thanks for listening."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:36,980",
+				"to": "00:48:39,400"
+			},
+			"offsets": {
+				"from": 2916980,
+				"to": 2919400
+			},
+			"text": " Delicious Revolution is brought to you by Satori Travel."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:39,620",
+				"to": "00:48:44,460"
+			},
+			"offsets": {
+				"from": 2919620,
+				"to": 2924460
+			},
+			"text": " If you're a traveler, and especially if you're thinking about going to Mexico or Japan, you've got to check it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:44,830",
+				"to": "00:48:50,990"
+			},
+			"offsets": {
+				"from": 2924830,
+				"to": 2930990
+			},
+			"text": " They offer unique guidebooks, custom-tailored trips, and a concierge service for planning your next great adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:51,470",
+				"to": "00:48:54,140"
+			},
+			"offsets": {
+				"from": 2931470,
+				"to": 2934140
+			},
+			"text": " Find out more at satorisatori.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:54,140",
+				"to": "00:48:54,970"
+			},
+			"offsets": {
+				"from": 2934140,
+				"to": 2934970
+			},
+			"text": " Music."
+		}
+	]
+}

@@ -1,0 +1,4630 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:03,940",
+				"to": "00:00:12,530"
+			},
+			"offsets": {
+				"from": 3940,
+				"to": 12530
+			},
+			"text": " You can be so resourceful and humanistic when you really empower people to have voice and when you're starting from the idea that they should be empowered and dignified."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,180",
+				"to": "00:00:21,000"
+			},
+			"offsets": {
+				"from": 13180,
+				"to": 21000
+			},
+			"text": " And so not everything is going to work, and not all Valerianci's programs work, and some of the ones to get to the poorest citizens, they still haven't cracked that nut."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,000",
+				"to": "00:00:33,140"
+			},
+			"offsets": {
+				"from": 21000,
+				"to": 33140
+			},
+			"text": " It's very difficult. But this idea of trying to get everyone together and talk it through in structured ways, creating spaces of participation, I think allows you to be resourceful in all these other interesting ways that we can't sit here and figure out."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,650",
+				"to": "00:00:38,040"
+			},
+			"offsets": {
+				"from": 33650,
+				"to": 38040
+			},
+			"text": " There's going to be some cool things that people can think about if you actually can get them together and create that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,670",
+				"to": "00:00:47,190"
+			},
+			"offsets": {
+				"from": 41670,
+				"to": 47190
+			},
+			"text": " My guest today on Delicious Revolution is Jahi Chappell."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,660",
+				"to": "00:00:55,010"
+			},
+			"offsets": {
+				"from": 47660,
+				"to": 55010
+			},
+			"text": " He's a political agroecologist with training in ecology and evolutionary biology, science and technology studies, and chemical engineering."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,010",
+				"to": "00:01:01,950"
+			},
+			"offsets": {
+				"from": 55010,
+				"to": 61950
+			},
+			"text": " He's a senior research fellow at the Center for Agroecology, Water, and Resilience at Coventry University in the UK."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,540",
+				"to": "00:01:09,420"
+			},
+			"offsets": {
+				"from": 62540,
+				"to": 69420
+			},
+			"text": " He's a fellow at Food First, and he's an adjunct faculty member at the School of the Environment in Washington State University."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,660",
+				"to": "00:01:17,190"
+			},
+			"offsets": {
+				"from": 69660,
+				"to": 77190
+			},
+			"text": " Jahi has recently published a book called Beginning to End Hunger, Food and the Environment in Belo Horizonte, Brazil, and beyond."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,690",
+				"to": "00:01:25,170"
+			},
+			"offsets": {
+				"from": 77690,
+				"to": 85170
+			},
+			"text": " It's rooted in his field of research in Belo Horizonte over more than a decade, and it presents a far-reaching analysis of how to end hunger,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,730",
+				"to": "00:01:31,500"
+			},
+			"offsets": {
+				"from": 85730,
+				"to": 91500
+			},
+			"text": " what's keeping us as a society from doing it, and how we might overcome the many obstacles in our way."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,210",
+				"to": "00:01:40,040"
+			},
+			"offsets": {
+				"from": 92210,
+				"to": 100040
+			},
+			"text": " I spoke to Jahi in the cafeteria of the United Nations Food and Agriculture Organization in Rome during a vibrant symposium on agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,350",
+				"to": "00:01:52,030"
+			},
+			"offsets": {
+				"from": 100350,
+				"to": 112030
+			},
+			"text": " Jahi has written a new book on hunger and the experience of greatly reducing hunger in Belo Horizonte called Beginning to End Hunger."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,850",
+				"to": "00:01:55,530"
+			},
+			"offsets": {
+				"from": 112850,
+				"to": 115530
+			},
+			"text": " It's one of the best books I've ever read on the subject."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,230",
+				"to": "00:02:01,010"
+			},
+			"offsets": {
+				"from": 116230,
+				"to": 121010
+			},
+			"text": " Jahi is a friend, and I'm really excited to talk to you about this."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,790",
+				"to": "00:02:02,970"
+			},
+			"offsets": {
+				"from": 121790,
+				"to": 122970
+			},
+			"text": " Yeah, thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,050",
+				"to": "00:02:05,020"
+			},
+			"offsets": {
+				"from": 123050,
+				"to": 125020
+			},
+			"text": " Yeah, I'm excited to have a chat about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,060",
+				"to": "00:02:10,120"
+			},
+			"offsets": {
+				"from": 125060,
+				"to": 130120
+			},
+			"text": " This is, I guess, my second talk about the book, and as you might know from your own experiences,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,120",
+				"to": "00:02:12,850"
+			},
+			"offsets": {
+				"from": 130120,
+				"to": 132850
+			},
+			"text": " just the way academic research works."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,990",
+				"to": "00:02:18,420"
+			},
+			"offsets": {
+				"from": 132990,
+				"to": 138420
+			},
+			"text": " There's such a gulf often between when you do the work and talking about it and analyzing it and the book coming out."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,600",
+				"to": "00:02:22,400"
+			},
+			"offsets": {
+				"from": 138600,
+				"to": 142400
+			},
+			"text": " So, yeah, I'm glad I'll be talking to you for one of the first ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,820",
+				"to": "00:02:28,600"
+			},
+			"offsets": {
+				"from": 142820,
+				"to": 148600
+			},
+			"text": " Can we start just with the story of Belo Horizonte, and when did you start doing research there,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,640",
+				"to": "00:02:34,240"
+			},
+			"offsets": {
+				"from": 148640,
+				"to": 154240
+			},
+			"text": " and when did this process of heavily investing and actually ending hunger begin there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,240",
+				"to": "00:02:42,900"
+			},
+			"offsets": {
+				"from": 154240,
+				"to": 162900
+			},
+			"text": " So I started studying there actually in 2003, which is 10 years to the year after the programs were founded in 1993."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,460",
+				"to": "00:02:45,890"
+			},
+			"offsets": {
+				"from": 163460,
+				"to": 165890
+			},
+			"text": " I sort of came across it by chance."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,010",
+				"to": "00:02:52,350"
+			},
+			"offsets": {
+				"from": 166010,
+				"to": 172350
+			},
+			"text": " I was trying to think of places I could study connections between food and biodiversity and conservation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,010",
+				"to": "00:02:56,330"
+			},
+			"offsets": {
+				"from": 173010,
+				"to": 176330
+			},
+			"text": " and just from the start of my graduate career,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,920",
+				"to": "00:03:01,170"
+			},
+			"offsets": {
+				"from": 176920,
+				"to": 181170
+			},
+			"text": " it was crazy to me that we're worried about this conflict between agriculture and food security"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,170",
+				"to": "00:03:06,890"
+			},
+			"offsets": {
+				"from": 181170,
+				"to": 186890
+			},
+			"text": " when we produce enough food, and so we keep talking about how to scale up, how to intensify,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,030",
+				"to": "00:03:08,750"
+			},
+			"offsets": {
+				"from": 187030,
+				"to": 188750
+			},
+			"text": " how to produce more for this growing population."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,490",
+				"to": "00:03:15,020"
+			},
+			"offsets": {
+				"from": 189490,
+				"to": 195020
+			},
+			"text": " And so Belo Horizonte was this great example where they knew they had enough food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,020",
+				"to": "00:03:18,330"
+			},
+			"offsets": {
+				"from": 195020,
+				"to": 198330
+			},
+			"text": " and Brazil in general has more than enough food for its population,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,330",
+				"to": "00:03:25,030"
+			},
+			"offsets": {
+				"from": 198330,
+				"to": 205030
+			},
+			"text": " and so they really realized that what they need to address is food access and the right to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,590",
+				"to": "00:03:31,060"
+			},
+			"offsets": {
+				"from": 205590,
+				"to": 211060
+			},
+			"text": " So the program started in 1993 with the mayor, Patronus Ananias de Silva,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,280",
+				"to": "00:03:35,860"
+			},
+			"offsets": {
+				"from": 211280,
+				"to": 215860
+			},
+			"text": " who was a member of the Workers' Party, and the right to food was really a core value for him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,980",
+				"to": "00:03:41,140"
+			},
+			"offsets": {
+				"from": 215980,
+				"to": 221140
+			},
+			"text": " both as a member of the Workers' Party, a leftist party in Brazil, and as a Catholic."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,150",
+				"to": "00:03:47,340"
+			},
+			"offsets": {
+				"from": 222150,
+				"to": 227340
+			},
+			"text": " And the thing that I guess that the overall context, besides the fact of the right to food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,420",
+				"to": "00:03:54,420"
+			},
+			"offsets": {
+				"from": 227420,
+				"to": 234420
+			},
+			"text": " was that the Workers' Party had been spending decades, arguably, working with social movements,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,930",
+				"to": "00:03:59,830"
+			},
+			"offsets": {
+				"from": 234930,
+				"to": 239830
+			},
+			"text": " working with a lot of other progressive thinkers, including one of the people who sort of founded"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,830",
+				"to": "00:04:06,270"
+			},
+			"offsets": {
+				"from": 239830,
+				"to": 246270
+			},
+			"text": " food security analysis based on poverty and power, Jose de Castro, who wrote a book in the 20s"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,270",
+				"to": "00:04:09,250"
+			},
+			"offsets": {
+				"from": 246270,
+				"to": 249250
+			},
+			"text": " that really influenced these programs much later."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,040",
+				"to": "00:04:14,940"
+			},
+			"offsets": {
+				"from": 250040,
+				"to": 254940
+			},
+			"text": " So that all came together, movement building, conversations, and creating a shared agenda"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,940",
+				"to": "00:04:20,360"
+			},
+			"offsets": {
+				"from": 254940,
+				"to": 260360
+			},
+			"text": " in 88 between the Workers' Party and movements that, to my mind, is what set the fact that they were"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,360",
+				"to": "00:04:24,620"
+			},
+			"offsets": {
+				"from": 260360,
+				"to": 264620
+			},
+			"text": " able to get this in Belo Horizonte in 93, that they'd worked through a lot of these conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,900",
+				"to": "00:04:29,380"
+			},
+			"offsets": {
+				"from": 264900,
+				"to": 269380
+			},
+			"text": " And when the PT started coming to power, they had a mandate, they had people behind them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,380",
+				"to": "00:04:34,670"
+			},
+			"offsets": {
+				"from": 269380,
+				"to": 274670
+			},
+			"text": " and they had a clear set of approaches they wanted to take that was holistic and firmly rights-based."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,670",
+				"to": "00:04:38,810"
+			},
+			"offsets": {
+				"from": 274670,
+				"to": 278810
+			},
+			"text": " What was that political opening that let them start to actually implement some of those programs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,030",
+				"to": "00:04:42,250"
+			},
+			"offsets": {
+				"from": 279030,
+				"to": 282250
+			},
+			"text": " And then what were some of the concrete programs that they were doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,780",
+				"to": "00:04:49,280"
+			},
+			"offsets": {
+				"from": 282780,
+				"to": 289280
+			},
+			"text": " So it actually was literally called the Abertura, the opening up in Brazil, that happened in the 80s."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,520",
+				"to": "00:04:55,080"
+			},
+			"offsets": {
+				"from": 289520,
+				"to": 295080
+			},
+			"text": " They had a dictatorship for about 20 years, and social rights had started to open up."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,140",
+				"to": "00:04:56,500"
+			},
+			"offsets": {
+				"from": 295140,
+				"to": 296500
+			},
+			"text": " People were starting to protest."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,300",
+				"to": "00:05:01,240"
+			},
+			"offsets": {
+				"from": 297300,
+				"to": 301240
+			},
+			"text": " Arguably, it was one of the first times that movements really were forming in Brazil,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,080",
+				"to": "00:05:06,900"
+			},
+			"offsets": {
+				"from": 302080,
+				"to": 306900
+			},
+			"text": " including this is the same time that the Landless Rural Workers Movement was starting to come together."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,180",
+				"to": "00:05:14,140"
+			},
+			"offsets": {
+				"from": 308180,
+				"to": 314140
+			},
+			"text": " So the flood of people really concerned about democracy and about the dictatorship and about social rights."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,480",
+				"to": "00:05:19,380"
+			},
+			"offsets": {
+				"from": 314480,
+				"to": 319380
+			},
+			"text": " Brazil is still one of the most unequal countries in the world, and it was much worse several decades ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,000",
+				"to": "00:05:26,720"
+			},
+			"offsets": {
+				"from": 320000,
+				"to": 326720
+			},
+			"text": " So when the dictatorship started pulling back, people got very organized and came together across different issues as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,720",
+				"to": "00:05:34,900"
+			},
+			"offsets": {
+				"from": 326720,
+				"to": 334900
+			},
+			"text": " Poverty, housing, homelessness, the right to food, the right to be free from oppression, social demonstration."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,150",
+				"to": "00:05:44,950"
+			},
+			"offsets": {
+				"from": 336150,
+				"to": 344950
+			},
+			"text": " And the first democratically elected president after the dictatorship, Fernando Collor, ended up being fairly corrupt,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,150",
+				"to": "00:05:48,970"
+			},
+			"offsets": {
+				"from": 345150,
+				"to": 348970
+			},
+			"text": " as well as being very neoliberal and scaling back some of the policies that were helping people."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,900",
+				"to": "00:05:57,930"
+			},
+			"offsets": {
+				"from": 349900,
+				"to": 357930
+			},
+			"text": " Because even the dictatorship had had some policies that were meant to, as part of a modern state, help people in social welfare terms."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,870",
+				"to": "00:06:03,870"
+			},
+			"offsets": {
+				"from": 358870,
+				"to": 363870
+			},
+			"text": " So Collor was eventually impeached after hundreds of thousands of people protested against his government."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,290",
+				"to": "00:06:11,290"
+			},
+			"offsets": {
+				"from": 364290,
+				"to": 371290
+			},
+			"text": " So this opening up, this gathering together of many different social forces for change and for social rights,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,690",
+				"to": "00:06:15,270"
+			},
+			"offsets": {
+				"from": 371690,
+				"to": 375270
+			},
+			"text": " really is what prefigured the ability of Beto Rezanchi to have their programs."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,270",
+				"to": "00:06:21,850"
+			},
+			"offsets": {
+				"from": 375270,
+				"to": 381850
+			},
+			"text": " So in 88, there was a parallel Congress that the PT had formed, parallel to the actually elected government,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,990",
+				"to": "00:06:26,310"
+			},
+			"offsets": {
+				"from": 381990,
+				"to": 386310
+			},
+			"text": " sort of a shadow Congress like we have in Parliament in the United Kingdom, where I live now."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,790",
+				"to": "00:06:31,200"
+			},
+			"offsets": {
+				"from": 386790,
+				"to": 391200
+			},
+			"text": " And so they had made this agenda that had, I don't know how many points, but like I say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,260",
+				"to": "00:06:35,380"
+			},
+			"offsets": {
+				"from": 391260,
+				"to": 395380
+			},
+			"text": " like food security, political rights, voting rights, consultation with civil society."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,400",
+				"to": "00:06:40,020"
+			},
+			"offsets": {
+				"from": 396400,
+				"to": 400020
+			},
+			"text": " And so the PT slowly built its way to power."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,520",
+				"to": "00:06:45,260"
+			},
+			"offsets": {
+				"from": 400520,
+				"to": 405260
+			},
+			"text": " By 93, they had elected a large number of mayors and governors."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,780",
+				"to": "00:06:52,090"
+			},
+			"offsets": {
+				"from": 405780,
+				"to": 412090
+			},
+			"text": " And because all of the countries, I think 400 and some municipalities, vote for mayor on the same day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,130",
+				"to": "00:06:53,350"
+			},
+			"offsets": {
+				"from": 412130,
+				"to": 413350
+			},
+			"text": " you can really see if there's a swing."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,070",
+				"to": "00:07:00,090"
+			},
+			"offsets": {
+				"from": 414070,
+				"to": 420090
+			},
+			"text": " So the PT suddenly had gone from, I don't know the exact numbers, but like let's say 5 to 30 percent of the mayorships."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,390",
+				"to": "00:07:04,010"
+			},
+			"offsets": {
+				"from": 420390,
+				"to": 424010
+			},
+			"text": " So they had clear mandates and several other progressive parties."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,010",
+				"to": "00:07:10,400"
+			},
+			"offsets": {
+				"from": 424010,
+				"to": 430400
+			},
+			"text": " So this is the same time that participatory budgeting started getting very established in Brazil."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,780",
+				"to": "00:07:12,820"
+			},
+			"offsets": {
+				"from": 430780,
+				"to": 432820
+			},
+			"text": " And Patrus Ananias came into Belo Horizonte."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,060",
+				"to": "00:07:20,360"
+			},
+			"offsets": {
+				"from": 433060,
+				"to": 440360
+			},
+			"text": " And my analysis is that different PT figures sort of had their own issue that they wanted to take on within this large agenda they co-created."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,940",
+				"to": "00:07:24,240"
+			},
+			"offsets": {
+				"from": 440940,
+				"to": 444240
+			},
+			"text": " And so Patrus took on food and said we need to do it holistically."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,600",
+				"to": "00:07:27,880"
+			},
+			"offsets": {
+				"from": 444600,
+				"to": 447880
+			},
+			"text": " So I should answer your question about some of the programs."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,760",
+				"to": "00:07:38,850"
+			},
+			"offsets": {
+				"from": 449760,
+				"to": 458850
+			},
+			"text": " And so a big part of my analysis is the fact that they really said you have to attack hunger from multiple points of view in order to make progress."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,110",
+				"to": "00:07:45,060"
+			},
+			"offsets": {
+				"from": 459110,
+				"to": 465060
+			},
+			"text": " And so one of those was starting with youth because hunger in your youth can affect you your whole life."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,890",
+				"to": "00:07:51,170"
+			},
+			"offsets": {
+				"from": 465890,
+				"to": 471170
+			},
+			"text": " And so Brazil actually has had school meal programs for many decades, but they weren't necessarily very good."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,690",
+				"to": "00:07:58,590"
+			},
+			"offsets": {
+				"from": 471690,
+				"to": 478590
+			},
+			"text": " So Belo Horizonte's first issue was they said to the mayor, got together several departments to actually again sort of form a joint agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,090",
+				"to": "00:08:03,030"
+			},
+			"offsets": {
+				"from": 479090,
+				"to": 483030
+			},
+			"text": " And he said to the education department, you receive the federal funding for school meals."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,920",
+				"to": "00:08:08,120"
+			},
+			"offsets": {
+				"from": 483920,
+				"to": 488120
+			},
+			"text": " You should be thinking about pedagogy and those elements of teaching our children."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,120",
+				"to": "00:08:14,470"
+			},
+			"offsets": {
+				"from": 488120,
+				"to": 494470
+			},
+			"text": " So we'd like to take that budget from you, which no one likes, but that way you won't have to administer food, which is not your area."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,750",
+				"to": "00:08:20,220"
+			},
+			"offsets": {
+				"from": 494750,
+				"to": 500220
+			},
+			"text": " And we'll put it in this new office where we'll make sure that they're fresh, nutritious, healthy, balanced."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,740",
+				"to": "00:08:23,640"
+			},
+			"offsets": {
+				"from": 500740,
+				"to": 503640
+			},
+			"text": " We'll make sure that children who don't have enough food at home get access to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,700",
+				"to": "00:08:24,800"
+			},
+			"offsets": {
+				"from": 503700,
+				"to": 504800
+			},
+			"text": " So they did that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,900",
+				"to": "00:08:32,730"
+			},
+			"offsets": {
+				"from": 504900,
+				"to": 512730
+			},
+			"text": " They had these fresh cooked school meals that to me, one of the really emblematic and beautiful parts of the school meals and getting kids to eat more healthily."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,830",
+				"to": "00:08:38,970"
+			},
+			"offsets": {
+				"from": 512830,
+				"to": 518970
+			},
+			"text": " When I was there one time, someone with me in the study group said, well, kids don't like vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,130",
+				"to": "00:08:40,170"
+			},
+			"offsets": {
+				"from": 519130,
+				"to": 520170
+			},
+			"text": " You know, how do you get them to eat vegetables?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,250",
+				"to": "00:08:42,740"
+			},
+			"offsets": {
+				"from": 520250,
+				"to": 522740
+			},
+			"text": " Because that's, you know, they have to eat vegetables supposedly now."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,040",
+				"to": "00:08:47,440"
+			},
+			"offsets": {
+				"from": 523040,
+				"to": 527440
+			},
+			"text": " And they said, well, we have like five or six varieties because Brazil has a lot of diversity in food."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,180",
+				"to": "00:08:50,800"
+			},
+			"offsets": {
+				"from": 528180,
+				"to": 530800
+			},
+			"text": " And, you know, the kid tries one one day and one the other day."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,840",
+				"to": "00:08:57,670"
+			},
+			"offsets": {
+				"from": 530840,
+				"to": 537670
+			},
+			"text": " And because they have that choice, we found that after about a month, food waste went way down because they just they found the one that they wanted."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,970",
+				"to": "00:08:59,230"
+			},
+			"offsets": {
+				"from": 537970,
+				"to": 539230
+			},
+			"text": " And they're able to choose that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,250",
+				"to": "00:09:00,870"
+			},
+			"offsets": {
+				"from": 539250,
+				"to": 540870
+			},
+			"text": " And that really got them into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,870",
+				"to": "00:09:03,730"
+			},
+			"offsets": {
+				"from": 540870,
+				"to": 543730
+			},
+			"text": " So they're like, oh, I like, you know, this, I don't like Covey, I like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,970",
+				"to": "00:09:07,460"
+			},
+			"offsets": {
+				"from": 543970,
+				"to": 547460
+			},
+			"text": " So I just think that's emblematic of their approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,520",
+				"to": "00:09:11,150"
+			},
+			"offsets": {
+				"from": 547520,
+				"to": 551150
+			},
+			"text": " They took really human centered and humanistic and empowering."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,460",
+				"to": "00:09:17,850"
+			},
+			"offsets": {
+				"from": 552460,
+				"to": 557850
+			},
+			"text": " So there's about 27 programs they ended up creating."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,550",
+				"to": "00:09:29,510"
+			},
+			"offsets": {
+				"from": 558550,
+				"to": 569510
+			},
+			"text": " Some other important ones around access are the ABCs, the Abastasers or Saka Loins means big bag, like the bag you use for carrying produce home."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,070",
+				"to": "00:09:41,730"
+			},
+			"offsets": {
+				"from": 570070,
+				"to": 581730
+			},
+			"text": " And so they had a series of these big bag produce shops that local partners who are private business owners would agree to sell 40 products or some set of 40 products at a single price."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,390",
+				"to": "00:09:45,530"
+			},
+			"offsets": {
+				"from": 582390,
+				"to": 585530
+			},
+			"text": " Mostly fruits and vegetables, but also, I think, some personal hygiene items."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,550",
+				"to": "00:09:54,890"
+			},
+			"offsets": {
+				"from": 586550,
+				"to": 594890
+			},
+			"text": " And if they agree to sell those at this lower than market average price, but still with researchers calculated to be above the cost of productions, they shouldn't be losing money."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,510",
+				"to": "00:10:07,890"
+			},
+			"offsets": {
+				"from": 595510,
+				"to": 607890
+			},
+			"text": " If they sold these 40 products all for the same price, the city often had another piece of property that they would let them lease very cheaply somewhere else that maybe they could, you know, a richer neighborhood where they could sell produce at higher prices and be happy."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,350",
+				"to": "00:10:08,990"
+			},
+			"offsets": {
+				"from": 608350,
+				"to": 608990
+			},
+			"text": " I find it interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,990",
+				"to": "00:10:11,070"
+			},
+			"offsets": {
+				"from": 608990,
+				"to": 611070
+			},
+			"text": " I think this was their version of private-public partnerships."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,830",
+				"to": "00:10:16,860"
+			},
+			"offsets": {
+				"from": 611830,
+				"to": 616860
+			},
+			"text": " But because of the particular power in this time period of the government, you know, it was very much in the government's terms."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,580",
+				"to": "00:10:26,190"
+			},
+			"offsets": {
+				"from": 617580,
+				"to": 626190
+			},
+			"text": " So one of the nice things about this program, about the ABCs or Saka Loins, was because you had many different produce, fruits and vegetables, for the same price per kilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,930",
+				"to": "00:10:32,640"
+			},
+			"offsets": {
+				"from": 626930,
+				"to": 632640
+			},
+			"text": " At some point, it was like 89 centavos per kilo, about 40 cents per kilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,870",
+				"to": "00:10:37,940"
+			},
+			"offsets": {
+				"from": 633870,
+				"to": 637940
+			},
+			"text": " The same price for all the different produce, so you could mix and match, so it really encouraged dietary diversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,200",
+				"to": "00:10:42,400"
+			},
+			"offsets": {
+				"from": 638200,
+				"to": 642400
+			},
+			"text": " Again, in this empowering way, not like saying you have to, you know, eat this and get this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,500",
+				"to": "00:10:46,550"
+			},
+			"offsets": {
+				"from": 642500,
+				"to": 646550
+			},
+			"text": " It was just to give people lots of choice in an easily accessible fashion."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,550",
+				"to": "00:10:53,980"
+			},
+			"offsets": {
+				"from": 646550,
+				"to": 653980
+			},
+			"text": " And these are open all over the city, but often near major byways, so people could walk to and from work or the bus stop or whatnot."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,930",
+				"to": "00:11:02,830"
+			},
+			"offsets": {
+				"from": 654930,
+				"to": 662830
+			},
+			"text": " So I should maybe just quickly talk about the third flagship program that people often mention, which is the People's Restaurants or the Popular Restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,580",
+				"to": "00:11:05,700"
+			},
+			"offsets": {
+				"from": 663580,
+				"to": 665700
+			},
+			"text": " And they now have four of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,060",
+				"to": "00:11:07,660"
+			},
+			"offsets": {
+				"from": 666060,
+				"to": 667660
+			},
+			"text": " And these are cafeterias."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,100",
+				"to": "00:11:12,980"
+			},
+			"offsets": {
+				"from": 668100,
+				"to": 672980
+			},
+			"text": " That's a very common Brazilian lunch institution is you go someplace and you buy food by kilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,860",
+				"to": "00:11:15,460"
+			},
+			"offsets": {
+				"from": 673860,
+				"to": 675460
+			},
+			"text": " And so this is similar to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,520",
+				"to": "00:11:18,160"
+			},
+			"offsets": {
+				"from": 675520,
+				"to": 678160
+			},
+			"text": " You go to the cafeteria and there's fresh-cooked food."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,160",
+				"to": "00:11:24,430"
+			},
+			"offsets": {
+				"from": 678160,
+				"to": 684430
+			},
+			"text": " They invented these new large-scale pots so they could cook beans and rice in these really huge batches."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,750",
+				"to": "00:11:26,330"
+			},
+			"offsets": {
+				"from": 684750,
+				"to": 686330
+			},
+			"text": " But it's fresh-cooked, you know, while you're there."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,690",
+				"to": "00:11:29,870"
+			},
+			"offsets": {
+				"from": 686690,
+				"to": 689870
+			},
+			"text": " And people stand in line for this 50-cent meal, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,050",
+				"to": "00:11:37,880"
+			},
+			"offsets": {
+				"from": 690050,
+				"to": 697880
+			},
+			"text": " That's a healthy, balanced meal designed by local chefs trying to take into account local culture as well as tastiness."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,820",
+				"to": "00:11:43,090"
+			},
+			"offsets": {
+				"from": 698820,
+				"to": 703090
+			},
+			"text": " And really important to them based on food with dignity."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,390",
+				"to": "00:11:49,210"
+			},
+			"offsets": {
+				"from": 703390,
+				"to": 709210
+			},
+			"text": " So not only did everyone pay in the original model so that no matter what your income was, you deserve this."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,290",
+				"to": "00:11:50,230"
+			},
+			"offsets": {
+				"from": 709290,
+				"to": 710230
+			},
+			"text": " You paid for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,770",
+				"to": "00:11:55,250"
+			},
+			"offsets": {
+				"from": 710770,
+				"to": 715250
+			},
+			"text": " And if you couldn't pay for it, they would try and find a way to get you in a line and maybe give you 50 cents."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,710",
+				"to": "00:12:03,830"
+			},
+			"offsets": {
+				"from": 715710,
+				"to": 723830
+			},
+			"text": " This food with dignity idea also was reflected in that all of the meals were on these metal trays with real silverware."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,350",
+				"to": "00:12:05,770"
+			},
+			"offsets": {
+				"from": 724350,
+				"to": 725770
+			},
+			"text": " But it was real silverware."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:06,030",
+				"to": "00:12:11,370"
+			},
+			"offsets": {
+				"from": 726030,
+				"to": 731370
+			},
+			"text": " And this big thing about when some of the Brazilians from that program saw a food bank in Canada."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,930",
+				"to": "00:12:13,970"
+			},
+			"offsets": {
+				"from": 731930,
+				"to": 733970
+			},
+			"text": " And she said, well, why do they have styrofoam cups?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,010",
+				"to": "00:12:14,630"
+			},
+			"offsets": {
+				"from": 734010,
+				"to": 734630
+			},
+			"text": " What is this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,440",
+				"to": "00:12:18,450"
+			},
+			"offsets": {
+				"from": 735440,
+				"to": 738450
+			},
+			"text": " And someone asked her, well, but don't people steal silverware?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,970",
+				"to": "00:12:21,330"
+			},
+			"offsets": {
+				"from": 738970,
+				"to": 741330
+			},
+			"text": " She said, well, yes, we did find they steal silverware."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,760",
+				"to": "00:12:24,750"
+			},
+			"offsets": {
+				"from": 741760,
+				"to": 744750
+			},
+			"text": " But at some point, people have enough silverware."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,030",
+				"to": "00:12:29,650"
+			},
+			"offsets": {
+				"from": 746030,
+				"to": 749650
+			},
+			"text": " And for us, that was a price worth paying that eventually it tapered off."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,750",
+				"to": "00:12:33,570"
+			},
+			"offsets": {
+				"from": 749750,
+				"to": 753570
+			},
+			"text": " And we want people to have real silverware because they deserve it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:33,610",
+				"to": "00:12:34,390"
+			},
+			"offsets": {
+				"from": 753610,
+				"to": 754390
+			},
+			"text": " It's dignified."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,510",
+				"to": "00:12:36,070"
+			},
+			"offsets": {
+				"from": 754510,
+				"to": 756070
+			},
+			"text": " It's part of their right to food."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,730",
+				"to": "00:12:41,510"
+			},
+			"offsets": {
+				"from": 756730,
+				"to": 761510
+			},
+			"text": " And so that's been a really powerful model that you have 12,000 people a day to the four restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,400",
+				"to": "00:12:47,770"
+			},
+			"offsets": {
+				"from": 762400,
+				"to": 767770
+			},
+			"text": " These strike me as very humanistic interventions, but they're also very resourceful, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,830",
+				"to": "00:12:50,630"
+			},
+			"offsets": {
+				"from": 767830,
+				"to": 770630
+			},
+			"text": " About using what's available to meet those needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,690",
+				"to": "00:12:56,610"
+			},
+			"offsets": {
+				"from": 771690,
+				"to": 776610
+			},
+			"text": " Yeah, I mean, I think, and maybe, I'm not sure if I brought this out in the book to the extent that I wanted."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,850",
+				"to": "00:13:12,300"
+			},
+			"offsets": {
+				"from": 776850,
+				"to": 792300
+			},
+			"text": " But as you will know from having read it, just in the end, one of my big conclusions is that enabling democracy and voice in new ways, not just democracy, going to the voting booth, but participation has been also a really key part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,340",
+				"to": "00:13:26,080"
+			},
+			"offsets": {
+				"from": 792340,
+				"to": 806080
+			},
+			"text": " They have a food policy council that has been more and less effective at different times, but has been a really key to the founding and has spread throughout Brazil, these food policy councils that don't make laws, but they have a lot of influence."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,640",
+				"to": "00:13:34,230"
+			},
+			"offsets": {
+				"from": 806640,
+				"to": 814230
+			},
+			"text": " But I think what's exciting is that you have these things like food policy councils and these other consultative bodies that are sort of democratic innovations."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,050",
+				"to": "00:13:44,490"
+			},
+			"offsets": {
+				"from": 815050,
+				"to": 824490
+			},
+			"text": " We're at right now a meeting that talks a lot about innovation, and a lot of people from social movements have been emphasizing that that can be changing social conditions, can be an innovation."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,620",
+				"to": "00:13:54,780"
+			},
+			"offsets": {
+				"from": 825620,
+				"to": 834780
+			},
+			"text": " And so I feel like you can be so resourceful and humanistic when you really empower people to have voice and when you're starting from the idea that they should be empowered and dignified."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,100",
+				"to": "00:14:03,250"
+			},
+			"offsets": {
+				"from": 835100,
+				"to": 843250
+			},
+			"text": " And so not everything is going to work, and not all of the Zanchi's programs work, and some of the ones to get to the poorest citizens, they still haven't cracked that nut."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,310",
+				"to": "00:14:04,030"
+			},
+			"offsets": {
+				"from": 843310,
+				"to": 844030
+			},
+			"text": " It's very difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,510",
+				"to": "00:14:19,980"
+			},
+			"offsets": {
+				"from": 844510,
+				"to": 859980
+			},
+			"text": " But this idea of trying to get everyone together and talk it through in structured ways, so it's not just publicized, it's not anarchic, but creating spaces of participation, I think allows you to be resourceful in all these other interesting ways that we can't sit here and figure out."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,450",
+				"to": "00:14:24,880"
+			},
+			"offsets": {
+				"from": 860450,
+				"to": 864880
+			},
+			"text": " There's going to be some cool things that people can think about if you actually can get them together and create that."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,600",
+				"to": "00:14:28,320"
+			},
+			"offsets": {
+				"from": 865600,
+				"to": 868320
+			},
+			"text": " What was the impact of these programs over time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,930",
+				"to": "00:14:36,690"
+			},
+			"offsets": {
+				"from": 868930,
+				"to": 876690
+			},
+			"text": " From the numbers that we have, it seems like infant mortality went down by about 75% between 1993 and 2002."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,070",
+				"to": "00:14:43,330"
+			},
+			"offsets": {
+				"from": 877070,
+				"to": 883330
+			},
+			"text": " It's hard to know how much of that was SMASAN, which is the acronym or the name for these programs in Belo Horizonte."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,230",
+				"to": "00:14:48,630"
+			},
+			"offsets": {
+				"from": 884230,
+				"to": 888630
+			},
+			"text": " Infant malnutrition, at least in one study, went down similarly by about 50% to 60%."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,730",
+				"to": "00:14:56,630"
+			},
+			"offsets": {
+				"from": 889730,
+				"to": 896630
+			},
+			"text": " Something that I saw very interesting, I've worked in Belo Horizonte, like I said, since 2003, but when I was writing the book, I was relooking up some numbers."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,150",
+				"to": "00:15:00,850"
+			},
+			"offsets": {
+				"from": 897150,
+				"to": 900850
+			},
+			"text": " Diabetes, hospitalization due to diabetes went down by, I think, 20% or 30%."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,850",
+				"to": "00:15:08,300"
+			},
+			"offsets": {
+				"from": 900850,
+				"to": 908300
+			},
+			"text": " And again, it's hard to draw straight lines because they didn't have sort of a test group, a control group, and not for Belo Horizonte."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,520",
+				"to": "00:15:19,990"
+			},
+			"offsets": {
+				"from": 908520,
+				"to": 919990
+			},
+			"text": " But they did, in the national censuses, go from being eighth or ninth in consumption of fresh fruits and vegetables in 92 to being first and second for many years."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,030",
+				"to": "00:15:23,590"
+			},
+			"offsets": {
+				"from": 920030,
+				"to": 923590
+			},
+			"text": " And they've fluctuated in the top five now, but first and second for quite a while."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,730",
+				"to": "00:15:32,070"
+			},
+			"offsets": {
+				"from": 923730,
+				"to": 932070
+			},
+			"text": " And so it's hard not to think that that's connected to the decrease in infant malnutrition, infant mortality, and definitely diabetes, these possible diet changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,330",
+				"to": "00:15:43,360"
+			},
+			"offsets": {
+				"from": 933330,
+				"to": 943360
+			},
+			"text": " And then the national government starts to notice what's happening there, and there's a process of taking these ideas and implementing them on a greater scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,860",
+				"to": "00:15:44,700"
+			},
+			"offsets": {
+				"from": 943860,
+				"to": 944700
+			},
+			"text": " How did that work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,900",
+				"to": "00:15:47,500"
+			},
+			"offsets": {
+				"from": 944900,
+				"to": 947500
+			},
+			"text": " And did it work as well as it did in Belo Horizonte?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,500",
+				"to": "00:15:58,510"
+			},
+			"offsets": {
+				"from": 947500,
+				"to": 958510
+			},
+			"text": " I would say it was revolutionary what the national government did, but it didn't necessarily take on the full revolutionary suite of things from Belo Horizonte."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,070",
+				"to": "00:16:09,150"
+			},
+			"offsets": {
+				"from": 959070,
+				"to": 969150
+			},
+			"text": " So I should say that in 2004, then President Lula started Fomizaro, Zero Hunger, and they learned a lot from Belo Horizonte's example."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,270",
+				"to": "00:16:15,110"
+			},
+			"offsets": {
+				"from": 969270,
+				"to": 975110
+			},
+			"text": " But it also was based, again, on a lot of the strategizing they'd been doing for, well, at that point, for about five years."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,110",
+				"to": "00:16:20,950"
+			},
+			"offsets": {
+				"from": 975110,
+				"to": 980950
+			},
+			"text": " Since 88, they had formally come together with movements, but, of course, going beyond that, organizing against the dictatorship."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,290",
+				"to": "00:16:27,520"
+			},
+			"offsets": {
+				"from": 982290,
+				"to": 987520
+			},
+			"text": " So Fomizaro really was born out of this contract against hunger that they'd been working on since then."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,150",
+				"to": "00:16:32,910"
+			},
+			"offsets": {
+				"from": 989150,
+				"to": 992910
+			},
+			"text": " And Patrus Ananias and Belo Horizonte had taken part of it and tried it at a city scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,280",
+				"to": "00:16:41,600"
+			},
+			"offsets": {
+				"from": 993280,
+				"to": 1001600
+			},
+			"text": " Now at a national scale, they had first focused on income redistribution, which Belo Horizonte didn't do, but that was part of their sensibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,160",
+				"to": "00:16:47,920"
+			},
+			"offsets": {
+				"from": 1002160,
+				"to": 1007920
+			},
+			"text": " Again, like the popular restaurants, supposedly, I think this didn't always happen, but they were meant to have a social worker there."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,000",
+				"to": "00:16:57,040"
+			},
+			"offsets": {
+				"from": 1008000,
+				"to": 1017040
+			},
+			"text": " So if someone did have actually zero money, not only did they give them some money to get in line and pay, but also connect them with someone to try and get them connected with jobs training."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,400",
+				"to": "00:17:12,110"
+			},
+			"offsets": {
+				"from": 1018400,
+				"to": 1032110
+			},
+			"text": " So this redistribution and sort of trying to build people up in their own capacity and livelihood, I think, is the core element that Bolsa Familia, which was part of Fomizaro, which is this redistribution, came about."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,630",
+				"to": "00:17:30,960"
+			},
+			"offsets": {
+				"from": 1032630,
+				"to": 1050960
+			},
+			"text": " The technical term for it is conditional cash transfer, but it's the idea that if you have these minimum elements of behavior, which has some maybe anti-liberatory implications, but if you keep your children in school and immunized, which are not in themselves bad things at all, then you get, and you're below a certain poverty line, then you get a certain amount of money from the government every year."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,660",
+				"to": "00:17:56,980"
+			},
+			"offsets": {
+				"from": 1051660,
+				"to": 1076980
+			},
+			"text": " And Brazil was the first one to really scale that idea up to this level, and they saw what Angus Wright, a historian who's worked in Latin America extensively, said between that and the minimum wage laws and the attempts to guarantee employment or create employment, that probably Brazil, between 93 and 2010 or so, saw probably the greatest reduction in poverty severity in modern times."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,980",
+				"to": "00:18:05,650"
+			},
+			"offsets": {
+				"from": 1076980,
+				"to": 1085650
+			},
+			"text": " And so, which is very laudable at the same time, and they usually acknowledge this to the national government."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,770",
+				"to": "00:18:09,810"
+			},
+			"offsets": {
+				"from": 1085770,
+				"to": 1089810
+			},
+			"text": " They didn't really go beyond, too much beyond Fomizaro, certainly not in scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,330",
+				"to": "00:18:16,910"
+			},
+			"offsets": {
+				"from": 1090330,
+				"to": 1096910
+			},
+			"text": " There were many other programs, or rather Bolsa Familia, many other programs in Fomizaro, including supporting smallholder farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,830",
+				"to": "00:18:28,390"
+			},
+			"offsets": {
+				"from": 1097830,
+				"to": 1108390
+			},
+			"text": " And this was actually quite revolutionary, even though it was still way too small, that they had a department, basically, of family farms that was separate from the Department of Agribusiness."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,490",
+				"to": "00:18:37,970"
+			},
+			"offsets": {
+				"from": 1108490,
+				"to": 1117970
+			},
+			"text": " And that department, I think, got up to having funding that was maybe 8% to 10% of the size of the budget for the agribusiness, which, again, is not necessarily as much as we'd like."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,910",
+				"to": "00:18:40,450"
+			},
+			"offsets": {
+				"from": 1118910,
+				"to": 1120450
+			},
+			"text": " That's pretty significant."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,210",
+				"to": "00:18:42,370"
+			},
+			"offsets": {
+				"from": 1121210,
+				"to": 1122370
+			},
+			"text": " You have to start somewhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,070",
+				"to": "00:18:56,120"
+			},
+			"offsets": {
+				"from": 1123070,
+				"to": 1136120
+			},
+			"text": " And even though right now we've seen a closing of some spaces, we were just listening to various people talk, including a gentleman, Paulo Pedersen, from Brazil, working in agroecology and family farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,440",
+				"to": "00:19:16,070"
+			},
+			"offsets": {
+				"from": 1136440,
+				"to": 1156070
+			},
+			"text": " And the reason that he and his network, the Association of Family Farming and Agroecology, the groups like that have become nationally prominent is because even though there wasn't enough support from my point of view, the support from the government for small farming and agroecology before the current administration, I think it was enough to catalyze it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,110",
+				"to": "00:19:21,030"
+			},
+			"offsets": {
+				"from": 1156110,
+				"to": 1161030
+			},
+			"text": " It was enough to take it to a new level, even though now it's fighting for its life in many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,030",
+				"to": "00:19:27,210"
+			},
+			"offsets": {
+				"from": 1161030,
+				"to": 1167210
+			},
+			"text": " So there were these other elements besides the income redistribution."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:28,010",
+				"to": "00:19:31,530"
+			},
+			"offsets": {
+				"from": 1168010,
+				"to": 1171530
+			},
+			"text": " But like I said, I think the overall structure didn't really change."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,610",
+				"to": "00:19:35,370"
+			},
+			"offsets": {
+				"from": 1171610,
+				"to": 1175370
+			},
+			"text": " And a key problem is that Brazil became a lot less unequal."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,550",
+				"to": "00:19:43,510"
+			},
+			"offsets": {
+				"from": 1175550,
+				"to": 1183510
+			},
+			"text": " But they were basically funding FOMIZERO out of economic growth and not out of taxes."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,570",
+				"to": "00:19:48,620"
+			},
+			"offsets": {
+				"from": 1184570,
+				"to": 1188620
+			},
+			"text": " The rich don't pay significant taxes compared to their wealth in Brazil."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,280",
+				"to": "00:19:54,300"
+			},
+			"offsets": {
+				"from": 1189280,
+				"to": 1194300
+			},
+			"text": " And that's part of the problem now is that if they wanted to keep funding their programs, they would have to tax the rich."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,540",
+				"to": "00:20:00,710"
+			},
+			"offsets": {
+				"from": 1194540,
+				"to": 1200710
+			},
+			"text": " And that's something that's still hard, very, very hard to do in Brazil and part of the elements that are going on right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,070",
+				"to": "00:20:11,470"
+			},
+			"offsets": {
+				"from": 1201070,
+				"to": 1211470
+			},
+			"text": " So those are the elements that I think didn't quite live up to Barazanchi's overall goal of food with dignity and really using the power of the government to create more space for rights."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,400",
+				"to": "00:20:27,650"
+			},
+			"offsets": {
+				"from": 1213400,
+				"to": 1227650
+			},
+			"text": " And just one emblematic example maybe to hold all together was for many years, Smasan and Barazanchi refused to fund food banks because their idea was that we shouldn't be redistributing food people don't want."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,050",
+				"to": "00:20:30,130"
+			},
+			"offsets": {
+				"from": 1228050,
+				"to": 1230130
+			},
+			"text": " We should be making sure they get access to food of their own."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,130",
+				"to": "00:20:41,820"
+			},
+			"offsets": {
+				"from": 1230130,
+				"to": 1241820
+			},
+			"text": " They eventually did decide that there were so many Catholic charities and different groups that were donating food that it would help to have someplace where they could make sure it's safe and process correctly and get to people who need it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,220",
+				"to": "00:20:45,010"
+			},
+			"offsets": {
+				"from": 1242220,
+				"to": 1245010
+			},
+			"text": " But they were very resistant to the food bank model entirely."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,370",
+				"to": "00:20:51,750"
+			},
+			"offsets": {
+				"from": 1245370,
+				"to": 1251750
+			},
+			"text": " And nationally, you didn't see that same resistance, that there was some funding for food banks at the national level as part of FOMIZERO."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,410",
+				"to": "00:20:57,440"
+			},
+			"offsets": {
+				"from": 1252410,
+				"to": 1257440
+			},
+			"text": " And so they didn't think they could go maybe to that full liberatory model even to start with."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,860",
+				"to": "00:21:02,250"
+			},
+			"offsets": {
+				"from": 1257860,
+				"to": 1262250
+			},
+			"text": " And so with so many things, there's pluses and minuses, you can see their point of view to an extent."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,510",
+				"to": "00:21:07,270"
+			},
+			"offsets": {
+				"from": 1262510,
+				"to": 1267270
+			},
+			"text": " But I think philosophically, you can see that distance a little bit from Barazanchi."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,950",
+				"to": "00:21:20,040"
+			},
+			"offsets": {
+				"from": 1267950,
+				"to": 1280040
+			},
+			"text": " We'll circle back to talking about what's happening in Brazil now, but we should probably contextualize that we're sitting here at the United Nations Food and Agriculture Organization up on the top floor, kind of looking out over Rome."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,040",
+				"to": "00:21:25,960"
+			},
+			"offsets": {
+				"from": 1280040,
+				"to": 1285960
+			},
+			"text": " And there's a pretty straight line from that experience of Brazil's change in agricultural and food policy."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,180",
+				"to": "00:21:29,540"
+			},
+			"offsets": {
+				"from": 1286180,
+				"to": 1289540
+			},
+			"text": " And the director general of the FAO is from Brazil."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,840",
+				"to": "00:21:37,840"
+			},
+			"offsets": {
+				"from": 1289840,
+				"to": 1297840
+			},
+			"text": " And now there's this opening of a space to even talk about this kind of systemic change in the FAO."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,880",
+				"to": "00:21:40,680"
+			},
+			"offsets": {
+				"from": 1297880,
+				"to": 1300680
+			},
+			"text": " It's a small space in the FAO, but there's an opening of something."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,880",
+				"to": "00:21:43,660"
+			},
+			"offsets": {
+				"from": 1300880,
+				"to": 1303660
+			},
+			"text": " So I see that it's kind of this as part of that trajectory."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,190",
+				"to": "00:21:46,330"
+			},
+			"offsets": {
+				"from": 1304190,
+				"to": 1306330
+			},
+			"text": " Yeah, yeah, no, I think that's absolutely right."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,770",
+				"to": "00:21:55,550"
+			},
+			"offsets": {
+				"from": 1306770,
+				"to": 1315550
+			},
+			"text": " I remember something that my mom, who's a retired professor of social work, had said when I was talking about the growth of the food movement in the context of the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,550",
+				"to": "00:21:57,430"
+			},
+			"offsets": {
+				"from": 1315550,
+				"to": 1317430
+			},
+			"text": " But I was saying, I'm afraid it's going to be a fad."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,970",
+				"to": "00:22:01,920"
+			},
+			"offsets": {
+				"from": 1317970,
+				"to": 1321920
+			},
+			"text": " And she said, well, anything that starts out with a small group of people will seem like a fad."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,050",
+				"to": "00:22:03,490"
+			},
+			"offsets": {
+				"from": 1322050,
+				"to": 1323490
+			},
+			"text": " The problem isn't the fad."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,530",
+				"to": "00:22:07,630"
+			},
+			"offsets": {
+				"from": 1323530,
+				"to": 1327630
+			},
+			"text": " The problem is you want it to go beyond that small group of people and small amount of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,970",
+				"to": "00:22:11,130"
+			},
+			"offsets": {
+				"from": 1327970,
+				"to": 1331130
+			},
+			"text": " But don't fight the fad part, fight to make sure it's durable."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,030",
+				"to": "00:22:23,170"
+			},
+			"offsets": {
+				"from": 1332030,
+				"to": 1343170
+			},
+			"text": " And so I think that's what we see right now, FAO, with agroecology and social change, that even people within the system, within the FAO, are saying, yes, of course, we need transformation away from industrial agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,350",
+				"to": "00:22:25,970"
+			},
+			"offsets": {
+				"from": 1343350,
+				"to": 1345970
+			},
+			"text": " And, of course, hunger isn't about a lack of food production."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:26,450",
+				"to": "00:22:28,090"
+			},
+			"offsets": {
+				"from": 1346450,
+				"to": 1348090
+			},
+			"text": " And so it's sort of the flavor of the month."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:28,090",
+				"to": "00:22:37,460"
+			},
+			"offsets": {
+				"from": 1348090,
+				"to": 1357460
+			},
+			"text": " And the job of us and the job of activists and allied academic thinkers and movements is to keep that pressure because things come and go."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:38,370",
+				"to": "00:22:40,070"
+			},
+			"offsets": {
+				"from": 1358370,
+				"to": 1360070
+			},
+			"text": " And this is exactly what we saw in Brazil."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,310",
+				"to": "00:22:45,760"
+			},
+			"offsets": {
+				"from": 1360310,
+				"to": 1365760
+			},
+			"text": " I mentioned Jorge Castro published a book called Geography of Hunger in the 20s in Brazil."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,560",
+				"to": "00:22:57,760"
+			},
+			"offsets": {
+				"from": 1366560,
+				"to": 1377760
+			},
+			"text": " And then dictator Getulio Vargas decided to put into practice these ideas about basically food access and making sure people had jobs and therefore economic well-being and ability to buy food."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,300",
+				"to": "00:23:04,220"
+			},
+			"offsets": {
+				"from": 1378300,
+				"to": 1384220
+			},
+			"text": " And created a secretary to a department of social services to administer these ideas."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,920",
+				"to": "00:23:10,570"
+			},
+			"offsets": {
+				"from": 1384920,
+				"to": 1390570
+			},
+			"text": " And then Getulio Vargas went in and out of office, was elected, was a dictator again, was thrown out."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,730",
+				"to": "00:23:16,610"
+			},
+			"offsets": {
+				"from": 1390730,
+				"to": 1396610
+			},
+			"text": " But his successors ended up not continuing these social programs and slowly withering and killing them."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,750",
+				"to": "00:23:19,310"
+			},
+			"offsets": {
+				"from": 1396750,
+				"to": 1399310
+			},
+			"text": " And Jorge Castro actually came to the FAO."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,830",
+				"to": "00:23:24,350"
+			},
+			"offsets": {
+				"from": 1399830,
+				"to": 1404350
+			},
+			"text": " He was a representative for Brazil and ended up staying in Rome because of the political changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,130",
+				"to": "00:23:28,730"
+			},
+			"offsets": {
+				"from": 1405130,
+				"to": 1408730
+			},
+			"text": " You know, he got to see his life's work go in many different directions."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,390",
+				"to": "00:23:33,350"
+			},
+			"offsets": {
+				"from": 1409390,
+				"to": 1413350
+			},
+			"text": " I believe he died before Belo Horizonte and certainly before Formizero."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,690",
+				"to": "00:23:44,800"
+			},
+			"offsets": {
+				"from": 1413690,
+				"to": 1424800
+			},
+			"text": " But without him, we wouldn't have had what we had and had that dramatic decrease that we saw in Brazil at large and within Belo Horizonte, which has two and a half million people."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,880",
+				"to": "00:23:45,620"
+			},
+			"offsets": {
+				"from": 1424880,
+				"to": 1425620
+			},
+			"text": " I haven't mentioned that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,180",
+				"to": "00:23:50,810"
+			},
+			"offsets": {
+				"from": 1426180,
+				"to": 1430810
+			},
+			"text": " This is not a small city or just, oh, they're able to do it because it's just like a block large."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,630",
+				"to": "00:23:52,970"
+			},
+			"offsets": {
+				"from": 1431630,
+				"to": 1432970
+			},
+			"text": " It's a very large city."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,370",
+				"to": "00:23:59,020"
+			},
+			"offsets": {
+				"from": 1433370,
+				"to": 1439020
+			},
+			"text": " And actually within Brazil right now, it seems like the secretariat is still doing all right."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,500",
+				"to": "00:24:10,700"
+			},
+			"offsets": {
+				"from": 1439500,
+				"to": 1450700
+			},
+			"text": " I haven't heard anything very recently, but there's an initial worry because the new mayor, who's the fifth since Patros Ananias, which is already a lot of longevity in political terms."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,240",
+				"to": "00:24:14,710"
+			},
+			"offsets": {
+				"from": 1451240,
+				"to": 1454710
+			},
+			"text": " The new mayor wasn't certain how he would treat the department."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,890",
+				"to": "00:24:16,530"
+			},
+			"offsets": {
+				"from": 1454890,
+				"to": 1456530
+			},
+			"text": " They've gone back and forth with different leadership."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,120",
+				"to": "00:24:23,730"
+			},
+			"offsets": {
+				"from": 1457120,
+				"to": 1463730
+			},
+			"text": " But he came in and he did fire all the staff of the city, which has happened sometimes in some countries."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:23,730",
+				"to": "00:24:25,170"
+			},
+			"offsets": {
+				"from": 1463730,
+				"to": 1465170
+			},
+			"text": " And that's not abnormal."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,930",
+				"to": "00:24:26,830"
+			},
+			"offsets": {
+				"from": 1465930,
+				"to": 1466830
+			},
+			"text": " Thousands of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,950",
+				"to": "00:24:28,310"
+			},
+			"offsets": {
+				"from": 1466950,
+				"to": 1468310
+			},
+			"text": " And then he rehired the ones he wanted."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,570",
+				"to": "00:24:30,430"
+			},
+			"offsets": {
+				"from": 1468570,
+				"to": 1470430
+			},
+			"text": " And so who knew what's going to happen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,430",
+				"to": "00:24:33,670"
+			},
+			"offsets": {
+				"from": 1470430,
+				"to": 1473670
+			},
+			"text": " But he rehired some of the key people from Smasan who have been there since the beginning."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:34,300",
+				"to": "00:24:39,530"
+			},
+			"offsets": {
+				"from": 1474300,
+				"to": 1479530
+			},
+			"text": " And they tell me that the secretary, the person in charge of the department, is actually one of the best people they've had."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,440",
+				"to": "00:24:43,040"
+			},
+			"offsets": {
+				"from": 1480440,
+				"to": 1483040
+			},
+			"text": " And so you see different things at different levels and they come and go."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,160",
+				"to": "00:24:51,790"
+			},
+			"offsets": {
+				"from": 1483160,
+				"to": 1491790
+			},
+			"text": " But I think that underlying struggle and when you have people involved and have the citizen space, that's, I think, what leads you to success in the long term."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,790",
+				"to": "00:25:12,090"
+			},
+			"offsets": {
+				"from": 1491790,
+				"to": 1512090
+			},
+			"text": " One of the really important pieces of analysis in your book has to do with the fact that they were able to achieve the gains that they did in Belo Horizonte and in Brazil disarm that argument that, oh, we can't do anything about hunger or that it's too hard to address the massive amount of hunger that happens in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,790",
+				"to": "00:25:21,570"
+			},
+			"offsets": {
+				"from": 1512790,
+				"to": 1521570
+			},
+			"text": " And if we've seen it done and done for over a long time and there's clear lessons to learn from it, why are we not doing that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,730",
+				"to": "00:25:23,990"
+			},
+			"offsets": {
+				"from": 1521730,
+				"to": 1523990
+			},
+			"text": " Like, it begs the ethical question."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,030",
+				"to": "00:25:27,590"
+			},
+			"offsets": {
+				"from": 1525030,
+				"to": 1527590
+			},
+			"text": " And you have a lot of analysis about why we're not doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,930",
+				"to": "00:25:28,210"
+			},
+			"offsets": {
+				"from": 1527930,
+				"to": 1528210
+			},
+			"text": " Mm-hmm."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,440",
+				"to": "00:25:33,240"
+			},
+			"offsets": {
+				"from": 1529440,
+				"to": 1533240
+			},
+			"text": " Yeah, I mean, I think there's obviously there's a lot of different elements of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,340",
+				"to": "00:25:39,260"
+			},
+			"offsets": {
+				"from": 1533340,
+				"to": 1539260
+			},
+			"text": " But to me, one of the core ones, I think almost all of us, almost every single person wants people to be well off."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,410",
+				"to": "00:25:43,070"
+			},
+			"offsets": {
+				"from": 1540410,
+				"to": 1543070
+			},
+			"text": " And the problem often is, well, I don't know how to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,090",
+				"to": "00:25:43,950"
+			},
+			"offsets": {
+				"from": 1543090,
+				"to": 1543950
+			},
+			"text": " How do I affect it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,270",
+				"to": "00:25:45,530"
+			},
+			"offsets": {
+				"from": 1544270,
+				"to": 1545530
+			},
+			"text": " What am I supposed to do about it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,210",
+				"to": "00:25:53,010"
+			},
+			"offsets": {
+				"from": 1546210,
+				"to": 1553010
+			},
+			"text": " And in Belo and in Brazil at large, one of the things to remember, like I said, is it took these decades."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,530",
+				"to": "00:25:54,270"
+			},
+			"offsets": {
+				"from": 1553530,
+				"to": 1554270
+			},
+			"text": " It started in the 20s."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,830",
+				"to": "00:26:01,900"
+			},
+			"offsets": {
+				"from": 1554830,
+				"to": 1561900
+			},
+			"text": " And I used to like to say to my students just in modern era, when we had the civil rights era in the United States, they didn't know they were going to win."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:02,560",
+				"to": "00:26:03,960"
+			},
+			"offsets": {
+				"from": 1562560,
+				"to": 1563960
+			},
+			"text": " Like, now it looks like fate."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,160",
+				"to": "00:26:08,940"
+			},
+			"offsets": {
+				"from": 1564160,
+				"to": 1568940
+			},
+			"text": " But they weren't going like, oh, yeah, a couple of years from now, we're going to have, you know, half of our agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,240",
+				"to": "00:26:11,800"
+			},
+			"offsets": {
+				"from": 1569240,
+				"to": 1571800
+			},
+			"text": " And then decades later to get other parts of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,840",
+				"to": "00:26:14,960"
+			},
+			"offsets": {
+				"from": 1571840,
+				"to": 1574960
+			},
+			"text": " But, you know, they didn't know that they were going to get the U.S. Civil Rights Act."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,140",
+				"to": "00:26:16,980"
+			},
+			"offsets": {
+				"from": 1575140,
+				"to": 1576980
+			},
+			"text": " They, you know, were pushing for various things."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,160",
+				"to": "00:26:20,530"
+			},
+			"offsets": {
+				"from": 1577160,
+				"to": 1580530
+			},
+			"text": " So, you know, in the middle of it, it still can feel very hopeless."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,190",
+				"to": "00:26:30,670"
+			},
+			"offsets": {
+				"from": 1581190,
+				"to": 1590670
+			},
+			"text": " And so I think it's holding on to that hope or what Eber de Souza, who was another activist, very influential in how Beresonche came about."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,910",
+				"to": "00:26:43,750"
+			},
+			"offsets": {
+				"from": 1590910,
+				"to": 1603750
+			},
+			"text": " He led a movement that helped lead to the impeachment of Kolor in the 90s and then formed a movement called the Citizens Action Movement Against Hunger and For Life, which doesn't even have a good acronym."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,850",
+				"to": "00:26:47,330"
+			},
+			"offsets": {
+				"from": 1603850,
+				"to": 1607330
+			},
+			"text": " It's quite I'm not sure if they couldn't have said that every time they introduced themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,330",
+				"to": "00:26:53,400"
+			},
+			"offsets": {
+				"from": 1607330,
+				"to": 1613400
+			},
+			"text": " But anyway, but Eber de Souza, in an interview, people are saying, well, you know, how do you keep at this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,480",
+				"to": "00:26:55,420"
+			},
+			"offsets": {
+				"from": 1613480,
+				"to": 1615420
+			},
+			"text": " You know, do you have hope for the future?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,950",
+				"to": "00:26:58,090"
+			},
+			"offsets": {
+				"from": 1615950,
+				"to": 1618090
+			},
+			"text": " And he said, well, I'm not some stupid optimist."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,190",
+				"to": "00:27:01,820"
+			},
+			"offsets": {
+				"from": 1618190,
+				"to": 1621820
+			},
+			"text": " I'm an active optimist, which I just that that's in the book."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,860",
+				"to": "00:27:05,240"
+			},
+			"offsets": {
+				"from": 1621860,
+				"to": 1625240
+			},
+			"text": " I just I think that epitomizes so much of what has to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,360",
+				"to": "00:27:07,720"
+			},
+			"offsets": {
+				"from": 1625360,
+				"to": 1627720
+			},
+			"text": " We can't just sit back and hope things will get better."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,090",
+				"to": "00:27:11,290"
+			},
+			"offsets": {
+				"from": 1628090,
+				"to": 1631290
+			},
+			"text": " It is going to take work and we don't know when that work will pay off."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,360",
+				"to": "00:27:25,340"
+			},
+			"offsets": {
+				"from": 1632360,
+				"to": 1645340
+			},
+			"text": " And that, to me, is one of the enduring messages of the book that even right now, with things very bad in a number of countries from various points of view in terms of our democracies, that it has to be the long game."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,340",
+				"to": "00:27:52,020"
+			},
+			"offsets": {
+				"from": 1645340,
+				"to": 1672020
+			},
+			"text": " But the thing to me that that's key, if I have a short ish message, I'm not good at short, but a short ish message is that the simplistic explanation of how things happen in Belo Horizonte is that you had movement sensibility and agenda come together with activist academics and intellectuals coming together with people eventually who are in elected office."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:52,200",
+				"to": "00:28:01,680"
+			},
+			"offsets": {
+				"from": 1672200,
+				"to": 1681680
+			},
+			"text": " And when you have the policy analysts and academic experts on the same page with the same agenda as the movement, you can pressure policymakers."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,680",
+				"to": "00:28:05,150"
+			},
+			"offsets": {
+				"from": 1681680,
+				"to": 1685150
+			},
+			"text": " And when you have sympathetic policymakers, get things actually done."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,210",
+				"to": "00:28:13,370"
+			},
+			"offsets": {
+				"from": 1685210,
+				"to": 1693370
+			},
+			"text": " And this is based on something called the multiple streams analysis and political science, which I won't get into the details of, but that's that's the core of it to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,370",
+				"to": "00:28:29,460"
+			},
+			"offsets": {
+				"from": 1693370,
+				"to": 1709460
+			},
+			"text": " And this building continuity and trust between these different sectors, between people who have resources, both intellectual and financial in terms of and power wise, in terms of thinkers and academics and people in the FAO."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,530",
+				"to": "00:28:41,760"
+			},
+			"offsets": {
+				"from": 1710530,
+				"to": 1721760
+			},
+			"text": " When you really make common cause, and from my point of view, to a certain amount of serving the movement, being accountable to movements and to groups that come from the ground, you're not going to agree with everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,760",
+				"to": "00:28:49,120"
+			},
+			"offsets": {
+				"from": 1721760,
+				"to": 1729120
+			},
+			"text": " But accountability means finding what you can agree on and pushing for that and building that shared agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,000",
+				"to": "00:28:53,520"
+			},
+			"offsets": {
+				"from": 1730000,
+				"to": 1733520
+			},
+			"text": " And when you do that, I think that's when things are likely to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,580",
+				"to": "00:28:54,460"
+			},
+			"offsets": {
+				"from": 1733580,
+				"to": 1734460
+			},
+			"text": " It still takes some time."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,540",
+				"to": "00:28:56,460"
+			},
+			"offsets": {
+				"from": 1734540,
+				"to": 1736460
+			},
+			"text": " You have to wait for the right window, the window opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:56,940",
+				"to": "00:29:04,400"
+			},
+			"offsets": {
+				"from": 1736940,
+				"to": 1744400
+			},
+			"text": " But the way to make that window come about and the way to make it effective to me is to already have those links and have worked out your common agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:05,330",
+				"to": "00:29:06,950"
+			},
+			"offsets": {
+				"from": 1745330,
+				"to": 1746950
+			},
+			"text": " And that's the part that I think is very challenging."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,740",
+				"to": "00:29:16,130"
+			},
+			"offsets": {
+				"from": 1747740,
+				"to": 1756130
+			},
+			"text": " But in a way, to me, it's from when I was researching this, it was hopeful because the individual, it's more than just, OK, I have to try and get all my friends to vote for the right person."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,610",
+				"to": "00:29:18,920"
+			},
+			"offsets": {
+				"from": 1756610,
+				"to": 1758920
+			},
+			"text": " But it's it can be fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,920",
+				"to": "00:29:28,460"
+			},
+			"offsets": {
+				"from": 1758920,
+				"to": 1768460
+			},
+			"text": " It's getting together with people who care about some social issue you do, which everyone has something, you know, it's urban gardening or access to quality schools or land reform."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:29,230",
+				"to": "00:29:31,230"
+			},
+			"offsets": {
+				"from": 1769230,
+				"to": 1771230
+			},
+			"text": " There's people who are doing something you care about."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,370",
+				"to": "00:29:44,240"
+			},
+			"offsets": {
+				"from": 1771370,
+				"to": 1784240
+			},
+			"text": " And to me, it's about joining those groups, especially if you're someone who has some power as an academic or something, joining those groups, really learning and serving with and alongside and then creating this common agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,640",
+				"to": "00:29:47,400"
+			},
+			"offsets": {
+				"from": 1784640,
+				"to": 1787400
+			},
+			"text": " And then if you're which is, I think, a big step for a lot of us."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,400",
+				"to": "00:30:02,540"
+			},
+			"offsets": {
+				"from": 1787400,
+				"to": 1802540
+			},
+			"text": " But if you're really ambitious, you've already done that, then connecting with other people who are also struggling and a different issue and creating a shared agenda and know that you're not all going to go at the same time, but be ready to say, OK, well, we've got our common people's agenda around education, food, land reform."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,740",
+				"to": "00:30:07,540"
+			},
+			"offsets": {
+				"from": 1802740,
+				"to": 1807540
+			},
+			"text": " And so when the right politician comes in, the sympathetic ear comes in like we're going to pounce together."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,300",
+				"to": "00:30:15,100"
+			},
+			"offsets": {
+				"from": 1808300,
+				"to": 1815100
+			},
+			"text": " And I do want to say Reverend William Barber and the momentum and forward together is a really exciting movement in the United States right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,620",
+				"to": "00:30:21,460"
+			},
+			"offsets": {
+				"from": 1815620,
+				"to": 1821460
+			},
+			"text": " And I think that's sort of exactly the analysis that they have, that we have to look at social justice across all these dimensions."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,280",
+				"to": "00:30:29,970"
+			},
+			"offsets": {
+				"from": 1822280,
+				"to": 1829970
+			},
+			"text": " And we can do that and realize that it's not going to be quickly, but we can build leaders from the ground up over time."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,350",
+				"to": "00:30:33,240"
+			},
+			"offsets": {
+				"from": 1830350,
+				"to": 1833240
+			},
+			"text": " That you can really, you can get the change that you want."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,360",
+				"to": "00:30:36,360"
+			},
+			"offsets": {
+				"from": 1833360,
+				"to": 1836360
+			},
+			"text": " And it might go back again, but we can get it in the long term."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,580",
+				"to": "00:30:43,860"
+			},
+			"offsets": {
+				"from": 1837580,
+				"to": 1843860
+			},
+			"text": " And that organizing can happen during a time of authoritarianism like we have in the United States now or Brazil now too."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,200",
+				"to": "00:30:46,400"
+			},
+			"offsets": {
+				"from": 1844200,
+				"to": 1846400
+			},
+			"text": " That organizing can be very productive."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:46,800",
+				"to": "00:30:47,140"
+			},
+			"offsets": {
+				"from": 1846800,
+				"to": 1847140
+			},
+			"text": " Absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,280",
+				"to": "00:30:51,910"
+			},
+			"offsets": {
+				"from": 1847280,
+				"to": 1851910
+			},
+			"text": " And I would say a really, really important part is that is the time to organize."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,910",
+				"to": "00:30:53,430"
+			},
+			"offsets": {
+				"from": 1851910,
+				"to": 1853430
+			},
+			"text": " And it's a time when people get activated."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,570",
+				"to": "00:31:02,020"
+			},
+			"offsets": {
+				"from": 1853570,
+				"to": 1862020
+			},
+			"text": " But I think it's so key not to get organized to get out the guy or woman you hate or think it's causing damage."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,140",
+				"to": "00:31:04,960"
+			},
+			"offsets": {
+				"from": 1862140,
+				"to": 1864960
+			},
+			"text": " It's organizing to get this shared analysis and agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,440",
+				"to": "00:31:18,140"
+			},
+			"offsets": {
+				"from": 1865440,
+				"to": 1878140
+			},
+			"text": " Because when that person eventually does fall or kicked out or pushed out, corruption, whatever happens, just normal elections, we like to think, okay, thank goodness we can get back to normal, which normal is not that great anyway for many people."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,640",
+				"to": "00:31:23,620"
+			},
+			"offsets": {
+				"from": 1878640,
+				"to": 1883620
+			},
+			"text": " But if we don't have a shared agenda, then we'll just go back to these, the fights that we see right now, but just get larger."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,000",
+				"to": "00:31:28,850"
+			},
+			"offsets": {
+				"from": 1884000,
+				"to": 1888850
+			},
+			"text": " When you have power and the ability to get your agenda done, it gets worse if you don't have a shared agenda."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,490",
+				"to": "00:31:37,460"
+			},
+			"offsets": {
+				"from": 1889490,
+				"to": 1897460
+			},
+			"text": " And so the organizing and figuring out the compromises within ourselves, not compromising our values, but realizing that we're not going to get everything at once."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,880",
+				"to": "00:31:42,680"
+			},
+			"offsets": {
+				"from": 1897880,
+				"to": 1902680
+			},
+			"text": " So if we can get on the same page for a variety of issues, we can push the ones that are opportune."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,900",
+				"to": "00:31:44,300"
+			},
+			"offsets": {
+				"from": 1902900,
+				"to": 1904300
+			},
+			"text": " And this is, again, the long term."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,360",
+				"to": "00:31:48,700"
+			},
+			"offsets": {
+				"from": 1904360,
+				"to": 1908700
+			},
+			"text": " We can all have our turn, but we have to figure out that strategicness."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,700",
+				"to": "00:31:57,700"
+			},
+			"offsets": {
+				"from": 1908700,
+				"to": 1917700
+			},
+			"text": " And I would just say one of the things that's been fascinating me these past couple of years is just looking back at civil rights in the United States again, just even a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,210",
+				"to": "00:32:01,930"
+			},
+			"offsets": {
+				"from": 1918210,
+				"to": 1921930
+			},
+			"text": " And we forget, I mean, there was deep strategy there."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,870",
+				"to": "00:32:04,860"
+			},
+			"offsets": {
+				"from": 1922870,
+				"to": 1924860
+			},
+			"text": " And some of it is kind of mercenary."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,260",
+				"to": "00:32:10,660"
+			},
+			"offsets": {
+				"from": 1925260,
+				"to": 1930660
+			},
+			"text": " And I don't know how happy that makes me, but I think we have to at least think in these kinds of terms."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:11,240",
+				"to": "00:32:16,380"
+			},
+			"offsets": {
+				"from": 1931240,
+				"to": 1936380
+			},
+			"text": " With Rosa Parks, for example, she was the third or fourth person who refused to give up her seat and was arrested."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,240",
+				"to": "00:32:19,360"
+			},
+			"offsets": {
+				"from": 1937240,
+				"to": 1939360
+			},
+			"text": " There's a woman, I think her name was Blythe Colvin."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,690",
+				"to": "00:32:23,700"
+			},
+			"offsets": {
+				"from": 1939690,
+				"to": 1943700
+			},
+			"text": " I might be wrong, but there are two or three women who had been arrested before for this."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,960",
+				"to": "00:32:25,300"
+			},
+			"offsets": {
+				"from": 1943960,
+				"to": 1945300
+			},
+			"text": " But one of them was an unwed mother."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,760",
+				"to": "00:32:29,390"
+			},
+			"offsets": {
+				"from": 1945760,
+				"to": 1949390
+			},
+			"text": " And they said, well, this is not going to get us where we need to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:29,830",
+				"to": "00:32:34,570"
+			},
+			"offsets": {
+				"from": 1949830,
+				"to": 1954570
+			},
+			"text": " Rosa Parks was this, you know, well-spoken, had her lines thought out, church lady."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,280",
+				"to": "00:32:38,500"
+			},
+			"offsets": {
+				"from": 1955280,
+				"to": 1958500
+			},
+			"text": " And so she was the one they said, well, okay, now we're going to move."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,490",
+				"to": "00:32:42,030"
+			},
+			"offsets": {
+				"from": 1959490,
+				"to": 1962030
+			},
+			"text": " And they kept telling everyone, you know, hold your powder, hold your powder."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:42,430",
+				"to": "00:32:44,570"
+			},
+			"offsets": {
+				"from": 1962430,
+				"to": 1964570
+			},
+			"text": " And that's really higher than the stay of Twitter and all that."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,710",
+				"to": "00:32:51,650"
+			},
+			"offsets": {
+				"from": 1964710,
+				"to": 1971650
+			},
+			"text": " And I feel like that is the legitimate side of when people complain about people crusading against various things or wanting purity."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:52,510",
+				"to": "00:32:56,310"
+			},
+			"offsets": {
+				"from": 1972510,
+				"to": 1976310
+			},
+			"text": " I'm not, I don't think, I think we should be happy that more people are speaking out against things."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,710",
+				"to": "00:33:04,190"
+			},
+			"offsets": {
+				"from": 1976710,
+				"to": 1984190
+			},
+			"text": " But it is true, I think, that we need to, if you really want it to happen, more important than making sure your other friend is completely pure on the right terms or whatever,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:04,770",
+				"to": "00:33:13,510"
+			},
+			"offsets": {
+				"from": 1984770,
+				"to": 1993510
+			},
+			"text": " is to make sure that you have your shit together and figuring out internally what you're going to push for and when."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,930",
+				"to": "00:33:24,660"
+			},
+			"offsets": {
+				"from": 1993930,
+				"to": 2004660
+			},
+			"text": " So that when you do get the juncture, you can get a variety of stuff done, but not just picking at each other in these, these, they're not small battles, but the organizing anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,920",
+				"to": "00:33:29,740"
+			},
+			"offsets": {
+				"from": 2004920,
+				"to": 2009740
+			},
+			"text": " So that's the way to say it is organizing is very different than opinionating and you need both."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,900",
+				"to": "00:33:32,420"
+			},
+			"offsets": {
+				"from": 2009900,
+				"to": 2012420
+			},
+			"text": " But the organizing is the part that I think we're really lacking."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:33,160",
+				"to": "00:33:41,170"
+			},
+			"offsets": {
+				"from": 2013160,
+				"to": 2021170
+			},
+			"text": " And that's just working together that seems to be often out of fad in the United States, but so necessary and so powerful when it does happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,830",
+				"to": "00:33:46,250"
+			},
+			"offsets": {
+				"from": 2022830,
+				"to": 2026250
+			},
+			"text": " This is a bit of a hard question because it's only happening now."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,290",
+				"to": "00:33:54,380"
+			},
+			"offsets": {
+				"from": 2026290,
+				"to": 2034380
+			},
+			"text": " But do you see that those multiple streams strengthening right now on this, at this conference on agroecology at FAO?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:54,520",
+				"to": "00:33:55,840"
+			},
+			"offsets": {
+				"from": 2034520,
+				"to": 2035840
+			},
+			"text": " Is that what's happening here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:58,940",
+				"to": "00:34:00,540"
+			},
+			"offsets": {
+				"from": 2038940,
+				"to": 2040540
+			},
+			"text": " That's, that's, that's Trixie."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,580",
+				"to": "00:34:13,900"
+			},
+			"offsets": {
+				"from": 2041580,
+				"to": 2053900
+			},
+			"text": " You know, I hadn't thought of it in those terms right now, but actually I do, I think we do, because I think, I mean, we have a lot of people here from sort of the academic analysis background,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,900",
+				"to": "00:34:21,140"
+			},
+			"offsets": {
+				"from": 2053900,
+				"to": 2061140
+			},
+			"text": " as well as a lot of people from, from the base themselves, from pastoralists, fisher folk, farmers, of course, small scale farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,940",
+				"to": "00:34:25,430"
+			},
+			"offsets": {
+				"from": 2061940,
+				"to": 2065430
+			},
+			"text": " And I feel like from what I've seen, we're pretty united."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,570",
+				"to": "00:34:34,820"
+			},
+			"offsets": {
+				"from": 2065570,
+				"to": 2074820
+			},
+			"text": " There's a shared analysis of a need for system change, of a need to involve, have rights and women's rights particularly, and equality and representation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,170",
+				"to": "00:34:50,070"
+			},
+			"offsets": {
+				"from": 2075170,
+				"to": 2090070
+			},
+			"text": " There's a, really, a shared sensibility, I think, which is the, the policy stream, the, the thinker policy make designers coming together with the movements, certain policy thinkers and analysts."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,830",
+				"to": "00:34:55,170"
+			},
+			"offsets": {
+				"from": 2090830,
+				"to": 2095170
+			},
+			"text": " And I think the other thing that we see is, of course, the internal tensions in FAO."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,450",
+				"to": "00:34:58,700"
+			},
+			"offsets": {
+				"from": 2095450,
+				"to": 2098700
+			},
+			"text": " And for a variety of reasons, there's only so radical they can be."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,810",
+				"to": "00:35:05,360"
+			},
+			"offsets": {
+				"from": 2098810,
+				"to": 2105360
+			},
+			"text": " And then there's also just how radical, you know, they want to be the individuals and institution in terms of what, what seems like they can do."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,780",
+				"to": "00:35:16,570"
+			},
+			"offsets": {
+				"from": 2105780,
+				"to": 2116570
+			},
+			"text": " And I think one of the things that was interesting thinking about Belo Horizonte in Brazil is there's often this tension between inside or outside, between critique and collaboration or co-optation."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,370",
+				"to": "00:35:21,640"
+			},
+			"offsets": {
+				"from": 2117370,
+				"to": 2121640
+			},
+			"text": " And to me, there's just a partial resolution that we can think of in terms of we need both."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,760",
+				"to": "00:35:30,070"
+			},
+			"offsets": {
+				"from": 2122760,
+				"to": 2130070
+			},
+			"text": " But to me, the people who are inside are empowered, this can sound counterintuitive, but by opposition from the outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,240",
+				"to": "00:35:34,740"
+			},
+			"offsets": {
+				"from": 2130240,
+				"to": 2134740
+			},
+			"text": " And I think even people inside don't appreciate that in my, usually in my point of view."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,190",
+				"to": "00:35:49,090"
+			},
+			"offsets": {
+				"from": 2135190,
+				"to": 2149090
+			},
+			"text": " But there's a famous story that Obama used to say that supposedly didn't really happen this way, but that when Lyndon Johnson was trying to advocate and get the U.S. civil rights bill passed, that Martin Luther King and others said, like, you have to, you have to make this happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,530",
+				"to": "00:35:51,060"
+			},
+			"offsets": {
+				"from": 2149530,
+				"to": 2151060
+			},
+			"text": " And he said, well, make me."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,870",
+				"to": "00:35:55,550"
+			},
+			"offsets": {
+				"from": 2151870,
+				"to": 2155550
+			},
+			"text": " Like, get you, literally, get people out there to make me do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,780",
+				"to": "00:35:57,070"
+			},
+			"offsets": {
+				"from": 2155780,
+				"to": 2157070
+			},
+			"text": " I can't do it unless you make me."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,730",
+				"to": "00:36:00,050"
+			},
+			"offsets": {
+				"from": 2157730,
+				"to": 2160050
+			},
+			"text": " Supposedly it didn't actually really happen or didn't happen quite like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,050",
+				"to": "00:36:02,080"
+			},
+			"offsets": {
+				"from": 2160050,
+				"to": 2162080
+			},
+			"text": " But I think the underlying story is there."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,440",
+				"to": "00:36:09,710"
+			},
+			"offsets": {
+				"from": 2162440,
+				"to": 2169710
+			},
+			"text": " And I actually think this is maybe getting a little far afield, but I think this is, it's very telling that Obama used to tell that story quite a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,390",
+				"to": "00:36:11,610"
+			},
+			"offsets": {
+				"from": 2170390,
+				"to": 2171610
+			},
+			"text": " It wasn't reported that much."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,670",
+				"to": "00:36:15,110"
+			},
+			"offsets": {
+				"from": 2171670,
+				"to": 2175110
+			},
+			"text": " But if you look, people, certain journalists said, oh, hey, he told that story all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,640",
+				"to": "00:36:24,980"
+			},
+			"offsets": {
+				"from": 2175640,
+				"to": 2184980
+			},
+			"text": " And I think even though he complained in public when people were too far left and expecting too much, that I think there was a strategic vision there that like, yeah, you have to push me farther than I want to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,300",
+				"to": "00:36:27,140"
+			},
+			"offsets": {
+				"from": 2185300,
+				"to": 2187140
+			},
+			"text": " And I'm not going to, I'm not going to go along easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,200",
+				"to": "00:36:28,780"
+			},
+			"offsets": {
+				"from": 2187200,
+				"to": 2188780
+			},
+			"text": " I'm not going to say, yes, that's awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:29,280",
+				"to": "00:36:36,420"
+			},
+			"offsets": {
+				"from": 2189280,
+				"to": 2196420
+			},
+			"text": " So I think this opposition of politics that it's even better if we can talk to people on the inside and realize that, yeah, we're going to tell you you're not doing enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,580",
+				"to": "00:36:39,120"
+			},
+			"offsets": {
+				"from": 2196580,
+				"to": 2199120
+			},
+			"text": " And it's not because we don't like you or think you have the wrong values."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,360",
+				"to": "00:36:42,260"
+			},
+			"offsets": {
+				"from": 2199360,
+				"to": 2202260
+			},
+			"text": " It's because that's how you can have more space to do what's right."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:42,920",
+				"to": "00:36:47,860"
+			},
+			"offsets": {
+				"from": 2202920,
+				"to": 2207860
+			},
+			"text": " And I think that's really hard to personally realize."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:48,080",
+				"to": "00:36:51,180"
+			},
+			"offsets": {
+				"from": 2208080,
+				"to": 2211180
+			},
+			"text": " I mean, especially when you are trying to do your best near an institution."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:52,600",
+				"to": "00:36:55,370"
+			},
+			"offsets": {
+				"from": 2212600,
+				"to": 2215370
+			},
+			"text": " And it's not, you know, it doesn't always work that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,370",
+				"to": "00:36:56,830"
+			},
+			"offsets": {
+				"from": 2215370,
+				"to": 2216830
+			},
+			"text": " So it takes some planning and strategy."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,230",
+				"to": "00:37:00,620"
+			},
+			"offsets": {
+				"from": 2217230,
+				"to": 2220620
+			},
+			"text": " But I think that's a key dynamic that we, that is, is coming together of streams."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:00,760",
+				"to": "00:37:02,280"
+			},
+			"offsets": {
+				"from": 2220760,
+				"to": 2222280
+			},
+			"text": " And so I see that potential here."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,480",
+				"to": "00:37:07,860"
+			},
+			"offsets": {
+				"from": 2222480,
+				"to": 2227860
+			},
+			"text": " We have people inside the FAO that really believe in the whole vision, the liberatory vision of agroecology."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,760",
+				"to": "00:37:11,490"
+			},
+			"offsets": {
+				"from": 2228760,
+				"to": 2231490
+			},
+			"text": " And I think they're trying the best they can."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:12,200",
+				"to": "00:37:24,000"
+			},
+			"offsets": {
+				"from": 2232200,
+				"to": 2244000
+			},
+			"text": " And I hope that we have or can get to an understanding where, yeah, we're demanding more, not because we don't think that you're doing as much as you can, but us demanding more right now is what's going to allow you the space to do more."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:24,000",
+				"to": "00:37:41,940"
+			},
+			"offsets": {
+				"from": 2244000,
+				"to": 2261940
+			},
+			"text": " Another big analysis that you have in your book is one that I hear being articulated here, although it's not yet put into practice in the vast majority of the FAO's operation is that hunger is not about a lack of production."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,180",
+				"to": "00:37:47,750"
+			},
+			"offsets": {
+				"from": 2262180,
+				"to": 2267750
+			},
+			"text": " And it's not even about a lack of distribution or just access, really."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:48,360",
+				"to": "00:37:55,080"
+			},
+			"offsets": {
+				"from": 2268360,
+				"to": 2275080
+			},
+			"text": " And so the way to address hunger, if you want to succeed, take a multiple approach and a movement-based approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,460",
+				"to": "00:37:58,330"
+			},
+			"offsets": {
+				"from": 2275460,
+				"to": 2278330
+			},
+			"text": " So are you hearing that articulated here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,490",
+				"to": "00:38:01,690"
+			},
+			"offsets": {
+				"from": 2278490,
+				"to": 2281690
+			},
+			"text": " Do you think that we're in a moment of paradigm change about that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:01,960",
+				"to": "00:38:04,480"
+			},
+			"offsets": {
+				"from": 2281960,
+				"to": 2284480
+			},
+			"text": " Can we be hopeful that the practice will start to follow that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:06,830",
+				"to": "00:38:07,230"
+			},
+			"offsets": {
+				"from": 2286830,
+				"to": 2287230
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,610",
+				"to": "00:38:09,450"
+			},
+			"offsets": {
+				"from": 2287610,
+				"to": 2289450
+			},
+			"text": " That's another hard one."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:11,930",
+				"to": "00:38:15,500"
+			},
+			"offsets": {
+				"from": 2291930,
+				"to": 2295500
+			},
+			"text": " I do think that we are seeing a paradigm shift."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:16,360",
+				"to": "00:38:21,240"
+			},
+			"offsets": {
+				"from": 2296360,
+				"to": 2301240
+			},
+			"text": " And the funny thing, I think, about almost all of us humans is that we don't necessarily see ourselves shifting."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:21,720",
+				"to": "00:38:28,820"
+			},
+			"offsets": {
+				"from": 2301720,
+				"to": 2308820
+			},
+			"text": " So I think I'm not sure people here would say that they've shifted or that they've always known or believed that hunger is about more than production or even access."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,820",
+				"to": "00:38:52,310"
+			},
+			"offsets": {
+				"from": 2308820,
+				"to": 2332310
+			},
+			"text": " But I think the consistency with which pretty much all the speakers have emphasized that in varying ways that we need more democratic accountability, more participation, more voice and empowerment, real empowerment, where people are given or take the power to actually determine how things are spent, what the focuses are."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,550",
+				"to": "00:39:07,690"
+			},
+			"offsets": {
+				"from": 2332550,
+				"to": 2347690
+			},
+			"text": " Not the sort of, I don't know, halfway empowerment where you say, I've got this budget to this kind of project with you and you can help me decide exactly what flavor of, you know, whatever, what color of car that we're going to use to drive you to prosperity, to mango metaphors."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,790",
+				"to": "00:39:14,660"
+			},
+			"offsets": {
+				"from": 2348790,
+				"to": 2354660
+			},
+			"text": " So I do think that people are emphasizing those elements from the speaker's side."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:15,240",
+				"to": "00:39:19,080"
+			},
+			"offsets": {
+				"from": 2355240,
+				"to": 2359080
+			},
+			"text": " And the FAO did have a big hand in selecting who was going to speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:19,080",
+				"to": "00:39:36,920"
+			},
+			"offsets": {
+				"from": 2359080,
+				"to": 2376920
+			},
+			"text": " So even though I feel like that voice of agency, which is one of the pieces of analyzing food security from my point of view, that we often talk about availability, how many calories do we have or grains or fruits or vegetables, and accessibility, which is economic and physical access."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,160",
+				"to": "00:39:40,980"
+			},
+			"offsets": {
+				"from": 2377160,
+				"to": 2380980
+			},
+			"text": " You know, do you have the infrastructure and do you have the money or rights to get food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,900",
+				"to": "00:39:49,010"
+			},
+			"offsets": {
+				"from": 2381900,
+				"to": 2389010
+			},
+			"text": " Agency, the ability to change the agency, the ability to change the political system so that your rights are guaranteed and that you can collaboratively decide what rights mean."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,790",
+				"to": "00:40:00,270"
+			},
+			"offsets": {
+				"from": 2389790,
+				"to": 2400270
+			},
+			"text": " And like we were talking about earlier, these resourceful approaches to food in Belo Horizonte, that to me is the key and really is another way of saying food sovereignty, a term that, you know, a lot of us also use."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:01,270",
+				"to": "00:40:10,650"
+			},
+			"offsets": {
+				"from": 2401270,
+				"to": 2410650
+			},
+			"text": " And I do feel like there's been a paradigm change already in that everyone from the FAO has so far said it's not about production."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:12,260",
+				"to": "00:40:18,190"
+			},
+			"offsets": {
+				"from": 2412260,
+				"to": 2418190
+			},
+			"text": " But as we were saying earlier, you know, it's a lot harder to put a lot of things into practice than to say them, of course."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,950",
+				"to": "00:40:26,850"
+			},
+			"offsets": {
+				"from": 2418950,
+				"to": 2426850
+			},
+			"text": " And so I do think we're at this juncture where we have to keep expanding our circle of allies when we can get on the same page."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,850",
+				"to": "00:40:35,610"
+			},
+			"offsets": {
+				"from": 2426850,
+				"to": 2435610
+			},
+			"text": " And that's the challenge of not being co-opted is, I think, finding the common values and then expanding your circle through ongoing dialogue."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,790",
+				"to": "00:40:39,550"
+			},
+			"offsets": {
+				"from": 2435790,
+				"to": 2439550
+			},
+			"text": " It's not just that you have common values because we all think the same thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,210",
+				"to": "00:40:48,160"
+			},
+			"offsets": {
+				"from": 2440210,
+				"to": 2448160
+			},
+			"text": " And that's part of the genius of Via Campesina, of the international small farmer peasants movement, is that they've had dialogues for literally decades now."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:48,160",
+				"to": "00:40:57,930"
+			},
+			"offsets": {
+				"from": 2448160,
+				"to": 2457930
+			},
+			"text": " And that's why they have a united voice that still also tries to allow room for diversity in context because they're fundamental values they've gotten on the same page of."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,470",
+				"to": "00:41:13,310"
+			},
+			"offsets": {
+				"from": 2458470,
+				"to": 2473310
+			},
+			"text": " And I hate sort of marketing salesmanship, but using the same words when you're talking about the same thing helps because people who are not food experts, if they hear five different terms, it's going to be hard to grasp onto what are we lobbying about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:13,310",
+				"to": "00:41:19,390"
+			},
+			"offsets": {
+				"from": 2473310,
+				"to": 2479390
+			},
+			"text": " So that's, to me, the power of agroecology and food sovereignty, is people are really using those terms, it's being taken up."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:19,470",
+				"to": "00:41:27,280"
+			},
+			"offsets": {
+				"from": 2479470,
+				"to": 2487280
+			},
+			"text": " I think I even heard one person from a room-based agency say food sovereignty, which is a major thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:28,520",
+				"to": "00:41:40,850"
+			},
+			"offsets": {
+				"from": 2488520,
+				"to": 2500850
+			},
+			"text": " And so I think, yeah, we are at a moment of paradigm change, but that just means that we have to not only keep doing what we're doing, but keep doing it smarter and with more people and in real collaborative spaces."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:42,590",
+				"to": "00:41:44,470"
+			},
+			"offsets": {
+				"from": 2502590,
+				"to": 2504470
+			},
+			"text": " Wonderful, Jay. I think that's the place we should leave it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,470",
+				"to": "00:41:47,750"
+			},
+			"offsets": {
+				"from": 2504470,
+				"to": 2507750
+			},
+			"text": " Hey, thanks so much for taking the time to do an interview, and thanks so much for the book."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,830",
+				"to": "00:41:50,730"
+			},
+			"offsets": {
+				"from": 2507830,
+				"to": 2510730
+			},
+			"text": " I think it's a, there's so much more in it that we could talk about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:52,030",
+				"to": "00:41:53,690"
+			},
+			"offsets": {
+				"from": 2512030,
+				"to": 2513690
+			},
+			"text": " Whole book worth."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:54,550",
+				"to": "00:41:56,090"
+			},
+			"offsets": {
+				"from": 2514550,
+				"to": 2516090
+			},
+			"text": " Oh, thank you, Devin. This has been great."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:05,240",
+				"to": "00:42:10,460"
+			},
+			"offsets": {
+				"from": 2525240,
+				"to": 2530460
+			},
+			"text": " Delicious Revolution is hosted and produced by Chelsea Wills and me, Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,260",
+				"to": "00:42:21,190"
+			},
+			"offsets": {
+				"from": 2531260,
+				"to": 2541190
+			},
+			"text": " You can hear Delicious Revolution on the radio and radio stations KWMR and KOWS in coastal California, or you can listen online."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:21,190",
+				"to": "00:42:25,950"
+			},
+			"offsets": {
+				"from": 2541190,
+				"to": 2545950
+			},
+			"text": " Just search for Delicious Revolution wherever podcasts are found."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,710",
+				"to": "00:42:38,650"
+			},
+			"offsets": {
+				"from": 2546710,
+				"to": 2558650
+			},
+			"text": " You can learn more about Delicious Revolution, read about our guests, see pictures, and browse the more than 50 episodes that we've already done at our website, deliciousrevolutionshow.com."
+		}
+	]
+}

@@ -1,0 +1,6236 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,030",
+				"to": "00:00:05,630"
+			},
+			"offsets": {
+				"from": 30,
+				"to": 5630
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,630",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 5630,
+				"to": 11600
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:14,370"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 14370
+			},
+			"text": " What's your food movement? Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,370",
+				"to": "00:00:16,290"
+			},
+			"offsets": {
+				"from": 14370,
+				"to": 16290
+			},
+			"text": " DeliciousRevolutionShow.com"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,290",
+				"to": "00:00:27,800"
+			},
+			"offsets": {
+				"from": 16290,
+				"to": 27800
+			},
+			"text": " It's a crazy early hour and tides are always at 4:30 or 5:00 a.m."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,800",
+				"to": "00:00:31,480"
+			},
+			"offsets": {
+				"from": 27800,
+				"to": 31480
+			},
+			"text": " It's kind of dark as we arrive and the moon is just behind the cliff."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,480",
+				"to": "00:00:36,000"
+			},
+			"offsets": {
+				"from": 31480,
+				"to": 36000
+			},
+			"text": " The lighting is just this magical time and the sounds of the water receded."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,000",
+				"to": "00:00:40,400"
+			},
+			"offsets": {
+				"from": 36000,
+				"to": 40400
+			},
+			"text": " There's the little splash in the puddles and sometimes there's a seal gawking in the back."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,400",
+				"to": "00:00:43,200"
+			},
+			"offsets": {
+				"from": 40400,
+				"to": 43200
+			},
+			"text": " We even see a whale sometimes. It's really phenomenal."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,200",
+				"to": "00:00:47,040"
+			},
+			"offsets": {
+				"from": 43200,
+				"to": 47040
+			},
+			"text": " It's easy just to look for a long time before starting."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,040",
+				"to": "00:00:52,080"
+			},
+			"offsets": {
+				"from": 47040,
+				"to": 52080
+			},
+			"text": " It's just astounding how I just had to set an alarm to get out there, to experience that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,080",
+				"to": "00:00:55,390"
+			},
+			"offsets": {
+				"from": 52080,
+				"to": 55390
+			},
+			"text": " That's all it took to see what's normally underwater."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,390",
+				"to": "00:00:59,100"
+			},
+			"offsets": {
+				"from": 55390,
+				"to": 59100
+			},
+			"text": " The seaweed grows in its different intertidal zones."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,100",
+				"to": "00:01:03,580"
+			},
+			"offsets": {
+				"from": 59100,
+				"to": 63580
+			},
+			"text": " Some are in the very outermost, which would be also submerged most of the time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,580",
+				"to": "00:01:06,220"
+			},
+			"offsets": {
+				"from": 63580,
+				"to": 66220
+			},
+			"text": " except in these extreme negative low tides."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,220",
+				"to": "00:01:08,060"
+			},
+			"offsets": {
+				"from": 66220,
+				"to": 68060
+			},
+			"text": " I'm certainly not the first one to be doing this."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,060",
+				"to": "00:01:12,060"
+			},
+			"offsets": {
+				"from": 68060,
+				"to": 72060
+			},
+			"text": " I'm part of a long continuum of thousands of generations that have been doing this"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,610",
+				"to": "00:01:16,930"
+			},
+			"offsets": {
+				"from": 72610,
+				"to": 76930
+			},
+			"text": " and thousands of languages and cultures that have harvested from the sea and the shore."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,080",
+				"to": "00:01:24,160"
+			},
+			"offsets": {
+				"from": 78080,
+				"to": 84160
+			},
+			"text": " You really feel it. It's simple and grounding and it brings a lot of satisfaction to be doing"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,160",
+				"to": "00:01:34,220"
+			},
+			"offsets": {
+				"from": 84160,
+				"to": 94220
+			},
+			"text": " something so timeless. Welcome to Delicious Revolution, a show about food, culture and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,220",
+				"to": "00:01:39,930"
+			},
+			"offsets": {
+				"from": 94220,
+				"to": 99930
+			},
+			"text": " And I'm Devin Sampson. We talk with people who work in and think about all aspects of food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,930",
+				"to": "00:01:45,550"
+			},
+			"offsets": {
+				"from": 99930,
+				"to": 105550
+			},
+			"text": " including farmers, chefs, artists and activists, bringing you in-depth conversations with some"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,550",
+				"to": "00:01:50,990"
+			},
+			"offsets": {
+				"from": 105550,
+				"to": 110990
+			},
+			"text": " amazing people. On this third season of Delicious Revolution, we're bringing you stories and perspectives"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,990",
+				"to": "00:01:57,070"
+			},
+			"offsets": {
+				"from": 110990,
+				"to": 117070
+			},
+			"text": " from the unseen places in food systems. Going behind kitchen doors, into underground nests of native"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,070",
+				"to": "00:02:04,040"
+			},
+			"offsets": {
+				"from": 117070,
+				"to": 124040
+			},
+			"text": " bees, under the waves, and to the far away origins of flavors we love, just to name a few. I'm speaking"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,040",
+				"to": "00:02:10,420"
+			},
+			"offsets": {
+				"from": 124040,
+				"to": 130420
+			},
+			"text": " with people who work with food in places we normally cannot see or don't notice. It's a season of unseen"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,420",
+				"to": "00:02:15,520"
+			},
+			"offsets": {
+				"from": 130420,
+				"to": 135520
+			},
+			"text": " stories of food. You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,520",
+				"to": "00:02:20,960"
+			},
+			"offsets": {
+				"from": 135520,
+				"to": 140960
+			},
+			"text": " Just search for Delicious Revolution wherever you get your podcasts and you'll find us. Our website is"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,960",
+				"to": "00:02:26,710"
+			},
+			"offsets": {
+				"from": 140960,
+				"to": 146710
+			},
+			"text": " deliciousrevolutionshow.com where we have pictures, links, and more information about all the people on"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,710",
+				"to": "00:02:33,490"
+			},
+			"offsets": {
+				"from": 146710,
+				"to": 153490
+			},
+			"text": " our show. Heidi Herman started Strong Arm Farm in 2009, originally with a focus on vegetables, and now"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,490",
+				"to": "00:02:39,090"
+			},
+			"offsets": {
+				"from": 153490,
+				"to": 159090
+			},
+			"text": " she offers this ever-expanding selection of specialty crops, including wild-crafted seaweed from the Sonoma"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,090",
+				"to": "00:02:43,570"
+			},
+			"offsets": {
+				"from": 159090,
+				"to": 163570
+			},
+			"text": " coast. Heidi's also a sustainable agriculture instructor at Santa Rosa Junior College at the renowned"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,570",
+				"to": "00:02:48,770"
+			},
+			"offsets": {
+				"from": 163570,
+				"to": 168770
+			},
+			"text": " Schoen Farm facility. Heidi is a Strong Arm woman producing an array of beautiful and nutrient-dead"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,770",
+				"to": "00:02:53,730"
+			},
+			"offsets": {
+				"from": 168770,
+				"to": 173730
+			},
+			"text": " vegetables, and Strong Arm Farm is truly a practice-what-you-preach example. Here's Chelsea's"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,730",
+				"to": "00:03:00,670"
+			},
+			"offsets": {
+				"from": 173730,
+				"to": 180670
+			},
+			"text": " interview with Heidi Herman at Strong Arm Farm. What was the last time you went and collected seaweed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,670",
+				"to": "00:03:08,500"
+			},
+			"offsets": {
+				"from": 180670,
+				"to": 188500
+			},
+			"text": " Was it recently? I went out harvesting this year on the Sonoma coast in the first part of May. I think"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,500",
+				"to": "00:03:14,440"
+			},
+			"offsets": {
+				"from": 188500,
+				"to": 194440
+			},
+			"text": " it was in like May 5th through 8th. It was early. It was still early for a harvest year, and that"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,440",
+				"to": "00:03:18,040"
+			},
+			"offsets": {
+				"from": 194440,
+				"to": 198040
+			},
+			"text": " showed in the thickness of some of the varieties. Like the kombu was still a little thin."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,080",
+				"to": "00:03:25,730"
+			},
+			"offsets": {
+				"from": 199080,
+				"to": 205730
+			},
+			"text": " The nori was just about an inch tall when it eventually will grow to be about a dinner plate"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,730",
+				"to": "00:03:33,290"
+			},
+			"offsets": {
+				"from": 205730,
+				"to": 213290
+			},
+			"text": " size. So it felt early. But the bladder rack, which is another variety we collect, that one was looking"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,290",
+				"to": "00:03:40,410"
+			},
+			"offsets": {
+				"from": 213290,
+				"to": 220410
+			},
+			"text": " perfect. It was before the full air bladders had formed on the little pads and before it started"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,410",
+				"to": "00:03:43,050"
+			},
+			"offsets": {
+				"from": 220410,
+				"to": 223050
+			},
+			"text": " spoiling. What's spoiling?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,050",
+				"to": "00:03:49,850"
+			},
+			"offsets": {
+				"from": 223050,
+				"to": 229850
+			},
+			"text": " Spoiling. Spores. It's in the algae family, the seaweed, and so their way of reproduction is through spores."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,730",
+				"to": "00:03:56,650"
+			},
+			"offsets": {
+				"from": 230730,
+				"to": 236650
+			},
+			"text": " And so they, \"spoilates,\" I guess is the vocabulary word, little pustules on the leaf of just that"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,650",
+				"to": "00:03:59,850"
+			},
+			"offsets": {
+				"from": 236650,
+				"to": 239850
+			},
+			"text": " way, a way to admit these spores into the water system."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,850",
+				"to": "00:04:03,420"
+			},
+			"offsets": {
+				"from": 239850,
+				"to": 243420
+			},
+			"text": " Cool. I want to see one. I'll have to come sometime."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,910",
+				"to": "00:04:10,320"
+			},
+			"offsets": {
+				"from": 243910,
+				"to": 250320
+			},
+			"text": " So I'm here today with Heidi Herman of Strongarm Farm, and we're going to start by talking about"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,320",
+				"to": "00:04:15,840"
+			},
+			"offsets": {
+				"from": 250320,
+				"to": 255840
+			},
+			"text": " seaweed. I've always wanted to go seaweed collecting with you. I have bad timing that I can never actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,840",
+				"to": "00:04:20,160"
+			},
+			"offsets": {
+				"from": 255840,
+				"to": 260160
+			},
+			"text": " make it when you're going to go, but one of these times they will. But I'd love to hear,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,160",
+				"to": "00:04:26,900"
+			},
+			"offsets": {
+				"from": 260160,
+				"to": 266900
+			},
+			"text": " how'd you start? And maybe tell us about the first time you went looking for seaweed and what that was"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,900",
+				"to": "00:04:27,060"
+			},
+			"offsets": {
+				"from": 266900,
+				"to": 267060
+			},
+			"text": " like."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,060",
+				"to": "00:04:35,760"
+			},
+			"offsets": {
+				"from": 267060,
+				"to": 275760
+			},
+			"text": " Heidi Herman: I go primarily on the Sonoma Coast up here. My entire time with seaweed is up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,470",
+				"to": "00:04:42,220"
+			},
+			"offsets": {
+				"from": 276470,
+				"to": 282220
+			},
+			"text": " I started about 10 years ago. I went with some friends that graduated from the California School"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,220",
+				"to": "00:04:46,620"
+			},
+			"offsets": {
+				"from": 282220,
+				"to": 286620
+			},
+			"text": " of Herbal Studies in Forestville here in Sonoma County, and they took me out. I'm like, \"Oh man,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,620",
+				"to": "00:04:51,900"
+			},
+			"offsets": {
+				"from": 286620,
+				"to": 291900
+			},
+			"text": " this is exciting.\" And I was just thrilled. And so it became this kind of annual thing with that set of"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,900",
+				"to": "00:05:00,080"
+			},
+			"offsets": {
+				"from": 291900,
+				"to": 300080
+			},
+			"text": " friends for the first few years. And then I started my farm, Strongarm Farm, as a produce and vegetable"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,080",
+				"to": "00:05:08,110"
+			},
+			"offsets": {
+				"from": 300080,
+				"to": 308110
+			},
+			"text": " farm with cut flowers in about 2009. And that first season, I was at the Oxfam Farmers Market as a"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,110",
+				"to": "00:05:14,190"
+			},
+			"offsets": {
+				"from": 308110,
+				"to": 314190
+			},
+			"text": " vendor, and I didn't have much on my table. I was a new farmer, and spring is a little light for a lot"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,190",
+				"to": "00:05:18,670"
+			},
+			"offsets": {
+				"from": 314190,
+				"to": 318670
+			},
+			"text": " of farmers. Things were in the ground, but they hadn't come. I'm like, \"What else could I sell and"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,670",
+				"to": "00:05:25,710"
+			},
+			"offsets": {
+				"from": 318670,
+				"to": 325710
+			},
+			"text": " have on my table?\" And so I had a lot of seaweed still at home. And so I packaged it up in a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,710",
+				"to": "00:05:32,510"
+			},
+			"offsets": {
+				"from": 325710,
+				"to": 332510
+			},
+			"text": " Ziploc bag, and it was really well received. And there was no other people vending that product. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,510",
+				"to": "00:05:38,190"
+			},
+			"offsets": {
+				"from": 332510,
+				"to": 338190
+			},
+			"text": " so it was total encouragement, just the public demand and excitement and the questions about it. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,190",
+				"to": "00:05:44,350"
+			},
+			"offsets": {
+				"from": 338190,
+				"to": 344350
+			},
+			"text": " then I created a label. And the next week, I got better packaging. And then I got to go out more"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,350",
+				"to": "00:05:50,940"
+			},
+			"offsets": {
+				"from": 344350,
+				"to": 350940
+			},
+			"text": " days than just this one. And so then it turned into three. And now we're up to about 11, 12 days a"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,940",
+				"to": "00:05:56,890"
+			},
+			"offsets": {
+				"from": 350940,
+				"to": 356890
+			},
+			"text": " year I go out with a crew. And I hire people, and it's become a business."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,890",
+				"to": "00:06:01,860"
+			},
+			"offsets": {
+				"from": 356890,
+				"to": 361860
+			},
+			"text": " Tell me about the days you go out. How do you select those days? And where do you go? What's it like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,860",
+				"to": "00:06:09,460"
+			},
+			"offsets": {
+				"from": 361860,
+				"to": 369460
+			},
+			"text": " Yes. So yeah, I'm able to pick the days I will be harvesting early in the year. When I get the"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,460",
+				"to": "00:06:14,180"
+			},
+			"offsets": {
+				"from": 369460,
+				"to": 374180
+			},
+			"text": " little tide book, you can get them at the Ace Hardware stores or at surf shops. And I look for"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,180",
+				"to": "00:06:20,640"
+			},
+			"offsets": {
+				"from": 374180,
+				"to": 380640
+			},
+			"text": " the negative low tides in these little books. And those are the days to go. The negative low tide"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,640",
+				"to": "00:06:26,640"
+			},
+			"offsets": {
+				"from": 380640,
+				"to": 386640
+			},
+			"text": " means the water is really receded out to about a couple hundred yards, more than it would be a"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,640",
+				"to": "00:06:32,880"
+			},
+			"offsets": {
+				"from": 386640,
+				"to": 392880
+			},
+			"text": " normal, you know, a normal tide fluctuation. So these are real kind of extreme dates. And there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,880",
+				"to": "00:06:39,070"
+			},
+			"offsets": {
+				"from": 392880,
+				"to": 399070
+			},
+			"text": " just a handful of them each year, maybe like 20 dates in total. But getting that to line up with"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,070",
+				"to": "00:06:49,230"
+			},
+			"offsets": {
+				"from": 399070,
+				"to": 409230
+			},
+			"text": " daylight hours and summer, two qualifiers. So it kind of narrows down to, yeah, the 12 days I go out"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,230",
+				"to": "00:06:54,190"
+			},
+			"offsets": {
+				"from": 409230,
+				"to": 414190
+			},
+			"text": " this year. And so I'll select those dates early in the year. When I'll be working, I set them aside,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,190",
+				"to": "00:07:01,900"
+			},
+			"offsets": {
+				"from": 414190,
+				"to": 421900
+			},
+			"text": " then I start kind of recruiting for helpers of what days I'll be going out and the processing days."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,380",
+				"to": "00:07:07,690"
+			},
+			"offsets": {
+				"from": 422380,
+				"to": 427690
+			},
+			"text": " And they're always around the June solstice is like the peak historical lowest tide of the year."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,490",
+				"to": "00:07:18,910"
+			},
+			"offsets": {
+				"from": 428490,
+				"to": 438910
+			},
+			"text": " So mid June and May and July are also pretty great low tides. But similar to land plants, these algae that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,910",
+				"to": "00:07:26,270"
+			},
+			"offsets": {
+				"from": 438910,
+				"to": 446270
+			},
+			"text": " are in the ocean respond to day length, and so daylight hours, kind of the quality and quantity"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,270",
+				"to": "00:07:30,830"
+			},
+			"offsets": {
+				"from": 446270,
+				"to": 450830
+			},
+			"text": " of hours, and so that in June, they're at their peak. And so similar to land plants, a lot of them"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,830",
+				"to": "00:07:39,470"
+			},
+			"offsets": {
+				"from": 450830,
+				"to": 459470
+			},
+			"text": " kind of are in their peak before they get, before they go into reproduction stage, or they get battered"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,470",
+				"to": "00:07:45,070"
+			},
+			"offsets": {
+				"from": 459470,
+				"to": 465070
+			},
+			"text": " by storms in the fall and winter. So there are also great low tides in December, but they're in the dark,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,070",
+				"to": "00:07:51,370"
+			},
+			"offsets": {
+				"from": 465070,
+				"to": 471370
+			},
+			"text": " and the algae is tattered and kind of worn out by then, not looking optimal."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,370",
+				"to": "00:07:58,050"
+			},
+			"offsets": {
+				"from": 471370,
+				"to": 478050
+			},
+			"text": " So I'm a surfer, a really bad surfer. And so I spend a lot of time looking at seaweed not from waves."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,530",
+				"to": "00:08:05,170"
+			},
+			"offsets": {
+				"from": 478530,
+				"to": 485170
+			},
+			"text": " And I noticed that time of year, I mean, this time of year, right, in the beginning of summer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,960",
+				"to": "00:08:11,960"
+			},
+			"offsets": {
+				"from": 485960,
+				"to": 491960
+			},
+			"text": " that the seaweed kind of feels different. It has kind of this lush quality to it that it doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,960",
+				"to": "00:08:19,550"
+			},
+			"offsets": {
+				"from": 491960,
+				"to": 499550
+			},
+			"text": " at other times of year, like you're talking about. So what is like the, what is the life cycle of this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,550",
+				"to": "00:08:26,450"
+			},
+			"offsets": {
+				"from": 499550,
+				"to": 506450
+			},
+			"text": " of the seaweed that you harvest? Like, how tall do they grow? What do they look like? What's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,450",
+				"to": "00:08:26,850"
+			},
+			"offsets": {
+				"from": 506450,
+				"to": 506850
+			},
+			"text": " texture?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,850",
+				"to": "00:08:30,670"
+			},
+			"offsets": {
+				"from": 506850,
+				"to": 510670
+			},
+			"text": " Right. I wondered those same things. How are they all different?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,950",
+				"to": "00:08:37,720"
+			},
+			"offsets": {
+				"from": 511950,
+				"to": 517720
+			},
+			"text": " So there's each variety has its kind of a lot of different characteristics that are unique to it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,720",
+				"to": "00:08:41,080"
+			},
+			"offsets": {
+				"from": 517720,
+				"to": 521080
+			},
+			"text": " similar to land plants, like say, where a fern would grow is different than where"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,880",
+				"to": "00:08:46,660"
+			},
+			"offsets": {
+				"from": 521880,
+				"to": 526660
+			},
+			"text": " cactus would grow. And so, well, that's of course in relation to water. But"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,900",
+				"to": "00:08:55,210"
+			},
+			"offsets": {
+				"from": 527900,
+				"to": 535210
+			},
+			"text": " so the seaweed grows in its different intertidal zones. Some are in the very kind of the outermost,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,210",
+				"to": "00:08:59,210"
+			},
+			"offsets": {
+				"from": 535210,
+				"to": 539210
+			},
+			"text": " which would be in the deeper water, which would be also submerged most of the time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,210",
+				"to": "00:09:04,570"
+			},
+			"offsets": {
+				"from": 539210,
+				"to": 544570
+			},
+			"text": " except in these extreme negative low tides. So out there is the kombu and the wakame."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,570",
+				"to": "00:09:11,180"
+			},
+			"offsets": {
+				"from": 544570,
+				"to": 551180
+			},
+			"text": " And even further out is the bull kelp, which just never kind of leaves or exits the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,180",
+				"to": "00:09:18,630"
+			},
+			"offsets": {
+				"from": 551180,
+				"to": 558630
+			},
+			"text": " And so back in on the rocks where I go is the kombu and the wakame. And that they're,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,630",
+				"to": "00:09:25,040"
+			},
+			"offsets": {
+				"from": 558630,
+				"to": 565040
+			},
+			"text": " they're perennial seaweeds. And so they, they start from a big kind of root mass, which is called a"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:25,040",
+				"to": "00:09:36,790"
+			},
+			"offsets": {
+				"from": 565040,
+				"to": 576790
+			},
+			"text": " hold fast. And they're about five to 10 feet long, each individual kind of algae mass. And they emerge"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,790",
+				"to": "00:09:45,440"
+			},
+			"offsets": {
+				"from": 576790,
+				"to": 585440
+			},
+			"text": " from this kind of unified base. And then further up near the shore is where the nori and bladder rack"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,440",
+				"to": "00:09:50,560"
+			},
+			"offsets": {
+				"from": 585440,
+				"to": 590560
+			},
+			"text": " exist. And nori is interesting because it's only annual seaweed or not the only, but one of the ones"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,560",
+				"to": "00:09:57,630"
+			},
+			"offsets": {
+				"from": 590560,
+				"to": 597630
+			},
+			"text": " that I collect that it's an annual, which is, it's just so being a horticulturist and a land plant grower,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,350",
+				"to": "00:10:02,880"
+			},
+			"offsets": {
+				"from": 598350,
+				"to": 602880
+			},
+			"text": " I just was delighted to find that there's annual and perennial sea vegetables too."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,440",
+				"to": "00:10:09,440"
+			},
+			"offsets": {
+				"from": 603440,
+				"to": 609440
+			},
+			"text": " So that was real thrilling. And I could comprehend their life cycle really easily and relate."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,440",
+				"to": "00:10:16,190"
+			},
+			"offsets": {
+				"from": 609440,
+				"to": 616190
+			},
+			"text": " So the, the nori, as I mentioned to being a, an annual, it grows definitely in response to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,190",
+				"to": "00:10:24,160"
+			},
+			"offsets": {
+				"from": 616190,
+				"to": 624160
+			},
+			"text": " day length, grows a lot faster than some of the other varieties. And, and so that, so that one has"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,160",
+				"to": "00:10:30,000"
+			},
+			"offsets": {
+				"from": 624160,
+				"to": 630000
+			},
+			"text": " little spores that will kind of affix to the rocks each year and then grow from that. But the other"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,000",
+				"to": "00:10:33,920"
+			},
+			"offsets": {
+				"from": 630000,
+				"to": 633920
+			},
+			"text": " ones that are perennials, they'll, they'll kind of stay as this permanent mass, kind of like a large"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,920",
+				"to": "00:10:39,200"
+			},
+			"offsets": {
+				"from": 633920,
+				"to": 639200
+			},
+			"text": " oregano plant. It just kind of stays there and gets, creates more fronds and stems out of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,200",
+				"to": "00:10:47,180"
+			},
+			"offsets": {
+				"from": 639200,
+				"to": 647180
+			},
+			"text": " And so right now I'm looking at two of these bags that you harvested here, ones of nori and ones of"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,180",
+				"to": "00:10:53,480"
+			},
+			"offsets": {
+				"from": 647180,
+				"to": 653480
+			},
+			"text": " kombu. And as I know from eating them, nori is like much more delicate, right? So that sounds kind"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,480",
+				"to": "00:10:57,640"
+			},
+			"offsets": {
+				"from": 653480,
+				"to": 657640
+			},
+			"text": " of like what you're describing with an annual and a perennial. I think of those kinds of different"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,640",
+				"to": "00:11:04,220"
+			},
+			"offsets": {
+				"from": 657640,
+				"to": 664220
+			},
+			"text": " plants, like a lettuce or an oregano plant. How do they attach to the rocks? Like, how do you cut them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,220",
+				"to": "00:11:08,060"
+			},
+			"offsets": {
+				"from": 664220,
+				"to": 668060
+			},
+			"text": " How do you know where? Too many questions all at once."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,730",
+				"to": "00:11:13,310"
+			},
+			"offsets": {
+				"from": 668730,
+				"to": 673310
+			},
+			"text": " All right. Yes, you're right. The, I relate to kombu is similar to like a lettuce leaf. Yeah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,310",
+				"to": "00:11:17,230"
+			},
+			"offsets": {
+				"from": 673310,
+				"to": 677230
+			},
+			"text": " it's, it's kind of the size of a large lettuce leaf and it, and it's, it's real thin. It actually,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,230",
+				"to": "00:11:23,230"
+			},
+			"offsets": {
+				"from": 677230,
+				"to": 683230
+			},
+			"text": " it's one cell thick and it's really slickery in the hand because it's, it kind of feels like a wet"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,230",
+				"to": "00:11:27,230"
+			},
+			"offsets": {
+				"from": 683230,
+				"to": 687230
+			},
+			"text": " saran wrap in a sense. And it kind of, when it's fresh, it kind of has that same sensation in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,230",
+				"to": "00:11:32,830"
+			},
+			"offsets": {
+				"from": 687230,
+				"to": 692830
+			},
+			"text": " mouth as well. But when it dries out, it turns into this kind of black tissue paper kind of substance."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,890",
+				"to": "00:11:39,570"
+			},
+			"offsets": {
+				"from": 693890,
+				"to": 699570
+			},
+			"text": " And the kombu is more, and it's okay. Back to the nori, it's, it's mild and it's highest in protein."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,570",
+				"to": "00:11:44,810"
+			},
+			"offsets": {
+				"from": 699570,
+				"to": 704810
+			},
+			"text": " So it has a kind of like a mild kind of, like you said, like lettuces have a mild flavor and the kombu is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:44,810",
+				"to": "00:11:54,790"
+			},
+			"offsets": {
+				"from": 704810,
+				"to": 714790
+			},
+			"text": " the kombu is thicker. It's, it's kind of leathery like I've related to it, like jerky. And, and it does"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,790",
+				"to": "00:11:59,670"
+			},
+			"offsets": {
+				"from": 714790,
+				"to": 719670
+			},
+			"text": " take some more chewing and it cooks longer. It takes a longer time to kind of disintegrate in a meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,670",
+				"to": "00:12:05,590"
+			},
+			"offsets": {
+				"from": 719670,
+				"to": 725590
+			},
+			"text": " And it has a stronger flavor and it, it imbues a lot of algins or alginates. And that's that"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,040",
+				"to": "00:12:13,730"
+			},
+			"offsets": {
+				"from": 727040,
+				"to": 733730
+			},
+			"text": " quality that's real slippery that turns a watery soup into something thicker. And that also is able"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,730",
+				"to": "00:12:20,000"
+			},
+			"offsets": {
+				"from": 733730,
+				"to": 740000
+			},
+			"text": " to carry a lot of flavor and this umami flavor as well. It's, it's rich in naturally occurring,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,000",
+				"to": "00:12:21,200"
+			},
+			"offsets": {
+				"from": 740000,
+				"to": 741200
+			},
+			"text": " occurring glutamates."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,360",
+				"to": "00:12:26,160"
+			},
+			"offsets": {
+				"from": 741360,
+				"to": 746160
+			},
+			"text": " Cool. I have so many questions about that, but I think I'm going to jump back to farming."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,730",
+				"to": "00:12:30,750"
+			},
+			"offsets": {
+				"from": 746730,
+				"to": 750750
+			},
+			"text": " When you started doing this, I love that the story has to do with having"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,150",
+				"to": "00:12:36,030"
+			},
+			"offsets": {
+				"from": 751150,
+				"to": 756030
+			},
+			"text": " not enough to sell at the farmer's market. I can totally relate to that feeling and have heard that"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,820",
+				"to": "00:12:42,660"
+			},
+			"offsets": {
+				"from": 756820,
+				"to": 762660
+			},
+			"text": " fear and that, that just can see the look in people's eyes and about, you know, mid April,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,660",
+				"to": "00:12:47,650"
+			},
+			"offsets": {
+				"from": 762660,
+				"to": 767650
+			},
+			"text": " where there's like a bunch of kind of droopy looking broccoli that like made it through the"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,650",
+				"to": "00:12:52,530"
+			},
+			"offsets": {
+				"from": 767650,
+				"to": 772530
+			},
+			"text": " last rainstorm or something like that. What, what else do you grow on your farm? And can you tell us"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,530",
+				"to": "00:12:53,860"
+			},
+			"offsets": {
+				"from": 772530,
+				"to": 773860
+			},
+			"text": " about Strong Arm Farm?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,860",
+				"to": "00:13:00,960"
+			},
+			"offsets": {
+				"from": 773860,
+				"to": 780960
+			},
+			"text": " Yeah. Um, we started Strong Arm Farm in Sebastopol on Furlong Road. It was a certified organic"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,960",
+				"to": "00:13:06,870"
+			},
+			"offsets": {
+				"from": 780960,
+				"to": 786870
+			},
+			"text": " farm. And I actually, I landed there just from a Craigslist ad for a room. And so I was renting a"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,870",
+				"to": "00:13:13,670"
+			},
+			"offsets": {
+				"from": 786870,
+				"to": 793670
+			},
+			"text": " room there, a little studio. And then the landowner had a lot of certified organic farmland. And I asked"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,670",
+				"to": "00:13:17,950"
+			},
+			"offsets": {
+				"from": 793670,
+				"to": 797950
+			},
+			"text": " if I could, you know, access a little quarter of it to have a little garden. He's like, \"Oh, please,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,830",
+				"to": "00:13:24,830"
+			},
+			"offsets": {
+				"from": 798830,
+				"to": 804830
+			},
+			"text": " I'll plow up this whole section for you.\" And so I, I said, \"Okay, and thank you.\" And so he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:24,830",
+				"to": "00:13:30,720"
+			},
+			"offsets": {
+				"from": 804830,
+				"to": 810720
+			},
+			"text": " delighted to see the land kind of back in farming and, um, was very incredibly supportive. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,720",
+				"to": "00:13:36,430"
+			},
+			"offsets": {
+				"from": 810720,
+				"to": 816430
+			},
+			"text": " and so, and another friend, uh, worked for a seed company. And so she would have a lot of"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,160",
+				"to": "00:13:42,440"
+			},
+			"offsets": {
+				"from": 817160,
+				"to": 822440
+			},
+			"text": " seeds available in the back of her truck that, that she would just take to, um, trade shows and the"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,440",
+				"to": "00:13:47,350"
+			},
+			"offsets": {
+				"from": 822440,
+				"to": 827350
+			},
+			"text": " like. And she's like, \"Oh, these are last year's seed. Take what you want.\" And so I had all this"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,350",
+				"to": "00:13:55,200"
+			},
+			"offsets": {
+				"from": 827350,
+				"to": 835200
+			},
+			"text": " organic seed from, um, and access to land. So it was just too easy. I was felt like I was spoon fed this"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,200",
+				"to": "00:14:02,060"
+			},
+			"offsets": {
+				"from": 835200,
+				"to": 842060
+			},
+			"text": " farming opportunity. And so I started and with a friend I had at the time and, um, we started off."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,060",
+				"to": "00:14:06,570"
+			},
+			"offsets": {
+				"from": 842060,
+				"to": 846570
+			},
+			"text": " Yeah. We just came up with the name Strong Arm Farm and signed up at the, a couple of farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,570",
+				"to": "00:14:12,570"
+			},
+			"offsets": {
+				"from": 846570,
+				"to": 852570
+			},
+			"text": " I was vending in Sebastopol and Windsor and Occidental and we had a couple of restaurant accounts."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,570",
+				"to": "00:14:19,480"
+			},
+			"offsets": {
+				"from": 852570,
+				"to": 859480
+			},
+			"text": " Um, I had a lot of farming experience before then, um, working for other farms and managerial roles"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,480",
+				"to": "00:14:26,040"
+			},
+			"offsets": {
+				"from": 859480,
+				"to": 866040
+			},
+			"text": " and delivery and farmers market. And I had each kind of role, um, independently. And now this was a chance"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,040",
+				"to": "00:14:31,700"
+			},
+			"offsets": {
+				"from": 866040,
+				"to": 871700
+			},
+			"text": " to, to call it mine and have my own farm and kind of wear all those hats at one time. And so,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,700",
+				"to": "00:14:38,900"
+			},
+			"offsets": {
+				"from": 871700,
+				"to": 878900
+			},
+			"text": " yeah, there was a lot of pride and fiascos and long hours and, but just that, that, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,900",
+				"to": "00:14:44,660"
+			},
+			"offsets": {
+				"from": 878900,
+				"to": 884660
+			},
+			"text": " it's mine feeling. And that's really extremely motivating and the happiness that gets brought"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,660",
+				"to": "00:14:52,240"
+			},
+			"offsets": {
+				"from": 884660,
+				"to": 892240
+			},
+			"text": " versus being just employed by another entity. But it seems like for a long time you have"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,240",
+				"to": "00:14:57,290"
+			},
+			"offsets": {
+				"from": 892240,
+				"to": 897290
+			},
+			"text": " either taught or, I mean, so you have a master's from Sonoma State and your thesis was about experiential"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,290",
+				"to": "00:15:02,010"
+			},
+			"offsets": {
+				"from": 897290,
+				"to": 902010
+			},
+			"text": " agricultural education. Does that mean that you've taught agriculture a lot or?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,010",
+				"to": "00:15:08,860"
+			},
+			"offsets": {
+				"from": 902010,
+				"to": 908860
+			},
+			"text": " Right. During that, while I started the farm, um, I was attending grad school at, at Sonoma State"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,860",
+				"to": "00:15:15,370"
+			},
+			"offsets": {
+				"from": 908860,
+				"to": 915370
+			},
+			"text": " and, um, I, all the, I'd been teaching, uh, sustainable agriculture at, at Santa Rosa Junior"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,370",
+				"to": "00:15:21,970"
+			},
+			"offsets": {
+				"from": 915370,
+				"to": 921970
+			},
+			"text": " College. And I wanted to, the, I knew farming well and I just didn't, I wanted to strengthen"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,970",
+				"to": "00:15:28,560"
+			},
+			"offsets": {
+				"from": 921970,
+				"to": 928560
+			},
+			"text": " my ability to teach it better. I felt that was where I needed some learning. Um, so yeah, with that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,560",
+				"to": "00:15:33,570"
+			},
+			"offsets": {
+				"from": 928560,
+				"to": 933570
+			},
+			"text": " um, I still have my job at the junior college. I teach various classes there throughout the year."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,570",
+				"to": "00:15:40,530"
+			},
+			"offsets": {
+				"from": 933570,
+				"to": 940530
+			},
+			"text": " It's a good compliment to actually doing the farming is to be teaching about it and to use examples of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:40,530",
+				"to": "00:15:46,830"
+			},
+			"offsets": {
+				"from": 940530,
+				"to": 946830
+			},
+			"text": " of pluses and minuses from my experience that, that I've had and seen other farmers and to visit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,830",
+				"to": "00:15:53,240"
+			},
+			"offsets": {
+				"from": 946830,
+				"to": 953240
+			},
+			"text": " always to visit farm, other farms on field trips. And, um, there's, that's totally invaluable for"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,800",
+				"to": "00:15:59,930"
+			},
+			"offsets": {
+				"from": 953800,
+				"to": 959930
+			},
+			"text": " beginning students, uh, as well as hugely experienced farmers to just see how other people are,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,570",
+				"to": "00:16:03,130"
+			},
+			"offsets": {
+				"from": 960570,
+				"to": 963130
+			},
+			"text": " are running their businesses and their growing techniques."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,130",
+				"to": "00:16:09,950"
+			},
+			"offsets": {
+				"from": 963130,
+				"to": 969950
+			},
+			"text": " One of the things that, um, it's common to hear from farmers is that you get really stuck"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,950",
+				"to": "00:16:14,050"
+			},
+			"offsets": {
+				"from": 969950,
+				"to": 974050
+			},
+			"text": " on the farm, only knowing the thing that you do. And it's difficult to get out to see what other"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,050",
+				"to": "00:16:20,850"
+			},
+			"offsets": {
+				"from": 974050,
+				"to": 980850
+			},
+			"text": " people are doing. And it seems like by you having flowers and by teaching and by doing this foraging,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,850",
+				"to": "00:16:25,890"
+			},
+			"offsets": {
+				"from": 980850,
+				"to": 985890
+			},
+			"text": " which we'll come back around to, like you get to be out a lot interacting with these different parts"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,890",
+				"to": "00:16:32,050"
+			},
+			"offsets": {
+				"from": 985890,
+				"to": 992050
+			},
+			"text": " of community, I think that offers some perspective, right? Okay. So maybe let's start with talking"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,050",
+				"to": "00:16:38,820"
+			},
+			"offsets": {
+				"from": 992050,
+				"to": 998820
+			},
+			"text": " about teaching. What is a good, what is good agricultural education? Like, just from your"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,820",
+				"to": "00:16:46,850"
+			},
+			"offsets": {
+				"from": 998820,
+				"to": 1006850
+			},
+			"text": " opinion, no pressure, right? I mean, I, that's a huge question. And I think the answer would be"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,850",
+				"to": "00:16:53,010"
+			},
+			"offsets": {
+				"from": 1006850,
+				"to": 1013010
+			},
+			"text": " different for each person, but, um, I consistently hear back from them. We want more hands-on experience"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,010",
+				"to": "00:16:59,950"
+			},
+			"offsets": {
+				"from": 1013010,
+				"to": 1019950
+			},
+			"text": " and, and hence the experiential aspect of my studies is, is doing it. Yeah. There's so there's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,950",
+				"to": "00:17:06,010"
+			},
+			"offsets": {
+				"from": 1019950,
+				"to": 1026010
+			},
+			"text": " you can read books and magazines and blogs and podcasts and the like, and you just, yeah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,010",
+				"to": "00:17:12,610"
+			},
+			"offsets": {
+				"from": 1026010,
+				"to": 1032610
+			},
+			"text": " it definitely comes down to, to doing it and preferably on through internships or at a school"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,610",
+				"to": "00:17:18,770"
+			},
+			"offsets": {
+				"from": 1032610,
+				"to": 1038770
+			},
+			"text": " farm where you're allowed to make mistakes or can, you're not losing money from making mistakes. I should"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:18,770",
+				"to": "00:17:26,370"
+			},
+			"offsets": {
+				"from": 1038770,
+				"to": 1046370
+			},
+			"text": " say it's, you may be losing your employer some money, but, um, it just to test, to practice and"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,370",
+				"to": "00:17:32,770"
+			},
+			"offsets": {
+				"from": 1046370,
+				"to": 1052770
+			},
+			"text": " to see and what happens when, and to be at a farm for a season. And this would be over maybe at least"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,770",
+				"to": "00:17:39,000"
+			},
+			"offsets": {
+				"from": 1052770,
+				"to": 1059000
+			},
+			"text": " six months to see what happens when I planted these, um, you know, broccolis too close, or what happens"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,000",
+				"to": "00:17:44,040"
+			},
+			"offsets": {
+				"from": 1059000,
+				"to": 1064040
+			},
+			"text": " if I didn't thin these carrots and I thin this row and just kind of, to just see that observation."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,040",
+				"to": "00:17:51,160"
+			},
+			"offsets": {
+				"from": 1064040,
+				"to": 1071160
+			},
+			"text": " I, I, I, again, you can read about that stuff, but just to see it firsthand is really sets a visual,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,160",
+				"to": "00:17:56,600"
+			},
+			"offsets": {
+				"from": 1071160,
+				"to": 1076600
+			},
+			"text": " um, impact because the people are learners of different skill sets. Some need, need to hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,600",
+				"to": "00:18:01,800"
+			},
+			"offsets": {
+				"from": 1076600,
+				"to": 1081800
+			},
+			"text": " it. Some need to see it. Some need to feel viscerally what, what they're learning. And so just kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,800",
+				"to": "00:18:09,240"
+			},
+			"offsets": {
+				"from": 1081800,
+				"to": 1089240
+			},
+			"text": " exposing them to that whole spectrum of, of different styles of learning is I believe that one technique of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,240",
+				"to": "00:18:15,940"
+			},
+			"offsets": {
+				"from": 1089240,
+				"to": 1095940
+			},
+			"text": " of, of really solidifying and, uh, um, what the information that can be carried on about farming,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,940",
+				"to": "00:18:20,710"
+			},
+			"offsets": {
+				"from": 1095940,
+				"to": 1100710
+			},
+			"text": " but it, it also takes your own inspiration and your own creativity and your own memory and"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,430",
+				"to": "00:18:28,780"
+			},
+			"offsets": {
+				"from": 1101430,
+				"to": 1108780
+			},
+			"text": " your pride and your, your energy. Um, like what are you awake at, at 6am? Like those, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,780",
+				"to": "00:18:37,510"
+			},
+			"offsets": {
+				"from": 1108780,
+				"to": 1117510
+			},
+			"text": " what's your motivation? And that's, that's hard to teach. And, uh, it's just, yeah. So even just doing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,510",
+				"to": "00:18:43,780"
+			},
+			"offsets": {
+				"from": 1117510,
+				"to": 1123780
+			},
+			"text": " having, having the dirt in your, on your nails and the getting up early that that's part of seeing if"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,780",
+				"to": "00:18:45,620"
+			},
+			"offsets": {
+				"from": 1123780,
+				"to": 1125620
+			},
+			"text": " this career choice is right for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,620",
+				"to": "00:18:52,440"
+			},
+			"offsets": {
+				"from": 1125620,
+				"to": 1132440
+			},
+			"text": " Maybe, can you describe shown farm? And I think that something that's so interesting and so valuable"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,440",
+				"to": "00:19:00,470"
+			},
+			"offsets": {
+				"from": 1132440,
+				"to": 1140470
+			},
+			"text": " about hands-on work, not on your own farm is this ability to experiment with scale, right? So your"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,470",
+				"to": "00:19:05,630"
+			},
+			"offsets": {
+				"from": 1140470,
+				"to": 1145630
+			},
+			"text": " farm is two and a half acres here at Strongarm and shown is how big is shown actually?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:05,630",
+				"to": "00:19:12,590"
+			},
+			"offsets": {
+				"from": 1145630,
+				"to": 1152590
+			},
+			"text": " Right. Um, shown is a ranch that the junior college owns Santa Rosa junior college. It's 365 acres in"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,590",
+				"to": "00:19:21,360"
+			},
+			"offsets": {
+				"from": 1152590,
+				"to": 1161360
+			},
+			"text": " total. Um, the produce and crop farming part is 12 acres. Um, there's an additional part that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,360",
+				"to": "00:19:27,040"
+			},
+			"offsets": {
+				"from": 1161360,
+				"to": 1167040
+			},
+			"text": " apples and olives. So in, in total that, that would be about 17 acres. Um, so yeah, you're right."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,040",
+				"to": "00:19:32,160"
+			},
+			"offsets": {
+				"from": 1167040,
+				"to": 1172160
+			},
+			"text": " Scale is a, is a huge aspect. They, they have the option of teaching tractor work there and there's a"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,160",
+				"to": "00:19:38,080"
+			},
+			"offsets": {
+				"from": 1172160,
+				"to": 1178080
+			},
+			"text": " tractor class where you can gain that experience. And that's extremely, um, a career preparatory skill,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,960",
+				"to": "00:19:46,610"
+			},
+			"offsets": {
+				"from": 1178960,
+				"to": 1186610
+			},
+			"text": " um, for higher ability and, um, at vineyards and at small farms. Um, but students wanted a smaller"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,610",
+				"to": "00:19:50,930"
+			},
+			"offsets": {
+				"from": 1186610,
+				"to": 1190930
+			},
+			"text": " scale. What, what can I do by hand? What can I do for my backyard? I don't agree with, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,930",
+				"to": "00:19:57,070"
+			},
+			"offsets": {
+				"from": 1190930,
+				"to": 1197070
+			},
+			"text": " some don't agree with tractor use and as a, as a means for tilling the land or for the economics that"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,070",
+				"to": "00:20:01,910"
+			},
+			"offsets": {
+				"from": 1197070,
+				"to": 1201910
+			},
+			"text": " are impractical to afford a tractor initially, or for the fuel consumption, there's all that's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,910",
+				"to": "00:20:09,410"
+			},
+			"offsets": {
+				"from": 1201910,
+				"to": 1209410
+			},
+			"text": " that isn't the only way. Um, so we are converting a part of the garden to handwork only. It's kind"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,410",
+				"to": "00:20:17,520"
+			},
+			"offsets": {
+				"from": 1209410,
+				"to": 1217520
+			},
+			"text": " of a no-till and this double digging and forking of the soil with a higher compost addition. But the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:17,520",
+				"to": "00:20:22,640"
+			},
+			"offsets": {
+				"from": 1217520,
+				"to": 1222640
+			},
+			"text": " the ranch itself also has about a hundred acres in pasture or about a hundred in vineyard,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,640",
+				"to": "00:20:30,060"
+			},
+			"offsets": {
+				"from": 1222640,
+				"to": 1230060
+			},
+			"text": " and then another hundred plus in forest kind of a timber site. All the sites are used completely by,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,060",
+				"to": "00:20:32,240"
+			},
+			"offsets": {
+				"from": 1230060,
+				"to": 1232240
+			},
+			"text": " um, courses that are offered there."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:32,240",
+				"to": "00:20:37,610"
+			},
+			"offsets": {
+				"from": 1232240,
+				"to": 1237610
+			},
+			"text": " I guess I'm talking about scale because I think you do some really interesting things here with scale"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,610",
+				"to": "00:20:44,550"
+			},
+			"offsets": {
+				"from": 1237610,
+				"to": 1244550
+			},
+			"text": " in terms of doing foraging and having this small, really intensive farm that grows so many different"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,550",
+				"to": "00:20:49,310"
+			},
+			"offsets": {
+				"from": 1244550,
+				"to": 1249310
+			},
+			"text": " things, right? It's really biodiverse here. And was it always like that or?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,310",
+				"to": "00:20:55,460"
+			},
+			"offsets": {
+				"from": 1249310,
+				"to": 1255460
+			},
+			"text": " Right. This site, I mentioned that I started in Sebastopol and I was farmed there for about four,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,460",
+				"to": "00:21:03,860"
+			},
+			"offsets": {
+				"from": 1255460,
+				"to": 1263860
+			},
+			"text": " no, three years and then, um, moved up here and, um, started farming with my boyfriend. And so we've"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,860",
+				"to": "00:21:11,770"
+			},
+			"offsets": {
+				"from": 1263860,
+				"to": 1271770
+			},
+			"text": " stayed here and, um, so I've been here about five years. So we've developed the land a lot. Um, we've,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,770",
+				"to": "00:21:19,050"
+			},
+			"offsets": {
+				"from": 1271770,
+				"to": 1279050
+			},
+			"text": " um, kind of expanded onto even a little part of our neighbor's land, um, with permission and, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,050",
+				"to": "00:21:26,020"
+			},
+			"offsets": {
+				"from": 1279050,
+				"to": 1286020
+			},
+			"text": " um, and kind of with one well, we're able to kind of produce support these different crops that we grow"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,020",
+				"to": "00:21:32,750"
+			},
+			"offsets": {
+				"from": 1286020,
+				"to": 1292750
+			},
+			"text": " here. And yeah, we have, um, the cut flower operation and primarily this one called tuberose"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,750",
+				"to": "00:21:38,350"
+			},
+			"offsets": {
+				"from": 1292750,
+				"to": 1298350
+			},
+			"text": " lily is, is a predominant cut flower crop that I grow. It's extremely fragrant, kind of in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,350",
+				"to": "00:21:45,930"
+			},
+			"offsets": {
+				"from": 1298350,
+				"to": 1305930
+			},
+			"text": " gardenia, jasmine vein of, of delicious scent. And that comes in in August. And, um, then some other"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:45,930",
+				"to": "00:21:51,950"
+			},
+			"offsets": {
+				"from": 1305930,
+				"to": 1311950
+			},
+			"text": " cut flowers through a local flower mart that's just opened in Sebastopol. But yeah, the produce,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,950",
+				"to": "00:21:59,370"
+			},
+			"offsets": {
+				"from": 1311950,
+				"to": 1319370
+			},
+			"text": " the produce was a leading, like the leading crop of the farm, but seaweed has, has kind of eclipsed"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,370",
+				"to": "00:22:04,630"
+			},
+			"offsets": {
+				"from": 1319370,
+				"to": 1324630
+			},
+			"text": " that I've, I've taken, I've grown less and less vegetables each year. And this, since the seaweed"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,630",
+				"to": "00:22:11,690"
+			},
+			"offsets": {
+				"from": 1324630,
+				"to": 1331690
+			},
+			"text": " business has increased financially and kind of the time it takes and the fun that it provides and the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,690",
+				"to": "00:22:18,090"
+			},
+			"offsets": {
+				"from": 1331690,
+				"to": 1338090
+			},
+			"text": " kind of the unique offering in our food system. So, and the encouragement that I should keep"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,730",
+				"to": "00:22:24,830"
+			},
+			"offsets": {
+				"from": 1338730,
+				"to": 1344830
+			},
+			"text": " increasing my, my seaweed aspect of the business. So currently I just grow two vegetables that I"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,830",
+				"to": "00:22:33,820"
+			},
+			"offsets": {
+				"from": 1344830,
+				"to": 1353820
+			},
+			"text": " wholesale out. Uh, one is a particular hot pepper called the ahi and, uh, fresh hibiscus. So kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,820",
+				"to": "00:22:39,100"
+			},
+			"offsets": {
+				"from": 1353820,
+				"to": 1359100
+			},
+			"text": " oddball little specialty items, but I, I garner a good price for them and, and they can grow up in"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,100",
+				"to": "00:22:40,380"
+			},
+			"offsets": {
+				"from": 1359100,
+				"to": 1360380
+			},
+			"text": " the heat up here in Healdsburg."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,380",
+				"to": "00:22:47,850"
+			},
+			"offsets": {
+				"from": 1360380,
+				"to": 1367850
+			},
+			"text": " I kind of love that. That's kind of amazing to end up getting more and more and more seaweed"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,850",
+				"to": "00:22:53,450"
+			},
+			"offsets": {
+				"from": 1367850,
+				"to": 1373450
+			},
+			"text": " every year and grow a few kinds of flowers and ahi peppers and hibiscus. That's incredible."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,450",
+				"to": "00:23:02,710"
+			},
+			"offsets": {
+				"from": 1373450,
+				"to": 1382710
+			},
+			"text": " Um, that also I think really indicates like having a good business strategy that adapts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,710",
+				"to": "00:23:08,410"
+			},
+			"offsets": {
+				"from": 1382710,
+				"to": 1388410
+			},
+			"text": " right? And I think both Evan and I have spent a lot of time with farmers in Latin America and we,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:08,410",
+				"to": "00:23:13,720"
+			},
+			"offsets": {
+				"from": 1388410,
+				"to": 1393720
+			},
+			"text": " through conversations, we really find that people who have a real passion for something kind of keep"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,720",
+				"to": "00:23:18,760"
+			},
+			"offsets": {
+				"from": 1393720,
+				"to": 1398760
+			},
+			"text": " naturally gravitating towards it. But I mean, which in maybe in your case is seaweed, right? Like"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,760",
+				"to": "00:23:24,230"
+			},
+			"offsets": {
+				"from": 1398760,
+				"to": 1404230
+			},
+			"text": " that it keeps getting bigger and bigger. And so let's talk about foraging. Let's talk about that idea"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,230",
+				"to": "00:23:30,600"
+			},
+			"offsets": {
+				"from": 1404230,
+				"to": 1410600
+			},
+			"text": " that that's kind of like on the tip of everybody's tongues right now, but what is it and why is it"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,600",
+				"to": "00:23:36,460"
+			},
+			"offsets": {
+				"from": 1410600,
+				"to": 1416460
+			},
+			"text": " fun and what excites you about it? Yeah. The, the foraging it's yeah. Is it agriculture? Not,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,460",
+				"to": "00:23:42,380"
+			},
+			"offsets": {
+				"from": 1416460,
+				"to": 1422380
+			},
+			"text": " not quite, but it is. I have the same buyers, the same chefs that, that buy the, the peppers that would"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,380",
+				"to": "00:23:49,040"
+			},
+			"offsets": {
+				"from": 1422380,
+				"to": 1429040
+			},
+			"text": " buy the seaweed. So it's, it's in the same marketing vein and it's, you know, units that you sell by the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,040",
+				"to": "00:23:54,140"
+			},
+			"offsets": {
+				"from": 1429040,
+				"to": 1434140
+			},
+			"text": " pound and the smaller increments and invoice. And it, it goes through the same"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,600",
+				"to": "00:24:02,330"
+			},
+			"offsets": {
+				"from": 1434600,
+				"to": 1442330
+			},
+			"text": " farm kind of business structure in a sense, but, um, uh, and I like working with chefs and eaters and"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,330",
+				"to": "00:24:09,190"
+			},
+			"offsets": {
+				"from": 1442330,
+				"to": 1449190
+			},
+			"text": " that, so that's a really delightful demographic that, that I relate to. And I want to stay in that"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,190",
+				"to": "00:24:15,210"
+			},
+			"offsets": {
+				"from": 1449190,
+				"to": 1455210
+			},
+			"text": " vein of whatever next is on my plate, but, um, yeah, foraging, what? Yeah. It's, it's a type of"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,210",
+				"to": "00:24:20,670"
+			},
+			"offsets": {
+				"from": 1455210,
+				"to": 1460670
+			},
+			"text": " gathering and it's, I don't, I certainly don't do the, the planting or the necessarily even the cultivating"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,670",
+				"to": "00:24:26,670"
+			},
+			"offsets": {
+				"from": 1460670,
+				"to": 1466670
+			},
+			"text": " of it, but, um, it's, it's stepping in of what's, what's available here. And, and Sonoma County is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,670",
+				"to": "00:24:32,990"
+			},
+			"offsets": {
+				"from": 1466670,
+				"to": 1472990
+			},
+			"text": " is astoundingly rich and a lot of different species. Um, and especially on our coast, there's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,990",
+				"to": "00:24:40,360"
+			},
+			"offsets": {
+				"from": 1472990,
+				"to": 1480360
+			},
+			"text": " there's a lot of the fisheries out there and the shellfish, the abalone and, and crab is, is phenomenal"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,360",
+				"to": "00:24:49,110"
+			},
+			"offsets": {
+				"from": 1480360,
+				"to": 1489110
+			},
+			"text": " here. Um, it's, it's really grounding to be out there and just have the one tool and I have a shears,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,110",
+				"to": "00:24:53,990"
+			},
+			"offsets": {
+				"from": 1489110,
+				"to": 1493990
+			},
+			"text": " actually the same shears that I harvest everything with. It's a Felco kind of harvest year and that's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,990",
+				"to": "00:24:58,790"
+			},
+			"offsets": {
+				"from": 1493990,
+				"to": 1498790
+			},
+			"text": " it's on my hip where it always lives. And, um, that comes with me and it's still the right tool"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,790",
+				"to": "00:25:05,890"
+			},
+			"offsets": {
+				"from": 1498790,
+				"to": 1505890
+			},
+			"text": " for the job. Um, and it's, it's really meaningful to collect this, um, really nutrient dense food."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,370",
+				"to": "00:25:14,180"
+			},
+			"offsets": {
+				"from": 1506370,
+				"to": 1514180
+			},
+			"text": " And in the instance of particularly the bladder rack that's high in iodine and iron, um, it's medicine."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:14,180",
+				"to": "00:25:18,900"
+			},
+			"offsets": {
+				"from": 1514180,
+				"to": 1518900
+			},
+			"text": " And so it's, it's a, I'm gathering food for the kind of the rest of the tribe in a sense,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,900",
+				"to": "00:25:24,500"
+			},
+			"offsets": {
+				"from": 1518900,
+				"to": 1524500
+			},
+			"text": " like I'm bringing it inland. And historically it's been, it's been a trade item that it's brought"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,500",
+				"to": "00:25:31,220"
+			},
+			"offsets": {
+				"from": 1524500,
+				"to": 1531220
+			},
+			"text": " further inland as a bartering vessel item. And talking about that, um, inland and tribes, it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,220",
+				"to": "00:25:35,220"
+			},
+			"offsets": {
+				"from": 1531220,
+				"to": 1535220
+			},
+			"text": " exactly, it's, we're not, I'm certainly not the first one to be doing this. I'm part of a long"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,220",
+				"to": "00:25:40,950"
+			},
+			"offsets": {
+				"from": 1535220,
+				"to": 1540950
+			},
+			"text": " continuum of, of thousands of generations that have been doing this. And thousands of languages and"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,950",
+				"to": "00:25:47,270"
+			},
+			"offsets": {
+				"from": 1540950,
+				"to": 1547270
+			},
+			"text": " cultures that have harvested from the sea and the shore. And you really feel it. And, and I don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,270",
+				"to": "00:25:52,070"
+			},
+			"offsets": {
+				"from": 1547270,
+				"to": 1552070
+			},
+			"text": " know how to put that into words, but it's, it's, when I'm out there, it doesn't matter what gender"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,070",
+				"to": "00:25:58,330"
+			},
+			"offsets": {
+				"from": 1552070,
+				"to": 1558330
+			},
+			"text": " or age or language I speak. It just, it's something that's, that's part of a continuum and it's very"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,810",
+				"to": "00:26:05,460"
+			},
+			"offsets": {
+				"from": 1558810,
+				"to": 1565460
+			},
+			"text": " simple and grounding and it brings some satisfaction, a lot of satisfaction to, to be doing something so"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,460",
+				"to": "00:26:11,930"
+			},
+			"offsets": {
+				"from": 1565460,
+				"to": 1571930
+			},
+			"text": " timeless. That's happened so many times before. That's not related to anything else I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,930",
+				"to": "00:26:14,560"
+			},
+			"offsets": {
+				"from": 1571930,
+				"to": 1574560
+			},
+			"text": " Kind of, that's part of our modern society."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,560",
+				"to": "00:26:22,820"
+			},
+			"offsets": {
+				"from": 1574560,
+				"to": 1582820
+			},
+			"text": " Who do you run into when you're out there being part of this special group or tribe of"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,820",
+				"to": "00:26:26,850"
+			},
+			"offsets": {
+				"from": 1582820,
+				"to": 1586850
+			},
+			"text": " people who collect seaweed? Is it, is it just you and your volunteers or are there"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,850",
+				"to": "00:26:30,390"
+			},
+			"offsets": {
+				"from": 1586850,
+				"to": 1590390
+			},
+			"text": " other people out there at dawn scraping stuff off of rocks?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,390",
+				"to": "00:26:37,170"
+			},
+			"offsets": {
+				"from": 1590390,
+				"to": 1597170
+			},
+			"text": " Um, well, I take offense on scraping. I'll, I'll, I'll cut cause that, that keeps the plant regenerating."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,170",
+				"to": "00:26:43,390"
+			},
+			"offsets": {
+				"from": 1597170,
+				"to": 1603390
+			},
+			"text": " But, um, I don't see many other humans, but there's a lot of other creatures that I'll run into."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,950",
+				"to": "00:26:49,870"
+			},
+			"offsets": {
+				"from": 1603950,
+				"to": 1609870
+			},
+			"text": " Um, sometimes there's abalone divers that come onto our beaches, our, I mean, the beaches that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,870",
+				"to": "00:26:56,410"
+			},
+			"offsets": {
+				"from": 1609870,
+				"to": 1616410
+			},
+			"text": " that me and my, my friends and I will go to, but no, we're, they're really hard to get to beaches."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,410",
+				"to": "00:27:02,570"
+			},
+			"offsets": {
+				"from": 1616410,
+				"to": 1622570
+			},
+			"text": " They don't have, uh, names. They're usually at a odd ball mile marker on the freeway with a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,570",
+				"to": "00:27:09,200"
+			},
+			"offsets": {
+				"from": 1622570,
+				"to": 1629200
+			},
+			"text": " pullout up, up, up highway one. Um, and there's a trail and I, you just, just scramble down. There's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,200",
+				"to": "00:27:15,980"
+			},
+			"offsets": {
+				"from": 1629200,
+				"to": 1635980
+			},
+			"text": " is an awkward little steep descent onto the rocky beach. And then, like I said, that when the water's"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,980",
+				"to": "00:27:21,260"
+			},
+			"offsets": {
+				"from": 1635980,
+				"to": 1641260
+			},
+			"text": " receded in these negative low tides, it's, it's really abundant. You see this acres or, I don't know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,260",
+				"to": "00:27:24,700"
+			},
+			"offsets": {
+				"from": 1641260,
+				"to": 1644700
+			},
+			"text": " like a football field of all these different types of seaweed that are there. And it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,700",
+				"to": "00:27:30,300"
+			},
+			"offsets": {
+				"from": 1644700,
+				"to": 1650300
+			},
+			"text": " it's a real hodgepodge of so many different kinds and it takes a kind of a careful eye of which ones"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,300",
+				"to": "00:27:37,220"
+			},
+			"offsets": {
+				"from": 1650300,
+				"to": 1657220
+			},
+			"text": " am I looking for? And there's, there's so many other varieties out there. And so if the, the kombu"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,220",
+				"to": "00:27:44,080"
+			},
+			"offsets": {
+				"from": 1657220,
+				"to": 1664080
+			},
+			"text": " has a certain color and a certain space in the intertidal zone and the length and the shape, and there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:44,080",
+				"to": "00:27:50,710"
+			},
+			"offsets": {
+				"from": 1664080,
+				"to": 1670710
+			},
+			"text": " a lot of things that aren't it. Um, so it's, it takes some ID, but, um, and then how to harvest them"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,710",
+				"to": "00:27:56,290"
+			},
+			"offsets": {
+				"from": 1670710,
+				"to": 1676290
+			},
+			"text": " also is, is a certain technique that I've learned from, from reading and from other harvesters of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,290",
+				"to": "00:28:01,650"
+			},
+			"offsets": {
+				"from": 1676290,
+				"to": 1681650
+			},
+			"text": " and also just by practice too, of where do I cut? So it'll keep growing and where this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,650",
+				"to": "00:28:07,650"
+			},
+			"offsets": {
+				"from": 1681650,
+				"to": 1687650
+			},
+			"text": " these meristem cells are, they'll keep replicating and enable the plant to still put on some growth"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,650",
+				"to": "00:28:08,530"
+			},
+			"offsets": {
+				"from": 1687650,
+				"to": 1688530
+			},
+			"text": " that season."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:08,530",
+				"to": "00:28:13,370"
+			},
+			"offsets": {
+				"from": 1688530,
+				"to": 1693370
+			},
+			"text": " Yeah. Let's talk about that. Cause I'm glad you corrected me about scraping. You can't really"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,370",
+				"to": "00:28:19,450"
+			},
+			"offsets": {
+				"from": 1693370,
+				"to": 1699450
+			},
+			"text": " scrape with Velcos and have them last and you can't really, well, anyways, that's a whole nother"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,450",
+				"to": "00:28:27,390"
+			},
+			"offsets": {
+				"from": 1699450,
+				"to": 1707390
+			},
+			"text": " conversation. But, um, are you, do you see yourself kind of as a steward of these tidal lands or,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,950",
+				"to": "00:28:35,660"
+			},
+			"offsets": {
+				"from": 1707950,
+				"to": 1715660
+			},
+			"text": " um, you know, what's the role of like keeping that tidal land as a healthy place, as a harvester and"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,370",
+				"to": "00:28:37,570"
+			},
+			"offsets": {
+				"from": 1716370,
+				"to": 1717570
+			},
+			"text": " encouraging good practices?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,570",
+				"to": "00:28:43,090"
+			},
+			"offsets": {
+				"from": 1717570,
+				"to": 1723090
+			},
+			"text": " Right. Um, I part of, I mean, a lot of people that go to the ocean, they consider it their take,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:43,090",
+				"to": "00:28:49,050"
+			},
+			"offsets": {
+				"from": 1723090,
+				"to": 1729050
+			},
+			"text": " like, Oh, what did, what was your take today? And that's a little odd word for me. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,950",
+				"to": "00:28:55,930"
+			},
+			"offsets": {
+				"from": 1729950,
+				"to": 1735930
+			},
+			"text": " yeah, I am foraging and I, yes, I am taking something away. I'm filling my backpack and walking"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,930",
+				"to": "00:29:02,600"
+			},
+			"offsets": {
+				"from": 1735930,
+				"to": 1742600
+			},
+			"text": " away from the ocean, but I also take trash and I'm also really watchful and I'm only harvesting if"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,600",
+				"to": "00:29:09,340"
+			},
+			"offsets": {
+				"from": 1742600,
+				"to": 1749340
+			},
+			"text": " there's an abundance of each variety. And each time I go to a beach, it's, and, and with, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,340",
+				"to": "00:29:16,360"
+			},
+			"offsets": {
+				"from": 1749340,
+				"to": 1756360
+			},
+			"text": " Felcos in hand and a backpack and I'm ready. I gotta, there's that, the language of just like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,360",
+				"to": "00:29:20,360"
+			},
+			"offsets": {
+				"from": 1756360,
+				"to": 1760360
+			},
+			"text": " all right, I don't know what I'm going, what's going to happen. I don't know what this beach will"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,360",
+				"to": "00:29:28,060"
+			},
+			"offsets": {
+				"from": 1760360,
+				"to": 1768060
+			},
+			"text": " provide. Let's just take a look. And, um, it's a nice, just kind of to exhale and take it all in."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,060",
+				"to": "00:29:32,940"
+			},
+			"offsets": {
+				"from": 1768060,
+				"to": 1772940
+			},
+			"text": " There's like the, the, the, the, the beautifulness of it, but also like, is this a good day to harvest?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,940",
+				"to": "00:29:38,460"
+			},
+			"offsets": {
+				"from": 1772940,
+				"to": 1778460
+			},
+			"text": " Is there abundance? What varieties am I going to focus on today to not show up with an agenda?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,980",
+				"to": "00:29:45,300"
+			},
+			"offsets": {
+				"from": 1778980,
+				"to": 1785300
+			},
+			"text": " And so that's, I guess, stewarding in a sense, but it's also kind of, um, not letting the greed"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:45,300",
+				"to": "00:29:53,120"
+			},
+			"offsets": {
+				"from": 1785300,
+				"to": 1793120
+			},
+			"text": " of running a business be the main driver. It's just being aware of what's, what impact I do have"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,120",
+				"to": "00:29:58,510"
+			},
+			"offsets": {
+				"from": 1793120,
+				"to": 1798510
+			},
+			"text": " and, of me and all the other hands that I've brought with me and just kind of educating them"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,510",
+				"to": "00:30:04,050"
+			},
+			"offsets": {
+				"from": 1798510,
+				"to": 1804050
+			},
+			"text": " and really watching how they're harvesting. So in a way that, that it will return. And we're not the"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,050",
+				"to": "00:30:08,810"
+			},
+			"offsets": {
+				"from": 1804050,
+				"to": 1808810
+			},
+			"text": " only ones enjoying the seaweed. It's a, it's a life source for a lot of different species as a food,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,810",
+				"to": "00:30:17,170"
+			},
+			"offsets": {
+				"from": 1808810,
+				"to": 1817170
+			},
+			"text": " as a place to tuck and hide. And we're, it's not a place humans naturally are or need to be. And so"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,170",
+				"to": "00:30:25,510"
+			},
+			"offsets": {
+				"from": 1817170,
+				"to": 1825510
+			},
+			"text": " it's, we're the, we're the oddballs and we're the guests. So it's, it's recognizing that. And if,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,510",
+				"to": "00:30:32,620"
+			},
+			"offsets": {
+				"from": 1825510,
+				"to": 1832620
+			},
+			"text": " if the limits aren't abundant, or if there's, um, the situation calls for like a more of a conservative"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,620",
+				"to": "00:30:38,220"
+			},
+			"offsets": {
+				"from": 1832620,
+				"to": 1838220
+			},
+			"text": " approach, then I'm the one that should back out first. So yeah, it's, it's acknowledging when we"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,220",
+				"to": "00:30:45,250"
+			},
+			"offsets": {
+				"from": 1838220,
+				"to": 1845250
+			},
+			"text": " depart to that kind of a thankfulness. Um, some, I offer people in the group to, to say if they have"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,250",
+				"to": "00:30:50,830"
+			},
+			"offsets": {
+				"from": 1845250,
+				"to": 1850830
+			},
+			"text": " something to say around that, or to share something that was, um, highlight of the kind of the morning"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,830",
+				"to": "00:30:58,060"
+			},
+			"offsets": {
+				"from": 1850830,
+				"to": 1858060
+			},
+			"text": " or what, what did they experience that they didn't anticipate or, um, yeah, just different observations."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:58,060",
+				"to": "00:31:05,630"
+			},
+			"offsets": {
+				"from": 1858060,
+				"to": 1865630
+			},
+			"text": " That's really, uh, enjoyable to hear how other people take in the morning of harvesting. And, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,630",
+				"to": "00:31:12,270"
+			},
+			"offsets": {
+				"from": 1865630,
+				"to": 1872270
+			},
+			"text": " also it's, it's at this crazy early hour. It's a tides are always at like 4 30 or 5 AM. And so that it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:12,270",
+				"to": "00:31:18,520"
+			},
+			"offsets": {
+				"from": 1872270,
+				"to": 1878520
+			},
+			"text": " it's kind of dark as we arrive and the moon is just, you know, you know, slipping behind the cliff and"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,520",
+				"to": "00:31:25,960"
+			},
+			"offsets": {
+				"from": 1878520,
+				"to": 1885960
+			},
+			"text": " the sun and it's, the lighting is just this magical time and the sounds of the water receded. And there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,960",
+				"to": "00:31:33,530"
+			},
+			"offsets": {
+				"from": 1885960,
+				"to": 1893530
+			},
+			"text": " the little splash and the puddles and, um, it's, yeah, there's sometimes there's a seal gawking in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,530",
+				"to": "00:31:41,730"
+			},
+			"offsets": {
+				"from": 1893530,
+				"to": 1901730
+			},
+			"text": " background and we even see a whale sometimes it's, it's really phenomenal. Um, and it's, it's easy to just be,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,730",
+				"to": "00:31:49,670"
+			},
+			"offsets": {
+				"from": 1901730,
+				"to": 1909670
+			},
+			"text": " just to look for a long time before starting. So that's kind of the, the stewarding and the carefulness. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,670",
+				"to": "00:31:57,100"
+			},
+			"offsets": {
+				"from": 1909670,
+				"to": 1917100
+			},
+			"text": " but other motivations for being out there is, um, it's definitely exploring your, it's, it is the, the edge of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,100",
+				"to": "00:32:03,390"
+			},
+			"offsets": {
+				"from": 1917100,
+				"to": 1923390
+			},
+			"text": " continent and it's a real visible place on a map. You're just at the edge and there's this permaculture"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,390",
+				"to": "00:32:09,550"
+			},
+			"offsets": {
+				"from": 1923390,
+				"to": 1929550
+			},
+			"text": " theory of life is amplified at the edge and they bring it up in ponds and meadows. And there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,550",
+				"to": "00:32:15,790"
+			},
+			"offsets": {
+				"from": 1929550,
+				"to": 1935790
+			},
+			"text": " examples of this, but it's, I feel it's particularly rich on the, on the shore. These are the confluence"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,790",
+				"to": "00:32:21,790"
+			},
+			"offsets": {
+				"from": 1935790,
+				"to": 1941790
+			},
+			"text": " of two massively different ecosystems that are meeting right in this one tiny little swath."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,790",
+				"to": "00:32:28,150"
+			},
+			"offsets": {
+				"from": 1941790,
+				"to": 1948150
+			},
+			"text": " And we'll insert ourselves right there. And all those species that, that rely on all that water"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,150",
+				"to": "00:32:38,370"
+			},
+			"offsets": {
+				"from": 1948150,
+				"to": 1958370
+			},
+			"text": " and the oxygen are totally unique to that one little zone. And that's, that's, uh, it's just astounding"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,370",
+				"to": "00:32:44,770"
+			},
+			"offsets": {
+				"from": 1958370,
+				"to": 1964770
+			},
+			"text": " how that we're, you're, you know, my little, I just had to set an alarm to get out there to experience"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,770",
+				"to": "00:32:51,280"
+			},
+			"offsets": {
+				"from": 1964770,
+				"to": 1971280
+			},
+			"text": " that. That's all it took, um, to, to see what's normally underwater. Um, and I still have lots of"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:51,280",
+				"to": "00:32:58,390"
+			},
+			"offsets": {
+				"from": 1971280,
+				"to": 1978390
+			},
+			"text": " questions. I, you know, I'm not a marine scientist and I, I've talked to a lot and I've researched,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,390",
+				"to": "00:33:05,080"
+			},
+			"offsets": {
+				"from": 1978390,
+				"to": 1985080
+			},
+			"text": " but, uh, there's, I think even all, you know, the ocean is just so much mystery still. And, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,080",
+				"to": "00:33:13,110"
+			},
+			"offsets": {
+				"from": 1985080,
+				"to": 1993110
+			},
+			"text": " um, I am still kind of intimidated a little bit by all those unknowns, but it's also a driver to like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:13,110",
+				"to": "00:33:18,900"
+			},
+			"offsets": {
+				"from": 1993110,
+				"to": 1998900
+			},
+			"text": " oh, how, how, you know, how am I going to answer that question or who has that answer? Or is it just"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,900",
+				"to": "00:33:23,780"
+			},
+			"offsets": {
+				"from": 1998900,
+				"to": 2003780
+			},
+			"text": " observing or, and it's also intimidated by the, the force of the ocean too. And it's kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,780",
+				"to": "00:33:30,530"
+			},
+			"offsets": {
+				"from": 2003780,
+				"to": 2010530
+			},
+			"text": " threatening capacity and it could definitely take my life if I am not careful and it's the waves are"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,530",
+				"to": "00:33:36,810"
+			},
+			"offsets": {
+				"from": 2010530,
+				"to": 2016810
+			},
+			"text": " coming in and there's this constant, like looking over your shoulder literally. And, um, and just"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:36,810",
+				"to": "00:33:41,770"
+			},
+			"offsets": {
+				"from": 2016810,
+				"to": 2021770
+			},
+			"text": " like, oh, we got to move in waves are coming and there's this kind of necessary swiftness and it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,770",
+				"to": "00:33:47,290"
+			},
+			"offsets": {
+				"from": 2021770,
+				"to": 2027290
+			},
+			"text": " really slippery. And so there's, there's kind of, and you have a sharp harvesting device in your hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,290",
+				"to": "00:33:53,600"
+			},
+			"offsets": {
+				"from": 2027290,
+				"to": 2033600
+			},
+			"text": " And so, yeah, it's, there's, it's, it's not a safe environment, but, um, you can, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,600",
+				"to": "00:33:59,180"
+			},
+			"offsets": {
+				"from": 2033600,
+				"to": 2039180
+			},
+			"text": " you can, uh, make it so you can be more mindful of, of these forces that are out there."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,180",
+				"to": "00:34:05,000"
+			},
+			"offsets": {
+				"from": 2039180,
+				"to": 2045000
+			},
+			"text": " Well, thanks for that beautiful description of being out there that I feel like I'm totally"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,000",
+				"to": "00:34:11,030"
+			},
+			"offsets": {
+				"from": 2045000,
+				"to": 2051030
+			},
+			"text": " transported to that place, uh, and thinking about foraging in so many ways, but what is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,030",
+				"to": "00:34:16,770"
+			},
+			"offsets": {
+				"from": 2051030,
+				"to": 2056770
+			},
+			"text": " what are the similarities between cultivation and collection of seaweed or foraging?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,770",
+				"to": "00:34:21,850"
+			},
+			"offsets": {
+				"from": 2056770,
+				"to": 2061850
+			},
+			"text": " Yeah. Right. I wondered kind of, how did I make this leap and how does it feel still so"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,850",
+				"to": "00:34:27,610"
+			},
+			"offsets": {
+				"from": 2061850,
+				"to": 2067610
+			},
+			"text": " comfortable and part of my similar skillset? And because it is a food, it's a really nutrient"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:27,610",
+				"to": "00:34:35,800"
+			},
+			"offsets": {
+				"from": 2067610,
+				"to": 2075800
+			},
+			"text": " dense food and more so than land plants, um, in that sense. But, um, both require just kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,800",
+				"to": "00:34:41,160"
+			},
+			"offsets": {
+				"from": 2075800,
+				"to": 2081160
+			},
+			"text": " awareness of the ecosystem. What are their specific needs? Where in the ecosystem does this plant thrive?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,160",
+				"to": "00:34:46,340"
+			},
+			"offsets": {
+				"from": 2081160,
+				"to": 2086340
+			},
+			"text": " Is it a kind of, say on land, is it a shade or, you know, full sun? Does it need, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:46,340",
+				"to": "00:34:53,260"
+			},
+			"offsets": {
+				"from": 2086340,
+				"to": 2093260
+			},
+			"text": " boggy or rocky soil? And so it's similar to the algae out at the ocean, like where in the ecosystem"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,260",
+				"to": "00:35:01,300"
+			},
+			"offsets": {
+				"from": 2093260,
+				"to": 2101300
+			},
+			"text": " system does this specific algae thrive? And, um, even if it would be placed 10 feet under water or"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:01,300",
+				"to": "00:35:05,700"
+			},
+			"offsets": {
+				"from": 2101300,
+				"to": 2105700
+			},
+			"text": " in a low, lower part of a tide pool, it wouldn't thrive. It needs to be on the kind of the upper,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,700",
+				"to": "00:35:12,320"
+			},
+			"offsets": {
+				"from": 2105700,
+				"to": 2112320
+			},
+			"text": " the shoulder of the rock. So that's, to me is real, um, a fun, uh, observation to see these"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,320",
+				"to": "00:35:20,070"
+			},
+			"offsets": {
+				"from": 2112320,
+				"to": 2120070
+			},
+			"text": " consistencies of where these species kind of excel and where are they kind of optimized and where do"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:20,070",
+				"to": "00:35:26,310"
+			},
+			"offsets": {
+				"from": 2120070,
+				"to": 2126310
+			},
+			"text": " they, how, where have they gravitated to? Um, so yeah, I have a horticulture degree from Cal Poly"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,870",
+				"to": "00:35:34,080"
+			},
+			"offsets": {
+				"from": 2126870,
+				"to": 2134080
+			},
+			"text": " and, you know, we're thought about, yeah, how did the layout of a landscape and, and kind of using the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,080",
+				"to": "00:35:39,040"
+			},
+			"offsets": {
+				"from": 2134080,
+				"to": 2139040
+			},
+			"text": " you know, a taller shrub and what can you place underneath it and how those two, um, kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,040",
+				"to": "00:35:43,680"
+			},
+			"offsets": {
+				"from": 2139040,
+				"to": 2143680
+			},
+			"text": " species can play off each other and create a system, an ecosystem for the, for the lower species."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,240",
+				"to": "00:35:53,110"
+			},
+			"offsets": {
+				"from": 2144240,
+				"to": 2153110
+			},
+			"text": " And so I find that that's also replicated in the sea in that some algaes live upon like the blade of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,110",
+				"to": "00:36:01,600"
+			},
+			"offsets": {
+				"from": 2153110,
+				"to": 2161600
+			},
+			"text": " kombu. And so they're, they're utilizing that surface as their ecosystem of another plant. So to me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,600",
+				"to": "00:36:06,480"
+			},
+			"offsets": {
+				"from": 2161600,
+				"to": 2166480
+			},
+			"text": " that's just kind of, uh, it's a beautiful landscape out there of all these colors. And they're just,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,480",
+				"to": "00:36:12,380"
+			},
+			"offsets": {
+				"from": 2166480,
+				"to": 2172380
+			},
+			"text": " they're just mixed perfectly in a sense, or like a, what are those, a spring mix salad, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,380",
+				"to": "00:36:15,980"
+			},
+			"offsets": {
+				"from": 2172380,
+				"to": 2175980
+			},
+			"text": " there's just, oh, there's three of these and, you know, six of that color and a little red and a"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,980",
+				"to": "00:36:22,730"
+			},
+			"offsets": {
+				"from": 2175980,
+				"to": 2182730
+			},
+			"text": " little green and a brown, and it's just mixed perfectly. Um, so the aesthetics of a, of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,730",
+				"to": "00:36:32,480"
+			},
+			"offsets": {
+				"from": 2182730,
+				"to": 2192480
+			},
+			"text": " functioning landscape, um, is similar. Um, there's techniques on how to harvest, um, same with land"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,480",
+				"to": "00:36:38,000"
+			},
+			"offsets": {
+				"from": 2192480,
+				"to": 2198000
+			},
+			"text": " plants, um, kind of where in the plant, what are the edible parts? What parts are tasty? Like, yeah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,000",
+				"to": "00:36:44,480"
+			},
+			"offsets": {
+				"from": 2198000,
+				"to": 2204480
+			},
+			"text": " you could eat a broccoli stem, but it's, eh, it's a little thick and fibery and, and, and same with the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,480",
+				"to": "00:36:51,020"
+			},
+			"offsets": {
+				"from": 2204480,
+				"to": 2211020
+			},
+			"text": " seaweed kind of stock. It's, it's a little, it's, it's not delectable, but it is edible. Um, it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:51,020",
+				"to": "00:36:57,210"
+			},
+			"offsets": {
+				"from": 2211020,
+				"to": 2217210
+			},
+			"text": " just different and uncomfortable texture in the mouth. And so those that's similar. Um, they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,210",
+				"to": "00:37:02,570"
+			},
+			"offsets": {
+				"from": 2217210,
+				"to": 2222570
+			},
+			"text": " seasonal. Like I talked about the, the June peak. So I have to wait until June and I may run out of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,570",
+				"to": "00:37:07,670"
+			},
+			"offsets": {
+				"from": 2222570,
+				"to": 2227670
+			},
+			"text": " supply and that's, that's kind of bumpy on a business end to, to run out and I can't just"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,670",
+				"to": "00:37:13,000"
+			},
+			"offsets": {
+				"from": 2227670,
+				"to": 2233000
+			},
+			"text": " create more widgets. Um, I have to wait and that's educating the customer. And that same with,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,000",
+				"to": "00:37:18,600"
+			},
+			"offsets": {
+				"from": 2233000,
+				"to": 2238600
+			},
+			"text": " with cut flowers. If a bride wants peonies at her, you know, October wedding, that's, that's not"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,600",
+				"to": "00:37:27,420"
+			},
+			"offsets": {
+				"from": 2238600,
+				"to": 2247420
+			},
+			"text": " possible. They, they only bloom in April. Um, so early May. So these kinds of seasonal education"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,420",
+				"to": "00:37:35,910"
+			},
+			"offsets": {
+				"from": 2247420,
+				"to": 2255910
+			},
+			"text": " of the customer and when the, the harvester can go out and harvest. Um, so they, they're both nutrient"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,910",
+				"to": "00:37:40,550"
+			},
+			"offsets": {
+				"from": 2255910,
+				"to": 2260550
+			},
+			"text": " dense, like kale. They call it the, the kale of the ocean. That's this, this nori that you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,550",
+				"to": "00:37:46,870"
+			},
+			"offsets": {
+				"from": 2260550,
+				"to": 2266870
+			},
+			"text": " actually, um, oil them similar to like baked kale leaves and you can just oil your nori leaf and bake"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,870",
+				"to": "00:37:53,790"
+			},
+			"offsets": {
+				"from": 2266870,
+				"to": 2273790
+			},
+			"text": " it right next to your kale and mix them in the oven together. And it's delicious. So food wise,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,790",
+				"to": "00:38:00,970"
+			},
+			"offsets": {
+				"from": 2273790,
+				"to": 2280970
+			},
+			"text": " their, or their uses are sometimes really similar. So to me that, and the tools, um, are similar. I"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,970",
+				"to": "00:38:07,440"
+			},
+			"offsets": {
+				"from": 2280970,
+				"to": 2287440
+			},
+			"text": " got, you have the same kind of Felco handle and handle. And, um, the post-harvest handling is also,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:08,610",
+				"to": "00:38:15,600"
+			},
+			"offsets": {
+				"from": 2288610,
+				"to": 2295600
+			},
+			"text": " really unique for the species, but it is for, for like cilantro or basil. You can't get basil leaves"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:15,600",
+				"to": "00:38:21,740"
+			},
+			"offsets": {
+				"from": 2295600,
+				"to": 2301740
+			},
+			"text": " wet or they brown. Um, you know, they're each has their kind of way of handling it once you harvest it"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:21,740",
+				"to": "00:38:29,220"
+			},
+			"offsets": {
+				"from": 2301740,
+				"to": 2309220
+			},
+			"text": " from the plant. Um, so with the, the nori and kombu, I rinse it and quickly, cause it starts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,220",
+				"to": "00:38:35,460"
+			},
+			"offsets": {
+				"from": 2309220,
+				"to": 2315460
+			},
+			"text": " it'll start releasing all those minerals and then lay it out on screens. And once it's dry in that form,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:35,460",
+				"to": "00:38:43,120"
+			},
+			"offsets": {
+				"from": 2315460,
+				"to": 2323120
+			},
+			"text": " um, within an afternoon, astoundingly, it'll dry up completely. It'll lose all that water and be in"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,120",
+				"to": "00:38:49,680"
+			},
+			"offsets": {
+				"from": 2323120,
+				"to": 2329680
+			},
+			"text": " stable kind of dried form that it's can hold for five, 10 years, um, within the same afternoon of"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,680",
+				"to": "00:38:55,220"
+			},
+			"offsets": {
+				"from": 2329680,
+				"to": 2335220
+			},
+			"text": " harvesting it. So that's, it's kind of swift post-harvest handling. Um, it needs to get put in"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:55,220",
+				"to": "00:39:02,070"
+			},
+			"offsets": {
+				"from": 2335220,
+				"to": 2342070
+			},
+			"text": " the refrigerator right after you harvest it or it starts rotting. Um, so that's the, some of the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:02,070",
+				"to": "00:39:07,910"
+			},
+			"offsets": {
+				"from": 2342070,
+				"to": 2347910
+			},
+			"text": " the similarities. Um, I use my walk-in cooler that I use for produce and cut flowers for seaweed. So all"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:07,910",
+				"to": "00:39:14,970"
+			},
+			"offsets": {
+				"from": 2347910,
+				"to": 2354970
+			},
+			"text": " these kind of three live in there communally. Um, so that's surprisingly, there are a few,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,970",
+				"to": "00:39:21,090"
+			},
+			"offsets": {
+				"from": 2354970,
+				"to": 2361090
+			},
+			"text": " you know, quite a few overlap of these two kind of cultivation versus collection."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:21,090",
+				"to": "00:39:28,020"
+			},
+			"offsets": {
+				"from": 2361090,
+				"to": 2368020
+			},
+			"text": " And what about scale? How much seaweed do you harvest? And so when it's wet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,020",
+				"to": "00:39:31,300"
+			},
+			"offsets": {
+				"from": 2368020,
+				"to": 2371300
+			},
+			"text": " how much is it? And then when it dries down, how much is it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,300",
+				"to": "00:39:40,430"
+			},
+			"offsets": {
+				"from": 2371300,
+				"to": 2380430
+			},
+			"text": " Yeah, good point. It's, uh, about, um, 90% water. So for instance, last year, um, 2015,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:40,430",
+				"to": "00:39:48,440"
+			},
+			"offsets": {
+				"from": 2380430,
+				"to": 2388440
+			},
+			"text": " we harvested 2,400 pounds of wet seaweed. And so let's, let's go through that. So that was,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,440",
+				"to": "00:39:54,280"
+			},
+			"offsets": {
+				"from": 2388440,
+				"to": 2394280
+			},
+			"text": " each blade gets an individual hand cut. Um, it all gets lugged out on your, someone's back,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,280",
+				"to": "00:40:02,140"
+			},
+			"offsets": {
+				"from": 2394280,
+				"to": 2402140
+			},
+			"text": " um, up the cliff. It all gets rinsed by hand. Um, it all individually gets laid out on screens and"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,140",
+				"to": "00:40:08,680"
+			},
+			"offsets": {
+				"from": 2402140,
+				"to": 2408680
+			},
+			"text": " then puts, once it's dry, it's, it's shrunk a bit by then and gotten much lighter. Then it gets stored,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,680",
+				"to": "00:40:16,160"
+			},
+			"offsets": {
+				"from": 2408680,
+				"to": 2416160
+			},
+			"text": " um, in a temperature cooled space, um, temperature regulated and, um, moisture regulated with a"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,160",
+				"to": "00:40:21,580"
+			},
+			"offsets": {
+				"from": 2416160,
+				"to": 2421580
+			},
+			"text": " dehumidifier. So it doesn't reabsorb moisture and then it's ready for sale. So those are the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,010",
+				"to": "00:40:28,710"
+			},
+			"offsets": {
+				"from": 2422010,
+				"to": 2428710
+			},
+			"text": " kind of the steps and, um, the, the shrink. It is puffy. And so it, it does take up still a lot"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:28,710",
+				"to": "00:40:34,950"
+			},
+			"offsets": {
+				"from": 2428710,
+				"to": 2434950
+			},
+			"text": " of space in a, in a, your storage facility or whatever space one creates."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:34,950",
+				"to": "00:40:40,230"
+			},
+			"offsets": {
+				"from": 2434950,
+				"to": 2440230
+			},
+			"text": " Whoa, that's a lot of work that has to happen really fast. That's, that's kind of amazing. So"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,230",
+				"to": "00:40:43,590"
+			},
+			"offsets": {
+				"from": 2440230,
+				"to": 2443590
+			},
+			"text": " on a normal day, how, how much seaweed do you collect with the team?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,590",
+				"to": "00:40:48,480"
+			},
+			"offsets": {
+				"from": 2443590,
+				"to": 2448480
+			},
+			"text": " Um, yeah, good point. So yeah. So, so last year there was the 2,400 pounds. This year there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:48,480",
+				"to": "00:40:54,590"
+			},
+			"offsets": {
+				"from": 2448480,
+				"to": 2454590
+			},
+			"text": " going to be less. Um, there's just different, uh, quantities out there this year. I think maybe"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:54,590",
+				"to": "00:41:01,850"
+			},
+			"offsets": {
+				"from": 2454590,
+				"to": 2461850
+			},
+			"text": " around 1,500 pounds will be seemingly appropriate for this year. Um, but I'm just, just started. We'll see."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:01,850",
+				"to": "00:41:04,810"
+			},
+			"offsets": {
+				"from": 2461850,
+				"to": 2464810
+			},
+			"text": " So on a normal day, how, how much seaweed do you cut?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,810",
+				"to": "00:41:09,740"
+			},
+			"offsets": {
+				"from": 2464810,
+				"to": 2469740
+			},
+			"text": " Um, so on a normal day, um, when I bring out a group, it depends how many people I bring out."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,740",
+				"to": "00:41:18,650"
+			},
+			"offsets": {
+				"from": 2469740,
+				"to": 2478650
+			},
+			"text": " Um, between like four and eight people come out, um, some friends, hired, hired people, volunteers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,650",
+				"to": "00:41:28,170"
+			},
+			"offsets": {
+				"from": 2478650,
+				"to": 2488170
+			},
+			"text": " kind of a mix, uh, we'll get about 200 pounds. Um, I ask that if you come along, that if you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:28,170",
+				"to": "00:41:32,330"
+			},
+			"offsets": {
+				"from": 2488170,
+				"to": 2492330
+			},
+			"text": " able to also haul out about 30 to 40 pounds on your back, I provide backpacks."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:32,330",
+				"to": "00:41:39,640"
+			},
+			"offsets": {
+				"from": 2492330,
+				"to": 2499640
+			},
+			"text": " Um, so that's comfortably what a body can carry out on your back. Um, sometimes if there's a,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:39,640",
+				"to": "00:41:44,680"
+			},
+			"offsets": {
+				"from": 2499640,
+				"to": 2504680
+			},
+			"text": " a CrossFit trainer in the group, they'll maybe make two trips up the, up the cliff and then we're"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,680",
+				"to": "00:41:50,360"
+			},
+			"offsets": {
+				"from": 2504680,
+				"to": 2510360
+			},
+			"text": " able to harvest a bit more that morning. But, um, yeah, between 100 to even if there's a big group,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:50,360",
+				"to": "00:41:57,540"
+			},
+			"offsets": {
+				"from": 2510360,
+				"to": 2517540
+			},
+			"text": " say I once had like 12, 15, 14 people out and, um, we're, we got like three, over 300 pounds that"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,540",
+				"to": "00:42:05,110"
+			},
+			"offsets": {
+				"from": 2517540,
+				"to": 2525110
+			},
+			"text": " morning. And while that's seemingly great, um, it's also, wow, we got to process all this the same day."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:05,110",
+				"to": "00:42:11,810"
+			},
+			"offsets": {
+				"from": 2525110,
+				"to": 2531810
+			},
+			"text": " And so I, I was just still added to the kind of the volume of all the whole process."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,810",
+				"to": "00:42:18,850"
+			},
+			"offsets": {
+				"from": 2531810,
+				"to": 2538850
+			},
+			"text": " So keeping it around 150 to 200 pounds seems right for the workload in a day. And so we,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,850",
+				"to": "00:42:25,000"
+			},
+			"offsets": {
+				"from": 2538850,
+				"to": 2545000
+			},
+			"text": " like I said, that low tide is around 5:00 AM. So we harvest for maybe two hours and, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,000",
+				"to": "00:42:31,240"
+			},
+			"offsets": {
+				"from": 2545000,
+				"to": 2551240
+			},
+			"text": " around that. So we're done by like eight or so, yeah, somewhere in there. And then the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:32,100",
+				"to": "00:42:37,300"
+			},
+			"offsets": {
+				"from": 2552100,
+				"to": 2557300
+			},
+			"text": " you know, just kind of regrouping, just having some enjoyment time on the beach and then being"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:37,300",
+				"to": "00:42:43,140"
+			},
+			"offsets": {
+				"from": 2557300,
+				"to": 2563140
+			},
+			"text": " back at the ranch here around 10, 11 AM. And then that's when the rinsing and that process starts."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:43,140",
+				"to": "00:42:47,060"
+			},
+			"offsets": {
+				"from": 2563140,
+				"to": 2567060
+			},
+			"text": " And then the heat of the day has picked up as well, which is key for kind of the speed of drying."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:47,060",
+				"to": "00:42:56,860"
+			},
+			"offsets": {
+				"from": 2567060,
+				"to": 2576860
+			},
+			"text": " - That's a lot. 300 pounds of seaweed is a lot of seaweed. That's a, that's a quite an operation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,860",
+				"to": "00:43:03,970"
+			},
+			"offsets": {
+				"from": 2576860,
+				"to": 2583970
+			},
+			"text": " but you were just saying that this year you anticipate there will be 1500 pounds maybe. And last"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:03,970",
+				"to": "00:43:09,730"
+			},
+			"offsets": {
+				"from": 2583970,
+				"to": 2589730
+			},
+			"text": " year there was 2400 pounds. That's also a huge range. How do you have a business that has a huge range"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:09,730",
+				"to": "00:43:17,260"
+			},
+			"offsets": {
+				"from": 2589730,
+				"to": 2597260
+			},
+			"text": " like that? - Yeah, it's, I mean the, it's creating customers and, and reaching out and developing"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:17,260",
+				"to": "00:43:24,680"
+			},
+			"offsets": {
+				"from": 2597260,
+				"to": 2604680
+			},
+			"text": " relationships and amount of fares or ways I sell it to, to chefs. And at some point I'll run out and I,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:25,250",
+				"to": "00:43:30,060"
+			},
+			"offsets": {
+				"from": 2605250,
+				"to": 2610060
+			},
+			"text": " I just have to be okay with that. And if they need to buy, can be, stay consistent with an item on their"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:30,060",
+				"to": "00:43:38,400"
+			},
+			"offsets": {
+				"from": 2610060,
+				"to": 2618400
+			},
+			"text": " menu, they're going to have to find another supplier. And yeah, that's, that's not ideal, but I, what do you"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:38,400",
+				"to": "00:43:42,880"
+			},
+			"offsets": {
+				"from": 2618400,
+				"to": 2622880
+			},
+			"text": " know, nothing, I'm fine with those are the, being the facts. It's something I just have to get used"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:42,880",
+				"to": "00:43:49,980"
+			},
+			"offsets": {
+				"from": 2622880,
+				"to": 2629980
+			},
+			"text": " to. And, and hopefully those customers will, um, appreciate buying Sonoma coast harvested items and"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:49,980",
+				"to": "00:43:57,000"
+			},
+			"offsets": {
+				"from": 2629980,
+				"to": 2637000
+			},
+			"text": " appreciate my, that I rinse mine. Some of their harvesters opt not to do that. So different levels"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:57,000",
+				"to": "00:44:06,490"
+			},
+			"offsets": {
+				"from": 2637000,
+				"to": 2646490
+			},
+			"text": " of sand, um, are present in different products. Um, so yeah, just, uh, it's a buyer's buyer's domain."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:06,490",
+				"to": "00:44:12,500"
+			},
+			"offsets": {
+				"from": 2646490,
+				"to": 2652500
+			},
+			"text": " They can choose who they, what they, what happens then. - Well, that seems like that kind of ties"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:12,500",
+				"to": "00:44:17,570"
+			},
+			"offsets": {
+				"from": 2652500,
+				"to": 2657570
+			},
+			"text": " back into your education related thing, right? So it's, you have your team and you're, you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,570",
+				"to": "00:44:21,410"
+			},
+			"offsets": {
+				"from": 2657570,
+				"to": 2661410
+			},
+			"text": " teaching people how to collect their seaweed, which I definitely want to hear about how to collect my"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:21,410",
+				"to": "00:44:28,650"
+			},
+			"offsets": {
+				"from": 2661410,
+				"to": 2668650
+			},
+			"text": " own seaweed, but you're also working with restaurants and customers, um, to educate them about why they"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:28,650",
+				"to": "00:44:34,180"
+			},
+			"offsets": {
+				"from": 2668650,
+				"to": 2674180
+			},
+			"text": " should pick Sonoma coast seaweed and what that means to continue to support that kind of foraging"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:34,180",
+				"to": "00:44:39,060"
+			},
+			"offsets": {
+				"from": 2674180,
+				"to": 2679060
+			},
+			"text": " happening here versus most seaweed, which is harvested in Japan, right? Is that true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:39,060",
+				"to": "00:44:47,610"
+			},
+			"offsets": {
+				"from": 2679060,
+				"to": 2687610
+			},
+			"text": " Or it's, it, you can farm seaweed too. Interestingly in, in, um, Japan, Korea and China coastline,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,610",
+				"to": "00:44:52,250"
+			},
+			"offsets": {
+				"from": 2687610,
+				"to": 2692250
+			},
+			"text": " there's a lot being farmed in the small bays there. Ireland has a lot of seaweed, the Nova"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:52,250",
+				"to": "00:44:57,450"
+			},
+			"offsets": {
+				"from": 2692250,
+				"to": 2697450
+			},
+			"text": " Scotia, kind of in these colder, um, northern waters, there's a lot being collected."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:57,450",
+				"to": "00:45:03,140"
+			},
+			"offsets": {
+				"from": 2697450,
+				"to": 2703140
+			},
+			"text": " - Is there a difference between cultivated seaweed and forage seaweed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:03,140",
+				"to": "00:45:10,720"
+			},
+			"offsets": {
+				"from": 2703140,
+				"to": 2710720
+			},
+			"text": " - I, no, it's the same species or they can be there. They grow a different species of, of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,720",
+				"to": "00:45:15,920"
+			},
+			"offsets": {
+				"from": 2710720,
+				"to": 2715920
+			},
+			"text": " kombu over in Japan, but it's a cousin. Yeah, it's, they're similar. No, it'd be the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:15,920",
+				"to": "00:45:23,100"
+			},
+			"offsets": {
+				"from": 2715920,
+				"to": 2723100
+			},
+			"text": " - Cool. - Um, but your, your point about the education is, um, that's also building kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:23,100",
+				"to": "00:45:27,900"
+			},
+			"offsets": {
+				"from": 2723100,
+				"to": 2727900
+			},
+			"text": " excitement and getting people on board of the seasonality of it. And like, oh, you only carried"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:27,900",
+				"to": "00:45:33,980"
+			},
+			"offsets": {
+				"from": 2727900,
+				"to": 2733980
+			},
+			"text": " so much out on your backs and that's, oh, it, you know, it's understanding this process and why are"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:33,980",
+				"to": "00:45:40,110"
+			},
+			"offsets": {
+				"from": 2733980,
+				"to": 2740110
+			},
+			"text": " their limits and why can't, you know, just more, why don't you go out tomorrow and I want to come"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:40,110",
+				"to": "00:45:45,070"
+			},
+			"offsets": {
+				"from": 2740110,
+				"to": 2745070
+			},
+			"text": " harvesting with you this weekend when it fits, you know, my schedule. And so it's like, no,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:45,070",
+				"to": "00:45:50,930"
+			},
+			"offsets": {
+				"from": 2745070,
+				"to": 2750930
+			},
+			"text": " we got to wait for these tides and they're not coming till late May. And so it's, we just got to"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:50,930",
+				"to": "00:45:54,770"
+			},
+			"offsets": {
+				"from": 2750930,
+				"to": 2754770
+			},
+			"text": " wait and I'll, I'll, I'll let you know as soon as it, I bring it in. And so there's this kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:54,770",
+				"to": "00:46:00,530"
+			},
+			"offsets": {
+				"from": 2754770,
+				"to": 2760530
+			},
+			"text": " anticipation and that's, it's not the case with a lot of foods anymore. Um, so that's, that's exciting"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:00,530",
+				"to": "00:46:04,690"
+			},
+			"offsets": {
+				"from": 2760530,
+				"to": 2764690
+			},
+			"text": " to me. And especially as a, the flavors that we're used to in our mouth, like, you know, peas in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:04,690",
+				"to": "00:46:09,240"
+			},
+			"offsets": {
+				"from": 2764690,
+				"to": 2769240
+			},
+			"text": " springtime, it's, yeah, we can certainly buy peas year round, but of course, yeah, they're shipped"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:09,240",
+				"to": "00:46:16,020"
+			},
+			"offsets": {
+				"from": 2769240,
+				"to": 2776020
+			},
+			"text": " from all over, but you know, a pea from your garden is, is a delight. And so, so kind of, I know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:16,020",
+				"to": "00:46:23,360"
+			},
+			"offsets": {
+				"from": 2776020,
+				"to": 2783360
+			},
+			"text": " good chefs understand that of, of what's there's a limit and there's times for, for good items."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:23,360",
+				"to": "00:46:29,560"
+			},
+			"offsets": {
+				"from": 2783360,
+				"to": 2789560
+			},
+			"text": " I'm a real pea lover. So you pick the right vegetable as the example. I've been shelling"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:29,560",
+				"to": "00:46:34,280"
+			},
+			"offsets": {
+				"from": 2789560,
+				"to": 2794280
+			},
+			"text": " them every day cause I'm just totally love peas, but I think that's pretty unique to foraging,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:34,280",
+				"to": "00:46:39,350"
+			},
+			"offsets": {
+				"from": 2794280,
+				"to": 2799350
+			},
+			"text": " right? So, so many of those conditions are outside of your control. I'm thinking about mushrooms as"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:39,350",
+				"to": "00:46:45,370"
+			},
+			"offsets": {
+				"from": 2799350,
+				"to": 2805370
+			},
+			"text": " another example of foraging where in lots of parts of the world, like seasons are really defined by"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,370",
+				"to": "00:46:50,580"
+			},
+			"offsets": {
+				"from": 2805370,
+				"to": 2810580
+			},
+			"text": " these things that are foraged and people look forward to them all year. And actually on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:50,580",
+				"to": "00:46:55,600"
+			},
+			"offsets": {
+				"from": 2810580,
+				"to": 2815600
+			},
+			"text": " years where there's less, it's kind of more exquisite in a certain way, right? I don't know"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:55,600",
+				"to": "00:47:00,800"
+			},
+			"offsets": {
+				"from": 2815600,
+				"to": 2820800
+			},
+			"text": " if that makes the taste better or something, but it's rare. And that's kind of a amazing lineage"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:00,800",
+				"to": "00:47:02,160"
+			},
+			"offsets": {
+				"from": 2820800,
+				"to": 2822160
+			},
+			"text": " to be a part of."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:02,160",
+				"to": "00:47:07,300"
+			},
+			"offsets": {
+				"from": 2822160,
+				"to": 2827300
+			},
+			"text": " Yeah. There's the, the answer of no, we don't have it. And then that's where the conversation"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:07,300",
+				"to": "00:47:12,100"
+			},
+			"offsets": {
+				"from": 2827300,
+				"to": 2832100
+			},
+			"text": " could, that's what they, that's all they asked is, do you have, you know, where's I want nori,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:12,100",
+				"to": "00:47:17,780"
+			},
+			"offsets": {
+				"from": 2832100,
+				"to": 2837780
+			},
+			"text": " I want six pounds this week. And they're like, no. And so that's the, like in that same breath,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:17,780",
+				"to": "00:47:23,310"
+			},
+			"offsets": {
+				"from": 2837780,
+				"to": 2843310
+			},
+			"text": " just, Oh, but it's coming. I'm going to wait till the May harvest and getting them on board to the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:23,310",
+				"to": "00:47:29,550"
+			},
+			"offsets": {
+				"from": 2843310,
+				"to": 2849550
+			},
+			"text": " the season and the, let's build that excitement of the, the pea example. Yeah. And so it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:29,550",
+				"to": "00:47:37,280"
+			},
+			"offsets": {
+				"from": 2849550,
+				"to": 2857280
+			},
+			"text": " I'm, you know, just kind of sharing my excitement and bringing them on board of what, what seasonality"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:37,280",
+				"to": "00:47:42,080"
+			},
+			"offsets": {
+				"from": 2857280,
+				"to": 2862080
+			},
+			"text": " means, like the mushrooms or even bringing up examples. So they, it's really brings it home"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,080",
+				"to": "00:47:47,840"
+			},
+			"offsets": {
+				"from": 2862080,
+				"to": 2867840
+			},
+			"text": " because those are food items that can be related to. And same with herbs. I do some wild foraging"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:47,840",
+				"to": "00:47:53,480"
+			},
+			"offsets": {
+				"from": 2867840,
+				"to": 2873480
+			},
+			"text": " of different herbs and like the nettle harvest. It's only in a small window of time when it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:53,480",
+				"to": "00:47:57,640"
+			},
+			"offsets": {
+				"from": 2873480,
+				"to": 2877640
+			},
+			"text": " it's leafy enough, but it hasn't gone into flower. And you got to know the secret spots and,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:57,640",
+				"to": "00:48:05,360"
+			},
+			"offsets": {
+				"from": 2877640,
+				"to": 2885360
+			},
+			"text": " and knowing those, those are those secret spots. And I emphasize the word secret because people"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:05,360",
+				"to": "00:48:13,660"
+			},
+			"offsets": {
+				"from": 2885360,
+				"to": 2893660
+			},
+			"text": " kind of are a little more hoarding of their, of their discovery sites, um, for certain herbs and"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:13,660",
+				"to": "00:48:21,300"
+			},
+			"offsets": {
+				"from": 2893660,
+				"to": 2901300
+			},
+			"text": " mushrooms. And, um, so you're talking about, yeah, those collected herbs and, and sometimes it involves"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:21,300",
+				"to": "00:48:28,720"
+			},
+			"offsets": {
+				"from": 2901300,
+				"to": 2908720
+			},
+			"text": " hopping a fence and kind of the legalities will, that's the topic here. And, and so, uh, going out to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:28,720",
+				"to": "00:48:38,530"
+			},
+			"offsets": {
+				"from": 2908720,
+				"to": 2918530
+			},
+			"text": " ocean, yeah, we all have that access to the ocean. And, um, uh, I, because I sell seaweed, I, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:38,530",
+				"to": "00:48:44,670"
+			},
+			"offsets": {
+				"from": 2918530,
+				"to": 2924670
+			},
+			"text": " I'm required to get a license from department of fish and wildlife. And that's about $140 a year"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:44,670",
+				"to": "00:48:51,570"
+			},
+			"offsets": {
+				"from": 2924670,
+				"to": 2931570
+			},
+			"text": " for that license because I sell commercially. However, all citizens can harvest up to 10 pounds"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:51,570",
+				"to": "00:48:57,330"
+			},
+			"offsets": {
+				"from": 2931570,
+				"to": 2937330
+			},
+			"text": " every day. And so 10 pounds to get, bring a visual. It's about the size of a kind of a handled plastic"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:57,330",
+				"to": "00:49:02,290"
+			},
+			"offsets": {
+				"from": 2937330,
+				"to": 2942290
+			},
+			"text": " farmer's market bag. Um, and that's a lot. Um, that's, and when that dries down, that's about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:02,290",
+				"to": "00:49:08,170"
+			},
+			"offsets": {
+				"from": 2942290,
+				"to": 2948170
+			},
+			"text": " again, what about one pound. And that's what a human would probably eat in a year, um, of seaweed."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:08,170",
+				"to": "00:49:14,760"
+			},
+			"offsets": {
+				"from": 2948170,
+				"to": 2954760
+			},
+			"text": " So it's just that one day will kind of perhaps even meet your needs. Um, I will say that nobody's ever"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:14,760",
+				"to": "00:49:21,140"
+			},
+			"offsets": {
+				"from": 2954760,
+				"to": 2961140
+			},
+			"text": " checked. Um, there's not much regular, you know, active regulation with it as there is with abalone."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:21,140",
+				"to": "00:49:29,050"
+			},
+			"offsets": {
+				"from": 2961140,
+				"to": 2969050
+			},
+			"text": " Some say you need a fishing license, oddly, to collect those 10 pounds, but that's not, hasn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:29,050",
+				"to": "00:49:34,710"
+			},
+			"offsets": {
+				"from": 2969050,
+				"to": 2974710
+			},
+			"text": " been brought up. You know, that's not, there's, uh, different opinions on that. But, um, yeah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:34,710",
+				"to": "00:49:41,080"
+			},
+			"offsets": {
+				"from": 2974710,
+				"to": 2981080
+			},
+			"text": " the department of fish and wildlife serves that. And I have to declare how much I take, what my harvest"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:41,080",
+				"to": "00:49:51,770"
+			},
+			"offsets": {
+				"from": 2981080,
+				"to": 2991770
+			},
+			"text": " is for the year and pay a, uh, one penny per pound on, on how much I take. So yeah, $24 is what I paid"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:51,770",
+				"to": "00:49:55,130"
+			},
+			"offsets": {
+				"from": 2991770,
+				"to": 2995130
+			},
+			"text": " last year. It's, it's a pretty small tariff."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:55,130",
+				"to": "00:50:02,010"
+			},
+			"offsets": {
+				"from": 2995130,
+				"to": 3002010
+			},
+			"text": " I think it's easy to kind of forget how many of those things we actually do look forward to"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:02,010",
+				"to": "00:50:08,810"
+			},
+			"offsets": {
+				"from": 3002010,
+				"to": 3008810
+			},
+			"text": " all year round that, um, have all these variables. But then the other part I wanted to talk to you"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:08,810",
+				"to": "00:50:15,360"
+			},
+			"offsets": {
+				"from": 3008810,
+				"to": 3015360
+			},
+			"text": " about was the secret spot and this idea. Foragers are famous for the secret spot. They're also like"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:15,360",
+				"to": "00:50:23,350"
+			},
+			"offsets": {
+				"from": 3015360,
+				"to": 3023350
+			},
+			"text": " pretty wing nutty about the secret spot and they're all right. Um, but you can get into some pretty heated"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:23,350",
+				"to": "00:50:31,000"
+			},
+			"offsets": {
+				"from": 3023350,
+				"to": 3031000
+			},
+			"text": " controversies about this secret spot thing. So is it the same with seaweed? And if one were to find"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:31,000",
+				"to": "00:50:33,080"
+			},
+			"offsets": {
+				"from": 3031000,
+				"to": 3033080
+			},
+			"text": " their own secret spot, how would you do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:33,080",
+				"to": "00:50:41,960"
+			},
+			"offsets": {
+				"from": 3033080,
+				"to": 3041960
+			},
+			"text": " Right. Um, the secret spots, it's, uh, there, I had never come across, I have not come across"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:41,960",
+				"to": "00:50:49,410"
+			},
+			"offsets": {
+				"from": 3041960,
+				"to": 3049410
+			},
+			"text": " another harvester on the beaches I've gone to. So, um, I think, I believe the whole Sonoma Coast has"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:49,410",
+				"to": "00:50:55,780"
+			},
+			"offsets": {
+				"from": 3049410,
+				"to": 3055780
+			},
+			"text": " fantastic seaweed harvesting opportunities. They, you'd look for a rocky beach. Um, sand is not where"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:55,780",
+				"to": "00:51:02,850"
+			},
+			"offsets": {
+				"from": 3055780,
+				"to": 3062850
+			},
+			"text": " seaweed lives. So when the water recedes, just where the rocks are, um, there are marine protected"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:02,850",
+				"to": "00:51:10,580"
+			},
+			"offsets": {
+				"from": 3062850,
+				"to": 3070580
+			},
+			"text": " areas, these MPAs, and there's a one around Bodega Head is one spot and around the mouth of the Russian"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:10,580",
+				"to": "00:51:15,940"
+			},
+			"offsets": {
+				"from": 3070580,
+				"to": 3075940
+			},
+			"text": " River is another protected spot. And further up kind of every 20 miles, it seems there's this kind of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:16,510",
+				"to": "00:51:23,920"
+			},
+			"offsets": {
+				"from": 3076510,
+				"to": 3083920
+			},
+			"text": " so you can't harvest in those zones, but, um, those are, happen to be not really desirable zones to even"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:23,920",
+				"to": "00:51:34,170"
+			},
+			"offsets": {
+				"from": 3083920,
+				"to": 3094170
+			},
+			"text": " harvest seaweed. So just pick your own beach. And, um, I mean, I go to places, uh, north of the Russian"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:34,170",
+				"to": "00:51:39,930"
+			},
+			"offsets": {
+				"from": 3094170,
+				"to": 3099930
+			},
+			"text": " River. That's where I opt to go, but they're a little hard to get to. Their access is difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:39,930",
+				"to": "00:51:45,200"
+			},
+			"offsets": {
+				"from": 3099930,
+				"to": 3105200
+			},
+			"text": " Um, the Mendocino beaches, there's a lot more harvesters up there that do it professionally and"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:45,760",
+				"to": "00:51:53,710"
+			},
+			"offsets": {
+				"from": 3105760,
+				"to": 3113710
+			},
+			"text": " just casually. And given the amount of, of beach access versus the volume of people that harvest"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:53,710",
+				"to": "00:51:58,180"
+			},
+			"offsets": {
+				"from": 3113710,
+				"to": 3118180
+			},
+			"text": " up there, there's a little more, um, I wouldn't even go so far as to say competitiveness, but like"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:58,780",
+				"to": "00:52:07,830"
+			},
+			"offsets": {
+				"from": 3118780,
+				"to": 3127830
+			},
+			"text": " a feeling of, of, Hey, this is where my little zone and you get that beach and I get this one and some"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:07,830",
+				"to": "00:52:16,380"
+			},
+			"offsets": {
+				"from": 3127830,
+				"to": 3136380
+			},
+			"text": " sort of light agreements, friendly agreements get made. Um, so yeah, it's, but there's so much out"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:16,380",
+				"to": "00:52:22,160"
+			},
+			"offsets": {
+				"from": 3136380,
+				"to": 3142160
+			},
+			"text": " there, especially kombu and nori. It's so abundant. So I, I think our coastline could,"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:23,700",
+				"to": "00:52:27,300"
+			},
+			"offsets": {
+				"from": 3143700,
+				"to": 3147300
+			},
+			"text": " could handle more individuals going out and collecting for themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:27,300",
+				"to": "00:52:33,130"
+			},
+			"offsets": {
+				"from": 3147300,
+				"to": 3153130
+			},
+			"text": " And do you think there's anything to learning your spot or knowing what's there? Are there any"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:33,130",
+				"to": "00:52:40,880"
+			},
+			"offsets": {
+				"from": 3153130,
+				"to": 3160880
+			},
+			"text": " good resources maybe that you have for people IDing different kinds of seaweed or, um, knowing how to"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:40,880",
+				"to": "00:52:42,150"
+			},
+			"offsets": {
+				"from": 3160880,
+				"to": 3162150
+			},
+			"text": " cut seaweed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:42,150",
+				"to": "00:52:56,270"
+			},
+			"offsets": {
+				"from": 3162150,
+				"to": 3176270
+			},
+			"text": " Uh, but I go to four different beaches myself. Um, so I have a little sketch of on these beaches where"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:56,270",
+				"to": "00:53:03,390"
+			},
+			"offsets": {
+				"from": 3176270,
+				"to": 3183390
+			},
+			"text": " the, a good kombu patch is, or this little aspect of the cove has been, you know, a nice outbreak"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:03,390",
+				"to": "00:53:09,770"
+			},
+			"offsets": {
+				"from": 3183390,
+				"to": 3189770
+			},
+			"text": " of, or out, outcropping of nori. And so I have my own little notes, but they, they do change from"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:09,770",
+				"to": "00:53:12,330"
+			},
+			"offsets": {
+				"from": 3189770,
+				"to": 3192330
+			},
+			"text": " year to year. I think just kind of ease of access."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:12,960",
+				"to": "00:53:18,720"
+			},
+			"offsets": {
+				"from": 3192960,
+				"to": 3198720
+			},
+			"text": " I'm thinking about mushroom spots and how that's my only comparison here, right? Is that people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:18,720",
+				"to": "00:53:21,920"
+			},
+			"offsets": {
+				"from": 3198720,
+				"to": 3201920
+			},
+			"text": " when you talk to people about mushroom spots, it's like, some people are like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:21,920",
+				"to": "00:53:26,800"
+			},
+			"offsets": {
+				"from": 3201920,
+				"to": 3206800
+			},
+			"text": " it's only under oak trees and other people will be like, it's only in this place and"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:27,420",
+				"to": "00:53:33,890"
+			},
+			"offsets": {
+				"from": 3207420,
+				"to": 3213890
+			},
+			"text": " everybody's right. Right. So, I mean, maybe that's also the case with seaweed is you find the place that"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:33,890",
+				"to": "00:53:37,330"
+			},
+			"offsets": {
+				"from": 3213890,
+				"to": 3217330
+			},
+			"text": " for you based on how you collect seaweed or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:37,330",
+				"to": "00:53:42,650"
+			},
+			"offsets": {
+				"from": 3217330,
+				"to": 3222650
+			},
+			"text": " Yeah. I guess I pick my, the four beaches I go to with, you know, for different reasons,"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:42,650",
+				"to": "00:53:50,470"
+			},
+			"offsets": {
+				"from": 3222650,
+				"to": 3230470
+			},
+			"text": " for ease. It's, it's within a, you know, an hour's drive. Uh, there, there's parking. The access is, is"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:50,470",
+				"to": "00:53:57,650"
+			},
+			"offsets": {
+				"from": 3230470,
+				"to": 3237650
+			},
+			"text": " doable. Um, there's space on shore where we can kind of have a base camp. Um, they're wide enough"
+		},
+		{
+			"timestamps": {
+				"from": "00:53:57,650",
+				"to": "00:54:05,300"
+			},
+			"offsets": {
+				"from": 3237650,
+				"to": 3245300
+			},
+			"text": " to, for a group of five to 10 people to all be in different zones and not have a high impact. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:05,300",
+				"to": "00:54:11,730"
+			},
+			"offsets": {
+				"from": 3245300,
+				"to": 3251730
+			},
+			"text": " they're safe. Um, so those reasons, and I feel it's, you know, that it's really clean. The, the"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:11,730",
+				"to": "00:54:18,940"
+			},
+			"offsets": {
+				"from": 3251730,
+				"to": 3258940
+			},
+			"text": " beaches up there, there's not much industry. Um, the turbidity, the, the oxygen in the water also, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:18,940",
+				"to": "00:54:26,370"
+			},
+			"offsets": {
+				"from": 3258940,
+				"to": 3266370
+			},
+			"text": " is able to maintain a high amount of algae too. And so that, that's kind of also helpful around,"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:26,370",
+				"to": "00:54:32,030"
+			},
+			"offsets": {
+				"from": 3266370,
+				"to": 3272030
+			},
+			"text": " that's why the rocky kind of rocky shore kind of pushes more oxygen into the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:32,420",
+				"to": "00:54:39,760"
+			},
+			"offsets": {
+				"from": 3272420,
+				"to": 3279760
+			},
+			"text": " And there's not much, uh, runoff of creeks and stuff. So the water's real clear and it has high"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:39,760",
+				"to": "00:54:44,480"
+			},
+			"offsets": {
+				"from": 3279760,
+				"to": 3284480
+			},
+			"text": " oxygen. And those are two things that, that these, um, algae need to, to thrive."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:45,020",
+				"to": "00:54:51,500"
+			},
+			"offsets": {
+				"from": 3285020,
+				"to": 3291500
+			},
+			"text": " That's actually some great criteria. So that's, that's awesome for, for helping people figure out"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:51,500",
+				"to": "00:54:57,530"
+			},
+			"offsets": {
+				"from": 3291500,
+				"to": 3297530
+			},
+			"text": " where to go. But, um, this summer, it sounds like you're teaching a whole bunch. So if people want"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:57,530",
+				"to": "00:55:02,730"
+			},
+			"offsets": {
+				"from": 3297530,
+				"to": 3302730
+			},
+			"text": " to learn how to go, uh, or want to learn more about seaweed, I don't know if you take people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:02,730",
+				"to": "00:55:07,470"
+			},
+			"offsets": {
+				"from": 3302730,
+				"to": 3307470
+			},
+			"text": " um, those are some things that are coming up for you. And then you're also teaching about"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:07,470",
+				"to": "00:55:11,950"
+			},
+			"offsets": {
+				"from": 3307470,
+				"to": 3311950
+			},
+			"text": " sustainable agriculture later on the summer. So could you tell us what those things are and how"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:11,950",
+				"to": "00:55:17,360"
+			},
+			"offsets": {
+				"from": 3311950,
+				"to": 3317360
+			},
+			"text": " people can follow along with you? Okay. Yeah. This summer, um, summer 2016,"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:17,360",
+				"to": "00:55:24,310"
+			},
+			"offsets": {
+				"from": 3317360,
+				"to": 3324310
+			},
+			"text": " I'm teaching a class through a group called Forage SF. That's $90. And that's on July 23rd."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:24,310",
+				"to": "00:55:29,430"
+			},
+			"offsets": {
+				"from": 3324310,
+				"to": 3329430
+			},
+			"text": " It's also a Saturday and we'll, we'll harvest in the morning and then we'll, we'll break for a lecture"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:29,430",
+				"to": "00:55:32,950"
+			},
+			"offsets": {
+				"from": 3329430,
+				"to": 3332950
+			},
+			"text": " on the, on the beach and it won't be in a slideshow format, but it will have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:32,950",
+				"to": "00:55:38,470"
+			},
+			"offsets": {
+				"from": 3332950,
+				"to": 3338470
+			},
+			"text": " kind of more organized discussion about, about seaweeds there and kind of, and that will review"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:38,470",
+				"to": "00:55:44,950"
+			},
+			"offsets": {
+				"from": 3338470,
+				"to": 3344950
+			},
+			"text": " the identifying how to harvest, what to look for, how to process, kind of answer all those questions"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:44,950",
+				"to": "00:55:49,290"
+			},
+			"offsets": {
+				"from": 3344950,
+				"to": 3349290
+			},
+			"text": " and hopefully have some food at each of those too. That's a little seaweed based."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:49,290",
+				"to": "00:55:54,730"
+			},
+			"offsets": {
+				"from": 3349290,
+				"to": 3354730
+			},
+			"text": " I'm also attending the Heirloom Expo as a vendor that's in mid-September. I think it's the 8th,"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:54,730",
+				"to": "00:56:00,250"
+			},
+			"offsets": {
+				"from": 3354730,
+				"to": 3360250
+			},
+			"text": " 9th and 10th perhaps this year. Um, that's at the Santa Rosa County Fairgrounds. So those were the kind"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:00,250",
+				"to": "00:56:05,180"
+			},
+			"offsets": {
+				"from": 3360250,
+				"to": 3365180
+			},
+			"text": " of the seaweed based activities this summer. Also this summer, I'm teaching a class at Santa Rosa"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:05,180",
+				"to": "00:56:10,300"
+			},
+			"offsets": {
+				"from": 3365180,
+				"to": 3370300
+			},
+			"text": " Junior College at the Schoen Farm facility called Intro to Organic Gardening and Food Production."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:11,510",
+				"to": "00:56:16,550"
+			},
+			"offsets": {
+				"from": 3371510,
+				"to": 3376550
+			},
+			"text": " This fall, there's a, I'm teaching one called Direct Marketing. So yeah, that's, that's what this year"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:16,550",
+				"to": "00:56:21,780"
+			},
+			"offsets": {
+				"from": 3376550,
+				"to": 3381780
+			},
+			"text": " looks like. Thanks Heidi. That's, that's been really great talking to you. I can't wait to get out there"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:21,780",
+				"to": "00:56:27,510"
+			},
+			"offsets": {
+				"from": 3381780,
+				"to": 3387510
+			},
+			"text": " and find some seaweed. All right. Thanks for, for airing my story. And uh, it's been a pleasure"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:27,510",
+				"to": "00:56:29,920"
+			},
+			"offsets": {
+				"from": 3387510,
+				"to": 3389920
+			},
+			"text": " listening to your other podcasts. Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:29,920",
+				"to": "00:56:47,220"
+			},
+			"offsets": {
+				"from": 3389920,
+				"to": 3407220
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:47,220",
+				"to": "00:56:51,940"
+			},
+			"offsets": {
+				"from": 3407220,
+				"to": 3411940
+			},
+			"text": " business. We provide participatory research, communications, and creative work to organizations"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:51,940",
+				"to": "00:56:56,410"
+			},
+			"offsets": {
+				"from": 3411940,
+				"to": 3416410
+			},
+			"text": " that are building food movements. What's your food movement? Let us know and get in touch"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:56,410",
+				"to": "00:57:04,210"
+			},
+			"offsets": {
+				"from": 3416410,
+				"to": 3424210
+			},
+			"text": " deliciousrevolutionshow.com. Delicious Revolution is a show about food, culture, and place produced by"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:04,210",
+				"to": "00:57:10,580"
+			},
+			"offsets": {
+				"from": 3424210,
+				"to": 3430580
+			},
+			"text": " Devin Sampson and me, Chelsea Wells. You can subscribe to Delicious Revolution on iTunes or your favorite"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:10,580",
+				"to": "00:57:19,300"
+			},
+			"offsets": {
+				"from": 3430580,
+				"to": 3439300
+			},
+			"text": " podcast app. If you have a food story of your own, we'd love to hear it. Call 510-859-7430 and leave"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:19,300",
+				"to": "00:57:24,320"
+			},
+			"offsets": {
+				"from": 3439300,
+				"to": 3444320
+			},
+			"text": " us a message. Of course, you can get in touch with us in lots of different ways. And they are all on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:24,320",
+				"to": "00:57:31,480"
+			},
+			"offsets": {
+				"from": 3444320,
+				"to": 3451480
+			},
+			"text": " website, deliciousrevolutionshow.com. If you like Delicious Revolution and want to help our show reach"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:31,480",
+				"to": "00:57:36,860"
+			},
+			"offsets": {
+				"from": 3451480,
+				"to": 3456860
+			},
+			"text": " more people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:36,860",
+				"to": "00:57:38,180"
+			},
+			"offsets": {
+				"from": 3456860,
+				"to": 3458180
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

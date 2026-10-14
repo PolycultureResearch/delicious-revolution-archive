@@ -1,0 +1,6313 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:02,660",
+				"to": "00:00:30,200"
+			},
+			"offsets": {
+				"from": 2660,
+				"to": 30200
+			},
+			"text": " As a program that's really concerned about inclusivity, we need to figure out how to engage all of our kids in an environment that might be chaotic, you know, the kitchen, the garden, there's a lot of distractions, there's a lot of opportunity for risk and mistakes, and within those experiences, we invite the kids to be empowered with their own choices, you know, how will you approach this problem or mistake, and how will you respond?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,200",
+				"to": "00:00:35,010"
+			},
+			"offsets": {
+				"from": 30200,
+				"to": 35010
+			},
+			"text": " And we support them in being their own their own leader in their in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,010",
+				"to": "00:00:43,010"
+			},
+			"offsets": {
+				"from": 35010,
+				"to": 43010
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,010",
+				"to": "00:00:44,050"
+			},
+			"offsets": {
+				"from": 43010,
+				"to": 44050
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,050",
+				"to": "00:00:50,420"
+			},
+			"offsets": {
+				"from": 44050,
+				"to": 50420
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,420",
+				"to": "00:00:53,570"
+			},
+			"offsets": {
+				"from": 50420,
+				"to": 53570
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,570",
+				"to": "00:01:00,220"
+			},
+			"offsets": {
+				"from": 53570,
+				"to": 60220
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,220",
+				"to": "00:01:04,140"
+			},
+			"offsets": {
+				"from": 60220,
+				"to": 64140
+			},
+			"text": " kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,140",
+				"to": "00:01:06,860"
+			},
+			"offsets": {
+				"from": 64140,
+				"to": 66860
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,860",
+				"to": "00:01:13,420"
+			},
+			"offsets": {
+				"from": 66860,
+				"to": 73420
+			},
+			"text": " Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,330",
+				"to": "00:01:19,510"
+			},
+			"offsets": {
+				"from": 74330,
+				"to": 79510
+			},
+			"text": " Jesra Thompson is the program supervisor of the Berkeley Public School Gardening and Cooking Program,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,510",
+				"to": "00:01:29,590"
+			},
+			"offsets": {
+				"from": 79510,
+				"to": 89590
+			},
+			"text": " where she leads a team of garden educators and works with schools and community organizations to provide hands-on, place-based education to all students."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,590",
+				"to": "00:01:36,370"
+			},
+			"offsets": {
+				"from": 89590,
+				"to": 96370
+			},
+			"text": " She is a food systems planner who focuses on community development, land use planning, and education."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,370",
+				"to": "00:01:46,370"
+			},
+			"offsets": {
+				"from": 96370,
+				"to": 106370
+			},
+			"text": " Jesra has worked on healthy food access and education at DC Greens, the California Farmers Market Association, and the USDA's Food and Nutrition Service."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,370",
+				"to": "00:01:50,070"
+			},
+			"offsets": {
+				"from": 106370,
+				"to": 110070
+			},
+			"text": " Welcome to the show, Jesra."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,070",
+				"to": "00:01:51,390"
+			},
+			"offsets": {
+				"from": 110070,
+				"to": 111390
+			},
+			"text": " Jesra, it's great to be here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,390",
+				"to": "00:01:52,830"
+			},
+			"offsets": {
+				"from": 111390,
+				"to": 112830
+			},
+			"text": " Thank you so much for having me."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,830",
+				"to": "00:01:53,470"
+			},
+			"offsets": {
+				"from": 112830,
+				"to": 113470
+			},
+			"text": " I'm Rebecca."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,470",
+				"to": "00:01:55,870"
+			},
+			"offsets": {
+				"from": 113470,
+				"to": 115870
+			},
+			"text": " I'm also working on the show for this season."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,870",
+				"to": "00:01:57,710"
+			},
+			"offsets": {
+				"from": 115870,
+				"to": 117710
+			},
+			"text": " Very excited to do so."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,710",
+				"to": "00:02:01,190"
+			},
+			"offsets": {
+				"from": 117710,
+				"to": 121190
+			},
+			"text": " And we're here with Jesra, who's actually my boss."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,190",
+				"to": "00:02:07,070"
+			},
+			"offsets": {
+				"from": 121190,
+				"to": 127070
+			},
+			"text": " And I will start off with, can you start maybe describing your work with the Berkeley School Gardening and Cooking Program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,070",
+				"to": "00:02:08,320"
+			},
+			"offsets": {
+				"from": 127070,
+				"to": 128320
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,320",
+				"to": "00:02:14,560"
+			},
+			"offsets": {
+				"from": 128320,
+				"to": 134560
+			},
+			"text": " For the last three years, I've led the Berkeley Unified School District Gardening and Cooking Program."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,200",
+				"to": "00:02:22,520"
+			},
+			"offsets": {
+				"from": 135200,
+				"to": 142520
+			},
+			"text": " And we have been educating all of our students from preschool through high school in 17 school gardens,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,520",
+				"to": "00:02:27,930"
+			},
+			"offsets": {
+				"from": 142520,
+				"to": 147930
+			},
+			"text": " and now four kitchen classrooms with Rebecca and some other folks' help."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,930",
+				"to": "00:02:39,450"
+			},
+			"offsets": {
+				"from": 147930,
+				"to": 159450
+			},
+			"text": " And we really focus on integrating academic standards as support to students and teachers that are challenged with so many different students in our school district,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,450",
+				"to": "00:02:42,450"
+			},
+			"offsets": {
+				"from": 159450,
+				"to": 162450
+			},
+			"text": " and they have so many different needs, and they come from so many different backgrounds."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,450",
+				"to": "00:02:50,670"
+			},
+			"offsets": {
+				"from": 162450,
+				"to": 170670
+			},
+			"text": " And we're all kind of struggling together in our larger school district community on how to approach that and how do we support each child."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,850",
+				"to": "00:03:00,170"
+			},
+			"offsets": {
+				"from": 170850,
+				"to": 180170
+			},
+			"text": " And so we are collaborating with all the teachers and principals and other community supports on meeting each child where they're at and focusing on whole child development."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,170",
+				"to": "00:03:09,450"
+			},
+			"offsets": {
+				"from": 180170,
+				"to": 189450
+			},
+			"text": " And that includes not just the standards, but also social-emotional care, nutrition, having them talk about the environment and their own place in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,650",
+				"to": "00:03:12,690"
+			},
+			"offsets": {
+				"from": 189650,
+				"to": 192690
+			},
+			"text": " We're really focusing on doing that these last three years."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,500",
+				"to": "00:03:13,600"
+			},
+			"offsets": {
+				"from": 193500,
+				"to": 193600
+			},
+			"text": " Great."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,700",
+				"to": "00:03:17,920"
+			},
+			"offsets": {
+				"from": 193700,
+				"to": 197920
+			},
+			"text": " And can you tell us more about what one of these classes would look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,620",
+				"to": "00:03:19,920"
+			},
+			"offsets": {
+				"from": 199620,
+				"to": 199920
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,040",
+				"to": "00:03:26,280"
+			},
+			"offsets": {
+				"from": 200040,
+				"to": 206280
+			},
+			"text": " So in our gardens, we have a curriculum that we just published two years ago,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,580",
+				"to": "00:03:33,230"
+			},
+			"offsets": {
+				"from": 206580,
+				"to": 213230
+			},
+			"text": " and it teaches science and language and math in the gardens from preschool through middle school."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,820",
+				"to": "00:03:37,660"
+			},
+			"offsets": {
+				"from": 213820,
+				"to": 217660
+			},
+			"text": " And the kids come out to the garden for about an hour every other week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,660",
+				"to": "00:03:39,780"
+			},
+			"offsets": {
+				"from": 217660,
+				"to": 219780
+			},
+			"text": " and they come out there with their classroom teacher,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,040",
+				"to": "00:03:49,040"
+			},
+			"offsets": {
+				"from": 220040,
+				"to": 229040
+			},
+			"text": " and they're instructed by a garden instructor who's got a wealth of experience and knowledge about gardening and education in these fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,320",
+				"to": "00:03:54,920"
+			},
+			"offsets": {
+				"from": 229320,
+				"to": 234920
+			},
+			"text": " And they will possibly talk about plant parts and photosynthesis,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,360",
+				"to": "00:03:59,920"
+			},
+			"offsets": {
+				"from": 235360,
+				"to": 239920
+			},
+			"text": " and there'll be a quick kind of intro of this is what we're going to learn today so the kids know what to expect."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,920",
+				"to": "00:04:05,720"
+			},
+			"offsets": {
+				"from": 239920,
+				"to": 245720
+			},
+			"text": " And they then go into different activities, whether it's like small group or team building or one-on-one,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,960",
+				"to": "00:04:12,560"
+			},
+			"offsets": {
+				"from": 245960,
+				"to": 252560
+			},
+			"text": " and they experiment and explore more about, say, photosynthesis or take apart a flower to learn more about plant parts."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,940",
+				"to": "00:04:16,820"
+			},
+			"offsets": {
+				"from": 252940,
+				"to": 256820
+			},
+			"text": " And then they go back into their classroom, and hopefully they have more questions the next week."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,540",
+				"to": "00:04:23,680"
+			},
+			"offsets": {
+				"from": 257540,
+				"to": 263680
+			},
+			"text": " Because I work with the cooking program, can you maybe go into what differentiates the gardening from the cooking program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,680",
+				"to": "00:04:27,790"
+			},
+			"offsets": {
+				"from": 263680,
+				"to": 267790
+			},
+			"text": " Yeah, I mean, this is something that we're trying new this year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,930",
+				"to": "00:04:32,390"
+			},
+			"offsets": {
+				"from": 267930,
+				"to": 272390
+			},
+			"text": " and we are bringing cooking and nutrition education into our after-school programming."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,650",
+				"to": "00:04:37,830"
+			},
+			"offsets": {
+				"from": 272650,
+				"to": 277830
+			},
+			"text": " So we're really trying to figure out how we're doing it for the first time and after school."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,230",
+				"to": "00:04:41,610"
+			},
+			"offsets": {
+				"from": 278230,
+				"to": 281610
+			},
+			"text": " And we're doing this with a grant from the Berkeley Soda Tax."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,450",
+				"to": "00:04:48,750"
+			},
+			"offsets": {
+				"from": 282450,
+				"to": 288750
+			},
+			"text": " The grant commission is really focused on reducing sugar consumption and increasing sugar awareness."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,890",
+				"to": "00:04:51,830"
+			},
+			"offsets": {
+				"from": 288890,
+				"to": 291830
+			},
+			"text": " So we're also trying to figure out how to do that the best way we possibly can."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,310",
+				"to": "00:04:55,150"
+			},
+			"offsets": {
+				"from": 292310,
+				"to": 295150
+			},
+			"text": " And we're putting those in four schools as opposed to all of our schools,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,150",
+				"to": "00:04:58,630"
+			},
+			"offsets": {
+				"from": 295150,
+				"to": 298630
+			},
+			"text": " because we want to do that in such a way where we could have assessments."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,630",
+				"to": "00:05:02,450"
+			},
+			"offsets": {
+				"from": 298630,
+				"to": 302450
+			},
+			"text": " We could measure and track what we're doing and incorporate change if necessary."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,990",
+				"to": "00:05:09,170"
+			},
+			"offsets": {
+				"from": 302990,
+				"to": 309170
+			},
+			"text": " So right now, our core group of collaborators includes Rebecca as our cooking support"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,170",
+				"to": "00:05:14,110"
+			},
+			"offsets": {
+				"from": 309170,
+				"to": 314110
+			},
+			"text": " and a health and wellness coordinator who's a registered dietitian and another cooking support"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,110",
+				"to": "00:05:17,460"
+			},
+			"offsets": {
+				"from": 314110,
+				"to": 317460
+			},
+			"text": " and some curriculum development supports."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,460",
+				"to": "00:05:26,060"
+			},
+			"offsets": {
+				"from": 317460,
+				"to": 326060
+			},
+			"text": " And we are using a whole gleaned base of lessons that we can pull from"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,060",
+				"to": "00:05:29,200"
+			},
+			"offsets": {
+				"from": 326060,
+				"to": 329200
+			},
+			"text": " that touch on not just nutrition and sugar consumption,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,420",
+				"to": "00:05:34,520"
+			},
+			"offsets": {
+				"from": 329420,
+				"to": 334520
+			},
+			"text": " but also changing habits within the student population and their families."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,320",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 335320,
+				"to": 339000
+			},
+			"text": " So a cooking class or a nutrition and cooking class after school,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,530",
+				"to": "00:05:43,450"
+			},
+			"offsets": {
+				"from": 339530,
+				"to": 343450
+			},
+			"text": " and you might be able to talk more about what the experience is like from your perspective,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,450",
+				"to": "00:05:49,790"
+			},
+			"offsets": {
+				"from": 343450,
+				"to": 349790
+			},
+			"text": " but when I'm out there, what I see is the kids are out in after school"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,790",
+				"to": "00:05:52,170"
+			},
+			"offsets": {
+				"from": 349790,
+				"to": 352170
+			},
+			"text": " and they get brought into our kitchen classrooms."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,030",
+				"to": "00:05:58,870"
+			},
+			"offsets": {
+				"from": 353030,
+				"to": 358870
+			},
+			"text": " And some of the schools have more kitchen materials like a stove or a fridge"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,870",
+				"to": "00:05:59,870"
+			},
+			"offsets": {
+				"from": 358870,
+				"to": 359870
+			},
+			"text": " and others don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,990",
+				"to": "00:06:02,170"
+			},
+			"offsets": {
+				"from": 359990,
+				"to": 362170
+			},
+			"text": " So it's real, it's real, it's real life."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,270",
+				"to": "00:06:05,510"
+			},
+			"offsets": {
+				"from": 362270,
+				"to": 365510
+			},
+			"text": " It's not like we have this huge amount of money and we're a foundation"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,510",
+				"to": "00:06:11,550"
+			},
+			"offsets": {
+				"from": 365510,
+				"to": 371550
+			},
+			"text": " or we're a nonprofit that is able to do these really boutique classes in a very well-equipped space."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,650",
+				"to": "00:06:15,490"
+			},
+			"offsets": {
+				"from": 371650,
+				"to": 375490
+			},
+			"text": " We have varying spaces, which I think is a great opportunity in our garden program"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,490",
+				"to": "00:06:16,650"
+			},
+			"offsets": {
+				"from": 375490,
+				"to": 376650
+			},
+			"text": " and in our cooking program."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,830",
+				"to": "00:06:18,950"
+			},
+			"offsets": {
+				"from": 376830,
+				"to": 378950
+			},
+			"text": " So we can model what this looks like across the board."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,190",
+				"to": "00:06:22,010"
+			},
+			"offsets": {
+				"from": 379190,
+				"to": 382010
+			},
+			"text": " And so when I was there, you guys were talking about"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,010",
+				"to": "00:06:25,970"
+			},
+			"offsets": {
+				"from": 382010,
+				"to": 385970
+			},
+			"text": " all the different nutrients you need to grow big and strong."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,970",
+				"to": "00:06:29,470"
+			},
+			"offsets": {
+				"from": 385970,
+				"to": 389470
+			},
+			"text": " And this was with, I think, a third grade class or first grade class."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,910",
+				"to": "00:06:35,230"
+			},
+			"offsets": {
+				"from": 389910,
+				"to": 395230
+			},
+			"text": " You guys were scaling it down really well where it was just like so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,730",
+				"to": "00:06:39,990"
+			},
+			"offsets": {
+				"from": 395730,
+				"to": 399990
+			},
+			"text": " And that's what's, that's the beauty of our, of our collaboration right now is that we're like"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,990",
+				"to": "00:06:41,250"
+			},
+			"offsets": {
+				"from": 399990,
+				"to": 401250
+			},
+			"text": " trying a few things out."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,370",
+				"to": "00:06:42,410"
+			},
+			"offsets": {
+				"from": 401370,
+				"to": 402410
+			},
+			"text": " We're noticing how we're doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,450",
+				"to": "00:06:47,210"
+			},
+			"offsets": {
+				"from": 402450,
+				"to": 407210
+			},
+			"text": " We're scaling it up and down because when you're teaching a lesson, you know, one day to first grade"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,210",
+				"to": "00:06:52,990"
+			},
+			"offsets": {
+				"from": 407210,
+				"to": 412990
+			},
+			"text": " and then the next day to a fifth grade, that becomes way overwhelming and the content gets lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,170",
+				"to": "00:06:57,790"
+			},
+			"offsets": {
+				"from": 413170,
+				"to": 417790
+			},
+			"text": " So we tried to scale content up and down and you guys were scaling way down the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,930",
+				"to": "00:07:00,030"
+			},
+			"offsets": {
+				"from": 417930,
+				"to": 420030
+			},
+			"text": " what do you need to be big and strong?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,170",
+				"to": "00:07:04,770"
+			},
+			"offsets": {
+				"from": 420170,
+				"to": 424770
+			},
+			"text": " You had the grow, glow, and what was this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,260",
+				"to": "00:07:05,750"
+			},
+			"offsets": {
+				"from": 425260,
+				"to": 425750
+			},
+			"text": " Go."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,630",
+				"to": "00:07:08,910"
+			},
+			"offsets": {
+				"from": 426630,
+				"to": 428910
+			},
+			"text": " That was also hard to teach first graders."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,150",
+				"to": "00:07:11,330"
+			},
+			"offsets": {
+				"from": 429150,
+				"to": 431330
+			},
+			"text": " They couldn't remember the difference between the words."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,230",
+				"to": "00:07:16,390"
+			},
+			"offsets": {
+				"from": 433230,
+				"to": 436390
+			},
+			"text": " The great part about that was that it was participatory, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,470",
+				"to": "00:07:21,890"
+			},
+			"offsets": {
+				"from": 436470,
+				"to": 441890
+			},
+			"text": " So they want to support you when they see you struggling with that and you want to support"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,890",
+				"to": "00:07:23,470"
+			},
+			"offsets": {
+				"from": 441890,
+				"to": 443470
+			},
+			"text": " them when they're struggling with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,530",
+				"to": "00:07:26,790"
+			},
+			"offsets": {
+				"from": 443530,
+				"to": 446790
+			},
+			"text": " And then together, everyone's like chanting, grow, glow, go."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,130",
+				"to": "00:07:35,550"
+			},
+			"offsets": {
+				"from": 447130,
+				"to": 455550
+			},
+			"text": " And they're knowing about, you know, protein and carbohydrates and sugars and how that's like"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,550",
+				"to": "00:07:37,730"
+			},
+			"offsets": {
+				"from": 455550,
+				"to": 457730
+			},
+			"text": " the negative effect of all of those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,090",
+				"to": "00:07:42,250"
+			},
+			"offsets": {
+				"from": 458090,
+				"to": 462250
+			},
+			"text": " And you do it in such a way where it's kind of like this, this kind of performance circus."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,630",
+				"to": "00:07:46,630"
+			},
+			"offsets": {
+				"from": 462630,
+				"to": 466630
+			},
+			"text": " And then the kids get a quick demo of what they're going to do that day."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,630",
+				"to": "00:07:50,490"
+			},
+			"offsets": {
+				"from": 466630,
+				"to": 470490
+			},
+			"text": " And they cook a recipe that's related to the topic."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,490",
+				"to": "00:07:57,010"
+			},
+			"offsets": {
+				"from": 470490,
+				"to": 477010
+			},
+			"text": " So they made tacos with squash and beans and salsa."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,310",
+				"to": "00:08:01,690"
+			},
+			"offsets": {
+				"from": 477310,
+				"to": 481690
+			},
+			"text": " And the kids are learning knife skills and we're learning how to work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,690",
+				"to": "00:08:03,490"
+			},
+			"offsets": {
+				"from": 481690,
+				"to": 483490
+			},
+			"text": " And they're chopping up the different vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,270",
+				"to": "00:08:08,230"
+			},
+			"offsets": {
+				"from": 484270,
+				"to": 488230
+			},
+			"text": " And the instructors are sauteing and cooking and everyone is eating together."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,510",
+				"to": "00:08:11,890"
+			},
+			"offsets": {
+				"from": 488510,
+				"to": 491890
+			},
+			"text": " And during the meal, people are having conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,390",
+				"to": "00:08:18,910"
+			},
+			"offsets": {
+				"from": 492390,
+				"to": 498910
+			},
+			"text": " The littles and the bigs and everyone is talking about what they just learned, which then reinforces"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,910",
+				"to": "00:08:22,150"
+			},
+			"offsets": {
+				"from": 498910,
+				"to": 502150
+			},
+			"text": " in a really casual environment, what we're trying to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,700",
+				"to": "00:08:26,300"
+			},
+			"offsets": {
+				"from": 502700,
+				"to": 506300
+			},
+			"text": " Jazza, you started off by talking about kind of the whole child education."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,740",
+				"to": "00:08:29,280"
+			},
+			"offsets": {
+				"from": 506740,
+				"to": 509280
+			},
+			"text": " And I guess this is a question for both of you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,380",
+				"to": "00:08:33,500"
+			},
+			"offsets": {
+				"from": 509380,
+				"to": 513500
+			},
+			"text": " What's possible in a garden or in a kitchen that's not possible in a classroom?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,100",
+				"to": "00:08:36,060"
+			},
+			"offsets": {
+				"from": 515100,
+				"to": 516060
+			},
+			"text": " So much."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,320",
+				"to": "00:08:42,930"
+			},
+			"offsets": {
+				"from": 516320,
+				"to": 522930
+			},
+			"text": " I think for me, I've been working with kids in a cooking setting for around two years now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,050",
+				"to": "00:08:44,030"
+			},
+			"offsets": {
+				"from": 523050,
+				"to": 524030
+			},
+			"text": " maybe a little more."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,170",
+				"to": "00:08:48,270"
+			},
+			"offsets": {
+				"from": 524170,
+				"to": 528270
+			},
+			"text": " I started working as a volunteer with 18 Reasons doing Cooking Matters classes."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,270",
+				"to": "00:08:52,470"
+			},
+			"offsets": {
+				"from": 528270,
+				"to": 532470
+			},
+			"text": " And I've just seen kids just light up in a cooking environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,790",
+				"to": "00:08:58,190"
+			},
+			"offsets": {
+				"from": 532790,
+				"to": 538190
+			},
+			"text": " Like you don't tell them no that often unless it's in concerns to their safety."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,510",
+				"to": "00:09:00,590"
+			},
+			"offsets": {
+				"from": 538510,
+				"to": 540590
+			},
+			"text": " Like if they're holding a knife wrong, you'll say no."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,730",
+				"to": "00:09:05,770"
+			},
+			"offsets": {
+				"from": 540730,
+				"to": 545770
+			},
+			"text": " But in general, I have found that in a cooking environment, I can say yes to kids a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,850",
+				"to": "00:09:07,330"
+			},
+			"offsets": {
+				"from": 545850,
+				"to": 547330
+			},
+			"text": " Like, yes, you can touch that."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,530",
+				"to": "00:09:08,710"
+			},
+			"offsets": {
+				"from": 547530,
+				"to": 548710
+			},
+			"text": " Yes, you can eat that."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,070",
+				"to": "00:09:11,810"
+			},
+			"offsets": {
+				"from": 549070,
+				"to": 551810
+			},
+			"text": " Yes, you can do that as long as you wash your hands first."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,810",
+				"to": "00:09:25,410"
+			},
+			"offsets": {
+				"from": 551810,
+				"to": 565410
+			},
+			"text": " So I think for a kid hearing that they can do so many things, it really positively, as Jazza said, positively reinforces sort of being able to cook for yourself and provide for yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:25,410",
+				"to": "00:09:36,470"
+			},
+			"offsets": {
+				"from": 565410,
+				"to": 576470
+			},
+			"text": " And I just see kids get so excited that they've made something or that they can decide what they want to put in their taco or that they can decide what they want to put on top of their pancake."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,830",
+				"to": "00:09:38,890"
+			},
+			"offsets": {
+				"from": 576830,
+				"to": 578890
+			},
+			"text": " And it's just, it's amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,890",
+				"to": "00:09:48,750"
+			},
+			"offsets": {
+				"from": 578890,
+				"to": 588750
+			},
+			"text": " I think having an environment where kids can be standing, moving around, and actively engaging with their classmates as well as the teacher as opposed to sitting in a chair listening to one person talk."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,130",
+				"to": "00:09:55,410"
+			},
+			"offsets": {
+				"from": 590130,
+				"to": 595410
+			},
+			"text": " Yeah, and that power of choice is really powerful and important for child development."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,930",
+				"to": "00:10:02,870"
+			},
+			"offsets": {
+				"from": 595930,
+				"to": 602870
+			},
+			"text": " A lot of kids don't have that option of choice, or they live in an environment that feels very chaotic, whether it's at school or at home."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,930",
+				"to": "00:10:12,260"
+			},
+			"offsets": {
+				"from": 602930,
+				"to": 612260
+			},
+			"text": " And to offer them an opportunity to make a choice and empower them with that is really meaningful and goes way beyond what we can measure in the classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,970",
+				"to": "00:10:18,170"
+			},
+			"offsets": {
+				"from": 612970,
+				"to": 618170
+			},
+			"text": " And on a macro level, we think about all the different learners in the district."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,030",
+				"to": "00:10:22,710"
+			},
+			"offsets": {
+				"from": 619030,
+				"to": 622710
+			},
+			"text": " We are an inclusive district, meaning that we don't have special ed classes."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,110",
+				"to": "00:10:29,550"
+			},
+			"offsets": {
+				"from": 623110,
+				"to": 629550
+			},
+			"text": " We engage all of our learners in one classroom, and we provide them with different supports, whether teachers or instructors."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,150",
+				"to": "00:10:39,920"
+			},
+			"offsets": {
+				"from": 630150,
+				"to": 639920
+			},
+			"text": " And as a program that's really concerned about inclusivity, we need to figure out how to engage all of our kids in an environment that might be chaotic."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,980",
+				"to": "00:10:42,440"
+			},
+			"offsets": {
+				"from": 639980,
+				"to": 642440
+			},
+			"text": " You know, the kitchen, the garden, there's a lot of distractions."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,020",
+				"to": "00:10:48,450"
+			},
+			"offsets": {
+				"from": 643020,
+				"to": 648450
+			},
+			"text": " There's a lot of opportunity for risk and mistakes."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,150",
+				"to": "00:10:53,590"
+			},
+			"offsets": {
+				"from": 649150,
+				"to": 653590
+			},
+			"text": " And within those experiences, we invite the kids to be empowered with their own choices."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,830",
+				"to": "00:10:58,640"
+			},
+			"offsets": {
+				"from": 653830,
+				"to": 658640
+			},
+			"text": " You know, how will you approach this problem or mistake?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,040",
+				"to": "00:11:00,640"
+			},
+			"offsets": {
+				"from": 659040,
+				"to": 660640
+			},
+			"text": " And how will you respond?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,960",
+				"to": "00:11:06,600"
+			},
+			"offsets": {
+				"from": 660960,
+				"to": 666600
+			},
+			"text": " And we support them in being their own leader in their world."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,600",
+				"to": "00:11:11,040"
+			},
+			"offsets": {
+				"from": 666600,
+				"to": 671040
+			},
+			"text": " And I would like to highlight one program that we did at our alternative high school."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,240",
+				"to": "00:11:13,450"
+			},
+			"offsets": {
+				"from": 671240,
+				"to": 673450
+			},
+			"text": " It's Berkeley Technology Academy."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,450",
+				"to": "00:11:32,360"
+			},
+			"offsets": {
+				"from": 673450,
+				"to": 692360
+			},
+			"text": " And we started this project in the garden last year called RTI in the garden, which was just kind of like, well, how do we provide response to intervention, which is a tool that all, you know, all teachers use when when a kid is struggling with an academic problem or a social emotional problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,360",
+				"to": "00:11:43,120"
+			},
+			"offsets": {
+				"from": 692360,
+				"to": 703120
+			},
+			"text": " And we were trying to think of, well, how can we respond to an intervention if something's happening in the classroom or something's happening on the campus space and bring them into the garden and support them better."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,280",
+				"to": "00:11:47,120"
+			},
+			"offsets": {
+				"from": 703280,
+				"to": 707120
+			},
+			"text": " So we were really looking at social emotional tools to give to students."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,820",
+				"to": "00:11:49,280"
+			},
+			"offsets": {
+				"from": 707820,
+				"to": 709280
+			},
+			"text": " This is a really small high school."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,640",
+				"to": "00:12:02,110"
+			},
+			"offsets": {
+				"from": 709640,
+				"to": 722110
+			},
+			"text": " A lot of the kids are opting to go there as opposed to Berkeley High School, which is our large campus, because they're not feeling successful there, you know, or maybe they aren't having enough credits to graduate."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,690",
+				"to": "00:12:09,080"
+			},
+			"offsets": {
+				"from": 722690,
+				"to": 729080
+			},
+			"text": " And so they come to this school for more support, and they're really small classrooms, and there's a lot of struggle at that school."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,900",
+				"to": "00:12:21,690"
+			},
+			"offsets": {
+				"from": 729900,
+				"to": 741690
+			},
+			"text": " So we created different tools through teacher collaboration that will get kids more into the garden, whether they are struggling with, like, outbursts or, you know, trauma that just came in from the streets."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,370",
+				"to": "00:12:27,330"
+			},
+			"offsets": {
+				"from": 742370,
+				"to": 747330
+			},
+			"text": " There's, you know, violence that a lot of these kids are experiencing or food insecurity, all these things we wanted to support."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,670",
+				"to": "00:12:34,770"
+			},
+			"offsets": {
+				"from": 747670,
+				"to": 754770
+			},
+			"text": " So we gave them some tools of calm and reflection to use in the garden space."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,910",
+				"to": "00:12:45,130"
+			},
+			"offsets": {
+				"from": 754910,
+				"to": 765130
+			},
+			"text": " And we've been having great success in just, you know, even if we hit maybe three or four kids and giving them a little bit more reprieve in the garden, we've become successful."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,350",
+				"to": "00:12:47,570"
+			},
+			"offsets": {
+				"from": 765350,
+				"to": 767570
+			},
+			"text": " And so we do that in different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,710",
+				"to": "00:12:50,170"
+			},
+			"offsets": {
+				"from": 767710,
+				"to": 770170
+			},
+			"text": " And I'm really proud of that particular approach right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,330",
+				"to": "00:12:58,810"
+			},
+			"offsets": {
+				"from": 770330,
+				"to": 778810
+			},
+			"text": " Kind of following up with that, you've been in the education sector for a couple years now."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,930",
+				"to": "00:12:59,630"
+			},
+			"offsets": {
+				"from": 778930,
+				"to": 779630
+			},
+			"text": " We have three."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,810",
+				"to": "00:13:06,870"
+			},
+			"offsets": {
+				"from": 780810,
+				"to": 786870
+			},
+			"text": " So just over, yeah, so over those three years, how have you seen food education in schools shift?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,530",
+				"to": "00:13:07,690"
+			},
+			"offsets": {
+				"from": 787530,
+				"to": 787690
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,930",
+				"to": "00:13:14,210"
+			},
+			"offsets": {
+				"from": 787930,
+				"to": 794210
+			},
+			"text": " You know what, I think we're in kind of like, when you're in the work, it feels like everyone's doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,350",
+				"to": "00:13:25,200"
+			},
+			"offsets": {
+				"from": 794350,
+				"to": 805200
+			},
+			"text": " And especially in Berkeley, since we have this program at all of our schools and we're expanding and in a really smart way, I feel like everyone's on board."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,400",
+				"to": "00:13:31,060"
+			},
+			"offsets": {
+				"from": 805400,
+				"to": 811060
+			},
+			"text": " But, you know, I remember four years ago, it wasn't the case."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,320",
+				"to": "00:13:40,340"
+			},
+			"offsets": {
+				"from": 811320,
+				"to": 820340
+			},
+			"text": " I wouldn't get students reaching out to me or teachers from across the country reaching out to me or other districts reaching out saying, I want to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,620",
+				"to": "00:13:46,930"
+			},
+			"offsets": {
+				"from": 820620,
+				"to": 826930
+			},
+			"text": " But now I get districts and principals and teachers reaching out all the time saying, how can we do this as a district model?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,370",
+				"to": "00:13:57,750"
+			},
+			"offsets": {
+				"from": 827370,
+				"to": 837750
+			},
+			"text": " You know, not as an other or a special entity that comes in and provides, but how can we integrate that into our education, our programming for the district, our funding for the district?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,190",
+				"to": "00:14:01,470"
+			},
+			"offsets": {
+				"from": 838190,
+				"to": 841470
+			},
+			"text": " And it's a great opportunity to kind of demonstrate, well, this is how we've done it here."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,790",
+				"to": "00:14:03,330"
+			},
+			"offsets": {
+				"from": 841790,
+				"to": 843330
+			},
+			"text": " This is how we've rallied the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,410",
+				"to": "00:14:04,730"
+			},
+			"offsets": {
+				"from": 843410,
+				"to": 844730
+			},
+			"text": " This is how we've budgeted."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,730",
+				"to": "00:14:13,420"
+			},
+			"offsets": {
+				"from": 844730,
+				"to": 853420
+			},
+			"text": " All these different details that are not as sexy as whole child development is, is something that we've been able to provide as a support for others."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,260",
+				"to": "00:14:16,800"
+			},
+			"offsets": {
+				"from": 854260,
+				"to": 856800
+			},
+			"text": " And I feel like we're in a real movement right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,940",
+				"to": "00:14:18,020"
+			},
+			"offsets": {
+				"from": 856940,
+				"to": 858020
+			},
+			"text": " You know, food's everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,140",
+				"to": "00:14:21,260"
+			},
+			"offsets": {
+				"from": 858140,
+				"to": 861260
+			},
+			"text": " We had the last farm bill that was really innovative."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,820",
+				"to": "00:14:26,580"
+			},
+			"offsets": {
+				"from": 861820,
+				"to": 866580
+			},
+			"text": " We've got more money for farmers markets and nutrition assistance."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,280",
+				"to": "00:14:32,760"
+			},
+			"offsets": {
+				"from": 867280,
+				"to": 872760
+			},
+			"text": " We've got more schools that are getting more money for farm to school grants and even from their general fund."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,760",
+				"to": "00:14:39,940"
+			},
+			"offsets": {
+				"from": 872760,
+				"to": 879940
+			},
+			"text": " So I think it's kind of getting on this more towards a tipping point of universality in conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,180",
+				"to": "00:14:40,600"
+			},
+			"offsets": {
+				"from": 880180,
+				"to": 880600
+			},
+			"text": " What do you think?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,660",
+				"to": "00:14:44,190"
+			},
+			"offsets": {
+				"from": 880660,
+				"to": 884190
+			},
+			"text": " Have you seen a difference in, again, food education?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,330",
+				"to": "00:14:51,370"
+			},
+			"offsets": {
+				"from": 884330,
+				"to": 891370
+			},
+			"text": " Have you seen people that are maybe a little bit more, there's more conversation about food education now than there was four years ago?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,100",
+				"to": "00:14:53,960"
+			},
+			"offsets": {
+				"from": 892100,
+				"to": 893960
+			},
+			"text": " I would definitely agree with that, I think."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,200",
+				"to": "00:14:57,280"
+			},
+			"offsets": {
+				"from": 894200,
+				"to": 897280
+			},
+			"text": " But also I've been living in the Bay Area for quite some time now."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,400",
+				"to": "00:15:04,910"
+			},
+			"offsets": {
+				"from": 897400,
+				"to": 904910
+			},
+			"text": " I grew up in Orange County where food is there, but I think being in the Bay has really changed my perspective of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:05,170",
+				"to": "00:15:11,810"
+			},
+			"offsets": {
+				"from": 905170,
+				"to": 911810
+			},
+			"text": " And I know with the sort of boom in the food movement, I think this is a great place for the model to begin."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,910",
+				"to": "00:15:19,850"
+			},
+			"offsets": {
+				"from": 912910,
+				"to": 919850
+			},
+			"text": " But I think food education is important across so many disciplines, and I've really seen people adapt different lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,070",
+				"to": "00:15:26,970"
+			},
+			"offsets": {
+				"from": 920070,
+				"to": 926970
+			},
+			"text": " And I know we've been talking about it with the rest of the staff, how you can use food for history and math and geography and language arts."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,970",
+				"to": "00:15:32,150"
+			},
+			"offsets": {
+				"from": 926970,
+				"to": 932150
+			},
+			"text": " And it's really great to get that exposure to kids, I think."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,670",
+				"to": "00:15:38,730"
+			},
+			"offsets": {
+				"from": 932670,
+				"to": 938730
+			},
+			"text": " I think food is a really powerful tool because it touches on every topic, but also everyone can relate to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,870",
+				"to": "00:15:43,630"
+			},
+			"offsets": {
+				"from": 938870,
+				"to": 943630
+			},
+			"text": " It's across cultures, it's across disciplines, and it matters to everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,790",
+				"to": "00:15:46,990"
+			},
+			"offsets": {
+				"from": 943790,
+				"to": 946990
+			},
+			"text": " The way we grow it, produce it, harvest it, it touches on everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,630",
+				"to": "00:15:53,170"
+			},
+			"offsets": {
+				"from": 947630,
+				"to": 953170
+			},
+			"text": " But I also want to take us back three years ago when the program got completely defunded."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,410",
+				"to": "00:16:01,370"
+			},
+			"offsets": {
+				"from": 953410,
+				"to": 961370
+			},
+			"text": " We had this huge federal grant from the SNAP-Ed bill that was part of the last farm bill."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,710",
+				"to": "00:16:03,770"
+			},
+			"offsets": {
+				"from": 961710,
+				"to": 963770
+			},
+			"text": " A lot of other organizations got this money."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,210",
+				"to": "00:16:10,190"
+			},
+			"offsets": {
+				"from": 964210,
+				"to": 970190
+			},
+			"text": " And when we got rebudgeted, the farm bill got rebudgeted, we all lost this money."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,550",
+				"to": "00:16:14,210"
+			},
+			"offsets": {
+				"from": 970550,
+				"to": 974210
+			},
+			"text": " We got like $1.9 million to do a guardian cooking program."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,630",
+				"to": "00:16:23,980"
+			},
+			"offsets": {
+				"from": 974630,
+				"to": 983980
+			},
+			"text": " Though we were only at schools that were qualified, meaning that we had some schools that were participating in over 50% free and reduced-price meals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,380",
+				"to": "00:16:28,100"
+			},
+			"offsets": {
+				"from": 984380,
+				"to": 988100
+			},
+			"text": " which is how we identify qualification for schools in terms of income eligibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,740",
+				"to": "00:16:34,180"
+			},
+			"offsets": {
+				"from": 988740,
+				"to": 994180
+			},
+			"text": " So we weren't at every school, but we had all this money, and we lost all this money about three years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,620",
+				"to": "00:16:42,330"
+			},
+			"offsets": {
+				"from": 994620,
+				"to": 1002330
+			},
+			"text": " And when I went around to the community and was asking for support and asking for their thoughts or partnerships around what can we do next,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,330",
+				"to": "00:16:44,690"
+			},
+			"offsets": {
+				"from": 1002330,
+				"to": 1004690
+			},
+			"text": " where are we going with this program, what should we be teaching,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,910",
+				"to": "00:16:51,110"
+			},
+			"offsets": {
+				"from": 1004910,
+				"to": 1011110
+			},
+			"text": " should we be rethinking any of this, people had no idea that we even existed, which seems kind of odd, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,190",
+				"to": "00:16:55,470"
+			},
+			"offsets": {
+				"from": 1011190,
+				"to": 1015470
+			},
+			"text": " I mean, Berkeley's known for being a leader in the food movement, but our parents and our teachers are like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,590",
+				"to": "00:16:56,950"
+			},
+			"offsets": {
+				"from": 1015590,
+				"to": 1016950
+			},
+			"text": " what? What's going on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,390",
+				"to": "00:17:01,050"
+			},
+			"offsets": {
+				"from": 1017390,
+				"to": 1021050
+			},
+			"text": " And so we had a really great opportunity to start talking about this work."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,130",
+				"to": "00:17:08,450"
+			},
+			"offsets": {
+				"from": 1021130,
+				"to": 1028450
+			},
+			"text": " And we have more support now than I think we ever have just because we got really loud, really big, really fast when we had to."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:08,450",
+				"to": "00:17:10,590"
+			},
+			"offsets": {
+				"from": 1028450,
+				"to": 1030590
+			},
+			"text": " And we're trying to maintain that momentum."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:10,590",
+				"to": "00:17:13,170"
+			},
+			"offsets": {
+				"from": 1030590,
+				"to": 1033170
+			},
+			"text": " And hopefully that has a radial effect beyond our understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,770",
+				"to": "00:17:17,390"
+			},
+			"offsets": {
+				"from": 1033770,
+				"to": 1037390
+			},
+			"text": " So I really like school gardens, but I've always had this thing that I wonder about them."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,850",
+				"to": "00:17:25,990"
+			},
+			"offsets": {
+				"from": 1037850,
+				"to": 1045990
+			},
+			"text": " It seems like they're set up to teach students as if they don't already know anything about food or gardening or if there's no,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,110",
+				"to": "00:17:31,190"
+			},
+			"offsets": {
+				"from": 1046110,
+				"to": 1051190
+			},
+			"text": " like as if it's coming out of nowhere, which is like a math lesson or something that you learn in school."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,250",
+				"to": "00:17:41,540"
+			},
+			"offsets": {
+				"from": 1052250,
+				"to": 1061540
+			},
+			"text": " Sometimes educational approaches assume that kids know nothing, which is really not true."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,740",
+				"to": "00:17:42,220"
+			},
+			"offsets": {
+				"from": 1061740,
+				"to": 1062220
+			},
+			"text": " Right, right."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,260",
+				"to": "00:17:44,220"
+			},
+			"offsets": {
+				"from": 1062260,
+				"to": 1064220
+			},
+			"text": " I think Rebecca hit it on the head."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,360",
+				"to": "00:17:47,580"
+			},
+			"offsets": {
+				"from": 1064360,
+				"to": 1067580
+			},
+			"text": " I mean, that's a problem with education across the board."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,160",
+				"to": "00:17:50,660"
+			},
+			"offsets": {
+				"from": 1068160,
+				"to": 1070660
+			},
+			"text": " But we could definitely talk about that within the garden space."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,300",
+				"to": "00:17:58,730"
+			},
+			"offsets": {
+				"from": 1071300,
+				"to": 1078730
+			},
+			"text": " How do you access them like the pre-existing knowledge or the wealth of knowledge about food that students and their families have?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,690",
+				"to": "00:18:04,610"
+			},
+			"offsets": {
+				"from": 1079690,
+				"to": 1084610
+			},
+			"text": " Yeah, well, we were at a professional training yesterday with all of our staff of educators."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:04,610",
+				"to": "00:18:06,510"
+			},
+			"offsets": {
+				"from": 1084610,
+				"to": 1086510
+			},
+			"text": " We were talking about just this."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,510",
+				"to": "00:18:14,090"
+			},
+			"offsets": {
+				"from": 1086510,
+				"to": 1094090
+			},
+			"text": " And a lot of folks were saying, well, when I open up a garden lesson, I asked, what do you know about flowers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,870",
+				"to": "00:18:17,830"
+			},
+			"offsets": {
+				"from": 1094870,
+				"to": 1097830
+			},
+			"text": " And that's an opportunity for the kids to kind of engage."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,990",
+				"to": "00:18:23,310"
+			},
+			"offsets": {
+				"from": 1097990,
+				"to": 1103310
+			},
+			"text": " And then they provide them with an activity that explores flowers or all the different components of flowers, pollination."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,790",
+				"to": "00:18:28,570"
+			},
+			"offsets": {
+				"from": 1103790,
+				"to": 1108570
+			},
+			"text": " And then we try to re-invite them back into the conversation and say, now what do you want to know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,970",
+				"to": "00:18:37,080"
+			},
+			"offsets": {
+				"from": 1108970,
+				"to": 1117080
+			},
+			"text": " So that's something that we're trying to practice across the board in all the gardens so that we are able to meet the kids where they're at."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,080",
+				"to": "00:18:38,920"
+			},
+			"offsets": {
+				"from": 1117080,
+				"to": 1118920
+			},
+			"text": " I mean, that's what all educators want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,260",
+				"to": "00:18:43,020"
+			},
+			"offsets": {
+				"from": 1119260,
+				"to": 1123020
+			},
+			"text": " We all say we are going to meet the kids where they're at, wherever that may be."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,560",
+				"to": "00:18:45,800"
+			},
+			"offsets": {
+				"from": 1123560,
+				"to": 1125800
+			},
+			"text": " And so we get to fill out each classroom that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,940",
+				"to": "00:18:47,540"
+			},
+			"offsets": {
+				"from": 1125940,
+				"to": 1127540
+			},
+			"text": " And it's important for us to be flexible."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,680",
+				"to": "00:18:56,140"
+			},
+			"offsets": {
+				"from": 1127680,
+				"to": 1136140
+			},
+			"text": " And I think that, you know, throughout the years of all this drastic change that we've had to go through, our staff of educators have become very flexible, if they weren't already."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,260",
+				"to": "00:18:56,940"
+			},
+			"offsets": {
+				"from": 1136260,
+				"to": 1136940
+			},
+			"text": " And many of them were."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,040",
+				"to": "00:18:59,220"
+			},
+			"offsets": {
+				"from": 1137040,
+				"to": 1139220
+			},
+			"text": " But we've become really adaptable and really flexible."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,520",
+				"to": "00:19:02,690"
+			},
+			"offsets": {
+				"from": 1139520,
+				"to": 1142690
+			},
+			"text": " And a group that just says, how can we do this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,850",
+				"to": "00:19:03,850"
+			},
+			"offsets": {
+				"from": 1142850,
+				"to": 1143850
+			},
+			"text": " Yes, we can."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,910",
+				"to": "00:19:04,970"
+			},
+			"offsets": {
+				"from": 1143910,
+				"to": 1144970
+			},
+			"text": " And let's try it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,970",
+				"to": "00:19:10,810"
+			},
+			"offsets": {
+				"from": 1144970,
+				"to": 1150810
+			},
+			"text": " And so this is something that we're trying to do that's different from, I think, the normative educational practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,410",
+				"to": "00:19:14,110"
+			},
+			"offsets": {
+				"from": 1151410,
+				"to": 1154110
+			},
+			"text": " It really embraces, like, different learning styles."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,230",
+				"to": "00:19:16,010"
+			},
+			"offsets": {
+				"from": 1154230,
+				"to": 1156010
+			},
+			"text": " That's what I found in a cooking classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,190",
+				"to": "00:19:24,610"
+			},
+			"offsets": {
+				"from": 1156190,
+				"to": 1164610
+			},
+			"text": " Like, you can definitely see the different learning styles that children have in the classroom environment for our cooking classes that we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,690",
+				"to": "00:19:33,190"
+			},
+			"offsets": {
+				"from": 1164690,
+				"to": 1173190
+			},
+			"text": " You know, some kids are really energetic and they want to cut everything and they want to mix everything and, like, they want the job to always be theirs, even though they can't always have it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,730",
+				"to": "00:19:40,430"
+			},
+			"offsets": {
+				"from": 1173730,
+				"to": 1180430
+			},
+			"text": " And there are some kids that are just like, I'm okay, just chopping this one thing really slowly for the next 15 minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,810",
+				"to": "00:19:43,410"
+			},
+			"offsets": {
+				"from": 1180810,
+				"to": 1183410
+			},
+			"text": " And everybody else can be running around, but, like, I just want to stay here."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,790",
+				"to": "00:19:52,460"
+			},
+			"offsets": {
+				"from": 1183790,
+				"to": 1192460
+			},
+			"text": " And the cooking classroom is such a great place to sort of observe that and build upon it and embrace it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,560",
+				"to": "00:19:55,030"
+			},
+			"offsets": {
+				"from": 1192560,
+				"to": 1195030
+			},
+			"text": " And that way everybody can just feel like they belong."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,390",
+				"to": "00:20:00,910"
+			},
+			"offsets": {
+				"from": 1195390,
+				"to": 1200910
+			},
+			"text": " And that kid who just kind of doesn't want to do much is kind of, hey, will you gather some plates and wash them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,970",
+				"to": "00:20:02,990"
+			},
+			"offsets": {
+				"from": 1200970,
+				"to": 1202990
+			},
+			"text": " And they are so happy doing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,230",
+				"to": "00:20:07,690"
+			},
+			"offsets": {
+				"from": 1203230,
+				"to": 1207690
+			},
+			"text": " And I have termed that, like, separating the bakers from the chefs."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,950",
+				"to": "00:20:09,970"
+			},
+			"offsets": {
+				"from": 1207950,
+				"to": 1209970
+			},
+			"text": " Like, bakers are, like, very measured."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,430",
+				"to": "00:20:11,930"
+			},
+			"offsets": {
+				"from": 1210430,
+				"to": 1211930
+			},
+			"text": " They like things to be precise."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,590",
+				"to": "00:20:16,270"
+			},
+			"offsets": {
+				"from": 1212590,
+				"to": 1216270
+			},
+			"text": " And the chefs are, like, the kids who are just like, how much salt should I put in?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,310",
+				"to": "00:20:18,210"
+			},
+			"offsets": {
+				"from": 1216310,
+				"to": 1218210
+			},
+			"text": " And then they pour in, like, half the salt container."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,530",
+				"to": "00:20:23,070"
+			},
+			"offsets": {
+				"from": 1219530,
+				"to": 1223070
+			},
+			"text": " But definitely one of the benefits of a cooking classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,190",
+				"to": "00:20:25,350"
+			},
+			"offsets": {
+				"from": 1223190,
+				"to": 1225350
+			},
+			"text": " And I'm sure that happens in the gardens as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,670",
+				"to": "00:20:35,260"
+			},
+			"offsets": {
+				"from": 1225670,
+				"to": 1235260
+			},
+			"text": " Yeah, and we have more freedom, and the kids have more freedom in the after school because we're not in that same kind of pressure button that we are during the classroom minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,360",
+				"to": "00:20:41,660"
+			},
+			"offsets": {
+				"from": 1235360,
+				"to": 1241660
+			},
+			"text": " Because if we have to hit on all these different topics as educators, when are we going to have the minutes in the day?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,900",
+				"to": "00:20:45,560"
+			},
+			"offsets": {
+				"from": 1241900,
+				"to": 1245560
+			},
+			"text": " And then when are we going to be able to test them on whether or not they've captured this information?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,120",
+				"to": "00:20:48,140"
+			},
+			"offsets": {
+				"from": 1246120,
+				"to": 1248140
+			},
+			"text": " And this is, like, the reality of education."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,800",
+				"to": "00:20:58,240"
+			},
+			"offsets": {
+				"from": 1248800,
+				"to": 1258240
+			},
+			"text": " While there's many gaps and problems with that approach, we still need to say, well, how can we support educating the kid on, you know, photosynthesis?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,540",
+				"to": "00:21:04,260"
+			},
+			"offsets": {
+				"from": 1258540,
+				"to": 1264260
+			},
+			"text": " And, you know, we need to be more mindful of, like, are we guiding them to have conversations and pair share?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,820",
+				"to": "00:21:09,570"
+			},
+			"offsets": {
+				"from": 1264820,
+				"to": 1269570
+			},
+			"text": " And so we're a little bit more tight, although we want to allow for the freedom within these boundaries."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,770",
+				"to": "00:21:12,190"
+			},
+			"offsets": {
+				"from": 1269770,
+				"to": 1272190
+			},
+			"text": " It's this interesting dynamic."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,690",
+				"to": "00:21:15,070"
+			},
+			"offsets": {
+				"from": 1272690,
+				"to": 1275070
+			},
+			"text": " We have to be, we're a little bit more structured during the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,070",
+				"to": "00:21:28,690"
+			},
+			"offsets": {
+				"from": 1275070,
+				"to": 1288690
+			},
+			"text": " But the after school cooking program is, a nutrition program, is supposed to be a space where the kids can just explore a little bit more, maybe outside of the academic and maybe more in the social emotional."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,450",
+				"to": "00:21:35,270"
+			},
+			"offsets": {
+				"from": 1289450,
+				"to": 1295270
+			},
+			"text": " Not to say that that's exclusively disconnected from the academic, but that freedom is a real great opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:35,750",
+				"to": "00:21:41,700"
+			},
+			"offsets": {
+				"from": 1295750,
+				"to": 1301700
+			},
+			"text": " What it makes me think of is a chat I had years ago with Robbie Jaffe, who is one of the founders of Life Lab."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,700",
+				"to": "00:21:43,580"
+			},
+			"offsets": {
+				"from": 1301700,
+				"to": 1303580
+			},
+			"text": " And she was saying, you know, it's fascinating."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,720",
+				"to": "00:21:52,290"
+			},
+			"offsets": {
+				"from": 1303720,
+				"to": 1312290
+			},
+			"text": " We found at the beginning of the process of funding these school cooking and gardening classes, it was all about science education."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,590",
+				"to": "00:21:57,460"
+			},
+			"offsets": {
+				"from": 1312590,
+				"to": 1317460
+			},
+			"text": " And it's shifted to nutrition and public health as the justification for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,760",
+				"to": "00:22:04,630"
+			},
+			"offsets": {
+				"from": 1317760,
+				"to": 1324630
+			},
+			"text": " But it sounds like from hearing you talk that there's like, there's something much bigger about food education that, I mean, it's both those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,630",
+				"to": "00:22:15,050"
+			},
+			"offsets": {
+				"from": 1324630,
+				"to": 1335050
+			},
+			"text": " But there's also some way that you are bringing in an experience of being in the world that's important for students."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,730",
+				"to": "00:22:15,990"
+			},
+			"offsets": {
+				"from": 1335730,
+				"to": 1335990
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,010",
+				"to": "00:22:21,660"
+			},
+			"offsets": {
+				"from": 1336010,
+				"to": 1341660
+			},
+			"text": " And I feel like that is just, maybe it's me being in my own food bubble, but I feel like that's like preaching to the choir."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,660",
+				"to": "00:22:40,380"
+			},
+			"offsets": {
+				"from": 1341660,
+				"to": 1360380
+			},
+			"text": " Like who doesn't, who can't get behind allowing kids an opportunity to like, to like explore, to observe, to use their senses, to have freedom to, you know, be their own caregiver and caretaker within the garden space or, you know, practice in the kitchen classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,900",
+				"to": "00:22:43,910"
+			},
+			"offsets": {
+				"from": 1360900,
+				"to": 1363910
+			},
+			"text": " You know, that I feel like everyone could get behind that."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,970",
+				"to": "00:22:57,230"
+			},
+			"offsets": {
+				"from": 1363970,
+				"to": 1377230
+			},
+			"text": " But what's interesting about this work and the history of this work is that it has like a lot of this work that has been considered in other, which is why I'm really cautious about us sounding too boutique and is that it has followed the money."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,990",
+				"to": "00:23:02,870"
+			},
+			"offsets": {
+				"from": 1377990,
+				"to": 1382870
+			},
+			"text": " You know, at one point it was the science entities that were saying, oh, we should do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,930",
+				"to": "00:23:03,710"
+			},
+			"offsets": {
+				"from": 1382930,
+				"to": 1383710
+			},
+			"text": " We'll fund you for this."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:03,710",
+				"to": "00:23:13,750"
+			},
+			"offsets": {
+				"from": 1383710,
+				"to": 1393750
+			},
+			"text": " And then another point, it was the farm bill that was saying, we should fund you for this because we're having a gap in like, you know, now it's young farming, the young farming community is like dwindling."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,870",
+				"to": "00:23:19,030"
+			},
+			"offsets": {
+				"from": 1393870,
+				"to": 1399030
+			},
+			"text": " So they're trying to do more like 4-H funding and it was nutrition that was really a problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,150",
+				"to": "00:23:20,830"
+			},
+			"offsets": {
+				"from": 1399150,
+				"to": 1400830
+			},
+			"text": " And so they're trying to like focus more on nutrition."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,310",
+				"to": "00:23:23,830"
+			},
+			"offsets": {
+				"from": 1401310,
+				"to": 1403830
+			},
+			"text": " So it does follow that money stream."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,830",
+				"to": "00:23:33,270"
+			},
+			"offsets": {
+				"from": 1403830,
+				"to": 1413270
+			},
+			"text": " And we, we became really heavy in science, not because we've always been heavy in science, but when we lost our funding, we really had to think how are we supporting the classroom minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,570",
+				"to": "00:23:38,170"
+			},
+			"offsets": {
+				"from": 1413570,
+				"to": 1418170
+			},
+			"text": " And science is a big gap in education, at least in, you know, California standards."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,390",
+				"to": "00:23:47,010"
+			},
+			"offsets": {
+				"from": 1418390,
+				"to": 1427010
+			},
+			"text": " And so we kind of grabbed onto that, especially since, you know, life standard, life science is so applicable and many other standards are so applicable."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,010",
+				"to": "00:23:50,170"
+			},
+			"offsets": {
+				"from": 1427010,
+				"to": 1430170
+			},
+			"text": " We just kind of took that as, you know, an easy cookie."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,650",
+				"to": "00:24:01,800"
+			},
+			"offsets": {
+				"from": 1430650,
+				"to": 1441800
+			},
+			"text": " We're also exploring, you know, a lot of other standards and other like whole child development concepts and try not to follow the money, you know, because that's not sustainable."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,800",
+				"to": "00:24:04,880"
+			},
+			"offsets": {
+				"from": 1441800,
+				"to": 1444880
+			},
+			"text": " And we have already learned a really hard lesson about sustainability."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,620",
+				"to": "00:24:08,720"
+			},
+			"offsets": {
+				"from": 1445620,
+				"to": 1448720
+			},
+			"text": " So we're trying to be mindful of that lesson moving forward."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,010",
+				"to": "00:24:11,500"
+			},
+			"offsets": {
+				"from": 1449010,
+				"to": 1451500
+			},
+			"text": " But I think that's kind of goes to like, where's the money coming from?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,540",
+				"to": "00:24:17,380"
+			},
+			"offsets": {
+				"from": 1451540,
+				"to": 1457380
+			},
+			"text": " And historically, the money has, has been a real guide for this food systems at large, particularly education."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,030",
+				"to": "00:24:20,650"
+			},
+			"offsets": {
+				"from": 1458030,
+				"to": 1460650
+			},
+			"text": " Right now is most of the money, the Berkeley soda tax?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,770",
+				"to": "00:24:22,770"
+			},
+			"offsets": {
+				"from": 1460770,
+				"to": 1462770
+			},
+			"text": " Is that most of what funds this program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:23,110",
+				"to": "00:24:25,030"
+			},
+			"offsets": {
+				"from": 1463110,
+				"to": 1465030
+			},
+			"text": " That's the majority of our budget right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,090",
+				"to": "00:24:27,890"
+			},
+			"offsets": {
+				"from": 1465090,
+				"to": 1467890
+			},
+			"text": " But we have budgeted so that we're more diverse."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,110",
+				"to": "00:24:33,060"
+			},
+			"offsets": {
+				"from": 1468110,
+				"to": 1473060
+			},
+			"text": " So we get a good amount of contribution from the district's general fund."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,740",
+				"to": "00:24:39,860"
+			},
+			"offsets": {
+				"from": 1473740,
+				"to": 1479860
+			},
+			"text": " And every year I go before the school board and I talk about what we've done in the past and I ask for them to refund us at the same amount."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,300",
+				"to": "00:24:42,340"
+			},
+			"offsets": {
+				"from": 1480300,
+				"to": 1482340
+			},
+			"text": " Last year we got $350,000."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,700",
+				"to": "00:24:44,460"
+			},
+			"offsets": {
+				"from": 1482700,
+				"to": 1484460
+			},
+			"text": " This year we have $300,000."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,740",
+				"to": "00:24:46,420"
+			},
+			"offsets": {
+				"from": 1484740,
+				"to": 1486420
+			},
+			"text": " And hopefully next year we'll have $300,000."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:47,390",
+				"to": "00:24:53,070"
+			},
+			"offsets": {
+				"from": 1487390,
+				"to": 1493070
+			},
+			"text": " And moving forward on, it's important that the district puts forth money as well as support for the programming."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,270",
+				"to": "00:24:59,430"
+			},
+			"offsets": {
+				"from": 1493270,
+				"to": 1499430
+			},
+			"text": " Often, you know, you can say I support this, but unless there's some kind of pull or dollar amount, it's hard to get that support."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,790",
+				"to": "00:25:05,150"
+			},
+			"offsets": {
+				"from": 1499790,
+				"to": 1505150
+			},
+			"text": " And they've been funding us at the state, the stage for the last couple of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,690",
+				"to": "00:25:13,350"
+			},
+			"offsets": {
+				"from": 1505690,
+				"to": 1513350
+			},
+			"text": " And then, of course, the soda tax is a wonderful blessing and support that is now a large part of our budget."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,490",
+				"to": "00:25:22,390"
+			},
+			"offsets": {
+				"from": 1513490,
+				"to": 1522390
+			},
+			"text": " We also do other grants from various entities to do special projects like the high school social emotional support was from another grant."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,390",
+				"to": "00:25:28,970"
+			},
+			"offsets": {
+				"from": 1522390,
+				"to": 1528970
+			},
+			"text": " So we continue to diversify our funding as well as fundraisers to have money to do professional training."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,410",
+				"to": "00:25:31,290"
+			},
+			"offsets": {
+				"from": 1529410,
+				"to": 1531290
+			},
+			"text": " So we're trying to be a little bit more diverse."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,470",
+				"to": "00:25:36,430"
+			},
+			"offsets": {
+				"from": 1531470,
+				"to": 1536430
+			},
+			"text": " But, yeah, the soda tax has been a huge part of our budget this year and hopefully increasing next year."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,950",
+				"to": "00:25:43,790"
+			},
+			"offsets": {
+				"from": 1536950,
+				"to": 1543790
+			},
+			"text": " So you've also worked to make some fresh produce, particularly farmers markets, more accessible to people without much money."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,390",
+				"to": "00:25:46,710"
+			},
+			"offsets": {
+				"from": 1544390,
+				"to": 1546710
+			},
+			"text": " Could you talk about your work with the USDA?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,070",
+				"to": "00:25:49,170"
+			},
+			"offsets": {
+				"from": 1547070,
+				"to": 1549170
+			},
+			"text": " Well, I've done a lot of work with farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,490",
+				"to": "00:25:51,190"
+			},
+			"offsets": {
+				"from": 1549490,
+				"to": 1551190
+			},
+			"text": " That's kind of where I started."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,450",
+				"to": "00:25:57,460"
+			},
+			"offsets": {
+				"from": 1551450,
+				"to": 1557460
+			},
+			"text": " And my pull towards farmers markets actually came from urban planning around food systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,280",
+				"to": "00:26:00,560"
+			},
+			"offsets": {
+				"from": 1558280,
+				"to": 1560560
+			},
+			"text": " So that food system planning is my background."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,200",
+				"to": "00:26:17,170"
+			},
+			"offsets": {
+				"from": 1561200,
+				"to": 1577170
+			},
+			"text": " And after graduate school, I wrote this thesis on food security and the role that community food security plays in that and different tools such as farmers markets, community gardens, various things like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,170",
+				"to": "00:26:30,110"
+			},
+			"offsets": {
+				"from": 1577170,
+				"to": 1590110
+			},
+			"text": " And that got picked up by the USDA because I referenced a lot of USDA research and it was in a small moment of time where the USDA was actually looking to bring in young people."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,450",
+				"to": "00:26:48,930"
+			},
+			"offsets": {
+				"from": 1590450,
+				"to": 1608930
+			},
+			"text": " And so I went straight to D.C. to work on connecting farmers markets with SNAP benefits than food stamps at a time when all the food stamps SNAP, I'll just call SNAP or CalFresh in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,930",
+				"to": "00:26:51,900"
+			},
+			"offsets": {
+				"from": 1608930,
+				"to": 1611900
+			},
+			"text": " It's called many different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:51,900",
+				"to": "00:26:54,300"
+			},
+			"offsets": {
+				"from": 1611900,
+				"to": 1614300
+			},
+			"text": " So that's when all the benefits were being put on electronic cards."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,800",
+				"to": "00:26:57,980"
+			},
+			"offsets": {
+				"from": 1614800,
+				"to": 1617980
+			},
+			"text": " And so farmers markets had been accepting benefits for years."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,620",
+				"to": "00:27:01,580"
+			},
+			"offsets": {
+				"from": 1618620,
+				"to": 1621580
+			},
+			"text": " And now they were no longer because they didn't have the devices."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,580",
+				"to": "00:27:02,540"
+			},
+			"offsets": {
+				"from": 1621580,
+				"to": 1622540
+			},
+			"text": " They didn't have electricity."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,760",
+				"to": "00:27:06,270"
+			},
+			"offsets": {
+				"from": 1622760,
+				"to": 1626270
+			},
+			"text": " There's all kinds of roadblocks, numerous roadblocks."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,410",
+				"to": "00:27:10,850"
+			},
+			"offsets": {
+				"from": 1626410,
+				"to": 1630850
+			},
+			"text": " And then the folks that were going to the farmers markets didn't know how to use their benefits at the farmers markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,070",
+				"to": "00:27:18,370"
+			},
+			"offsets": {
+				"from": 1631070,
+				"to": 1638370
+			},
+			"text": " And then when they're finally there, as farmers markets became more popular and in certain neighborhoods, the willingness to pay increased."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:18,470",
+				"to": "00:27:19,630"
+			},
+			"offsets": {
+				"from": 1638470,
+				"to": 1639630
+			},
+			"text": " So the prices increased."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,970",
+				"to": "00:27:21,270"
+			},
+			"offsets": {
+				"from": 1639970,
+				"to": 1641270
+			},
+			"text": " There's all these different issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,270",
+				"to": "00:27:27,360"
+			},
+			"offsets": {
+				"from": 1641270,
+				"to": 1647360
+			},
+			"text": " And I was in the right moment, the right place to begin to think through a lot of those problems."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,780",
+				"to": "00:27:35,840"
+			},
+			"offsets": {
+				"from": 1647780,
+				"to": 1655840
+			},
+			"text": " And it was right when the Obama administration was inaugurated and they were bringing on new people to think more deeply about these issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,840",
+				"to": "00:27:51,700"
+			},
+			"offsets": {
+				"from": 1655840,
+				"to": 1671700
+			},
+			"text": " And so I've done a lot of work on thinking through, like, connecting those that need the food with those that have the food and creating different projects and programs for the farmers, everyone in between, and the eaters to eat more healthy."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:52,560",
+				"to": "00:28:08,180"
+			},
+			"offsets": {
+				"from": 1672560,
+				"to": 1688180
+			},
+			"text": " So actually, I wrote a handbook on how to use your SNAP benefits at farmers markets at the USDA in, like, 2008, which was, like, such an interesting endeavor because it was – I was kind of like being an investigative reporter."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:08,180",
+				"to": "00:28:14,960"
+			},
+			"offsets": {
+				"from": 1688180,
+				"to": 1694960
+			},
+			"text": " I was going around to all the different agencies within the USDA asking them, you know, how do we do this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,080",
+				"to": "00:28:16,020"
+			},
+			"offsets": {
+				"from": 1695080,
+				"to": 1696020
+			},
+			"text": " What's your role?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,380",
+				"to": "00:28:29,740"
+			},
+			"offsets": {
+				"from": 1696380,
+				"to": 1709740
+			},
+			"text": " And then we kind of compiled them with a lot of different community groups, like the National Farmers' Markets Coalition, which I think is still a real main player in that kind of field of farmers' markets."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:29,940",
+				"to": "00:28:30,920"
+			},
+			"offsets": {
+				"from": 1709940,
+				"to": 1710920
+			},
+			"text": " And they played a role."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,180",
+				"to": "00:28:32,970"
+			},
+			"offsets": {
+				"from": 1711180,
+				"to": 1712970
+			},
+			"text": " And it was really very collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,020",
+				"to": "00:28:38,600"
+			},
+			"offsets": {
+				"from": 1714020,
+				"to": 1718600
+			},
+			"text": " SNAP benefits are just – you can have a whole season about just SNAP."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:38,740",
+				"to": "00:28:39,320"
+			},
+			"offsets": {
+				"from": 1718740,
+				"to": 1719320
+			},
+			"text": " It's insane."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,040",
+				"to": "00:28:40,440"
+			},
+			"offsets": {
+				"from": 1720040,
+				"to": 1720440
+			},
+			"text": " SNAP and WIC."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,560",
+				"to": "00:28:41,200"
+			},
+			"offsets": {
+				"from": 1720560,
+				"to": 1721200
+			},
+			"text": " You have WIC benefits."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,200",
+				"to": "00:28:49,280"
+			},
+			"offsets": {
+				"from": 1721200,
+				"to": 1729280
+			},
+			"text": " You have WIC benefits, and then now you have Market Match, which is California's farmers' markets matching program."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,200",
+				"to": "00:29:02,480"
+			},
+			"offsets": {
+				"from": 1730200,
+				"to": 1742480
+			},
+			"text": " And so I was working at a nonprofit called Roots of Change when that was becoming more of a support to getting more farmers' market participants to come to the market and use their benefits."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,700",
+				"to": "00:29:06,400"
+			},
+			"offsets": {
+				"from": 1742700,
+				"to": 1746400
+			},
+			"text": " And it's when you could use your SNAP benefits or WIC benefits."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,920",
+				"to": "00:29:22,780"
+			},
+			"offsets": {
+				"from": 1746920,
+				"to": 1762780
+			},
+			"text": " And so when I was at this nonprofit, we were working with a lot of farmers' market organizations and hunger organizations throughout California from San Diego all the way up to Humboldt to help think through ways of getting more people to use their benefits and where the gaps needed."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:22,780",
+				"to": "00:29:34,220"
+			},
+			"offsets": {
+				"from": 1762780,
+				"to": 1774220
+			},
+			"text": " And we got a large grant from the USDA, and we worked with Wholesome Way, which is a national organization, to start taking what we've learned in California to change national policy."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,810",
+				"to": "00:29:39,440"
+			},
+			"offsets": {
+				"from": 1774810,
+				"to": 1779440
+			},
+			"text": " And that has since grown to now be a federal rule, I believe."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,440",
+				"to": "00:29:55,260"
+			},
+			"offsets": {
+				"from": 1779440,
+				"to": 1795260
+			},
+			"text": " Now there's benefits that are funding that can be applied for through grants to fund programs like Market Match, which provide more money to buy more fruits and vegetables exclusively to those that are accessing SNAP and WIC."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:56,310",
+				"to": "00:29:59,650"
+			},
+			"offsets": {
+				"from": 1796310,
+				"to": 1799650
+			},
+			"text": " So that's kind of – that's a huge, like, revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,650",
+				"to": "00:30:19,960"
+			},
+			"offsets": {
+				"from": 1799650,
+				"to": 1819960
+			},
+			"text": " So it seems like you've done a lot of work on accessibility, whether it be for fresh produce or now for children in education, kind of wondering about where you see yourself in the food movement, kind of where you kind of began your journey and how it has transformed."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,560",
+				"to": "00:30:24,880"
+			},
+			"offsets": {
+				"from": 1820560,
+				"to": 1824880
+			},
+			"text": " Well, I'm hoping that it's more of a cycle or a circle."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,290",
+				"to": "00:30:32,170"
+			},
+			"offsets": {
+				"from": 1825290,
+				"to": 1832170
+			},
+			"text": " Another topic that we talk a lot about in the garden, in the kitchen, is life cycles, food cycles."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,250",
+				"to": "00:30:38,550"
+			},
+			"offsets": {
+				"from": 1833250,
+				"to": 1838550
+			},
+			"text": " I think that my career has been a bit of a cycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,810",
+				"to": "00:30:49,930"
+			},
+			"offsets": {
+				"from": 1838810,
+				"to": 1849930
+			},
+			"text": " It seems like I've approached it, you know, with the intention of coming from the built environment and then turning it, you know, turning more towards, you know, the social environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,940",
+				"to": "00:31:04,810"
+			},
+			"offsets": {
+				"from": 1850940,
+				"to": 1864810
+			},
+			"text": " So I, you know, I go where I'm needed, you know, I think that if you work in food systems and you think about systems at large and you're a systems-oriented person,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,810",
+				"to": "00:31:24,200"
+			},
+			"offsets": {
+				"from": 1864810,
+				"to": 1884200
+			},
+			"text": " I mean, that you understand all the different factors that come into play to help ideate different solutions to complex problems, which is what I, you know, strive to do, then I will be going where the solutions are needed."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,580",
+				"to": "00:31:27,080"
+			},
+			"offsets": {
+				"from": 1884580,
+				"to": 1887080
+			},
+			"text": " And I hope to continue to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:27,180",
+				"to": "00:31:34,560"
+			},
+			"offsets": {
+				"from": 1887180,
+				"to": 1894560
+			},
+			"text": " I feel really fortunate that I've been able to work with a lot of folks that are in this kind of small world of food systems right now, but it's growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,340",
+				"to": "00:31:40,600"
+			},
+			"offsets": {
+				"from": 1895340,
+				"to": 1900600
+			},
+			"text": " And so I'm happy to continue to work on different projects as they pull me in and out and as we create our own here."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,860",
+				"to": "00:31:44,200"
+			},
+			"offsets": {
+				"from": 1901860,
+				"to": 1904200
+			},
+			"text": " So I have no idea what's next."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,440",
+				"to": "00:31:52,170"
+			},
+			"offsets": {
+				"from": 1905440,
+				"to": 1912170
+			},
+			"text": " What do you draw on from the broader food movement for your work in school gardening and cooking program?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:54,120",
+				"to": "00:31:59,820"
+			},
+			"offsets": {
+				"from": 1914120,
+				"to": 1919820
+			},
+			"text": " Well, I think I've been in this field for maybe nine years, which isn't a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,040",
+				"to": "00:32:05,040"
+			},
+			"offsets": {
+				"from": 1920040,
+				"to": 1925040
+			},
+			"text": " There's a lot of people that have been working in this field for 30 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,960",
+				"to": "00:32:17,400"
+			},
+			"offsets": {
+				"from": 1925960,
+				"to": 1937400
+			},
+			"text": " So throughout these nine years, I've been able to work with the same people over and over again, whether I'm in D.C. or I'm in Virginia or I'm in Portland or California or wherever."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,120",
+				"to": "00:32:27,020"
+			},
+			"offsets": {
+				"from": 1938120,
+				"to": 1947020
+			},
+			"text": " There's been a group of folks working in food systems at large from the beginning of my career that I've been able to kind of pull in and out of."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,750",
+				"to": "00:32:34,490"
+			},
+			"offsets": {
+				"from": 1947750,
+				"to": 1954490
+			},
+			"text": " And like I mentioned before, you know, food systems is really broad and it touches on science and labor and all these different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,490",
+				"to": "00:32:40,360"
+			},
+			"offsets": {
+				"from": 1954490,
+				"to": 1960360
+			},
+			"text": " So I have an opportunity to bring in people that I've worked well with and people that I want to work with."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:40,420",
+				"to": "00:32:44,920"
+			},
+			"offsets": {
+				"from": 1960420,
+				"to": 1964920
+			},
+			"text": " I've always been, you know, thinking about working with because they're leading all these different efforts."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,020",
+				"to": "00:32:55,640"
+			},
+			"offsets": {
+				"from": 1965020,
+				"to": 1975640
+			},
+			"text": " I've been able to bring them in to help us think about, well, how should we teach language in the garden or how should we teach about soda consumption in the kitchen classroom?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,140",
+				"to": "00:32:58,840"
+			},
+			"offsets": {
+				"from": 1976140,
+				"to": 1978840
+			},
+			"text": " You know, that's not really a published curriculum right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,880",
+				"to": "00:33:00,580"
+			},
+			"offsets": {
+				"from": 1978880,
+				"to": 1980580
+			},
+			"text": " There's a lot of different lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,840",
+				"to": "00:33:02,540"
+			},
+			"offsets": {
+				"from": 1980840,
+				"to": 1982540
+			},
+			"text": " There's rethink your drink, which is great."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,540",
+				"to": "00:33:03,920"
+			},
+			"offsets": {
+				"from": 1982540,
+				"to": 1983920
+			},
+			"text": " There's a lot of after-school programming."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:04,380",
+				"to": "00:33:10,820"
+			},
+			"offsets": {
+				"from": 1984380,
+				"to": 1990820
+			},
+			"text": " We've been supported by the Nutrition Policy Institute over at the University of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,380",
+				"to": "00:33:18,700"
+			},
+			"offsets": {
+				"from": 1991380,
+				"to": 1998700
+			},
+			"text": " And I'm able to continue to work with these folks to rethink all these different topics that we had before us."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,940",
+				"to": "00:33:22,230"
+			},
+			"offsets": {
+				"from": 1998940,
+				"to": 2002230
+			},
+			"text": " So I am able to bring them in so many different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,170",
+				"to": "00:33:42,580"
+			},
+			"offsets": {
+				"from": 2003170,
+				"to": 2022580
+			},
+			"text": " My good friend, Sarah Nelson, who's also Rebecca's other boss, not to make this like it's nepotistic or anything, but I constantly reach out to her for advice around, you know, whether it's what kind of tools you use in the kitchen classroom that you see as a best tool for second graders."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,330",
+				"to": "00:33:51,370"
+			},
+			"offsets": {
+				"from": 2023330,
+				"to": 2031370
+			},
+			"text": " Or, you know, she helped us with that training so that around engaging kids in the kitchen classroom with some of our new new staff."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,530",
+				"to": "00:33:52,810"
+			},
+			"offsets": {
+				"from": 2031530,
+				"to": 2032810
+			},
+			"text": " And that was really great."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,810",
+				"to": "00:34:00,830"
+			},
+			"offsets": {
+				"from": 2032810,
+				"to": 2040830
+			},
+			"text": " And we were able to work with Whitney Cohen from Life Lab over at UC Santa Cruz to help us think through science standards in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,860",
+				"to": "00:34:08,900"
+			},
+			"offsets": {
+				"from": 2041860,
+				"to": 2048900
+			},
+			"text": " And like I said before, the Nutrition Policy Institute, Pat Crawford, who's a leader in nutrition, education, policy, research."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:10,010",
+				"to": "00:34:15,170"
+			},
+			"offsets": {
+				"from": 2050010,
+				"to": 2055170
+			},
+			"text": " She's just such a force in this field of, you know, nutrition and food systems at large."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,330",
+				"to": "00:34:20,590"
+			},
+			"offsets": {
+				"from": 2055330,
+				"to": 2060590
+			},
+			"text": " We've been able to work with her on creating a curriculum that we're trying out in our kitchen classrooms."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,090",
+				"to": "00:34:24,070"
+			},
+			"offsets": {
+				"from": 2061090,
+				"to": 2064070
+			},
+			"text": " You want to talk about the curriculum for a little bit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,250",
+				"to": "00:34:26,510"
+			},
+			"offsets": {
+				"from": 2064250,
+				"to": 2066510
+			},
+			"text": " Because I know that's a lot of what you're up to right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,810",
+				"to": "00:34:29,070"
+			},
+			"offsets": {
+				"from": 2066810,
+				"to": 2069070
+			},
+			"text": " Yeah, always developing new curriculum."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:29,070",
+				"to": "00:34:39,650"
+			},
+			"offsets": {
+				"from": 2069070,
+				"to": 2079650
+			},
+			"text": " Well, part of our strategy for communicating what we do and advocating for what we do is to show what we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,160",
+				"to": "00:34:43,960"
+			},
+			"offsets": {
+				"from": 2080160,
+				"to": 2083960
+			},
+			"text": " And we've developed a curriculum that does just that."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,690",
+				"to": "00:34:54,120"
+			},
+			"offsets": {
+				"from": 2084690,
+				"to": 2094120
+			},
+			"text": " The curriculum is also a great tool that we could use that we're doing not the same thing, but that we're touching on the same topics across schools."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:54,200",
+				"to": "00:35:04,800"
+			},
+			"offsets": {
+				"from": 2094200,
+				"to": 2104800
+			},
+			"text": " So that we don't have one school over here that's just like totally killing it with garden education because they've got a real lead garden educator that's just been doing this for a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:04,900",
+				"to": "00:35:07,560"
+			},
+			"offsets": {
+				"from": 2104900,
+				"to": 2107560
+			},
+			"text": " And they are using their own curriculum and they're pulling all these different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,820",
+				"to": "00:35:12,080"
+			},
+			"offsets": {
+				"from": 2107820,
+				"to": 2112080
+			},
+			"text": " We want to make sure that all of our schools are killing it like that, you know, in that really good way."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,640",
+				"to": "00:35:15,800"
+			},
+			"offsets": {
+				"from": 2112640,
+				"to": 2115800
+			},
+			"text": " And so the curriculum allows us to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,800",
+				"to": "00:35:27,440"
+			},
+			"offsets": {
+				"from": 2115800,
+				"to": 2127440
+			},
+			"text": " And we've developed the curriculum collaboratively with curriculum developers and, you know, garden education, with input from garden staff that we have on our team, with standard specialists."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,440",
+				"to": "00:35:34,060"
+			},
+			"offsets": {
+				"from": 2127440,
+				"to": 2134060
+			},
+			"text": " And we brought in our science teachers and we glean from the broad world of garden curriculum, which is massive."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,310",
+				"to": "00:35:41,050"
+			},
+			"offsets": {
+				"from": 2135310,
+				"to": 2141050
+			},
+			"text": " And we've been able to pick and pull which standards we want to try and which lessons align best."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,570",
+				"to": "00:35:45,050"
+			},
+			"offsets": {
+				"from": 2141570,
+				"to": 2145050
+			},
+			"text": " And we tried them out the first year in all of our school gardens."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,470",
+				"to": "00:35:50,030"
+			},
+			"offsets": {
+				"from": 2145470,
+				"to": 2150030
+			},
+			"text": " And we had an assessment to measure what we were doing and how we could incorporate the change."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,430",
+				"to": "00:35:56,110"
+			},
+			"offsets": {
+				"from": 2150430,
+				"to": 2156110
+			},
+			"text": " And then we published our first edition of garden-based learning for primary school at the beginning of this year."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,390",
+				"to": "00:36:01,910"
+			},
+			"offsets": {
+				"from": 2156390,
+				"to": 2161910
+			},
+			"text": " And we're going to be publishing our second edition at the end of this year because we're making a lot of changes because we're always flexible."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,070",
+				"to": "00:36:03,110"
+			},
+			"offsets": {
+				"from": 2162070,
+				"to": 2163110
+			},
+			"text": " We're always learning from each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,640",
+				"to": "00:36:09,400"
+			},
+			"offsets": {
+				"from": 2163640,
+				"to": 2169400
+			},
+			"text": " And we're always improving, especially now that we have a base curriculum that we can say, well, this is the base level of measurement."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,200",
+				"to": "00:36:13,560"
+			},
+			"offsets": {
+				"from": 2170200,
+				"to": 2173560
+			},
+			"text": " It's easy to change something when you have a starting point."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,240",
+				"to": "00:36:17,680"
+			},
+			"offsets": {
+				"from": 2174240,
+				"to": 2177680
+			},
+			"text": " And so we're trying to do the same thing in our after-school kitchen classrooms."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,160",
+				"to": "00:36:20,760"
+			},
+			"offsets": {
+				"from": 2179160,
+				"to": 2180760
+			},
+			"text": " We're reaching out to community partners."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,900",
+				"to": "00:36:23,900"
+			},
+			"offsets": {
+				"from": 2180900,
+				"to": 2183900
+			},
+			"text": " We're gleaning from the broad world of nutrition and cooking education."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:24,380",
+				"to": "00:36:32,280"
+			},
+			"offsets": {
+				"from": 2184380,
+				"to": 2192280
+			},
+			"text": " And we're trying to pick and choose different lessons that we think would hit our goals, which is not just around sugar consumption and sugar awareness."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,460",
+				"to": "00:36:33,520"
+			},
+			"offsets": {
+				"from": 2192460,
+				"to": 2193520
+			},
+			"text": " Those are very strong ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,620",
+				"to": "00:36:39,500"
+			},
+			"offsets": {
+				"from": 2193620,
+				"to": 2199500
+			},
+			"text": " But also engaging in student behavior change and whole child development."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,260",
+				"to": "00:36:46,540"
+			},
+			"offsets": {
+				"from": 2200260,
+				"to": 2206540
+			},
+			"text": " And so we're trying to kind of backwards design that one, meaning that we've got these lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,760",
+				"to": "00:36:47,480"
+			},
+			"offsets": {
+				"from": 2206760,
+				"to": 2207480
+			},
+			"text": " We're trying them out."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,600",
+				"to": "00:36:48,460"
+			},
+			"offsets": {
+				"from": 2207600,
+				"to": 2208460
+			},
+			"text": " We're getting back together."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:48,580",
+				"to": "00:36:49,920"
+			},
+			"offsets": {
+				"from": 2208580,
+				"to": 2209920
+			},
+			"text": " We're saying what's working, what's not working."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,460",
+				"to": "00:36:53,360"
+			},
+			"offsets": {
+				"from": 2210460,
+				"to": 2213360
+			},
+			"text": " And then we'll try it again next year with assessments."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,360",
+				"to": "00:36:57,180"
+			},
+			"offsets": {
+				"from": 2213360,
+				"to": 2217180
+			},
+			"text": " Now that after we have our base curriculum and then we'll try it again the next year."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,180",
+				"to": "00:37:05,920"
+			},
+			"offsets": {
+				"from": 2217180,
+				"to": 2225920
+			},
+			"text": " And hopefully we'll continue that cycle and we'll continue to develop curriculum at all the different schools that, you know, we need to."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,180",
+				"to": "00:37:09,800"
+			},
+			"offsets": {
+				"from": 2226180,
+				"to": 2229800
+			},
+			"text": " We've begun developing a curriculum for RTI in the garden last year."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,080",
+				"to": "00:37:18,460"
+			},
+			"offsets": {
+				"from": 2230080,
+				"to": 2238460
+			},
+			"text": " So we're still in that phase of getting all the different lessons and continuing our teacher collaboration so that we can have a base for assessments."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,080",
+				"to": "00:37:21,340"
+			},
+			"offsets": {
+				"from": 2239080,
+				"to": 2241340
+			},
+			"text": " Well, Jezra spoke mostly to the gardening curriculum."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:21,680",
+				"to": "00:37:28,140"
+			},
+			"offsets": {
+				"from": 2241680,
+				"to": 2248140
+			},
+			"text": " That's something that's been, as she said, developed over a couple of years with our after school cooking curriculum."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,480",
+				"to": "00:37:32,240"
+			},
+			"offsets": {
+				"from": 2248480,
+				"to": 2252240
+			},
+			"text": " We have we are doing like the first round of assessments now."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,400",
+				"to": "00:37:39,070"
+			},
+			"offsets": {
+				"from": 2252400,
+				"to": 2259070
+			},
+			"text": " It's a very like we're kind of jumping in, seeing what's working, adapting as necessary, making notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,070",
+				"to": "00:37:53,800"
+			},
+			"offsets": {
+				"from": 2259070,
+				"to": 2273800
+			},
+			"text": " We were presented with a giant three ring binder, like the three inch size of activities and recipes and kind of, you know, I had the prompt of pick some and see how they work."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,020",
+				"to": "00:37:57,720"
+			},
+			"offsets": {
+				"from": 2274020,
+				"to": 2277720
+			},
+			"text": " So we're we're also kind of testing them as they go."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,860",
+				"to": "00:38:01,360"
+			},
+			"offsets": {
+				"from": 2277860,
+				"to": 2281360
+			},
+			"text": " And it's been it's been really great to see like what works, what doesn't work."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:01,480",
+				"to": "00:38:13,780"
+			},
+			"offsets": {
+				"from": 2281480,
+				"to": 2293780
+			},
+			"text": " Some of the activities are obviously a little older and you have to keep in mind that classrooms change and like kids are changing as you have like different generations growing up with different technologies and they learn in different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,780",
+				"to": "00:38:31,690"
+			},
+			"offsets": {
+				"from": 2293780,
+				"to": 2311690
+			},
+			"text": " So sometimes it's it's a something as simple as instead of having like a printed out label, like having a physical like object, like the actual soda bottle instead of like a picture of the nutrition label on the soda bottle for a more experiential learning."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,690",
+				"to": "00:38:39,190"
+			},
+			"offsets": {
+				"from": 2311690,
+				"to": 2319190
+			},
+			"text": " I suppose when you also get all the kids that just want to drink the soda from the bottle, if you haven't emptied it all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:40,800",
+				"to": "00:38:41,810"
+			},
+			"offsets": {
+				"from": 2320800,
+				"to": 2321810
+			},
+			"text": " Yeah, for now."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:41,930",
+				"to": "00:38:42,130"
+			},
+			"offsets": {
+				"from": 2321930,
+				"to": 2322130
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,290",
+				"to": "00:38:49,320"
+			},
+			"offsets": {
+				"from": 2322290,
+				"to": 2329320
+			},
+			"text": " But we're hoping that with some, you know, trial and error, we're figuring it out slowly."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,320",
+				"to": "00:38:51,300"
+			},
+			"offsets": {
+				"from": 2329320,
+				"to": 2331300
+			},
+			"text": " And like I've been meeting with Tim a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,420",
+				"to": "00:38:58,700"
+			},
+			"offsets": {
+				"from": 2331420,
+				"to": 2338700
+			},
+			"text": " Tim's been doing a lot of the work now on sort of piecing together this curriculum puzzle."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,980",
+				"to": "00:39:07,500"
+			},
+			"offsets": {
+				"from": 2340980,
+				"to": 2347500
+			},
+			"text": " Tim's our health and wellness coordinator who's leading these projects with folks like Rebecca's incredible support."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,380",
+				"to": "00:39:10,620"
+			},
+			"offsets": {
+				"from": 2348380,
+				"to": 2350620
+			},
+			"text": " I don't know if you're dumb, but it's the curriculum."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:10,940",
+				"to": "00:39:21,940"
+			},
+			"offsets": {
+				"from": 2350940,
+				"to": 2361940
+			},
+			"text": " It's applicability and a success is reliant upon people like Rebecca trying them out, saying yes, and having the astuteness to figure out how to scale it up and scale it down."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,040",
+				"to": "00:39:24,960"
+			},
+			"offsets": {
+				"from": 2362040,
+				"to": 2364960
+			},
+			"text": " So that's appropriate to the students that they're working with."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,020",
+				"to": "00:39:28,020"
+			},
+			"offsets": {
+				"from": 2365020,
+				"to": 2368020
+			},
+			"text": " We work with, you know, K through high school."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,380",
+				"to": "00:39:36,020"
+			},
+			"offsets": {
+				"from": 2368380,
+				"to": 2376020
+			},
+			"text": " So it's really champions like Rebecca that, you know, figures this out with our, you know, collaborative team when we get back together."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,160",
+				"to": "00:39:40,360"
+			},
+			"offsets": {
+				"from": 2376160,
+				"to": 2380360
+			},
+			"text": " But it takes a very certain type of leader to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,640",
+				"to": "00:39:48,340"
+			},
+			"offsets": {
+				"from": 2381640,
+				"to": 2388340
+			},
+			"text": " It's like you're developing a curriculum about hands-on learning by doing hands-on learning, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,500",
+				"to": "00:39:48,720"
+			},
+			"offsets": {
+				"from": 2388500,
+				"to": 2388720
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,780",
+				"to": "00:39:50,700"
+			},
+			"offsets": {
+				"from": 2388780,
+				"to": 2390700
+			},
+			"text": " Well, here's the thing that we want you to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,780",
+				"to": "00:39:53,200"
+			},
+			"offsets": {
+				"from": 2390780,
+				"to": 2393200
+			},
+			"text": " You just have to do it to figure out how to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,520",
+				"to": "00:40:00,750"
+			},
+			"offsets": {
+				"from": 2393520,
+				"to": 2400750
+			},
+			"text": " But it's really fun, you know, like figure out how first graders, like first graders are just a really fun group in general."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:00,970",
+				"to": "00:40:14,430"
+			},
+			"offsets": {
+				"from": 2400970,
+				"to": 2414430
+			},
+			"text": " I really like working with first graders where you take something like we were going to do an activity like we wanted to the kids to take a picture of a plant and like separate it by what part of the planet was that you eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,430",
+				"to": "00:40:22,020"
+			},
+			"offsets": {
+				"from": 2414430,
+				"to": 2422020
+			},
+			"text": " And then we got to the class and the kids were all over the place and they could barely remember the six parts of the plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,120",
+				"to": "00:40:25,320"
+			},
+			"offsets": {
+				"from": 2422120,
+				"to": 2425320
+			},
+			"text": " They could remember like three and we were like, all right, this has to be adjusted."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,800",
+				"to": "00:40:26,620"
+			},
+			"offsets": {
+				"from": 2425800,
+				"to": 2426620
+			},
+			"text": " Fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,900",
+				"to": "00:40:27,120"
+			},
+			"offsets": {
+				"from": 2426900,
+				"to": 2427120
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:27,160",
+				"to": "00:40:29,480"
+			},
+			"offsets": {
+				"from": 2427160,
+				"to": 2429480
+			},
+			"text": " Let's separate these into fruits and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,740",
+				"to": "00:40:36,450"
+			},
+			"offsets": {
+				"from": 2429740,
+				"to": 2436450
+			},
+			"text": " And just something as simple as like, you know, thinking on your feet and being like, how can I still get these kids to learn something with?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,450",
+				"to": "00:40:41,990"
+			},
+			"offsets": {
+				"from": 2436450,
+				"to": 2441990
+			},
+			"text": " We have one hour to teach them a lesson and prepare a recipe."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,350",
+				"to": "00:40:45,370"
+			},
+			"offsets": {
+				"from": 2442350,
+				"to": 2445370
+			},
+			"text": " So that requires a lot of fine tuning."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,530",
+				"to": "00:40:49,890"
+			},
+			"offsets": {
+				"from": 2446530,
+				"to": 2449890
+			},
+			"text": " It's not like an hour and a half is like the ideal time for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:49,990",
+				"to": "00:40:56,070"
+			},
+			"offsets": {
+				"from": 2449990,
+				"to": 2456070
+			},
+			"text": " So to like kind of cramp it down into one hour and figure out like, what can a first grader cut?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:56,290",
+				"to": "00:40:58,510"
+			},
+			"offsets": {
+				"from": 2456290,
+				"to": 2458510
+			},
+			"text": " What will a first grader do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,810",
+				"to": "00:41:05,990"
+			},
+			"offsets": {
+				"from": 2458810,
+				"to": 2465990
+			},
+			"text": " First graders don't necessarily care that they can't flip the pancake, but fifth graders really care that they can't flip a pancake and make their own."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,990",
+				"to": "00:41:12,100"
+			},
+			"offsets": {
+				"from": 2465990,
+				"to": 2472100
+			},
+			"text": " So there's a lot of adjustments, but that's why I really love this job."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,180",
+				"to": "00:41:18,410"
+			},
+			"offsets": {
+				"from": 2472180,
+				"to": 2478410
+			},
+			"text": " That's why I love this program because you're doing, you know, every, I guess we haven't talked about how many classes these kids get."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,410",
+				"to": "00:41:25,330"
+			},
+			"offsets": {
+				"from": 2478410,
+				"to": 2485330
+			},
+			"text": " So in the afterschool program, the kids will be receiving four weeks of the program, which is two classes a week."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,410",
+				"to": "00:41:27,610"
+			},
+			"offsets": {
+				"from": 2485410,
+				"to": 2487610
+			},
+			"text": " So total of eight one hour lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,930",
+				"to": "00:41:29,830"
+			},
+			"offsets": {
+				"from": 2487930,
+				"to": 2489830
+			},
+			"text": " And then we get a whole new batch of kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,090",
+				"to": "00:41:36,030"
+			},
+			"offsets": {
+				"from": 2490090,
+				"to": 2496030
+			},
+			"text": " So it's really fun to sort of adapt as each different group of kids comes."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,250",
+				"to": "00:41:50,790"
+			},
+			"offsets": {
+				"from": 2496250,
+				"to": 2510790
+			},
+			"text": " But I think it makes creating a curriculum really difficult because, you know, I, I'm sure every educator out there has received a lesson, been told that like this lesson for first graders is going to take 10 minutes and gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,070",
+				"to": "00:41:51,690"
+			},
+			"offsets": {
+				"from": 2511070,
+				"to": 2511690
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,690",
+				"to": "00:41:51,790"
+			},
+			"offsets": {
+				"from": 2511690,
+				"to": 2511790
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,730",
+				"to": "00:41:51,970"
+			},
+			"offsets": {
+				"from": 2511730,
+				"to": 2511970
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,970",
+				"to": "00:41:58,230"
+			},
+			"offsets": {
+				"from": 2511970,
+				"to": 2518230
+			},
+			"text": " There's no way that first graders can do this in 10 minutes and it's being aware of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,230",
+				"to": "00:42:08,520"
+			},
+			"offsets": {
+				"from": 2518230,
+				"to": 2528520
+			},
+			"text": " And also just knowing how to change that lesson for your particular group, which has been really, you know, keep me on my toes, really exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:09,130",
+				"to": "00:42:09,690"
+			},
+			"offsets": {
+				"from": 2529130,
+				"to": 2529690
+			},
+			"text": " I enjoy it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,060",
+				"to": "00:42:16,670"
+			},
+			"offsets": {
+				"from": 2530060,
+				"to": 2536670
+			},
+			"text": " So this is how you, clearly this is how you develop the curriculum for, for the rest of the school district, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,810",
+				"to": "00:42:17,590"
+			},
+			"offsets": {
+				"from": 2536810,
+				"to": 2537590
+			},
+			"text": " By trial."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,810",
+				"to": "00:42:21,950"
+			},
+			"offsets": {
+				"from": 2537810,
+				"to": 2541950
+			},
+			"text": " Is this, um, is this also how you take over the world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:22,740",
+				"to": "00:42:24,140"
+			},
+			"offsets": {
+				"from": 2542740,
+				"to": 2544140
+			},
+			"text": " Through radical education?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:24,360",
+				"to": "00:42:24,800"
+			},
+			"offsets": {
+				"from": 2544360,
+				"to": 2544800
+			},
+			"text": " Maybe."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,380",
+				"to": "00:42:30,030"
+			},
+			"offsets": {
+				"from": 2545380,
+				"to": 2550030
+			},
+			"text": " Is this how, do you, does this become a curriculum people use beyond Berkeley?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,470",
+				"to": "00:42:30,770"
+			},
+			"offsets": {
+				"from": 2550470,
+				"to": 2550770
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,810",
+				"to": "00:42:31,390"
+			},
+			"offsets": {
+				"from": 2550810,
+				"to": 2551390
+			},
+			"text": " And that's the point."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:31,390",
+				"to": "00:42:37,010"
+			},
+			"offsets": {
+				"from": 2551390,
+				"to": 2557010
+			},
+			"text": " That's why we, we publish it and why we go around to different, why I go around to different conferences and talk about what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:37,350",
+				"to": "00:42:41,920"
+			},
+			"offsets": {
+				"from": 2557350,
+				"to": 2561920
+			},
+			"text": " Um, because like Rebecca just explained, you know, we have different boundaries."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:41,920",
+				"to": "00:42:45,040"
+			},
+			"offsets": {
+				"from": 2561920,
+				"to": 2565040
+			},
+			"text": " We could only teach for an hour because of the afterschool constraints."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:45,040",
+				"to": "00:42:46,540"
+			},
+			"offsets": {
+				"from": 2565040,
+				"to": 2566540
+			},
+			"text": " We may not have X, Y, Z."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,800",
+				"to": "00:42:48,980"
+			},
+			"offsets": {
+				"from": 2566800,
+				"to": 2568980
+			},
+			"text": " We have a couple of lessons that we have to touch on."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:49,000",
+				"to": "00:42:49,820"
+			},
+			"offsets": {
+				"from": 2569000,
+				"to": 2569820
+			},
+			"text": " How do we do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:50,220",
+				"to": "00:42:51,120"
+			},
+			"offsets": {
+				"from": 2570220,
+				"to": 2571120
+			},
+			"text": " This is reality."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:51,120",
+				"to": "00:42:54,500"
+			},
+			"offsets": {
+				"from": 2571120,
+				"to": 2574500
+			},
+			"text": " You know, this is what other school districts and other educators are up against."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:54,500",
+				"to": "00:43:02,360"
+			},
+			"offsets": {
+				"from": 2574500,
+				"to": 2582360
+			},
+			"text": " And if we're doing the hard work of figuring out at least some examples of how to do it in within reality, then that's a great tool."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:02,800",
+				"to": "00:43:07,560"
+			},
+			"offsets": {
+				"from": 2582800,
+				"to": 2587560
+			},
+			"text": " Um, and it's a great tool for them to then take that and say, this is a curriculum that we want to try."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,660",
+				"to": "00:43:15,500"
+			},
+			"offsets": {
+				"from": 2587660,
+				"to": 2595500
+			},
+			"text": " It's already been kind of vetted with some data to get, you know, funding or school board supports or even a school principal support."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:16,000",
+				"to": "00:43:19,730"
+			},
+			"offsets": {
+				"from": 2596000,
+				"to": 2599730
+			},
+			"text": " So if this is how we take over the world, then sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:19,730",
+				"to": "00:43:35,430"
+			},
+			"offsets": {
+				"from": 2599730,
+				"to": 2615430
+			},
+			"text": " But I also want to reference, you know, the cycle of the curriculum and the process of inviting our educators like Rebecca to be involved in the process as a teacher and as a student."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,650",
+				"to": "00:43:49,250"
+			},
+			"offsets": {
+				"from": 2615650,
+				"to": 2629250
+			},
+			"text": " I think that's kind of the radical teacher in our team is that they're open to learning all the time and they're open to trying, you know, these these ideas and lessons and open to learning from students and each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:49,250",
+				"to": "00:43:54,740"
+			},
+			"offsets": {
+				"from": 2629250,
+				"to": 2634740
+			},
+			"text": " And then also leading and saying, you know, making amendments to what they're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:55,140",
+				"to": "00:43:58,050"
+			},
+			"offsets": {
+				"from": 2635140,
+				"to": 2638050
+			},
+			"text": " I think that's kind of that's a great opportunity that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:58,190",
+				"to": "00:43:58,510"
+			},
+			"offsets": {
+				"from": 2638190,
+				"to": 2638510
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:58,610",
+				"to": "00:44:09,960"
+			},
+			"offsets": {
+				"from": 2638610,
+				"to": 2649960
+			},
+			"text": " And I get a hold all of this in a big, not too tight hug and to make sure that we're hitting all of our targets and getting all the different funders invested."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,960",
+				"to": "00:44:20,220"
+			},
+			"offsets": {
+				"from": 2649960,
+				"to": 2660220
+			},
+			"text": " And we have many different stakeholders and though, you know, what what happens on the ground is wonderful and that's the important work that we have."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,300",
+				"to": "00:44:23,900"
+			},
+			"offsets": {
+				"from": 2660300,
+				"to": 2663900
+			},
+			"text": " And I get a hold it all and to make sure that we're hitting all of our targets."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:24,100",
+				"to": "00:44:27,820"
+			},
+			"offsets": {
+				"from": 2664100,
+				"to": 2667820
+			},
+			"text": " I feel like in education, you kind of you always want it your way."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:28,880",
+				"to": "00:44:32,120"
+			},
+			"offsets": {
+				"from": 2668880,
+				"to": 2672120
+			},
+			"text": " I feel like probably most teachers think that, like, I just want to do everything my way."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:32,220",
+				"to": "00:44:36,300"
+			},
+			"offsets": {
+				"from": 2672220,
+				"to": 2676300
+			},
+			"text": " But you can't you obviously can't always have it your way because there are limitations."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:37,240",
+				"to": "00:44:46,710"
+			},
+			"offsets": {
+				"from": 2677240,
+				"to": 2686710
+			},
+			"text": " But it's I think it's a lot about knowing when you need to make the case that, like, it needs to be your way, because that's maybe something that works across the board."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:46,790",
+				"to": "00:44:49,850"
+			},
+			"offsets": {
+				"from": 2686790,
+				"to": 2689850
+			},
+			"text": " And it's definitely how curriculum gets developed."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,050",
+				"to": "00:44:54,670"
+			},
+			"offsets": {
+				"from": 2690050,
+				"to": 2694670
+			},
+			"text": " Like, we found this one thing works really well for all ages."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:54,790",
+				"to": "00:45:01,970"
+			},
+			"offsets": {
+				"from": 2694790,
+				"to": 2701970
+			},
+			"text": " So this is if this is one thing they told us we can't do, but we found that it works really well, then I'd rather, like, make sure that that thing happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:01,970",
+				"to": "00:45:06,410"
+			},
+			"offsets": {
+				"from": 2701970,
+				"to": 2706410
+			},
+			"text": " The next conversation would be, well, you know, why is this really important?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,170",
+				"to": "00:45:08,590"
+			},
+			"offsets": {
+				"from": 2707170,
+				"to": 2708590
+			},
+			"text": " You know, where's the value in this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:09,370",
+				"to": "00:45:15,770"
+			},
+			"offsets": {
+				"from": 2709370,
+				"to": 2715770
+			},
+			"text": " And how can we talk about it in a way that invites the maybe the folks that say, no, we can't do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:15,950",
+				"to": "00:45:27,390"
+			},
+			"offsets": {
+				"from": 2715950,
+				"to": 2727390
+			},
+			"text": " So there's always a approach to a problem by inviting other people in because we turn it into, well, you know, we need to talk about sugar, but we also need to talk about nutrition."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:27,790",
+				"to": "00:45:32,890"
+			},
+			"offsets": {
+				"from": 2727790,
+				"to": 2732890
+			},
+			"text": " And so we guide the conversations towards how do we hit all of our targets."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:33,610",
+				"to": "00:45:35,530"
+			},
+			"offsets": {
+				"from": 2733610,
+				"to": 2735530
+			},
+			"text": " It's a lot of it's a lot of people pleasing."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,900",
+				"to": "00:45:38,800"
+			},
+			"offsets": {
+				"from": 2736900,
+				"to": 2738800
+			},
+			"text": " I mean, yeah, that's like life."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:38,960",
+				"to": "00:45:44,780"
+			},
+			"offsets": {
+				"from": 2738960,
+				"to": 2744780
+			},
+			"text": " I would say, you know, we have a community here and we all need to work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:45,340",
+				"to": "00:45:49,820"
+			},
+			"offsets": {
+				"from": 2745340,
+				"to": 2749820
+			},
+			"text": " And I might I might think that one way is the right way, but I could be very wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:50,240",
+				"to": "00:45:50,560"
+			},
+			"offsets": {
+				"from": 2750240,
+				"to": 2750560
+			},
+			"text": " Right."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:50,600",
+				"to": "00:46:03,280"
+			},
+			"offsets": {
+				"from": 2750600,
+				"to": 2763280
+			},
+			"text": " So as long as I can communicate why I think this is right and be open to others opinions and experiences, then there's there's a great movement towards education in the way that we want to affect our kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:03,480",
+				"to": "00:46:18,430"
+			},
+			"offsets": {
+				"from": 2763480,
+				"to": 2778430
+			},
+			"text": " And I think we I think we do that, you know, I'd say that that is definitely the most important part, the whole you want to do it, but also super open to hearing other people's opinions and not being really stubborn about your own."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:18,430",
+				"to": "00:46:22,510"
+			},
+			"offsets": {
+				"from": 2778430,
+				"to": 2782510
+			},
+			"text": " I think, well, learning is such a great gift, you know, like learning is a great gift."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:22,630",
+				"to": "00:46:30,090"
+			},
+			"offsets": {
+				"from": 2782630,
+				"to": 2790090
+			},
+			"text": " Being able to teach is a great gift and acknowledging that those have to happen on an equilibrium is very important."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:30,970",
+				"to": "00:46:31,830"
+			},
+			"offsets": {
+				"from": 2790970,
+				"to": 2791830
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:33,510",
+				"to": "00:46:35,410"
+			},
+			"offsets": {
+				"from": 2793510,
+				"to": 2795410
+			},
+			"text": " Why does it matter?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:35,450",
+				"to": "00:46:40,150"
+			},
+			"offsets": {
+				"from": 2795450,
+				"to": 2800150
+			},
+			"text": " I guess that's the I guess that's you mentioned that as we're working it out with other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:40,330",
+				"to": "00:46:44,170"
+			},
+			"offsets": {
+				"from": 2800330,
+				"to": 2804170
+			},
+			"text": " Like, what what is the big picture of why it's important to do this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:44,330",
+				"to": "00:46:52,820"
+			},
+			"offsets": {
+				"from": 2804330,
+				"to": 2812820
+			},
+			"text": " This kind of food education, you know, there could be a naysayer from every angle and a response to every naysayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:53,000",
+				"to": "00:47:05,280"
+			},
+			"offsets": {
+				"from": 2813000,
+				"to": 2825280
+			},
+			"text": " I've had folks come at us with, you know, we don't have money for this because it is not it's not part of like the core educational goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:05,280",
+				"to": "00:47:12,370"
+			},
+			"offsets": {
+				"from": 2825280,
+				"to": 2832370
+			},
+			"text": " And there's an argument with no, you know, there's here's how we approach the core educational goals."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:12,530",
+				"to": "00:47:14,070"
+			},
+			"offsets": {
+				"from": 2832530,
+				"to": 2834070
+			},
+			"text": " You know, we've just talked about that with a curriculum."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:14,890",
+				"to": "00:47:24,080"
+			},
+			"offsets": {
+				"from": 2834890,
+				"to": 2844080
+			},
+			"text": " And I've had folks say, you know, we, you know, we have no money for like, where do I begin?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:24,220",
+				"to": "00:47:24,840"
+			},
+			"offsets": {
+				"from": 2844220,
+				"to": 2844840
+			},
+			"text": " Where do I begin?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:25,840",
+				"to": "00:47:30,140"
+			},
+			"offsets": {
+				"from": 2845840,
+				"to": 2850140
+			},
+			"text": " People don't have enough money to purchase healthy food at the grocery store."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:30,300",
+				"to": "00:47:35,790"
+			},
+			"offsets": {
+				"from": 2850300,
+				"to": 2855790
+			},
+			"text": " Why should we give them opportunities to cook healthy food if they can't even purchase the healthy food?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:35,790",
+				"to": "00:47:51,390"
+			},
+			"offsets": {
+				"from": 2855790,
+				"to": 2871390
+			},
+			"text": " So then we come at it with like, we're providing another educational or an experience opportunity to think about purchasing on a limited budget with for healthy food, whether that's, you know, not just exclusively growing your own food."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:51,390",
+				"to": "00:48:04,860"
+			},
+			"offsets": {
+				"from": 2871390,
+				"to": 2884860
+			},
+			"text": " But we educate around budgeting and finances, and we firmly believe that, you know, we could purchase healthy food on a budget where we have to teach people how to cook in bulk and how to buy in season and all these different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:04,920",
+				"to": "00:48:08,960"
+			},
+			"offsets": {
+				"from": 2884920,
+				"to": 2888960
+			},
+			"text": " And so there's an argument for every naysayer around why this education is important."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:09,920",
+				"to": "00:48:13,260"
+			},
+			"offsets": {
+				"from": 2889920,
+				"to": 2893260
+			},
+			"text": " And these are tools that people take away throughout their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:13,960",
+				"to": "00:48:17,960"
+			},
+			"offsets": {
+				"from": 2893960,
+				"to": 2897960
+			},
+			"text": " I know I had some aha moments with food when I was very young."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:18,420",
+				"to": "00:48:24,340"
+			},
+			"offsets": {
+				"from": 2898420,
+				"to": 2904340
+			},
+			"text": " And, you know, they might seem insignificant in retelling them, but they've stuck with me for a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:24,480",
+				"to": "00:48:42,560"
+			},
+			"offsets": {
+				"from": 2904480,
+				"to": 2922560
+			},
+			"text": " So I'm hopeful that the kids that are in our district, in our gardens and kitchens, have these moments that may not be tangible, but that will affect them, you know, when they have their own families or when they're up against having, you know, a small budget, but needing to take care of their own health."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:42,960",
+				"to": "00:48:53,220"
+			},
+			"offsets": {
+				"from": 2922960,
+				"to": 2933220
+			},
+			"text": " Or wanting to support the larger ecosystem and believing in sustainable solutions for our environment and our labor and that everyone matters."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:53,380",
+				"to": "00:48:57,300"
+			},
+			"offsets": {
+				"from": 2933380,
+				"to": 2937300
+			},
+			"text": " I mean, there's so many different reasons why food systems is an important education."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:57,860",
+				"to": "00:49:04,080"
+			},
+			"offsets": {
+				"from": 2937860,
+				"to": 2944080
+			},
+			"text": " I think, I mean, I can speak mostly from maybe in the classroom because that's where I've been a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:04,080",
+				"to": "00:49:12,460"
+			},
+			"offsets": {
+				"from": 2944080,
+				"to": 2952460
+			},
+			"text": " And I've just seen a lot of opinions change with children and over such a short time as like four to six weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:12,980",
+				"to": "00:49:19,010"
+			},
+			"offsets": {
+				"from": 2952980,
+				"to": 2959010
+			},
+			"text": " I think food education just provides kids with a lot, kind of like a space to grow."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:19,330",
+				"to": "00:49:26,800"
+			},
+			"offsets": {
+				"from": 2959330,
+				"to": 2966800
+			},
+			"text": " And I think on the broader scheme of education, having food education has sort of created a more dynamic classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:27,040",
+				"to": "00:49:28,540"
+			},
+			"offsets": {
+				"from": 2967040,
+				"to": 2968540
+			},
+			"text": " I think that's really important."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:28,540",
+				"to": "00:49:39,490"
+			},
+			"offsets": {
+				"from": 2968540,
+				"to": 2979490
+			},
+			"text": " I think as a whole, we're sort of moving away from a stagnant classroom of like sitting and just taking notes and just taking tests and like lots of numbers based."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:40,150",
+				"to": "00:49:45,670"
+			},
+			"offsets": {
+				"from": 2980150,
+				"to": 2985670
+			},
+			"text": " And I've just seen food create, as I said, this dynamic classroom where everybody gets to move."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:45,670",
+				"to": "00:49:52,750"
+			},
+			"offsets": {
+				"from": 2985670,
+				"to": 2992750
+			},
+			"text": " And there's a lot of different moving parts, such as a restaurant kitchen to sort of keep that metaphor within food."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:52,750",
+				"to": "00:49:58,410"
+			},
+			"offsets": {
+				"from": 2992750,
+				"to": 2998410
+			},
+			"text": " And I just think that that's been really important as a starting point for kids' creativity."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:58,790",
+				"to": "00:50:07,140"
+			},
+			"offsets": {
+				"from": 2998790,
+				"to": 3007140
+			},
+			"text": " I've seen a lot of kids also start brainstorming their own recipes in the classroom, which I think is amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:07,360",
+				"to": "00:50:12,480"
+			},
+			"offsets": {
+				"from": 3007360,
+				"to": 3012480
+			},
+			"text": " Food is such a creative discipline, I guess."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:12,540",
+				"to": "00:50:21,910"
+			},
+			"offsets": {
+				"from": 3012540,
+				"to": 3021910
+			},
+			"text": " It's not necessarily a discipline, but to have a child see like look in the garden and be like, it would be great to eat these like tomatoes with basil."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:22,030",
+				"to": "00:50:24,870"
+			},
+			"offsets": {
+				"from": 3022030,
+				"to": 3024870
+			},
+			"text": " And maybe they didn't even know that that was a thing before."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:24,870",
+				"to": "00:50:29,190"
+			},
+			"offsets": {
+				"from": 3024870,
+				"to": 3029190
+			},
+			"text": " And to see them sort of put those things together is amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:29,190",
+				"to": "00:50:42,450"
+			},
+			"offsets": {
+				"from": 3029190,
+				"to": 3042450
+			},
+			"text": " Also, as someone who studied anthropology in college, it also like really sort of fires off that sense of what I've learned and how food is so important as our culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:42,750",
+				"to": "00:50:48,210"
+			},
+			"offsets": {
+				"from": 3042750,
+				"to": 3048210
+			},
+			"text": " And I think for kids to learn about their own culture through food is also really important."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:48,210",
+				"to": "00:50:53,070"
+			},
+			"offsets": {
+				"from": 3048210,
+				"to": 3053070
+			},
+			"text": " And it just I could go on forever about all the different things that food that food hits."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:53,150",
+				"to": "00:50:54,050"
+			},
+			"offsets": {
+				"from": 3053150,
+				"to": 3054050
+			},
+			"text": " And I'm sure I have."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:54,050",
+				"to": "00:50:57,510"
+			},
+			"offsets": {
+				"from": 3054050,
+				"to": 3057510
+			},
+			"text": " My friends are definitely tired of me talking about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:57,510",
+				"to": "00:51:10,750"
+			},
+			"offsets": {
+				"from": 3057510,
+				"to": 3070750
+			},
+			"text": " But I think just as a whole, the most important thing that I've seen is that dynamic classroom environment and just seeing kids want to listen to you because they know that you have something really important to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:10,910",
+				"to": "00:51:23,370"
+			},
+			"offsets": {
+				"from": 3070910,
+				"to": 3083370
+			},
+			"text": " But then that you are also going to let them go, go a little crazy and stick their hands in things and, you know, be hands on and be energetic and not be told no."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:23,450",
+				"to": "00:51:30,920"
+			},
+			"offsets": {
+				"from": 3083450,
+				"to": 3090920
+			},
+			"text": " Like I said earlier, I think that, you know, we've covered it."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:30,960",
+				"to": "00:51:31,860"
+			},
+			"offsets": {
+				"from": 3090960,
+				"to": 3091860
+			},
+			"text": " Yeah, I think that's a good one."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:31,860",
+				"to": "00:51:32,260"
+			},
+			"offsets": {
+				"from": 3091860,
+				"to": 3092260
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:32,920",
+				"to": "00:51:34,880"
+			},
+			"offsets": {
+				"from": 3092920,
+				"to": 3094880
+			},
+			"text": " I don't think I could add anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:36,240",
+				"to": "00:51:36,600"
+			},
+			"offsets": {
+				"from": 3096240,
+				"to": 3096600
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:36,820",
+				"to": "00:51:38,900"
+			},
+			"offsets": {
+				"from": 3096820,
+				"to": 3098900
+			},
+			"text": " Well, thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:38,960",
+				"to": "00:51:39,640"
+			},
+			"offsets": {
+				"from": 3098960,
+				"to": 3099640
+			},
+			"text": " I appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:39,680",
+				"to": "00:51:41,200"
+			},
+			"offsets": {
+				"from": 3099680,
+				"to": 3101200
+			},
+			"text": " This is it's been a great conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:41,340",
+				"to": "00:51:43,520"
+			},
+			"offsets": {
+				"from": 3101340,
+				"to": 3103520
+			},
+			"text": " And it was awesome to talk to you to both of you together."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:43,760",
+				"to": "00:51:44,800"
+			},
+			"offsets": {
+				"from": 3103760,
+				"to": 3104800
+			},
+			"text": " Yeah, likewise."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:45,120",
+				"to": "00:51:51,160"
+			},
+			"offsets": {
+				"from": 3105120,
+				"to": 3111160
+			},
+			"text": " Thank you for the opportunity for this conversation in this environment for like such an open space to talk about food systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:51,360",
+				"to": "00:51:54,040"
+			},
+			"offsets": {
+				"from": 3111360,
+				"to": 3114040
+			},
+			"text": " And for Rebecca and I to be able to talk like this has been really special."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:54,760",
+				"to": "00:51:56,830"
+			},
+			"offsets": {
+				"from": 3114760,
+				"to": 3116830
+			},
+			"text": " Thanks for hiring me."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:58,170",
+				"to": "00:52:13,230"
+			},
+			"offsets": {
+				"from": 3118170,
+				"to": 3133230
+			},
+			"text": " Delicious Revolution is a show about food, culture and place made by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:13,600",
+				"to": "00:52:18,860"
+			},
+			"offsets": {
+				"from": 3133600,
+				"to": 3138860
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:18,860",
+				"to": "00:52:23,480"
+			},
+			"offsets": {
+				"from": 3138860,
+				"to": 3143480
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:23,600",
+				"to": "00:52:29,040"
+			},
+			"offsets": {
+				"from": 3143600,
+				"to": 3149040
+			},
+			"text": " There we've got pictures and notes all about the interviews and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:29,420",
+				"to": "00:52:31,560"
+			},
+			"offsets": {
+				"from": 3149420,
+				"to": 3151560
+			},
+			"text": " You can find us on Facebook and Twitter too."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:32,010",
+				"to": "00:52:40,310"
+			},
+			"offsets": {
+				"from": 3152010,
+				"to": 3160310
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:40,810",
+				"to": "00:52:44,210"
+			},
+			"offsets": {
+				"from": 3160810,
+				"to": 3164210
+			},
+			"text": " Visit www.CalHom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:44,550",
+				"to": "00:52:50,150"
+			},
+			"offsets": {
+				"from": 3164550,
+				"to": 3170150
+			},
+			"text": " This season is a collaboration with Food First and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

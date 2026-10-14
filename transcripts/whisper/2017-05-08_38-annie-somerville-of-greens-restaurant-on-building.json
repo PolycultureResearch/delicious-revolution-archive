@@ -1,0 +1,5312 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:03,620",
+				"to": "00:00:15,320"
+			},
+			"offsets": {
+				"from": 3620,
+				"to": 15320
+			},
+			"text": " Those relationships are first and foremost. Our cooking is all about the farmers, the small producers, the cheese makers, the olive oil producers, the small wineries, etc. That's what the restaurant's about."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,320",
+				"to": "00:00:27,070"
+			},
+			"offsets": {
+				"from": 15320,
+				"to": 27070
+			},
+			"text": " I'm always one of the people who's in the background. I'm not a person who's in the foreground. I'm a silent change maker. I'm not one of those people out there on the front lines."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,070",
+				"to": "00:00:44,280"
+			},
+			"offsets": {
+				"from": 27070,
+				"to": 44280
+			},
+			"text": " You know, I have so much respect for people who've been out there right in the foreground for so many years. Alice Waters and so many other people who, you know, just have made a huge difference and who have to keep fighting for small farms, fighting against pesticides, all of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,280",
+				"to": "00:00:54,420"
+			},
+			"offsets": {
+				"from": 44280,
+				"to": 54420
+			},
+			"text": " But yeah, we're definitely part of it. There's absolutely no question. And I feel that we have changed people's perception about how you can eat well."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,420",
+				"to": "00:01:05,340"
+			},
+			"offsets": {
+				"from": 54420,
+				"to": 65340
+			},
+			"text": " And I think we continue to change people's perceptions every day when people come in."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,340",
+				"to": "00:01:10,340"
+			},
+			"offsets": {
+				"from": 65340,
+				"to": 70340
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,340",
+				"to": "00:01:16,960"
+			},
+			"offsets": {
+				"from": 70340,
+				"to": 76960
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,960",
+				"to": "00:01:20,030"
+			},
+			"offsets": {
+				"from": 76960,
+				"to": 80030
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,030",
+				"to": "00:01:30,210"
+			},
+			"offsets": {
+				"from": 80030,
+				"to": 90210
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,210",
+				"to": "00:01:39,510"
+			},
+			"offsets": {
+				"from": 90210,
+				"to": 99510
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills. Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,510",
+				"to": "00:01:50,350"
+			},
+			"offsets": {
+				"from": 99510,
+				"to": 110350
+			},
+			"text": " Annie Somerville is the executive chef of Green's Restaurant in San Francisco, an innovator of farm-to-table and vegetarian food since 1979."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,150",
+				"to": "00:01:59,790"
+			},
+			"offsets": {
+				"from": 111150,
+				"to": 119790
+			},
+			"text": " Green's is owned by the San Francisco Zen Center, buys much of their produce from the Zen Center's Green Gulch Farm, and has an exclusively vegetarian menu."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,430",
+				"to": "00:02:06,820"
+			},
+			"offsets": {
+				"from": 120430,
+				"to": 126820
+			},
+			"text": " The restaurant occupies a decommissioned army pier on the San Francisco Bay with views of fog rolling into the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,140",
+				"to": "00:02:11,220"
+			},
+			"offsets": {
+				"from": 127140,
+				"to": 131220
+			},
+			"text": " Annie is the author of two cookbooks, Fields of Greens and Everyday Greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,220",
+				"to": "00:02:18,010"
+			},
+			"offsets": {
+				"from": 131220,
+				"to": 138010
+			},
+			"text": " I've read that you got into cooking at Tassajara."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,490",
+				"to": "00:02:21,810"
+			},
+			"offsets": {
+				"from": 138490,
+				"to": 141810
+			},
+			"text": " Were you a cook before that, or what drew you to the kitchen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,210",
+				"to": "00:02:28,880"
+			},
+			"offsets": {
+				"from": 142210,
+				"to": 148880
+			},
+			"text": " Let me see. I did a little cooking before Tassajara, but never, of course, never professionally."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,520",
+				"to": "00:02:32,660"
+			},
+			"offsets": {
+				"from": 149520,
+				"to": 152660
+			},
+			"text": " And when I was at Tassajara, I was quite a bit younger than I am now."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,440",
+				"to": "00:02:37,020"
+			},
+			"offsets": {
+				"from": 153440,
+				"to": 157020
+			},
+			"text": " And I really, there were a lot of things I liked about cooking at Tassajara."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,180",
+				"to": "00:02:44,210"
+			},
+			"offsets": {
+				"from": 157180,
+				"to": 164210
+			},
+			"text": " One was, the kitchen staff at Tassajara had a different schedule than everyone else, so there was a lot of independence there."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,010",
+				"to": "00:02:48,700"
+			},
+			"offsets": {
+				"from": 165010,
+				"to": 168700
+			},
+			"text": " And we got to do all kinds of experimental things."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,100",
+				"to": "00:02:56,180"
+			},
+			"offsets": {
+				"from": 169100,
+				"to": 176180
+			},
+			"text": " And the other thing was, in the winter when it was really cold, we got to be indoors in the warm kitchen when everyone else was outside working."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,500",
+				"to": "00:02:59,970"
+			},
+			"offsets": {
+				"from": 176500,
+				"to": 179970
+			},
+			"text": " So, it was great to be roasting nuts and doing all kinds of things in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,970",
+				"to": "00:03:07,910"
+			},
+			"offsets": {
+				"from": 179970,
+				"to": 187910
+			},
+			"text": " To provide a little context, let's talk about Tassajara and what it is and what made that kitchen special."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,350",
+				"to": "00:03:14,530"
+			},
+			"offsets": {
+				"from": 189350,
+				"to": 194530
+			},
+			"text": " Wow. Well, let's see. Tassajara is part of the San Francisco Zen Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,530",
+				"to": "00:03:22,910"
+			},
+			"offsets": {
+				"from": 194530,
+				"to": 202910
+			},
+			"text": " Zen Center has three locations, a city center here at Page and Laguna in San Francisco, Green Gulch Farm and Organic Farm and Meditation Center in Marin County,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,130",
+				"to": "00:03:36,280"
+			},
+			"offsets": {
+				"from": 203130,
+				"to": 216280
+			},
+			"text": " and then Tassajara, which is Zen Center's monastery in the coastal range in a very remote place, which is not so far away, but it's remote and it takes quite a bit of time to get there."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,900",
+				"to": "00:03:45,240"
+			},
+			"offsets": {
+				"from": 216900,
+				"to": 225240
+			},
+			"text": " So, in the summer months, Tassajara is open to a summer guest season, which helps support the San Francisco Zen Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,240",
+				"to": "00:03:50,640"
+			},
+			"offsets": {
+				"from": 225240,
+				"to": 230640
+			},
+			"text": " All the Zen practitioners are there, as well as about 60 guests every day and night."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,640",
+				"to": "00:04:01,930"
+			},
+			"offsets": {
+				"from": 231640,
+				"to": 241930
+			},
+			"text": " And then, in the winter months, Tassajara is closed for formal meditation periods, strictly meditation and for Zen practitioners."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,750",
+				"to": "00:04:09,070"
+			},
+			"offsets": {
+				"from": 242750,
+				"to": 249070
+			},
+			"text": " So, what's so amazing about the Tassajara kitchen is, first of all, it's in a very remote, faraway place."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,600",
+				"to": "00:04:16,350"
+			},
+			"offsets": {
+				"from": 249600,
+				"to": 256350
+			},
+			"text": " All kinds of things happen there, storms, floods, fires, and you have to be prepared."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,400",
+				"to": "00:04:19,320"
+			},
+			"offsets": {
+				"from": 257400,
+				"to": 259320
+			},
+			"text": " And it's just a place that people love."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,400",
+				"to": "00:04:21,280"
+			},
+			"offsets": {
+				"from": 259400,
+				"to": 261280
+			},
+			"text": " It's one of those places that's very beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,580",
+				"to": "00:04:23,500"
+			},
+			"offsets": {
+				"from": 261580,
+				"to": 263500
+			},
+			"text": " It's a way to get away from the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,450",
+				"to": "00:04:27,530"
+			},
+			"offsets": {
+				"from": 264450,
+				"to": 267530
+			},
+			"text": " And, I guess, it's a Hot Springs resort."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,280",
+				"to": "00:04:34,140"
+			},
+			"offsets": {
+				"from": 268280,
+				"to": 274140
+			},
+			"text": " It's an old Indian Hot Springs camping place where the Esalen Indians used to come from the coast."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,760",
+				"to": "00:04:39,320"
+			},
+			"offsets": {
+				"from": 274760,
+				"to": 279320
+			},
+			"text": " And it's just a very, very unusual place."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,500",
+				"to": "00:04:44,420"
+			},
+			"offsets": {
+				"from": 279500,
+				"to": 284420
+			},
+			"text": " You know, Tassajara Creek runs through this very narrow valley, so you always hear the sound of the creek."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,090",
+				"to": "00:04:48,350"
+			},
+			"offsets": {
+				"from": 285090,
+				"to": 288350
+			},
+			"text": " People eat in a very relaxed, family-style way."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,230",
+				"to": "00:04:50,810"
+			},
+			"offsets": {
+				"from": 289230,
+				"to": 290810
+			},
+			"text": " Meals are served family-style."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,370",
+				"to": "00:04:57,510"
+			},
+			"offsets": {
+				"from": 291370,
+				"to": 297510
+			},
+			"text": " There's a lot of pressure on the cooks during the summer guest season because you're not only cooking for the guests three meals a day."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,570",
+				"to": "00:05:01,410"
+			},
+			"offsets": {
+				"from": 297570,
+				"to": 301410
+			},
+			"text": " You're also cooking for about 60 Zen students, as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,870",
+				"to": "00:05:04,260"
+			},
+			"offsets": {
+				"from": 301870,
+				"to": 304260
+			},
+			"text": " And then, of course, in the winter months, it's a lot quieter."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,560",
+				"to": "00:05:07,300"
+			},
+			"offsets": {
+				"from": 304560,
+				"to": 307300
+			},
+			"text": " You're cooking for the people who are in the meditation retreat."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,820",
+				"to": "00:05:11,300"
+			},
+			"offsets": {
+				"from": 307820,
+				"to": 311300
+			},
+			"text": " And it's just a beautiful stone and wooden building."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,140",
+				"to": "00:05:13,610"
+			},
+			"offsets": {
+				"from": 312140,
+				"to": 313610
+			},
+			"text": " There's a lot of history there."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,490",
+				"to": "00:05:17,570"
+			},
+			"offsets": {
+				"from": 314490,
+				"to": 317570
+			},
+			"text": " What are you thinking of when you're talking about being prepared for fires?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,830",
+				"to": "00:05:22,030"
+			},
+			"offsets": {
+				"from": 317830,
+				"to": 322030
+			},
+			"text": " Is there a time when you remember that you got stuck out there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,330",
+				"to": "00:05:29,550"
+			},
+			"offsets": {
+				"from": 322330,
+				"to": 329550
+			},
+			"text": " Well, let's just say I hope I was not the cause of some of these major, we'll just say, emergencies."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,190",
+				"to": "00:05:35,220"
+			},
+			"offsets": {
+				"from": 330190,
+				"to": 335220
+			},
+			"text": " But we had, you know, we are very, California's prone to fires and floods."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,700",
+				"to": "00:05:47,840"
+			},
+			"offsets": {
+				"from": 335700,
+				"to": 347840
+			},
+			"text": " So when I was at Tassajara in the 70s, we had the Marble Cone Fire, which was a fire started by a lightning strike out in Big Sur that just burned into Tassajara."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,080",
+				"to": "00:05:49,560"
+			},
+			"offsets": {
+				"from": 348080,
+				"to": 349560
+			},
+			"text": " So we had to evacuate Tassajara."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,760",
+				"to": "00:05:51,400"
+			},
+			"offsets": {
+				"from": 349760,
+				"to": 351400
+			},
+			"text": " Few people were able to stay."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,940",
+				"to": "00:05:57,130"
+			},
+			"offsets": {
+				"from": 351940,
+				"to": 357130
+			},
+			"text": " Fire didn't actually reach Tassajara, but, or came, but we were prepared for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,820",
+				"to": "00:06:04,600"
+			},
+			"offsets": {
+				"from": 357820,
+				"to": 364600
+			},
+			"text": " After that, of course, the watershed, and this was before I understood what the word watershed meant, the entire watershed had been burned."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,180",
+				"to": "00:06:06,920"
+			},
+			"offsets": {
+				"from": 365180,
+				"to": 366920
+			},
+			"text": " So, of course, it was a very rainy year."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,640",
+				"to": "00:06:21,650"
+			},
+			"offsets": {
+				"from": 367640,
+				"to": 381650
+			},
+			"text": " We flooded, and as the new, this was my first time being the head chef, and I was told, or head cook, I was told to prepare for the road washing out because it was very likely that the creek would overflow and we would flood."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,240",
+				"to": "00:06:23,130"
+			},
+			"offsets": {
+				"from": 382240,
+				"to": 383130
+			},
+			"text": " And I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,510",
+				"to": "00:06:27,850"
+			},
+			"offsets": {
+				"from": 383510,
+				"to": 387850
+			},
+			"text": " I didn't know anything about buying, though, so they said, just order a lot of dry goods."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,110",
+				"to": "00:06:28,870"
+			},
+			"offsets": {
+				"from": 388110,
+				"to": 388870
+			},
+			"text": " So, of course, I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,870",
+				"to": "00:06:31,930"
+			},
+			"offsets": {
+				"from": 388870,
+				"to": 391930
+			},
+			"text": " I ordered about five times too many dry goods, more than we needed."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,750",
+				"to": "00:06:34,840"
+			},
+			"offsets": {
+				"from": 392750,
+				"to": 394840
+			},
+			"text": " And then that happened."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,020",
+				"to": "00:06:35,740"
+			},
+			"offsets": {
+				"from": 395020,
+				"to": 395740
+			},
+			"text": " We had the flood."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,860",
+				"to": "00:06:36,600"
+			},
+			"offsets": {
+				"from": 395860,
+				"to": 396600
+			},
+			"text": " We survived that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,720",
+				"to": "00:06:40,200"
+			},
+			"offsets": {
+				"from": 396720,
+				"to": 400200
+			},
+			"text": " And then in the spring, we still had a lot of those dry goods down in our food storage area."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,520",
+				"to": "00:06:47,270"
+			},
+			"offsets": {
+				"from": 400520,
+				"to": 407270
+			},
+			"text": " And then in the spring, we had a structural fire, big fire, which burned down our meditation hall and the food storage area."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,530",
+				"to": "00:06:53,880"
+			},
+			"offsets": {
+				"from": 407530,
+				"to": 413880
+			},
+			"text": " So, I learned something about ordering, which is, even if you need to order a lot for a rainy day, don't order too much."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,210",
+				"to": "00:06:58,550"
+			},
+			"offsets": {
+				"from": 415210,
+				"to": 418550
+			},
+			"text": " And you've been ordering really fresh food ever since."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,750",
+				"to": "00:06:59,430"
+			},
+			"offsets": {
+				"from": 418750,
+				"to": 419430
+			},
+			"text": " Is that true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,690",
+				"to": "00:07:06,170"
+			},
+			"offsets": {
+				"from": 419690,
+				"to": 426170
+			},
+			"text": " I think one of the most unique things about greens is its relationship with Green Gulch and a lot of other farms around."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,170",
+				"to": "00:07:11,050"
+			},
+			"offsets": {
+				"from": 426170,
+				"to": 431050
+			},
+			"text": " And I know you're well known for being committed to those relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,830",
+				"to": "00:07:17,880"
+			},
+			"offsets": {
+				"from": 431830,
+				"to": 437880
+			},
+			"text": " Can you talk about how you formed some of those relationships and also how that influences the cooking here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,660",
+				"to": "00:07:22,390"
+			},
+			"offsets": {
+				"from": 438660,
+				"to": 442390
+			},
+			"text": " Well, first, I'll say that those relationships are first and foremost."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,870",
+				"to": "00:07:24,530"
+			},
+			"offsets": {
+				"from": 442870,
+				"to": 444530
+			},
+			"text": " That's what forms up our cooking."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,530",
+				"to": "00:07:34,880"
+			},
+			"offsets": {
+				"from": 444530,
+				"to": 454880
+			},
+			"text": " Our cooking is all about farmers, the small producers, the cheese makers, the olive oil producers, the small wineries, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,020",
+				"to": "00:07:36,360"
+			},
+			"offsets": {
+				"from": 455020,
+				"to": 456360
+			},
+			"text": " That's what the restaurant's about."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,160",
+				"to": "00:07:47,400"
+			},
+			"offsets": {
+				"from": 457160,
+				"to": 467400
+			},
+			"text": " And then just over the many years, we, I, we have cultivated many, many, many relationships with farmers that deliver directly to greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,520",
+				"to": "00:07:52,500"
+			},
+			"offsets": {
+				"from": 467520,
+				"to": 472500
+			},
+			"text": " Of course, we are, as I say, connected at the hip to Green Gulch because Green Gulch is our family."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,020",
+				"to": "00:07:57,800"
+			},
+			"offsets": {
+				"from": 473020,
+				"to": 477800
+			},
+			"text": " And people were farming at Green Gulch well before greens came along."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,980",
+				"to": "00:07:58,320"
+			},
+			"offsets": {
+				"from": 477980,
+				"to": 478320
+			},
+			"text": " Let me see."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,380",
+				"to": "00:08:04,120"
+			},
+			"offsets": {
+				"from": 478380,
+				"to": 484120
+			},
+			"text": " They started farming at Green Gulch in maybe the early 70s, maybe 73, 74, 70, 1975."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,760",
+				"to": "00:08:08,740"
+			},
+			"offsets": {
+				"from": 484760,
+				"to": 488740
+			},
+			"text": " And then greens opened in 1979."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,230",
+				"to": "00:08:13,490"
+			},
+			"offsets": {
+				"from": 489230,
+				"to": 493490
+			},
+			"text": " So it seemed like a long time, even though now when I recall it, a few years isn't that much."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,990",
+				"to": "00:08:17,770"
+			},
+			"offsets": {
+				"from": 493990,
+				"to": 497770
+			},
+			"text": " Yeah, we just worked with, we're working, I can't even, I mean, many, many farmers."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,110",
+				"to": "00:08:24,810"
+			},
+			"offsets": {
+				"from": 498110,
+				"to": 504810
+			},
+			"text": " Warren Weber at Starroot Farms, who was one of the authors of the California Certified Organic, CCOF."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,400",
+				"to": "00:08:31,370"
+			},
+			"offsets": {
+				"from": 505400,
+				"to": 511370
+			},
+			"text": " You know, that's very serious legislation for, and one of the strictest for organic principles."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,890",
+				"to": "00:08:35,450"
+			},
+			"offsets": {
+				"from": 511890,
+				"to": 515450
+			},
+			"text": " And so we've worked with Starroot for many, many years."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,690",
+				"to": "00:08:36,190"
+			},
+			"offsets": {
+				"from": 515690,
+				"to": 516190
+			},
+			"text": " Green Gulch."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,310",
+				"to": "00:08:37,670"
+			},
+			"offsets": {
+				"from": 516310,
+				"to": 517670
+			},
+			"text": " Many farms in Marin."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,190",
+				"to": "00:08:41,010"
+			},
+			"offsets": {
+				"from": 518190,
+				"to": 521010
+			},
+			"text": " I shop at the Ferry Plaza Farmer's Market twice a week."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,110",
+				"to": "00:08:42,750"
+			},
+			"offsets": {
+				"from": 521110,
+				"to": 522750
+			},
+			"text": " So we're connected to many farmers there."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,450",
+				"to": "00:08:45,950"
+			},
+			"offsets": {
+				"from": 523450,
+				"to": 525950
+			},
+			"text": " Farms that wouldn't otherwise deliver to the restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,330",
+				"to": "00:08:47,050"
+			},
+			"offsets": {
+				"from": 526330,
+				"to": 527050
+			},
+			"text": " Some of them do."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,310",
+				"to": "00:08:54,240"
+			},
+			"offsets": {
+				"from": 527310,
+				"to": 534240
+			},
+			"text": " But mostly I'm picking up berries and fresh beans and just ingredients."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,460",
+				"to": "00:08:58,440"
+			},
+			"offsets": {
+				"from": 534460,
+				"to": 538440
+			},
+			"text": " Like right now we're kind of, we're fall, but it's early November."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,940",
+				"to": "00:09:01,100"
+			},
+			"offsets": {
+				"from": 538940,
+				"to": 541100
+			},
+			"text": " It's beautiful and warm and there's still berries."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,240",
+				"to": "00:09:02,000"
+			},
+			"offsets": {
+				"from": 541240,
+				"to": 542000
+			},
+			"text": " There's still fresh beans."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,100",
+				"to": "00:09:04,020"
+			},
+			"offsets": {
+				"from": 542100,
+				"to": 544020
+			},
+			"text": " There's still, there's still some really good tomatoes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,280",
+				"to": "00:09:13,050"
+			},
+			"offsets": {
+				"from": 544280,
+				"to": 553050
+			},
+			"text": " So I still, I'm hanging on to those late, late season as we're moving into the early season of like fall and winter."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,100",
+				"to": "00:09:16,180"
+			},
+			"offsets": {
+				"from": 554100,
+				"to": 556180
+			},
+			"text": " Not everyone was doing this."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,400",
+				"to": "00:09:20,080"
+			},
+			"offsets": {
+				"from": 556400,
+				"to": 560080
+			},
+			"text": " There wasn't really an established model for this when you first came to greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,280",
+				"to": "00:09:20,880"
+			},
+			"offsets": {
+				"from": 560280,
+				"to": 560880
+			},
+			"text": " Is that right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,940",
+				"to": "00:09:30,100"
+			},
+			"offsets": {
+				"from": 560940,
+				"to": 570100
+			},
+			"text": " I mean, it sounds like a magical time in the late 70s and early 80s for innovations and connecting good food to a good food movement and good food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,080",
+				"to": "00:09:32,730"
+			},
+			"offsets": {
+				"from": 571080,
+				"to": 572730
+			},
+			"text": " Well, that's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,310",
+				"to": "00:09:39,040"
+			},
+			"offsets": {
+				"from": 573310,
+				"to": 579040
+			},
+			"text": " Um, I would say when I came to greens, I mean, I didn't know what I was doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,200",
+				"to": "00:09:44,700"
+			},
+			"offsets": {
+				"from": 579200,
+				"to": 584700
+			},
+			"text": " I don't think, I think a lot of us didn't really know what we were doing at like the start of anything, something starting up."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,740",
+				"to": "00:09:46,580"
+			},
+			"offsets": {
+				"from": 584740,
+				"to": 586580
+			},
+			"text": " It's just, you're just doing things."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,760",
+				"to": "00:09:52,140"
+			},
+			"offsets": {
+				"from": 586760,
+				"to": 592140
+			},
+			"text": " And, um, and then later on it either forms up or it, or it goes away, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,180",
+				"to": "00:09:55,460"
+			},
+			"offsets": {
+				"from": 592180,
+				"to": 595460
+			},
+			"text": " If it's not solid, stable, it doesn't have a foundation."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,460",
+				"to": "00:09:56,480"
+			},
+			"offsets": {
+				"from": 595460,
+				"to": 596480
+			},
+			"text": " It just fades out."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,020",
+				"to": "00:10:01,210"
+			},
+			"offsets": {
+				"from": 597020,
+				"to": 601210
+			},
+			"text": " So, yeah, it was, when I came to greens, it was very exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,610",
+				"to": "00:10:09,200"
+			},
+			"offsets": {
+				"from": 601610,
+				"to": 609200
+			},
+			"text": " Uh, I had never worked in a restaurant kitchen before, even though I had cooked at Tassajara and, uh, the other Zen Center kitchens."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,540",
+				"to": "00:10:15,300"
+			},
+			"offsets": {
+				"from": 609540,
+				"to": 615300
+			},
+			"text": " I just was really unprepared for the intensity of working in a busy restaurant kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,300",
+				"to": "00:10:21,870"
+			},
+			"offsets": {
+				"from": 615300,
+				"to": 621870
+			},
+			"text": " And, you know, really here, most everyone was just doing it for the first time."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,970",
+				"to": "00:10:27,410"
+			},
+			"offsets": {
+				"from": 621970,
+				"to": 627410
+			},
+			"text": " So, it was, it was, let's just say, it had its own level of organization, but it was pretty, pretty crazy."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,050",
+				"to": "00:10:32,530"
+			},
+			"offsets": {
+				"from": 628050,
+				"to": 632530
+			},
+			"text": " Um, and of course, it's all vegetables and it was an exciting time."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,850",
+				"to": "00:10:35,190"
+			},
+			"offsets": {
+				"from": 632850,
+				"to": 635190
+			},
+			"text": " And at that time, there were just a few farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,350",
+				"to": "00:10:37,930"
+			},
+			"offsets": {
+				"from": 635350,
+				"to": 637930
+			},
+			"text": " Of course, Green Gulch, which we could get a little bit of produce from."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,110",
+				"to": "00:10:42,710"
+			},
+			"offsets": {
+				"from": 638110,
+				"to": 642710
+			},
+			"text": " There just weren't very many farms right here that were doing what is happening today,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,810",
+				"to": "00:10:49,250"
+			},
+			"offsets": {
+				"from": 642810,
+				"to": 649250
+			},
+			"text": " which is just making organic, sustainably grown produce and ingredients just accessible the way they are."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,590",
+				"to": "00:10:58,180"
+			},
+			"offsets": {
+				"from": 649590,
+				"to": 658180
+			},
+			"text": " So, we actually had a buyer who would go up to the Delta, pick up tomatoes, pick up a lot of the fresh summer crops,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,180",
+				"to": "00:11:02,980"
+			},
+			"offsets": {
+				"from": 658180,
+				"to": 662980
+			},
+			"text": " which we could get through farmers who were actually, Debra Madison, who was then our chef,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,480",
+				"to": "00:11:06,980"
+			},
+			"offsets": {
+				"from": 663480,
+				"to": 666980
+			},
+			"text": " was connected to because she had grown up in Davis and she just knew all these people."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,460",
+				"to": "00:11:09,080"
+			},
+			"offsets": {
+				"from": 667460,
+				"to": 669080
+			},
+			"text": " So, or knew of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,620",
+				"to": "00:11:14,740"
+			},
+			"offsets": {
+				"from": 669620,
+				"to": 674740
+			},
+			"text": " And then we had a wonderful, at that time, as we still do, wonderful connection to Chez Panisse."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,360",
+				"to": "00:11:19,680"
+			},
+			"offsets": {
+				"from": 675360,
+				"to": 679680
+			},
+			"text": " So, there was sort of this sort of sense of, I guess, being on a big adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,220",
+				"to": "00:11:23,520"
+			},
+			"offsets": {
+				"from": 680220,
+				"to": 683520
+			},
+			"text": " With others on the same adventure, but new to the adventure."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,950",
+				"to": "00:11:34,710"
+			},
+			"offsets": {
+				"from": 684950,
+				"to": 694710
+			},
+			"text": " And then, what's it been like to have a kind of model for food and a food movement grow up around some of these ideas that you were working on back then?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,570",
+				"to": "00:11:45,390"
+			},
+			"offsets": {
+				"from": 695570,
+				"to": 705390
+			},
+			"text": " Well, I think, you know, when you're part of history, you're just living it and you don't necessarily realize that you're doing what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,490",
+				"to": "00:11:47,150"
+			},
+			"offsets": {
+				"from": 705490,
+				"to": 707150
+			},
+			"text": " You're just doing it, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,250",
+				"to": "00:11:48,190"
+			},
+			"offsets": {
+				"from": 707250,
+				"to": 708190
+			},
+			"text": " Which is what we've done."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,150",
+				"to": "00:11:54,370"
+			},
+			"offsets": {
+				"from": 709150,
+				"to": 714370
+			},
+			"text": " So, it's all formed up beautifully, is what I want to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,530",
+				"to": "00:12:01,170"
+			},
+			"offsets": {
+				"from": 714530,
+				"to": 721170
+			},
+			"text": " I think that the real challenges are, can small farmers continue to do what they do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,560",
+				"to": "00:12:05,320"
+			},
+			"offsets": {
+				"from": 721560,
+				"to": 725320
+			},
+			"text": " You know, let's see the 70s, the 80s."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,580",
+				"to": "00:12:07,200"
+			},
+			"offsets": {
+				"from": 725580,
+				"to": 727200
+			},
+			"text": " You know, people could afford to buy land."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,610",
+				"to": "00:12:09,860"
+			},
+			"offsets": {
+				"from": 727610,
+				"to": 729860
+			},
+			"text": " You know, the whole question of being able to buy land."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,460",
+				"to": "00:12:16,100"
+			},
+			"offsets": {
+				"from": 730460,
+				"to": 736100
+			},
+			"text": " You know, can small farmers find the help that they need, just with all the issues around immigration?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,400",
+				"to": "00:12:20,220"
+			},
+			"offsets": {
+				"from": 736400,
+				"to": 740220
+			},
+			"text": " And, you know, it's just, it's very rigorous work."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,720",
+				"to": "00:12:21,760"
+			},
+			"offsets": {
+				"from": 740720,
+				"to": 741760
+			},
+			"text": " Restaurants are hard work."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,900",
+				"to": "00:12:23,180"
+			},
+			"offsets": {
+				"from": 741900,
+				"to": 743180
+			},
+			"text": " Farming is much harder work."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,380",
+				"to": "00:12:28,020"
+			},
+			"offsets": {
+				"from": 743380,
+				"to": 748020
+			},
+			"text": " And also, just with the, just like the unpredictable, well, California's always been a very unpredictable place."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,180",
+				"to": "00:12:29,860"
+			},
+			"offsets": {
+				"from": 748180,
+				"to": 749860
+			},
+			"text": " Climate is even more unpredictable."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,790",
+				"to": "00:12:35,430"
+			},
+			"offsets": {
+				"from": 750790,
+				"to": 755430
+			},
+			"text": " So, I think that, you know, we just feel like we're part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,530",
+				"to": "00:12:39,110"
+			},
+			"offsets": {
+				"from": 755530,
+				"to": 759110
+			},
+			"text": " And I'm happy to be one of the early chefs."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,230",
+				"to": "00:12:45,390"
+			},
+			"offsets": {
+				"from": 759230,
+				"to": 765390
+			},
+			"text": " I think I'm definitely one of, we'll just say, the more senior chefs shopping at the farmer's market on Tuesdays and Saturdays."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:46,460",
+				"to": "00:12:48,440"
+			},
+			"offsets": {
+				"from": 766460,
+				"to": 768440
+			},
+			"text": " I'm happy to be part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,480",
+				"to": "00:12:59,880"
+			},
+			"offsets": {
+				"from": 770480,
+				"to": 779880
+			},
+			"text": " When I worked here, I think we figured out, I think it was nine years ago, it was, it struck me that your kitchen is definitely the happiest kitchen to work in that I ever worked in."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,500",
+				"to": "00:13:03,390"
+			},
+			"offsets": {
+				"from": 780500,
+				"to": 783390
+			},
+			"text": " Is that something that you put a lot of thought into?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,110",
+				"to": "00:13:09,230"
+			},
+			"offsets": {
+				"from": 785110,
+				"to": 789230
+			},
+			"text": " Well, I think that it's a lot of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,430",
+				"to": "00:13:17,310"
+			},
+			"offsets": {
+				"from": 789430,
+				"to": 797310
+			},
+			"text": " One, I feel like there's a certain thing in the bones of Greens, or just it's in the walls here, which is we started out as a community."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,310",
+				"to": "00:13:21,290"
+			},
+			"offsets": {
+				"from": 797310,
+				"to": 801290
+			},
+			"text": " Because when Greens first opened, everyone working here was part of the Zen Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,810",
+				"to": "00:13:27,050"
+			},
+			"offsets": {
+				"from": 801810,
+				"to": 807050
+			},
+			"text": " So, there's a sense of that, because people, new people who come here often say this place feels like family."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,190",
+				"to": "00:13:30,650"
+			},
+			"offsets": {
+				"from": 807190,
+				"to": 810650
+			},
+			"text": " And I know a lot of restaurants do feel like family, and a lot do not."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,650",
+				"to": "00:13:34,430"
+			},
+			"offsets": {
+				"from": 811650,
+				"to": 814430
+			},
+			"text": " We're kind of a gentle place to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,310",
+				"to": "00:13:40,250"
+			},
+			"offsets": {
+				"from": 815310,
+				"to": 820250
+			},
+			"text": " We're not, it's not, we're not in, we're not hardcore the way many restaurants are."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,650",
+				"to": "00:13:43,730"
+			},
+			"offsets": {
+				"from": 820650,
+				"to": 823730
+			},
+			"text": " I think also the fact that it's a lot of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,810",
+				"to": "00:13:45,530"
+			},
+			"offsets": {
+				"from": 823810,
+				"to": 825530
+			},
+			"text": " We're owned by the San Francisco Zen Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,610",
+				"to": "00:13:47,910"
+			},
+			"offsets": {
+				"from": 825610,
+				"to": 827910
+			},
+			"text": " So, that's one great thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,050",
+				"to": "00:13:54,070"
+			},
+			"offsets": {
+				"from": 828050,
+				"to": 834070
+			},
+			"text": " We're supporting Zen Buddhist practitioners and what, and their pursuits of making the world a better place."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,450",
+				"to": "00:13:56,790"
+			},
+			"offsets": {
+				"from": 835450,
+				"to": 836790
+			},
+			"text": " We cook vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:56,970",
+				"to": "00:13:58,050"
+			},
+			"offsets": {
+				"from": 836970,
+				"to": 838050
+			},
+			"text": " There are no animal carcasses."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,590",
+				"to": "00:13:59,550"
+			},
+			"offsets": {
+				"from": 838590,
+				"to": 839550
+			},
+			"text": " That's a great thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,750",
+				"to": "00:14:06,630"
+			},
+			"offsets": {
+				"from": 839750,
+				"to": 846630
+			},
+			"text": " You know, and also, I always notice that no matter how clean a kitchen is, the first thing I notice when I go into other kitchens is I smell animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,010",
+				"to": "00:14:09,930"
+			},
+			"offsets": {
+				"from": 847010,
+				"to": 849930
+			},
+			"text": " You know, you smell the bones, you smell the carcasses, the meat, the fat, the whatnot."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,470",
+				"to": "00:14:12,030"
+			},
+			"offsets": {
+				"from": 850470,
+				"to": 852030
+			},
+			"text": " So, we don't have any of that here."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,030",
+				"to": "00:14:15,110"
+			},
+			"offsets": {
+				"from": 852030,
+				"to": 855110
+			},
+			"text": " So, we haven't, no animals have died because of greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,070",
+				"to": "00:14:19,490"
+			},
+			"offsets": {
+				"from": 856070,
+				"to": 859490
+			},
+			"text": " And then, also, it's a very spacious place."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,650",
+				"to": "00:14:20,850"
+			},
+			"offsets": {
+				"from": 859650,
+				"to": 860850
+			},
+			"text": " It's a very large restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,110",
+				"to": "00:14:23,990"
+			},
+			"offsets": {
+				"from": 861110,
+				"to": 863990
+			},
+			"text": " I don't think anyone would ever design a restaurant quite like this today."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:24,630",
+				"to": "00:14:29,190"
+			},
+			"offsets": {
+				"from": 864630,
+				"to": 869190
+			},
+			"text": " We go back to, probably this restaurant was designed in 1977, 78."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,330",
+				"to": "00:14:30,130"
+			},
+			"offsets": {
+				"from": 869330,
+				"to": 870130
+			},
+			"text": " It's a long time ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,350",
+				"to": "00:14:34,170"
+			},
+			"offsets": {
+				"from": 870350,
+				"to": 874170
+			},
+			"text": " So, the way the space was laid out, it's different than the way people do it now."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,770",
+				"to": "00:14:35,930"
+			},
+			"offsets": {
+				"from": 874770,
+				"to": 875930
+			},
+			"text": " The kitchen is very spacious."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,600",
+				"to": "00:14:38,600"
+			},
+			"offsets": {
+				"from": 876600,
+				"to": 878600
+			},
+			"text": " Lots of light, lots of fresh air."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,760",
+				"to": "00:14:39,680"
+			},
+			"offsets": {
+				"from": 878760,
+				"to": 879680
+			},
+			"text": " We're right on the bay."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,100",
+				"to": "00:14:41,420"
+			},
+			"offsets": {
+				"from": 880100,
+				"to": 881420
+			},
+			"text": " We're in Fort Mason Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,980",
+				"to": "00:14:44,100"
+			},
+			"offsets": {
+				"from": 881980,
+				"to": 884100
+			},
+			"text": " That, unto itself, is its own environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,680",
+				"to": "00:14:52,700"
+			},
+			"offsets": {
+				"from": 884680,
+				"to": 892700
+			},
+			"text": " And we're really on the edge of the city, which, as it's good and bad points, it's not so great from a public transportation perspective, but it's just a great place to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,000",
+				"to": "00:14:57,340"
+			},
+			"offsets": {
+				"from": 893000,
+				"to": 897340
+			},
+			"text": " And we just have people, I think the place brings out the best in people."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,340",
+				"to": "00:15:03,120"
+			},
+			"offsets": {
+				"from": 897340,
+				"to": 903120
+			},
+			"text": " One of the people we interviewed for the last season is Saru Jairaman, and she leads the Restaurant Opportunity Center."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,400",
+				"to": "00:15:16,940"
+			},
+			"offsets": {
+				"from": 903400,
+				"to": 916940
+			},
+			"text": " And she really got us thinking a lot about how labor works in restaurants and how restaurants can be a dismal place to work, but also a really great place to make a living."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,740",
+				"to": "00:15:29,970"
+			},
+			"offsets": {
+				"from": 917740,
+				"to": 929970
+			},
+			"text": " So, what are some of the things that you think about and that you try to do to make this a good place to work and make a living in such a, in kind of a hard time to be a working person in San Francisco?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,970",
+				"to": "00:15:42,460"
+			},
+			"offsets": {
+				"from": 929970,
+				"to": 942460
+			},
+			"text": " Well, it is a hard time to be a working person in this world, I think, and especially so many pressures in the Bay Region, housing, the high cost of living."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,020",
+				"to": "00:15:50,280"
+			},
+			"offsets": {
+				"from": 943020,
+				"to": 950280
+			},
+			"text": " I realize, I never think about this, but for all these years, I have been, I know for myself, I have been eating at Greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,360",
+				"to": "00:15:55,470"
+			},
+			"offsets": {
+				"from": 950360,
+				"to": 955470
+			},
+			"text": " I've been eating all this food, and I eat Greens leftovers, and, you know, it's a good, healthy lifestyle."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:56,750",
+				"to": "00:16:01,070"
+			},
+			"offsets": {
+				"from": 956750,
+				"to": 961070
+			},
+			"text": " So, one thing that's great, we're very generous with feeding our staff."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,310",
+				"to": "00:16:01,850"
+			},
+			"offsets": {
+				"from": 961310,
+				"to": 961850
+			},
+			"text": " That's one thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,910",
+				"to": "00:16:07,950"
+			},
+			"offsets": {
+				"from": 961910,
+				"to": 967950
+			},
+			"text": " So, for people who don't earn a lot of money, it makes a difference to be able to know that you're going to, you can eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,220",
+				"to": "00:16:10,190"
+			},
+			"offsets": {
+				"from": 968220,
+				"to": 970190
+			},
+			"text": " You don't have to think about your meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,190",
+				"to": "00:16:14,430"
+			},
+			"offsets": {
+				"from": 970190,
+				"to": 974430
+			},
+			"text": " You can take leftovers home to your family if you want to or need to."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,850",
+				"to": "00:16:22,450"
+			},
+			"offsets": {
+				"from": 975850,
+				"to": 982450
+			},
+			"text": " I think for people, one of the most important things is because so much work is repetitious."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,650",
+				"to": "00:16:26,530"
+			},
+			"offsets": {
+				"from": 982650,
+				"to": 986530
+			},
+			"text": " Restaurant work is definitely repetitious, and it can become monotonous."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,690",
+				"to": "00:16:27,690"
+			},
+			"offsets": {
+				"from": 986690,
+				"to": 987690
+			},
+			"text": " It can be boring."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,190",
+				"to": "00:16:32,350"
+			},
+			"offsets": {
+				"from": 989190,
+				"to": 992350
+			},
+			"text": " You know, the most important thing to me is for people to feel appreciated."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,510",
+				"to": "00:16:37,490"
+			},
+			"offsets": {
+				"from": 993510,
+				"to": 997490
+			},
+			"text": " I make it a point to say hello to every person who works here every day."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,770",
+				"to": "00:16:39,190"
+			},
+			"offsets": {
+				"from": 997770,
+				"to": 999190
+			},
+			"text": " I learn people's names."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:39,690",
+				"to": "00:16:42,560"
+			},
+			"offsets": {
+				"from": 999690,
+				"to": 1002560
+			},
+			"text": " It's not always easy to remember everyone's name."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,560",
+				"to": "00:16:48,500"
+			},
+			"offsets": {
+				"from": 1002560,
+				"to": 1008500
+			},
+			"text": " We have much more turnover now than we have had in the past just because of the times that we live in."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,000",
+				"to": "00:16:50,550"
+			},
+			"offsets": {
+				"from": 1009000,
+				"to": 1010550
+			},
+			"text": " But I think those things are important."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,210",
+				"to": "00:16:58,810"
+			},
+			"offsets": {
+				"from": 1011210,
+				"to": 1018810
+			},
+			"text": " And I think that generally all of our managers respect our staff."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,150",
+				"to": "00:17:00,110"
+			},
+			"offsets": {
+				"from": 1019150,
+				"to": 1020110
+			},
+			"text": " Respect is huge."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,910",
+				"to": "00:17:07,670"
+			},
+			"offsets": {
+				"from": 1020910,
+				"to": 1027670
+			},
+			"text": " And I think that people who work here are happy for the most part."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,910",
+				"to": "00:17:10,990"
+			},
+			"offsets": {
+				"from": 1027910,
+				"to": 1030990
+			},
+			"text": " And also, this place elevates people."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,150",
+				"to": "00:17:12,580"
+			},
+			"offsets": {
+				"from": 1031150,
+				"to": 1032580
+			},
+			"text": " It's a beautiful location."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,240",
+				"to": "00:17:16,480"
+			},
+			"offsets": {
+				"from": 1033240,
+				"to": 1036480
+			},
+			"text": " We treat everyone the same here, no matter who you are."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,800",
+				"to": "00:17:20,340"
+			},
+			"offsets": {
+				"from": 1036800,
+				"to": 1040340
+			},
+			"text": " And we treat, basically, we try to treat our staff the same way we treat our customers."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,020",
+				"to": "00:17:28,720"
+			},
+			"offsets": {
+				"from": 1041020,
+				"to": 1048720
+			},
+			"text": " And good things come out of that, of people not feeling oppressed or repressed or people feeling that."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,760",
+				"to": "00:17:30,920"
+			},
+			"offsets": {
+				"from": 1048760,
+				"to": 1050920
+			},
+			"text": " And we follow all the labor practices."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,340",
+				"to": "00:17:32,480"
+			},
+			"offsets": {
+				"from": 1051340,
+				"to": 1052480
+			},
+			"text": " You know, we do all the things."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,040",
+				"to": "00:17:35,580"
+			},
+			"offsets": {
+				"from": 1053040,
+				"to": 1055580
+			},
+			"text": " We make every effort to be a very good employer."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,880",
+				"to": "00:17:39,630"
+			},
+			"offsets": {
+				"from": 1055880,
+				"to": 1059630
+			},
+			"text": " And I think it works well for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,130",
+				"to": "00:17:44,250"
+			},
+			"offsets": {
+				"from": 1060130,
+				"to": 1064250
+			},
+			"text": " And also, there's just something nice about all this beautiful fresh produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:45,090",
+				"to": "00:17:47,810"
+			},
+			"offsets": {
+				"from": 1065090,
+				"to": 1067810
+			},
+			"text": " You know, there's just something about the ingredients that come in the door."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,090",
+				"to": "00:17:51,010"
+			},
+			"offsets": {
+				"from": 1068090,
+				"to": 1071010
+			},
+			"text": " You know, these and knowing the people who make the deliveries."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,190",
+				"to": "00:17:52,830"
+			},
+			"offsets": {
+				"from": 1071190,
+				"to": 1072830
+			},
+			"text": " You know, it's all very personal."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,080",
+				"to": "00:17:57,170"
+			},
+			"offsets": {
+				"from": 1073080,
+				"to": 1077170
+			},
+			"text": " So, it does have, hopefully, the good qualities of family."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,960",
+				"to": "00:18:00,400"
+			},
+			"offsets": {
+				"from": 1077960,
+				"to": 1080400
+			},
+			"text": " That sounds true from when I worked here."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,030",
+				"to": "00:18:05,990"
+			},
+			"offsets": {
+				"from": 1082030,
+				"to": 1085990
+			},
+			"text": " One of the things that Greens is famous for is, as you mentioned, cooking vegetarian food"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,990",
+				"to": "00:18:10,390"
+			},
+			"offsets": {
+				"from": 1085990,
+				"to": 1090390
+			},
+			"text": " and kind of making vegetables the star of the meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,390",
+				"to": "00:18:12,720"
+			},
+			"offsets": {
+				"from": 1090390,
+				"to": 1092720
+			},
+			"text": " Was that always received so well?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,980",
+				"to": "00:18:16,900"
+			},
+			"offsets": {
+				"from": 1092980,
+				"to": 1096900
+			},
+			"text": " Was that a hard sell to make in the early days of Greens?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,810",
+				"to": "00:18:19,210"
+			},
+			"offsets": {
+				"from": 1097810,
+				"to": 1099210
+			},
+			"text": " We'll just say yes and no."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,630",
+				"to": "00:18:23,290"
+			},
+			"offsets": {
+				"from": 1099630,
+				"to": 1103290
+			},
+			"text": " The first is because what we were doing was so different."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,310",
+				"to": "00:18:28,270"
+			},
+			"offsets": {
+				"from": 1104310,
+				"to": 1108270
+			},
+			"text": " We became very well known right off the bat."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,160",
+				"to": "00:18:35,140"
+			},
+			"offsets": {
+				"from": 1109160,
+				"to": 1115140
+			},
+			"text": " And so, that was very much in our favor because it isn't always easy to convince someone who's"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,140",
+				"to": "00:18:40,700"
+			},
+			"offsets": {
+				"from": 1115140,
+				"to": 1120700
+			},
+			"text": " used to, you know, traditional American fare, at least in those days."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,700",
+				"to": "00:18:45,540"
+			},
+			"offsets": {
+				"from": 1120700,
+				"to": 1125540
+			},
+			"text": " That's not the case now because vegetables do play a starring role on so many plates."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:46,700",
+				"to": "00:18:51,440"
+			},
+			"offsets": {
+				"from": 1126700,
+				"to": 1131440
+			},
+			"text": " It's not always easy to convince people that they're going to feel satisfied and they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:51,440",
+				"to": "00:18:53,660"
+			},
+			"offsets": {
+				"from": 1131440,
+				"to": 1133660
+			},
+			"text": " going to have enough to eat and they're going to be really happy eating it."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,120",
+				"to": "00:18:56,480"
+			},
+			"offsets": {
+				"from": 1134120,
+				"to": 1136480
+			},
+			"text": " So, that was, yeah, that's been a bit of a win over."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,020",
+				"to": "00:19:05,230"
+			},
+			"offsets": {
+				"from": 1137020,
+				"to": 1145230
+			},
+			"text": " But I think also as people become more aware of all the things like diet, relieving stress,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:05,430",
+				"to": "00:19:16,110"
+			},
+			"offsets": {
+				"from": 1145430,
+				"to": 1156110
+			},
+			"text": " you know, just getting, you know, having a better lifestyle, eating well, get, cutting down on animal protein, not making it the center of the plate, but like, you"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,110",
+				"to": "00:19:20,370"
+			},
+			"offsets": {
+				"from": 1156110,
+				"to": 1160370
+			},
+			"text": " could make it a side or, or you can have a wonderful, you don't have to be a vegetarian to eat at Greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,710",
+				"to": "00:19:23,150"
+			},
+			"offsets": {
+				"from": 1160710,
+				"to": 1163150
+			},
+			"text": " You can just enjoy a vegetarian meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,800",
+				"to": "00:19:28,350"
+			},
+			"offsets": {
+				"from": 1163800,
+				"to": 1168350
+			},
+			"text": " Or some people are, you know, vegan for two days a week or whatever it may be."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:28,470",
+				"to": "00:19:32,470"
+			},
+			"offsets": {
+				"from": 1168470,
+				"to": 1172470
+			},
+			"text": " I always feel like we're a place where we're a pretty egalitarian place."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,590",
+				"to": "00:19:37,450"
+			},
+			"offsets": {
+				"from": 1172590,
+				"to": 1177450
+			},
+			"text": " A lot of different types of people come here, whether it's people who are coming because there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,450",
+				"to": "00:19:43,090"
+			},
+			"offsets": {
+				"from": 1177450,
+				"to": 1183090
+			},
+			"text": " an event in Fort Mason, whether it's vegetarians, someone who's never been here before, vegetarians"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,090",
+				"to": "00:19:46,290"
+			},
+			"offsets": {
+				"from": 1183090,
+				"to": 1186290
+			},
+			"text": " bring their families here because they feel like this is one place where I think my family"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,290",
+				"to": "00:19:47,650"
+			},
+			"offsets": {
+				"from": 1186290,
+				"to": 1187650
+			},
+			"text": " can actually have a good meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,970",
+				"to": "00:19:51,770"
+			},
+			"offsets": {
+				"from": 1187970,
+				"to": 1191770
+			},
+			"text": " We do a lot of private parties, weddings, all kinds of events."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,170",
+				"to": "00:19:59,690"
+			},
+			"offsets": {
+				"from": 1192170,
+				"to": 1199690
+			},
+			"text": " Sometimes it's hard to assure the family of the vegetarian bride or groom that they are going"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,690",
+				"to": "00:20:02,410"
+			},
+			"offsets": {
+				"from": 1199690,
+				"to": 1202410
+			},
+			"text": " to have a wonderful time here and they're going to feel okay about paying the bill."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,550",
+				"to": "00:20:07,650"
+			},
+			"offsets": {
+				"from": 1203550,
+				"to": 1207650
+			},
+			"text": " So, yeah, but still, even in these days, some people do need to be convinced."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,150",
+				"to": "00:20:15,090"
+			},
+			"offsets": {
+				"from": 1208150,
+				"to": 1215090
+			},
+			"text": " But my goal for our food is that it's delicious, it's fresh, people look at the plate, it's so"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,090",
+				"to": "00:20:15,450"
+			},
+			"offsets": {
+				"from": 1215090,
+				"to": 1215450
+			},
+			"text": " beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,010",
+				"to": "00:20:19,090"
+			},
+			"offsets": {
+				"from": 1216010,
+				"to": 1219090
+			},
+			"text": " You know, you already feel great just as it arrives at the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,710",
+				"to": "00:20:22,270"
+			},
+			"offsets": {
+				"from": 1219710,
+				"to": 1222270
+			},
+			"text": " And then when you finish your meal, you feel really good."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,630",
+				"to": "00:20:24,850"
+			},
+			"offsets": {
+				"from": 1222630,
+				"to": 1224850
+			},
+			"text": " You don't feel like you've eaten too much."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,190",
+				"to": "00:20:26,230"
+			},
+			"offsets": {
+				"from": 1225190,
+				"to": 1226230
+			},
+			"text": " It's not too rich."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:26,620",
+				"to": "00:20:29,290"
+			},
+			"offsets": {
+				"from": 1226620,
+				"to": 1229290
+			},
+			"text": " We don't slip in a lot of secret ingredients."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,490",
+				"to": "00:20:33,810"
+			},
+			"offsets": {
+				"from": 1230490,
+				"to": 1233810
+			},
+			"text": " And that's my hope, is that people will feel very good."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,890",
+				"to": "00:20:40,320"
+			},
+			"offsets": {
+				"from": 1233890,
+				"to": 1240320
+			},
+			"text": " They will know that they've eaten very good, locally sourced, fresh food that has been well"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,320",
+				"to": "00:20:40,700"
+			},
+			"offsets": {
+				"from": 1240320,
+				"to": 1240700
+			},
+			"text": " prepared."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,140",
+				"to": "00:20:42,840"
+			},
+			"offsets": {
+				"from": 1241140,
+				"to": 1242840
+			},
+			"text": " And they're going to feel great afterwards."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,020",
+				"to": "00:20:43,680"
+			},
+			"offsets": {
+				"from": 1243020,
+				"to": 1243680
+			},
+			"text": " And they'll come back."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,450",
+				"to": "00:20:48,570"
+			},
+			"offsets": {
+				"from": 1244450,
+				"to": 1248570
+			},
+			"text": " Maybe, can you give us an example of something that you're cooking now or something that maybe"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,570",
+				"to": "00:20:50,330"
+			},
+			"offsets": {
+				"from": 1248570,
+				"to": 1250330
+			},
+			"text": " is more recent on the menu?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,710",
+				"to": "00:20:53,610"
+			},
+			"offsets": {
+				"from": 1250710,
+				"to": 1253610
+			},
+			"text": " Because there's this wonderful simplicity to the food you make."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,670",
+				"to": "00:20:56,610"
+			},
+			"offsets": {
+				"from": 1253670,
+				"to": 1256610
+			},
+			"text": " But there's also kind of something that feels, it feels up to date."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,730",
+				"to": "00:20:58,470"
+			},
+			"offsets": {
+				"from": 1256730,
+				"to": 1258470
+			},
+			"text": " You know, it feels contemporary."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,730",
+				"to": "00:20:59,470"
+			},
+			"offsets": {
+				"from": 1258730,
+				"to": 1259470
+			},
+			"text": " Well, let's see."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,730",
+				"to": "00:21:01,130"
+			},
+			"offsets": {
+				"from": 1259730,
+				"to": 1261130
+			},
+			"text": " I mean, there's so many things right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,190",
+				"to": "00:21:04,300"
+			},
+			"offsets": {
+				"from": 1261190,
+				"to": 1264300
+			},
+			"text": " And also, I'll say that I'm a collaborator."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,920",
+				"to": "00:21:08,520"
+			},
+			"offsets": {
+				"from": 1264920,
+				"to": 1268520
+			},
+			"text": " So I love it when our chefs have good ideas."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,350",
+				"to": "00:21:12,570"
+			},
+			"offsets": {
+				"from": 1269350,
+				"to": 1272570
+			},
+			"text": " And we have, for instance, our lunch chef is from El Salvador."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,170",
+				"to": "00:21:15,410"
+			},
+			"offsets": {
+				"from": 1273170,
+				"to": 1275410
+			},
+			"text": " And she's a great home cook."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,910",
+				"to": "00:21:17,790"
+			},
+			"offsets": {
+				"from": 1275910,
+				"to": 1277790
+			},
+			"text": " She has a beautiful garden at home."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,990",
+				"to": "00:21:19,330"
+			},
+			"offsets": {
+				"from": 1277990,
+				"to": 1279330
+			},
+			"text": " You know, she's an inspiring person."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,990",
+				"to": "00:21:22,310"
+			},
+			"offsets": {
+				"from": 1279990,
+				"to": 1282310
+			},
+			"text": " And so, you know, this isn't so recent."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,390",
+				"to": "00:21:26,730"
+			},
+			"offsets": {
+				"from": 1282390,
+				"to": 1286730
+			},
+			"text": " But we now have pupusas, one of our main first courses."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,310",
+				"to": "00:21:27,970"
+			},
+			"offsets": {
+				"from": 1287310,
+				"to": 1287970
+			},
+			"text": " And they're delicious."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,130",
+				"to": "00:21:29,250"
+			},
+			"offsets": {
+				"from": 1288130,
+				"to": 1289250
+			},
+			"text": " We change them seasonally."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,490",
+				"to": "00:21:31,070"
+			},
+			"offsets": {
+				"from": 1289490,
+				"to": 1291070
+			},
+			"text": " But we just, they're great."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,210",
+				"to": "00:21:32,930"
+			},
+			"offsets": {
+				"from": 1291210,
+				"to": 1292930
+			},
+			"text": " You know, it's made with, it's masa dough."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,210",
+				"to": "00:21:34,550"
+			},
+			"offsets": {
+				"from": 1293210,
+				"to": 1294550
+			},
+			"text": " So it's gluten-free."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:34,750",
+				"to": "00:21:36,350"
+			},
+			"offsets": {
+				"from": 1294750,
+				"to": 1296350
+			},
+			"text": " So we can take care of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,750",
+				"to": "00:21:38,010"
+			},
+			"offsets": {
+				"from": 1296750,
+				"to": 1298010
+			},
+			"text": " Scratch that right off the list."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,070",
+				"to": "00:21:39,670"
+			},
+			"offsets": {
+				"from": 1298070,
+				"to": 1299670
+			},
+			"text": " People who are allergic to gluten can eat them."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,050",
+				"to": "00:21:43,350"
+			},
+			"offsets": {
+				"from": 1300050,
+				"to": 1303350
+			},
+			"text": " We put different fillings in them, make them kind of spicy and nice."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,350",
+				"to": "00:21:49,490"
+			},
+			"offsets": {
+				"from": 1303350,
+				"to": 1309490
+			},
+			"text": " The pupusas are filled with summer squash, cheddar cheese, serrano chilies, pumpkin seeds,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,690",
+				"to": "00:21:51,870"
+			},
+			"offsets": {
+				"from": 1309690,
+				"to": 1311870
+			},
+			"text": " sometimes squash blossoms, not now."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,670",
+				"to": "00:21:59,570"
+			},
+			"offsets": {
+				"from": 1312670,
+				"to": 1319570
+			},
+			"text": " And then we're serving that with a beautiful yellow tomato salsa, nice and spicy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,250",
+				"to": "00:22:04,010"
+			},
+			"offsets": {
+				"from": 1320250,
+				"to": 1324010
+			},
+			"text": " slices of avocado, which come from the farmer's market, and then beautiful pickled vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,570",
+				"to": "00:22:07,630"
+			},
+			"offsets": {
+				"from": 1324570,
+				"to": 1327630
+			},
+			"text": " And for me, that'd be something that I would have as my main course."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,030",
+				"to": "00:22:11,150"
+			},
+			"offsets": {
+				"from": 1328030,
+				"to": 1331150
+			},
+			"text": " A lot of people have that as a first course, and you can share it as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,610",
+				"to": "00:22:12,810"
+			},
+			"offsets": {
+				"from": 1331610,
+				"to": 1332810
+			},
+			"text": " That's just something great."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,710",
+				"to": "00:22:18,590"
+			},
+			"offsets": {
+				"from": 1333710,
+				"to": 1338590
+			},
+			"text": " Another dish that I really like, which has become one of our seasonal regulars,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,730",
+				"to": "00:22:20,750"
+			},
+			"offsets": {
+				"from": 1338730,
+				"to": 1340750
+			},
+			"text": " is a stuffed poblano chili."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,750",
+				"to": "00:22:22,590"
+			},
+			"offsets": {
+				"from": 1340750,
+				"to": 1342590
+			},
+			"text": " And I know that we can have those so many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,770",
+				"to": "00:22:26,710"
+			},
+			"offsets": {
+				"from": 1342770,
+				"to": 1346710
+			},
+			"text": " They're not, they are, poblanos are fire roasted, not fried."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,530",
+				"to": "00:22:34,570"
+			},
+			"offsets": {
+				"from": 1347530,
+				"to": 1354570
+			},
+			"text": " And then filled with quinoa, at this time, we're still using corn, chilies, goat cheese,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,850",
+				"to": "00:22:38,990"
+			},
+			"offsets": {
+				"from": 1354850,
+				"to": 1358990
+			},
+			"text": " and that unto itself, and then serve on a bed of really nice saucy beans."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,490",
+				"to": "00:22:45,970"
+			},
+			"offsets": {
+				"from": 1359490,
+				"to": 1365970
+			},
+			"text": " So you get the complete protein of not only corn and beans, one of the traditional forms of protein,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,310",
+				"to": "00:22:51,870"
+			},
+			"offsets": {
+				"from": 1366310,
+				"to": 1371870
+			},
+			"text": " but also you get quinoa, you get some yummy goat cheese, salsa, avocado, a little creme fraiche."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,120",
+				"to": "00:22:53,230"
+			},
+			"offsets": {
+				"from": 1372120,
+				"to": 1373230
+			},
+			"text": " For me, that's happiness."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,820",
+				"to": "00:23:00,460"
+			},
+			"offsets": {
+				"from": 1374820,
+				"to": 1380460
+			},
+			"text": " I have a big question for you, Annie, and that's, do you see yourself as part of a food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,600",
+				"to": "00:23:06,200"
+			},
+			"offsets": {
+				"from": 1381600,
+				"to": 1386200
+			},
+			"text": " Do you see your work or yourself as part of a bigger food movement?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,330",
+				"to": "00:23:15,940"
+			},
+			"offsets": {
+				"from": 1387330,
+				"to": 1395940
+			},
+			"text": " Well, I think I am, and Greens is, although I'm always one of the people who's in the background."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,320",
+				"to": "00:23:17,860"
+			},
+			"offsets": {
+				"from": 1396320,
+				"to": 1397860
+			},
+			"text": " I'm not a person who's in the foreground."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,570",
+				"to": "00:23:21,220"
+			},
+			"offsets": {
+				"from": 1398570,
+				"to": 1401220
+			},
+			"text": " Like, I'm a silent change maker."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,660",
+				"to": "00:23:24,820"
+			},
+			"offsets": {
+				"from": 1401660,
+				"to": 1404820
+			},
+			"text": " I'm not one of those people out there on the front lines."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,600",
+				"to": "00:23:28,320"
+			},
+			"offsets": {
+				"from": 1405600,
+				"to": 1408320
+			},
+			"text": " But, yeah, we're definitely part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:28,420",
+				"to": "00:23:29,660"
+			},
+			"offsets": {
+				"from": 1408420,
+				"to": 1409660
+			},
+			"text": " There's absolutely no question."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,900",
+				"to": "00:23:35,970"
+			},
+			"offsets": {
+				"from": 1409900,
+				"to": 1415970
+			},
+			"text": " And I feel that we have changed people's perception about how you can eat well,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,070",
+				"to": "00:23:40,730"
+			},
+			"offsets": {
+				"from": 1416070,
+				"to": 1420730
+			},
+			"text": " and I think we continue to change people's perceptions every day when people come in."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,310",
+				"to": "00:23:49,620"
+			},
+			"offsets": {
+				"from": 1421310,
+				"to": 1429620
+			},
+			"text": " And the other thing I think is interesting about Greens is that I would say that the majority of our diners are not vegetarian."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,680",
+				"to": "00:23:55,300"
+			},
+			"offsets": {
+				"from": 1430680,
+				"to": 1435300
+			},
+			"text": " They like coming here because the food is delicious, and it's really fresh."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,300",
+				"to": "00:23:58,480"
+			},
+			"offsets": {
+				"from": 1435300,
+				"to": 1438480
+			},
+			"text": " They know they can have a good meal here, and it's just a beautiful setting."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,820",
+				"to": "00:24:03,180"
+			},
+			"offsets": {
+				"from": 1438820,
+				"to": 1443180
+			},
+			"text": " It's just an, and also it's the kind of place when you walk in the door, it makes you feel good."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,470",
+				"to": "00:24:07,210"
+			},
+			"offsets": {
+				"from": 1443470,
+				"to": 1447210
+			},
+			"text": " You know, I always say 50% of the job is done when people walk in and see the view."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,460",
+				"to": "00:24:13,470"
+			},
+			"offsets": {
+				"from": 1447460,
+				"to": 1453470
+			},
+			"text": " So we have 50% to do, which is to make something delicious and make people feel good by giving them great service."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,930",
+				"to": "00:24:15,110"
+			},
+			"offsets": {
+				"from": 1453930,
+				"to": 1455110
+			},
+			"text": " Yep, so we're part of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,470",
+				"to": "00:24:22,210"
+			},
+			"offsets": {
+				"from": 1455470,
+				"to": 1462210
+			},
+			"text": " You know, but I'm not a, you know, I have so much respect for people who've been out there right in the foreground for so many years,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,210",
+				"to": "00:24:28,360"
+			},
+			"offsets": {
+				"from": 1462210,
+				"to": 1468360
+			},
+			"text": " Alice Waters and so many other people who, you know, just make, have made a huge difference"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,360",
+				"to": "00:24:38,540"
+			},
+			"offsets": {
+				"from": 1468360,
+				"to": 1478540
+			},
+			"text": " and who have to keep fighting for small farms, you know, GMOs, fighting against pesticides, all of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,600",
+				"to": "00:24:49,010"
+			},
+			"offsets": {
+				"from": 1478600,
+				"to": 1489010
+			},
+			"text": " Because that's, it's to me unbelievable that we can be, for instance, ruining this beautiful state for export."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,170",
+				"to": "00:24:56,900"
+			},
+			"offsets": {
+				"from": 1489170,
+				"to": 1496900
+			},
+			"text": " We are depriving ourselves of water because of the relationship that corporate farming has to lawmakers."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,520",
+				"to": "00:24:59,920"
+			},
+			"offsets": {
+				"from": 1497520,
+				"to": 1499920
+			},
+			"text": " It's just crazy and unfortunate."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,820",
+				"to": "00:25:08,070"
+			},
+			"offsets": {
+				"from": 1501820,
+				"to": 1508070
+			},
+			"text": " Well, let's talk a little bit more about what are some of those, you know, a lot has changed in the way that people think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,130",
+				"to": "00:25:11,400"
+			},
+			"offsets": {
+				"from": 1508130,
+				"to": 1511400
+			},
+			"text": " What are some of those challenges that we have right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:11,460",
+				"to": "00:25:13,470"
+			},
+			"offsets": {
+				"from": 1511460,
+				"to": 1513470
+			},
+			"text": " You mentioned the cost of buying land."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,570",
+				"to": "00:25:15,270"
+			},
+			"offsets": {
+				"from": 1513570,
+				"to": 1515270
+			},
+			"text": " You mentioned kind of running out of water."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,150",
+				"to": "00:25:22,890"
+			},
+			"offsets": {
+				"from": 1516150,
+				"to": 1522890
+			},
+			"text": " And so I guess maybe if we could talk about some more of those challenges now and how a restaurant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,050",
+				"to": "00:25:28,570"
+			},
+			"offsets": {
+				"from": 1523050,
+				"to": 1528570
+			},
+			"text": " and especially a well-known restaurant, gets to engage with some of those tough issues."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,560",
+				"to": "00:25:31,120"
+			},
+			"offsets": {
+				"from": 1529560,
+				"to": 1531120
+			},
+			"text": " Well, there are a lot of challenges."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,780",
+				"to": "00:25:35,900"
+			},
+			"offsets": {
+				"from": 1531780,
+				"to": 1535900
+			},
+			"text": " And also, particularly, San Francisco has always been a gold rush city, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,320",
+				"to": "00:25:37,860"
+			},
+			"offsets": {
+				"from": 1536320,
+				"to": 1537860
+			},
+			"text": " So we're in another gold rush."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,620",
+				"to": "00:25:42,230"
+			},
+			"offsets": {
+				"from": 1538620,
+				"to": 1542230
+			},
+			"text": " And I feel everybody knows that we have a housing crisis."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,430",
+				"to": "00:25:43,550"
+			},
+			"offsets": {
+				"from": 1542430,
+				"to": 1543550
+			},
+			"text": " I think everyone knows."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,650",
+				"to": "00:25:50,750"
+			},
+			"offsets": {
+				"from": 1543650,
+				"to": 1550750
+			},
+			"text": " If they don't know, they need to know that we have a housing crisis and that we are also a service-oriented city, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,910",
+				"to": "00:25:55,710"
+			},
+			"offsets": {
+				"from": 1550910,
+				"to": 1555710
+			},
+			"text": " But not just people who work in restaurants and hotels and all the service industries."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,950",
+				"to": "00:25:57,510"
+			},
+			"offsets": {
+				"from": 1555950,
+				"to": 1557510
+			},
+			"text": " I mean, teachers can't even live here."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,510",
+				"to": "00:26:10,050"
+			},
+			"offsets": {
+				"from": 1557510,
+				"to": 1570050
+			},
+			"text": " People who are solid, middle-class citizens are fearful of being booted out of their rent-controlled apartments that they've lived in for 20 to 30 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,570",
+				"to": "00:26:13,750"
+			},
+			"offsets": {
+				"from": 1570570,
+				"to": 1573750
+			},
+			"text": " So it's a scary time in terms of housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,410",
+				"to": "00:26:21,450"
+			},
+			"offsets": {
+				"from": 1574410,
+				"to": 1581450
+			},
+			"text": " And, you know, we're a city that prides itself on diversity, all kinds of people can be here, artists, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,450",
+				"to": "00:26:27,460"
+			},
+			"offsets": {
+				"from": 1581450,
+				"to": 1587460
+			},
+			"text": " And we're, not that all of it's disappearing, but I feel like we're on the verge of losing."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,740",
+				"to": "00:26:31,580"
+			},
+			"offsets": {
+				"from": 1587740,
+				"to": 1591580
+			},
+			"text": " We have lost so much, we're on the verge of losing more if we don't do something about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,020",
+				"to": "00:26:35,800"
+			},
+			"offsets": {
+				"from": 1592020,
+				"to": 1595800
+			},
+			"text": " Of course, you know, sometimes things happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,960",
+				"to": "00:26:37,360"
+			},
+			"offsets": {
+				"from": 1596960,
+				"to": 1597360
+			},
+			"text": " Earthquakes."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,740",
+				"to": "00:26:39,120"
+			},
+			"offsets": {
+				"from": 1597740,
+				"to": 1599120
+			},
+			"text": " Not that I wish for another earthquake."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,280",
+				"to": "00:26:43,380"
+			},
+			"offsets": {
+				"from": 1599280,
+				"to": 1603380
+			},
+			"text": " But, you know, it kind of shakes things up and suddenly a lot of people leave and guess what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,520",
+				"to": "00:26:44,660"
+			},
+			"offsets": {
+				"from": 1603520,
+				"to": 1604660
+			},
+			"text": " Housing situation changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,880",
+				"to": "00:26:51,780"
+			},
+			"offsets": {
+				"from": 1604880,
+				"to": 1611780
+			},
+			"text": " But that's a big challenge for us because the people that we depend on to be able to do this work cannot afford to live here."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,120",
+				"to": "00:26:59,070"
+			},
+			"offsets": {
+				"from": 1612120,
+				"to": 1619070
+			},
+			"text": " So, fortunately for us, many of our people are established and they are in stable housing for now."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,650",
+				"to": "00:27:01,030"
+			},
+			"offsets": {
+				"from": 1619650,
+				"to": 1621030
+			},
+			"text": " You know, you just never know."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,150",
+				"to": "00:27:05,430"
+			},
+			"offsets": {
+				"from": 1621150,
+				"to": 1625430
+			},
+			"text": " But it's very difficult for the people who have to get across a bridge."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,910",
+				"to": "00:27:07,230"
+			},
+			"offsets": {
+				"from": 1625910,
+				"to": 1627230
+			},
+			"text": " They have a long commute on BART."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,530",
+				"to": "00:27:10,210"
+			},
+			"offsets": {
+				"from": 1627530,
+				"to": 1630210
+			},
+			"text": " BART isn't running late enough at night."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,350",
+				"to": "00:27:11,450"
+			},
+			"offsets": {
+				"from": 1630350,
+				"to": 1631450
+			},
+			"text": " You know, all of these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,550",
+				"to": "00:27:12,750"
+			},
+			"offsets": {
+				"from": 1631550,
+				"to": 1632750
+			},
+			"text": " The BART cars are too full."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,910",
+				"to": "00:27:14,130"
+			},
+			"offsets": {
+				"from": 1632910,
+				"to": 1634130
+			},
+			"text": " There aren't enough buses."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,290",
+				"to": "00:27:15,430"
+			},
+			"offsets": {
+				"from": 1634290,
+				"to": 1635430
+			},
+			"text": " We need to have more ferries."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,910",
+				"to": "00:27:22,440"
+			},
+			"offsets": {
+				"from": 1635910,
+				"to": 1642440
+			},
+			"text": " You know, all of these things are major concerns that I would say most business operators have."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,780",
+				"to": "00:27:26,080"
+			},
+			"offsets": {
+				"from": 1642780,
+				"to": 1646080
+			},
+			"text": " In the Bay region, not just San Francisco."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,060",
+				"to": "00:27:29,500"
+			},
+			"offsets": {
+				"from": 1647060,
+				"to": 1649500
+			},
+			"text": " In terms of water, that is a crisis."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:29,920",
+				"to": "00:27:36,290"
+			},
+			"offsets": {
+				"from": 1649920,
+				"to": 1656290
+			},
+			"text": " You know, we have promised more water to corporate farming than there is."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,430",
+				"to": "00:27:37,330"
+			},
+			"offsets": {
+				"from": 1656430,
+				"to": 1657330
+			},
+			"text": " We simply don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,410",
+				"to": "00:27:39,130"
+			},
+			"offsets": {
+				"from": 1657410,
+				"to": 1659130
+			},
+			"text": " The state does not produce that amount of water."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,310",
+				"to": "00:27:40,250"
+			},
+			"offsets": {
+				"from": 1659310,
+				"to": 1660250
+			},
+			"text": " That's a big problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,930",
+				"to": "00:27:48,300"
+			},
+			"offsets": {
+				"from": 1660930,
+				"to": 1668300
+			},
+			"text": " And also, I think that, you know, as we know, our climate is changing right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,460",
+				"to": "00:27:50,690"
+			},
+			"offsets": {
+				"from": 1669460,
+				"to": 1670690
+			},
+			"text": " Weather is unpredictable."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,410",
+				"to": "00:27:52,270"
+			},
+			"offsets": {
+				"from": 1671410,
+				"to": 1672270
+			},
+			"text": " The earth is warming."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:52,750",
+				"to": "00:27:59,730"
+			},
+			"offsets": {
+				"from": 1672750,
+				"to": 1679730
+			},
+			"text": " These are all things to be concerned about in terms of how we make better, how we start learning to recycle water, use less water."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,930",
+				"to": "00:28:05,020"
+			},
+			"offsets": {
+				"from": 1679930,
+				"to": 1685020
+			},
+			"text": " There's plenty of water to go around if we just use it the way it should be used."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,020",
+				"to": "00:28:12,450"
+			},
+			"offsets": {
+				"from": 1685020,
+				"to": 1692450
+			},
+			"text": " And we don't promise it to growers who are growing on a huge corporate level, growing crops that are going to be exported."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,670",
+				"to": "00:28:13,970"
+			},
+			"offsets": {
+				"from": 1692670,
+				"to": 1693970
+			},
+			"text": " That doesn't make any sense to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,830",
+				"to": "00:28:15,840"
+			},
+			"offsets": {
+				"from": 1694830,
+				"to": 1695840
+			},
+			"text": " So we have that."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,920",
+				"to": "00:28:16,460"
+			},
+			"offsets": {
+				"from": 1695920,
+				"to": 1696460
+			},
+			"text": " We have housing."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,860",
+				"to": "00:28:17,660"
+			},
+			"offsets": {
+				"from": 1696860,
+				"to": 1697660
+			},
+			"text": " We have personnel."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,940",
+				"to": "00:28:18,860"
+			},
+			"offsets": {
+				"from": 1697940,
+				"to": 1698860
+			},
+			"text": " Oh, also people."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,100",
+				"to": "00:28:20,660"
+			},
+			"offsets": {
+				"from": 1699100,
+				"to": 1700660
+			},
+			"text": " Just finding people, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,900",
+				"to": "00:28:30,240"
+			},
+			"offsets": {
+				"from": 1700900,
+				"to": 1710240
+			},
+			"text": " And also one thing that has really changed even in the last 10 years is I think, you know, all the idealistic people who said, I'm going to work in a restaurant."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,540",
+				"to": "00:28:31,480"
+			},
+			"offsets": {
+				"from": 1710540,
+				"to": 1711480
+			},
+			"text": " I'm going to be a chef."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,740",
+				"to": "00:28:34,360"
+			},
+			"offsets": {
+				"from": 1711740,
+				"to": 1714360
+			},
+			"text": " That's changed a lot because it is really hard work."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,140",
+				"to": "00:28:36,440"
+			},
+			"offsets": {
+				"from": 1715140,
+				"to": 1716440
+			},
+			"text": " A lot of people have moved on."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,500",
+				"to": "00:28:39,520"
+			},
+			"offsets": {
+				"from": 1716500,
+				"to": 1719520
+			},
+			"text": " They found that it's maybe, I think I'll go back to school."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:39,520",
+				"to": "00:28:42,780"
+			},
+			"offsets": {
+				"from": 1719520,
+				"to": 1722780
+			},
+			"text": " I think I'll get my degree, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,920",
+				"to": "00:28:47,010"
+			},
+			"offsets": {
+				"from": 1722920,
+				"to": 1727010
+			},
+			"text": " I'll become an advocate for food safety, you know, that sort of thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,470",
+				"to": "00:28:52,590"
+			},
+			"offsets": {
+				"from": 1727470,
+				"to": 1732590
+			},
+			"text": " So it's a very different time in terms of how we run restaurants."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,870",
+				"to": "00:28:55,170"
+			},
+			"offsets": {
+				"from": 1732870,
+				"to": 1735170
+			},
+			"text": " And we have a wonderful staff now."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,410",
+				"to": "00:29:01,310"
+			},
+			"offsets": {
+				"from": 1735410,
+				"to": 1741310
+			},
+			"text": " The majority of our staff is, excuse me, English is the second language, if at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,750",
+				"to": "00:29:03,090"
+			},
+			"offsets": {
+				"from": 1741750,
+				"to": 1743090
+			},
+			"text": " Spanish is the first language."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,090",
+				"to": "00:29:11,240"
+			},
+			"offsets": {
+				"from": 1743090,
+				"to": 1751240
+			},
+			"text": " And for a restaurant that started out being part of the San Francisco Zen Center, everyone working here was an Anglo."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,930",
+				"to": "00:29:15,350"
+			},
+			"offsets": {
+				"from": 1751930,
+				"to": 1755350
+			},
+			"text": " And now a person such as myself, I am in the minority."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,920",
+				"to": "00:29:17,910"
+			},
+			"offsets": {
+				"from": 1755920,
+				"to": 1757910
+			},
+			"text": " I am, like, on the way out."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,070",
+				"to": "00:29:21,130"
+			},
+			"offsets": {
+				"from": 1758070,
+				"to": 1761130
+			},
+			"text": " You know, it's basically Spanish rules the day."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,630",
+				"to": "00:29:23,710"
+			},
+			"offsets": {
+				"from": 1761630,
+				"to": 1763710
+			},
+			"text": " And we've got wonderful people."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,810",
+				"to": "00:29:28,190"
+			},
+			"offsets": {
+				"from": 1763810,
+				"to": 1768190
+			},
+			"text": " And one of the great things here is people from different countries seem to be able to work well together."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,350",
+				"to": "00:29:30,870"
+			},
+			"offsets": {
+				"from": 1768350,
+				"to": 1770870
+			},
+			"text": " And in a lot of environments, that doesn't work."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:30,950",
+				"to": "00:29:35,430"
+			},
+			"offsets": {
+				"from": 1770950,
+				"to": 1775430
+			},
+			"text": " You just stick with people from Mexico or Guatemala or El Salvador."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,430",
+				"to": "00:29:37,490"
+			},
+			"offsets": {
+				"from": 1775430,
+				"to": 1777490
+			},
+			"text": " But we have kind of a good mix here."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,790",
+				"to": "00:29:46,140"
+			},
+			"offsets": {
+				"from": 1777790,
+				"to": 1786140
+			},
+			"text": " When I worked here, I spoke a lot of Mayan because I just learned enough to make some dumb jokes and say a couple of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,220",
+				"to": "00:29:48,980"
+			},
+			"offsets": {
+				"from": 1786220,
+				"to": 1788980
+			},
+			"text": " But, yeah, there's a lot of indigenous languages spoken in the kitchen, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,180",
+				"to": "00:29:49,980"
+			},
+			"offsets": {
+				"from": 1789180,
+				"to": 1789980
+			},
+			"text": " Yes, definitely."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:50,520",
+				"to": "00:30:03,020"
+			},
+			"offsets": {
+				"from": 1790520,
+				"to": 1803020
+			},
+			"text": " And also, for me, realizing that, you know, a lot of our folks in the kitchen may never have, you know, they speak Spanish, but they speak, they came from a country that had a different dialect."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,720",
+				"to": "00:30:08,330"
+			},
+			"offsets": {
+				"from": 1803720,
+				"to": 1808330
+			},
+			"text": " So, you know, reading comprehension, these are all big things, really big things."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,770",
+				"to": "00:30:15,390"
+			},
+			"offsets": {
+				"from": 1808770,
+				"to": 1815390
+			},
+			"text": " I think the hardest thing is making it possible for people to sustain themselves in this work."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,090",
+				"to": "00:30:19,510"
+			},
+			"offsets": {
+				"from": 1816090,
+				"to": 1819510
+			},
+			"text": " And a lot of people have just most people have to work two jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,270",
+				"to": "00:30:21,490"
+			},
+			"offsets": {
+				"from": 1820270,
+				"to": 1821490
+			},
+			"text": " It's just the way it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,110",
+				"to": "00:30:43,870"
+			},
+			"offsets": {
+				"from": 1822110,
+				"to": 1843870
+			},
+			"text": " So, besides making it a great place to work, is there a way that a restaurant like this gets to bring some visibility to the struggles or to, you know, I'm thinking about the ways that, you know, a lot of what we value in food really has changed culturally over the years because of restaurants like Greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,870",
+				"to": "00:30:56,200"
+			},
+			"offsets": {
+				"from": 1843870,
+				"to": 1856200
+			},
+			"text": " And are there ways that restaurants like Greens get to be advocates for or be models for ways that can support the – it's such a people-intensive business, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:56,540",
+				"to": "00:30:56,960"
+			},
+			"offsets": {
+				"from": 1856540,
+				"to": 1856960
+			},
+			"text": " Yes, it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,200",
+				"to": "00:31:04,000"
+			},
+			"offsets": {
+				"from": 1857200,
+				"to": 1864000
+			},
+			"text": " I think for us, you know, we're not out on the front lines of political movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,060",
+				"to": "00:31:20,180"
+			},
+			"offsets": {
+				"from": 1865060,
+				"to": 1880180
+			},
+			"text": " Our way of doing it is to provide really good, steady employment for people and to be a good employer and to, you know, give people the things that they receive in a good environment, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,280",
+				"to": "00:31:22,380"
+			},
+			"offsets": {
+				"from": 1880280,
+				"to": 1882380
+			},
+			"text": " So that's our way of doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,560",
+				"to": "00:31:29,600"
+			},
+			"offsets": {
+				"from": 1882560,
+				"to": 1889600
+			},
+			"text": " And I think, you know, to know that your employer is actually – your paycheck is going to be – you're going to get your paycheck on time."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,700",
+				"to": "00:31:30,520"
+			},
+			"offsets": {
+				"from": 1889700,
+				"to": 1890520
+			},
+			"text": " These are basics."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,700",
+				"to": "00:31:33,260"
+			},
+			"offsets": {
+				"from": 1890700,
+				"to": 1893260
+			},
+			"text": " But a lot of businesses do not follow these rules."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,400",
+				"to": "00:31:37,960"
+			},
+			"offsets": {
+				"from": 1893400,
+				"to": 1897960
+			},
+			"text": " You know, we pay our staff over time, generous with vacations."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,080",
+				"to": "00:31:41,560"
+			},
+			"offsets": {
+				"from": 1898080,
+				"to": 1901560
+			},
+			"text": " I mean, we follow all the rules and then we do more for people."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,940",
+				"to": "00:31:44,180"
+			},
+			"offsets": {
+				"from": 1901940,
+				"to": 1904180
+			},
+			"text": " So that's kind of – that's how we set the model."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,580",
+				"to": "00:31:50,900"
+			},
+			"offsets": {
+				"from": 1904580,
+				"to": 1910900
+			},
+			"text": " And then I do believe that making it a good environment is a great thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,520",
+				"to": "00:31:53,620"
+			},
+			"offsets": {
+				"from": 1911520,
+				"to": 1913620
+			},
+			"text": " And I also know that people pass through."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,960",
+				"to": "00:31:55,460"
+			},
+			"offsets": {
+				"from": 1913960,
+				"to": 1915460
+			},
+			"text": " You know, it's just – that's just the deal."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:56,020",
+				"to": "00:31:57,640"
+			},
+			"offsets": {
+				"from": 1916020,
+				"to": 1917640
+			},
+			"text": " Restaurants are – you know, it's known."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,080",
+				"to": "00:32:03,370"
+			},
+			"offsets": {
+				"from": 1918080,
+				"to": 1923370
+			},
+			"text": " People – a lot of people work through getting their college degree or whatever it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,590",
+				"to": "00:32:07,950"
+			},
+			"offsets": {
+				"from": 1923590,
+				"to": 1927950
+			},
+			"text": " You're working here while you're taking some classes so you can move on to the next thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,030",
+				"to": "00:32:10,450"
+			},
+			"offsets": {
+				"from": 1928030,
+				"to": 1930450
+			},
+			"text": " So then you can go to college, whatever it may be."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:10,890",
+				"to": "00:32:14,090"
+			},
+			"offsets": {
+				"from": 1930890,
+				"to": 1934090
+			},
+			"text": " And when people go, I feel like I'm never upset."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:14,530",
+				"to": "00:32:15,950"
+			},
+			"offsets": {
+				"from": 1934530,
+				"to": 1935950
+			},
+			"text": " It's just time for people to move on."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:16,010",
+				"to": "00:32:19,870"
+			},
+			"offsets": {
+				"from": 1936010,
+				"to": 1939870
+			},
+			"text": " And hopefully we'll find a qualified person to replace that person who's moved on."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,950",
+				"to": "00:32:26,010"
+			},
+			"offsets": {
+				"from": 1939950,
+				"to": 1946010
+			},
+			"text": " And I always feel good when a person gets to move on and they're making a big step forward in their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,130",
+				"to": "00:32:27,570"
+			},
+			"offsets": {
+				"from": 1946130,
+				"to": 1947570
+			},
+			"text": " And I encourage that."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,630",
+				"to": "00:32:29,650"
+			},
+			"offsets": {
+				"from": 1947630,
+				"to": 1949650
+			},
+			"text": " And I hope for that for everyone who works here."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,500",
+				"to": "00:32:34,080"
+			},
+			"offsets": {
+				"from": 1950500,
+				"to": 1954080
+			},
+			"text": " A lot of people come here to cook and learn at this kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,200",
+				"to": "00:32:35,780"
+			},
+			"offsets": {
+				"from": 1954200,
+				"to": 1955780
+			},
+			"text": " Or at least that was true when I worked here."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,860",
+				"to": "00:32:40,330"
+			},
+			"offsets": {
+				"from": 1955860,
+				"to": 1960330
+			},
+			"text": " A lot of people were here explicitly because they wanted the experience of working here."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:40,430",
+				"to": "00:32:43,220"
+			},
+			"offsets": {
+				"from": 1960430,
+				"to": 1963220
+			},
+			"text": " And then they go on to cook great things."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,680",
+				"to": "00:32:47,040"
+			},
+			"offsets": {
+				"from": 1963680,
+				"to": 1967040
+			},
+			"text": " Are there any examples of that that you –"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,040",
+				"to": "00:32:49,600"
+			},
+			"offsets": {
+				"from": 1967040,
+				"to": 1969600
+			},
+			"text": " Well, right now I feel we're really –"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,600",
+				"to": "00:32:51,200"
+			},
+			"offsets": {
+				"from": 1969600,
+				"to": 1971200
+			},
+			"text": " you know, the kitchen's gone through a lot of changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:52,870",
+				"to": "00:32:59,730"
+			},
+			"offsets": {
+				"from": 1972870,
+				"to": 1979730
+			},
+			"text": " It's – again, it's hard to find all those people that you're talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,990",
+				"to": "00:33:01,570"
+			},
+			"offsets": {
+				"from": 1979990,
+				"to": 1981570
+			},
+			"text": " Mostly that's not happening here now."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,770",
+				"to": "00:33:02,390"
+			},
+			"offsets": {
+				"from": 1981770,
+				"to": 1982390
+			},
+			"text": " Mostly not."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,530",
+				"to": "00:33:06,620"
+			},
+			"offsets": {
+				"from": 1982530,
+				"to": 1986620
+			},
+			"text": " Mostly now we have people who need jobs and we train."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,220",
+				"to": "00:33:09,880"
+			},
+			"offsets": {
+				"from": 1987220,
+				"to": 1989880
+			},
+			"text": " However, we – every once in a while we're very lucky."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,440",
+				"to": "00:33:15,780"
+			},
+			"offsets": {
+				"from": 1990440,
+				"to": 1995780
+			},
+			"text": " So, for instance, right now we have a person who was a culinary student here from CIA."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,180",
+				"to": "00:33:17,360"
+			},
+			"offsets": {
+				"from": 1996180,
+				"to": 1997360
+			},
+			"text": " That's another interesting thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,480",
+				"to": "00:33:23,230"
+			},
+			"offsets": {
+				"from": 1997480,
+				"to": 2003230
+			},
+			"text": " All of these culinary students used to come to the Bay Area because it was such a great place to learn."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,550",
+				"to": "00:33:26,190"
+			},
+			"offsets": {
+				"from": 2003550,
+				"to": 2006190
+			},
+			"text": " They can't afford to do it now because who can afford the housing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,350",
+				"to": "00:33:30,910"
+			},
+			"offsets": {
+				"from": 2006350,
+				"to": 2010910
+			},
+			"text": " You cannot afford to come and do a low-paid culinary internship or externship here."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:31,130",
+				"to": "00:33:32,230"
+			},
+			"offsets": {
+				"from": 2011130,
+				"to": 2012230
+			},
+			"text": " So that's really changed."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,330",
+				"to": "00:33:35,730"
+			},
+			"offsets": {
+				"from": 2012330,
+				"to": 2015730
+			},
+			"text": " However, we did have a lovely person who came last year."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:36,310",
+				"to": "00:33:38,900"
+			},
+			"offsets": {
+				"from": 2016310,
+				"to": 2018900
+			},
+			"text": " She went back to culinary school to finish up."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,900",
+				"to": "00:33:41,600"
+			},
+			"offsets": {
+				"from": 2018900,
+				"to": 2021600
+			},
+			"text": " And then she got in touch with us and wanted to return."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,960",
+				"to": "00:33:44,540"
+			},
+			"offsets": {
+				"from": 2021960,
+				"to": 2024540
+			},
+			"text": " So she's got a lot of – and she's a vegetarian."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:45,090",
+				"to": "00:33:47,150"
+			},
+			"offsets": {
+				"from": 2025090,
+				"to": 2027150
+			},
+			"text": " She specifically wants to work at greens."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,650",
+				"to": "00:33:48,250"
+			},
+			"offsets": {
+				"from": 2027650,
+				"to": 2028250
+			},
+			"text": " So we have her."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:48,350",
+				"to": "00:33:52,940"
+			},
+			"offsets": {
+				"from": 2028350,
+				"to": 2032940
+			},
+			"text": " We have another lovely woman who just has a ton of creative ideas."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,220",
+				"to": "00:33:55,160"
+			},
+			"offsets": {
+				"from": 2033220,
+				"to": 2035160
+			},
+			"text": " So these are good things for the kitchen."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,360",
+				"to": "00:34:00,180"
+			},
+			"offsets": {
+				"from": 2035360,
+				"to": 2040180
+			},
+			"text": " And we've recently had some other wonderful people who just have contributed very, very good ideas."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:00,180",
+				"to": "00:34:06,320"
+			},
+			"offsets": {
+				"from": 2040180,
+				"to": 2046320
+			},
+			"text": " And they kind of get greens and kind of understand what we're trying to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,320",
+				"to": "00:34:12,000"
+			},
+			"offsets": {
+				"from": 2046320,
+				"to": 2052000
+			},
+			"text": " and how they can, how should I say, enhance our menu by coming up with some new dishes."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,330",
+				"to": "00:34:14,370"
+			},
+			"offsets": {
+				"from": 2053330,
+				"to": 2054370
+			},
+			"text": " Yeah, that's wonderful, Annie."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:14,450",
+				"to": "00:34:16,470"
+			},
+			"offsets": {
+				"from": 2054450,
+				"to": 2056470
+			},
+			"text": " And I think that's all the questions I have."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,570",
+				"to": "00:34:21,740"
+			},
+			"offsets": {
+				"from": 2056570,
+				"to": 2061740
+			},
+			"text": " Is there anything else you'd like to talk about before we sign up?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,800",
+				"to": "00:34:23,560"
+			},
+			"offsets": {
+				"from": 2061800,
+				"to": 2063560
+			},
+			"text": " Is there something I didn't ask you about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,840",
+				"to": "00:34:33,410"
+			},
+			"offsets": {
+				"from": 2063840,
+				"to": 2073410
+			},
+			"text": " No, I really think the most important thing is I just really hope that our farmers and our small producers can keep doing what they're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,410",
+				"to": "00:34:35,320"
+			},
+			"offsets": {
+				"from": 2073410,
+				"to": 2075320
+			},
+			"text": " I really do have hopes for that."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,060",
+				"to": "00:34:43,820"
+			},
+			"offsets": {
+				"from": 2076060,
+				"to": 2083820
+			},
+			"text": " And that, you know, that there's another – that this next generation of inspired people who have good ideas"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,820",
+				"to": "00:34:52,880"
+			},
+			"offsets": {
+				"from": 2083820,
+				"to": 2092880
+			},
+			"text": " and have good, sound environmental ideas and feel for the planet and take ownership of the planet"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,880",
+				"to": "00:35:01,270"
+			},
+			"offsets": {
+				"from": 2092880,
+				"to": 2101270
+			},
+			"text": " can take on the task of, you know, growing good food and, you know, making it available to others"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:01,270",
+				"to": "00:35:05,680"
+			},
+			"offsets": {
+				"from": 2101270,
+				"to": 2105680
+			},
+			"text": " in a way that's – in a sustainable way and in a way that sustains their lives as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,610",
+				"to": "00:35:08,090"
+			},
+			"offsets": {
+				"from": 2107610,
+				"to": 2108090
+			},
+			"text": " Wonderful, Annie."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,150",
+				"to": "00:35:08,730"
+			},
+			"offsets": {
+				"from": 2108150,
+				"to": 2108730
+			},
+			"text": " Thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,790",
+				"to": "00:35:09,690"
+			},
+			"offsets": {
+				"from": 2108790,
+				"to": 2109690
+			},
+			"text": " I really appreciate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,770",
+				"to": "00:35:10,190"
+			},
+			"offsets": {
+				"from": 2109770,
+				"to": 2110190
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,560",
+				"to": "00:35:11,250"
+			},
+			"offsets": {
+				"from": 2110560,
+				"to": 2111250
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,680",
+				"to": "00:35:25,430"
+			},
+			"offsets": {
+				"from": 2111680,
+				"to": 2125430
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:25,570",
+				"to": "00:35:28,040"
+			},
+			"offsets": {
+				"from": 2125570,
+				"to": 2128040
+			},
+			"text": " Made by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,040",
+				"to": "00:35:33,670"
+			},
+			"offsets": {
+				"from": 2128040,
+				"to": 2133670
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,150",
+				"to": "00:35:38,290"
+			},
+			"offsets": {
+				"from": 2134150,
+				"to": 2138290
+			},
+			"text": " And you can learn more at deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,670",
+				"to": "00:35:43,840"
+			},
+			"offsets": {
+				"from": 2138670,
+				"to": 2143840
+			},
+			"text": " There we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,170",
+				"to": "00:35:46,390"
+			},
+			"offsets": {
+				"from": 2144170,
+				"to": 2146390
+			},
+			"text": " You can find us on Facebook and Twitter, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,770",
+				"to": "00:35:51,510"
+			},
+			"offsets": {
+				"from": 2146770,
+				"to": 2151510
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,750",
+				"to": "00:35:55,130"
+			},
+			"offsets": {
+				"from": 2151750,
+				"to": 2155130
+			},
+			"text": " a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,130",
+				"to": "00:35:59,030"
+			},
+			"offsets": {
+				"from": 2155130,
+				"to": 2159030
+			},
+			"text": " Visit www.calhoom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,230",
+				"to": "00:36:04,960"
+			},
+			"offsets": {
+				"from": 2159230,
+				"to": 2164960
+			},
+			"text": " This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

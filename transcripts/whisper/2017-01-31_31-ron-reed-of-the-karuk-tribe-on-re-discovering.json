@@ -1,0 +1,4806 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:02,660",
+				"to": "00:00:11,970"
+			},
+			"offsets": {
+				"from": 2660,
+				"to": 11970
+			},
+			"text": " My religion is called Pikiyoush. Pikiyoush in translation to English is \"World Renewal\" and \"Fix the World\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,970",
+				"to": "00:00:25,890"
+			},
+			"offsets": {
+				"from": 11970,
+				"to": 25890
+			},
+			"text": " So the Karuk people are the \"Fix the World\" people. Pikiyoush tells us how to treat each other, manage the resources, harvest the resources, distribution of the resources, all under the ceremonial umbrella."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,890",
+				"to": "00:00:31,400"
+			},
+			"offsets": {
+				"from": 25890,
+				"to": 31400
+			},
+			"text": " And those are the things that I am trying to incorporate into people's lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,400",
+				"to": "00:00:41,950"
+			},
+			"offsets": {
+				"from": 31400,
+				"to": 41950
+			},
+			"text": " A treaty was made with a cut of people to give up 1.4 million square acres of land for a reservation that would be able to fish, hunt, and gather forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,950",
+				"to": "00:00:48,480"
+			},
+			"offsets": {
+				"from": 41950,
+				"to": 48480
+			},
+			"text": " Because there was gold in our country, the Congress at that time disallowed that treaty to be put into law."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,480",
+				"to": "00:00:55,070"
+			},
+			"offsets": {
+				"from": 48480,
+				"to": 55070
+			},
+			"text": " So we have the dubious distinction of being one of 18 tribes in California with an unratified treaty."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,070",
+				"to": "00:01:03,670"
+			},
+			"offsets": {
+				"from": 55070,
+				"to": 63670
+			},
+			"text": " So every time we turn around, there's jurisdictional boundary issues that has led to us to manage on the cutting edge."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,670",
+				"to": "00:01:16,010"
+			},
+			"offsets": {
+				"from": 63670,
+				"to": 76010
+			},
+			"text": " In this process, we are teaching academics how we manage the world in a totally different way of our European neighbors' colonizers."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,010",
+				"to": "00:01:21,970"
+			},
+			"offsets": {
+				"from": 76010,
+				"to": 81970
+			},
+			"text": " Traditional knowledge is nothing but local knowledge. The spirit of the landscape connected to human beings."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,970",
+				"to": "00:01:25,570"
+			},
+			"offsets": {
+				"from": 81970,
+				"to": 85570
+			},
+			"text": " So I am an expert at fishing, which that's the only thing I'll claim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,570",
+				"to": "00:01:28,570"
+			},
+			"offsets": {
+				"from": 85570,
+				"to": 88570
+			},
+			"text": " Everything else, I'm an expert at connecting people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,570",
+				"to": "00:01:35,140"
+			},
+			"offsets": {
+				"from": 88570,
+				"to": 95140
+			},
+			"text": " And I have this vision, a traditional knowledge vision, that has been supported by a great amount of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,140",
+				"to": "00:01:37,140"
+			},
+			"offsets": {
+				"from": 95140,
+				"to": 97140
+			},
+			"text": " And I wouldn't be here today without those people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,140",
+				"to": "00:01:46,480"
+			},
+			"offsets": {
+				"from": 97140,
+				"to": 106480
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,480",
+				"to": "00:01:47,480"
+			},
+			"offsets": {
+				"from": 106480,
+				"to": 107480
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,480",
+				"to": "00:01:53,680"
+			},
+			"offsets": {
+				"from": 107480,
+				"to": 113680
+			},
+			"text": " This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,680",
+				"to": "00:01:56,970"
+			},
+			"offsets": {
+				"from": 113680,
+				"to": 116970
+			},
+			"text": " These people have shaped the food movement in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,970",
+				"to": "00:02:07,650"
+			},
+			"offsets": {
+				"from": 116970,
+				"to": 127650
+			},
+			"text": " We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,650",
+				"to": "00:02:10,250"
+			},
+			"offsets": {
+				"from": 127650,
+				"to": 130250
+			},
+			"text": " This show is made by Devin Sampson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,250",
+				"to": "00:02:16,850"
+			},
+			"offsets": {
+				"from": 130250,
+				"to": 136850
+			},
+			"text": " Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,850",
+				"to": "00:02:24,130"
+			},
+			"offsets": {
+				"from": 136850,
+				"to": 144130
+			},
+			"text": " Ron Reed is a traditional dipnet fisherman and cultural biologist for the Karuk tribe of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,130",
+				"to": "00:02:35,130"
+			},
+			"offsets": {
+				"from": 144130,
+				"to": 155130
+			},
+			"text": " He develops plans for eco-cultural revitalization, leads youth cultural education camps, and fosters collaborative research at the nexus of traditional ecological knowledge and Western science."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,130",
+				"to": "00:02:46,130"
+			},
+			"offsets": {
+				"from": 155130,
+				"to": 166130
+			},
+			"text": " Ron plays a critical role in increasing public awareness about the impacts of colonization on the spiritual and physical health of his people and on the ecological integrity of the Karuk ancestral lands."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,130",
+				"to": "00:02:56,130"
+			},
+			"offsets": {
+				"from": 166130,
+				"to": 176130
+			},
+			"text": " He is the founder of the Karuk-UC Berkeley collaborative and works with nearby tribes, UC Berkeley, and the USDA on the Klamath Basin Tribal Food Security Project."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,130",
+				"to": "00:03:10,000"
+			},
+			"offsets": {
+				"from": 176130,
+				"to": 190000
+			},
+			"text": " So I'm here with Ron Reed, and I think I want to start, I think what's important to kind of set the scene to talk about is, can you describe where you grew up and where you live now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,000",
+				"to": "00:03:13,480"
+			},
+			"offsets": {
+				"from": 190000,
+				"to": 193480
+			},
+			"text": " Yeah, again, thank you very much for having me today."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,480",
+				"to": "00:03:16,870"
+			},
+			"offsets": {
+				"from": 193480,
+				"to": 196870
+			},
+			"text": " Well, first of all, my name is Ron Reed."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,870",
+				"to": "00:03:23,930"
+			},
+			"offsets": {
+				"from": 196870,
+				"to": 203930
+			},
+			"text": " I'm employed as a cultural biologist for the Karuk tribe of California, up in extreme northern California."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,930",
+				"to": "00:03:32,180"
+			},
+			"offsets": {
+				"from": 203930,
+				"to": 212180
+			},
+			"text": " Extreme northern California means, it doesn't mean Santa Cruz, it means northern California to me, up under the Oregon border."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,180",
+				"to": "00:03:40,640"
+			},
+			"offsets": {
+				"from": 212180,
+				"to": 220640
+			},
+			"text": " Our ancestral territory spreads into the Oregon, as well as California, so the jurisdictional issues and every road we take."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,640",
+				"to": "00:03:46,350"
+			},
+			"offsets": {
+				"from": 220640,
+				"to": 226350
+			},
+			"text": " But like I said, we're up under the Oregon border in the Klamath River Basin."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,350",
+				"to": "00:03:54,730"
+			},
+			"offsets": {
+				"from": 226350,
+				"to": 234730
+			},
+			"text": " And that's basically, for you people who don't really know, it's somewhere in between Wairica, California, and Eureka, California."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,730",
+				"to": "00:03:58,690"
+			},
+			"offsets": {
+				"from": 234730,
+				"to": 238690
+			},
+			"text": " Our ancestral territory spreads through five counties."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,690",
+				"to": "00:04:03,140"
+			},
+			"offsets": {
+				"from": 238690,
+				"to": 243140
+			},
+			"text": " We have two forests inside of our ancestral territory."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,140",
+				"to": "00:04:14,480"
+			},
+			"offsets": {
+				"from": 243140,
+				"to": 254480
+			},
+			"text": " So every time we turn around, there's jurisdictional boundary issues that has led to us to manage on the cutting edge."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,480",
+				"to": "00:04:32,150"
+			},
+			"offsets": {
+				"from": 254480,
+				"to": 272150
+			},
+			"text": " We have memorandums of agreement, MOAs with the Forest Service, with Caltrans, with a whole host of federal and state agencies that have to consult with the Karuk tribe, being a federally recognized tribe."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,110",
+				"to": "00:04:37,440"
+			},
+			"offsets": {
+				"from": 273110,
+				"to": 277440
+			},
+			"text": " So we have consultation issues that we work on."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,440",
+				"to": "00:04:43,860"
+			},
+			"offsets": {
+				"from": 277440,
+				"to": 283860
+			},
+			"text": " And a lot of the work I do has to do with food and culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,860",
+				"to": "00:04:51,920"
+			},
+			"offsets": {
+				"from": 283860,
+				"to": 291920
+			},
+			"text": " And so I'm a very humble and proud man of being able to be sitting here in front of you talking about those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,920",
+				"to": "00:04:59,010"
+			},
+			"offsets": {
+				"from": 291920,
+				"to": 299010
+			},
+			"text": " Ron, I think you mentioned last night that the unratified treaty between the Karuk tribe and the U.S. government underlies."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,010",
+				"to": "00:05:09,230"
+			},
+			"offsets": {
+				"from": 299010,
+				"to": 309230
+			},
+			"text": " A lot of us need to negotiate all these different kinds of agreements with the Forest Service and sovereignty over the traditional land or part of the traditional land."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,230",
+				"to": "00:05:11,230"
+			},
+			"offsets": {
+				"from": 309230,
+				"to": 311230
+			},
+			"text": " Can you talk about that a little bit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,230",
+				"to": "00:05:12,520"
+			},
+			"offsets": {
+				"from": 311230,
+				"to": 312520
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,520",
+				"to": "00:05:16,520"
+			},
+			"offsets": {
+				"from": 312520,
+				"to": 316520
+			},
+			"text": " I was born into this world looking at the glass half empty."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,520",
+				"to": "00:05:33,680"
+			},
+			"offsets": {
+				"from": 316520,
+				"to": 333680
+			},
+			"text": " Fortunately for myself, I was born into a family, a medicinal family, a very traditional family of the Karuk tribe, where we had medicine people, we had medicine doctors, we had hunters, fishermen, and gatherers."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,680",
+				"to": "00:05:38,810"
+			},
+			"offsets": {
+				"from": 333680,
+				"to": 338810
+			},
+			"text": " And so we respect the landscape that is connected to our religion."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,810",
+				"to": "00:05:42,850"
+			},
+			"offsets": {
+				"from": 338810,
+				"to": 342850
+			},
+			"text": " My religion is called Piquiauj."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,850",
+				"to": "00:05:51,200"
+			},
+			"offsets": {
+				"from": 342850,
+				"to": 351200
+			},
+			"text": " Piquiauj in translation to English is world renewal and fix the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,200",
+				"to": "00:05:55,390"
+			},
+			"offsets": {
+				"from": 351200,
+				"to": 355390
+			},
+			"text": " So the Karuk people are the fix the world people."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,390",
+				"to": "00:05:58,800"
+			},
+			"offsets": {
+				"from": 355390,
+				"to": 358800
+			},
+			"text": " And we've shared that religion with other tribes in the basin."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,800",
+				"to": "00:06:02,210"
+			},
+			"offsets": {
+				"from": 358800,
+				"to": 362210
+			},
+			"text": " The Hoopa and the Yurok and the Klamath tribes up above."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,210",
+				"to": "00:06:09,420"
+			},
+			"offsets": {
+				"from": 362210,
+				"to": 369420
+			},
+			"text": " So with that relationship, we all work together in continuity as one in the Klamath River Basin until contact."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,420",
+				"to": "00:06:18,080"
+			},
+			"offsets": {
+				"from": 369420,
+				"to": 378080
+			},
+			"text": " Contact has a whole variety of issues, socially, physically, mentally, all those different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,080",
+				"to": "00:06:24,800"
+			},
+			"offsets": {
+				"from": 378080,
+				"to": 384800
+			},
+			"text": " And I've been able to evolve from being a product of intergenerational trauma."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,800",
+				"to": "00:06:28,050"
+			},
+			"offsets": {
+				"from": 384800,
+				"to": 388050
+			},
+			"text": " Mining occurred up in the Klamath River Basin."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,050",
+				"to": "00:06:40,620"
+			},
+			"offsets": {
+				"from": 388050,
+				"to": 400620
+			},
+			"text": " A treaty was made with the Karuk people to give up 1.4 million square acres of land for a reservation that we'd be able to fish, hunt, and gather forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,620",
+				"to": "00:06:48,920"
+			},
+			"offsets": {
+				"from": 400620,
+				"to": 408920
+			},
+			"text": " Because there was gold in our country, the Congress at that time disallowed that treaty to become put into law."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,920",
+				"to": "00:06:57,900"
+			},
+			"offsets": {
+				"from": 408920,
+				"to": 417900
+			},
+			"text": " So we have the dubious distinction of being one of 18 tribes in California with an unratified treaty."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,900",
+				"to": "00:07:03,440"
+			},
+			"offsets": {
+				"from": 417900,
+				"to": 423440
+			},
+			"text": " They didn't give us back our land, they didn't give us back anything, except for a shattered existence."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,440",
+				"to": "00:07:08,350"
+			},
+			"offsets": {
+				"from": 423440,
+				"to": 428350
+			},
+			"text": " That shattered existence is what I grew up knowing to be the Karuk world."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,350",
+				"to": "00:07:13,600"
+			},
+			"offsets": {
+				"from": 428350,
+				"to": 433600
+			},
+			"text": " Growing up, I wasn't very proud to be a Karuk."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,600",
+				"to": "00:07:21,250"
+			},
+			"offsets": {
+				"from": 433600,
+				"to": 441250
+			},
+			"text": " Even though my people told me how important our culture is to the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,250",
+				"to": "00:07:28,650"
+			},
+			"offsets": {
+				"from": 441250,
+				"to": 448650
+			},
+			"text": " to understand that my family participated in the world renewal ceremonies at the highest level."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,650",
+				"to": "00:07:39,060"
+			},
+			"offsets": {
+				"from": 448650,
+				"to": 459060
+			},
+			"text": " And to be told that the blood that runs through your veins is to create a voice that would be and could be heard around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,060",
+				"to": "00:07:42,890"
+			},
+			"offsets": {
+				"from": 459060,
+				"to": 462890
+			},
+			"text": " Growing up, I couldn't understand that, but I was taught that anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,890",
+				"to": "00:08:01,040"
+			},
+			"offsets": {
+				"from": 462890,
+				"to": 481040
+			},
+			"text": " I wasn't taught my culture because epiphany of my great grandmother, whom was an Indian doctor, told my mother, whom she taught all the old ways, that she needed to teach us the new way so we can survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,040",
+				"to": "00:08:08,820"
+			},
+			"offsets": {
+				"from": 481040,
+				"to": 488820
+			},
+			"text": " Very confusing for me as a child, as a young child, I was taught a lot of the social values, the things I talk about and express today."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,820",
+				"to": "00:08:18,650"
+			},
+			"offsets": {
+				"from": 488820,
+				"to": 498650
+			},
+			"text": " But at some point, probably around seventh, eighth grade, society, peer pressure, whatever it is, I didn't quite figure it out yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,650",
+				"to": "00:08:27,530"
+			},
+			"offsets": {
+				"from": 498650,
+				"to": 507530
+			},
+			"text": " But I feel like at that point in my life is when I started noticing that I was poor and I didn't have the things that other people had."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,530",
+				"to": "00:08:30,530"
+			},
+			"offsets": {
+				"from": 507530,
+				"to": 510530
+			},
+			"text": " And it felt like there's a social disruption in my world."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,530",
+				"to": "00:08:34,350"
+			},
+			"offsets": {
+				"from": 510530,
+				"to": 514350
+			},
+			"text": " And I became very angry and I wanted to."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,350",
+				"to": "00:08:43,620"
+			},
+			"offsets": {
+				"from": 514350,
+				"to": 523620
+			},
+			"text": " And my lifelong dream at that point was to move off the river, play basketball and never come back."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,620",
+				"to": "00:08:54,930"
+			},
+			"offsets": {
+				"from": 523620,
+				"to": 534930
+			},
+			"text": " But I was also taught that if you have this medicine that runs through your veins and if you are put here on earth to do a certain thing, that you could never acquire happiness or anything else except for that certain thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,930",
+				"to": "00:08:59,080"
+			},
+			"offsets": {
+				"from": 534930,
+				"to": 539080
+			},
+			"text": " It took me a great number of years to figure that out."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,080",
+				"to": "00:09:06,840"
+			},
+			"offsets": {
+				"from": 539080,
+				"to": 546840
+			},
+			"text": " And if it wasn't for those early teachings of traditional knowledge, of self-respect, self-dignity, I wouldn't be here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,840",
+				"to": "00:09:16,420"
+			},
+			"offsets": {
+				"from": 546840,
+				"to": 556420
+			},
+			"text": " I floundered in the wind for a lot of years trying to figure these things out following my gut feeling, which was a broken heart and anger."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,420",
+				"to": "00:09:20,570"
+			},
+			"offsets": {
+				"from": 556420,
+				"to": 560570
+			},
+			"text": " I played basketball until I couldn't anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,570",
+				"to": "00:09:23,630"
+			},
+			"offsets": {
+				"from": 560570,
+				"to": 563630
+			},
+			"text": " Then I realized that I am brown."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,630",
+				"to": "00:09:24,630"
+			},
+			"offsets": {
+				"from": 563630,
+				"to": 564630
+			},
+			"text": " I am from the Clameth River."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,630",
+				"to": "00:09:26,820"
+			},
+			"offsets": {
+				"from": 564630,
+				"to": 566820
+			},
+			"text": " I do have medicine in my veins."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,820",
+				"to": "00:09:27,820"
+			},
+			"offsets": {
+				"from": 566820,
+				"to": 567820
+			},
+			"text": " And I had a family."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:27,820",
+				"to": "00:09:28,770"
+			},
+			"offsets": {
+				"from": 567820,
+				"to": 568770
+			},
+			"text": " I just got a family."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,770",
+				"to": "00:09:39,240"
+			},
+			"offsets": {
+				"from": 568770,
+				"to": 579240
+			},
+			"text": " And until I got my family, until I married my wife, Robin, and my beautiful six children, five boys and one girl, I was very selfish with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,240",
+				"to": "00:09:44,880"
+			},
+			"offsets": {
+				"from": 579240,
+				"to": 584880
+			},
+			"text": " I didn't respect myself enough to do the things that were necessary to be a responsible adult."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,880",
+				"to": "00:09:54,400"
+			},
+			"offsets": {
+				"from": 584880,
+				"to": 594400
+			},
+			"text": " But once I started having my children, all the teachings of my people started ringing very true to my ears."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,400",
+				"to": "00:10:03,020"
+			},
+			"offsets": {
+				"from": 594400,
+				"to": 603020
+			},
+			"text": " At that point in time, I had to start cleaning up my act and start realizing that I was put here for a reason."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,020",
+				"to": "00:10:18,050"
+			},
+			"offsets": {
+				"from": 603020,
+				"to": 618050
+			},
+			"text": " And the things I was doing is going to be something that allows my family to reach into the future with the same level of happiness that a few generations before me."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,050",
+				"to": "00:10:23,050"
+			},
+			"offsets": {
+				"from": 618050,
+				"to": 623050
+			},
+			"text": " A lot of atrocities happened to our people, a lot of baggage, a lot of intergenerational trauma."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,050",
+				"to": "00:10:32,020"
+			},
+			"offsets": {
+				"from": 623050,
+				"to": 632020
+			},
+			"text": " And the more I understand those processes, the more available I am to the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,020",
+				"to": "00:10:43,900"
+			},
+			"offsets": {
+				"from": 632020,
+				"to": 643900
+			},
+			"text": " I have taken on a lot of those atrocities in my own self, relearning my culture, relearning my ways, and a lot of times by non-Natives, which is very embarrassing."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,900",
+				"to": "00:10:51,300"
+			},
+			"offsets": {
+				"from": 643900,
+				"to": 651300
+			},
+			"text": " Very tough to work in those confines, which I relate to a lot of people up in my country today."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,300",
+				"to": "00:10:59,460"
+			},
+			"offsets": {
+				"from": 651300,
+				"to": 659460
+			},
+			"text": " I'm not fading away from our culture because we don't have the proper teachings in place because of the stripped identity that we no longer have."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,460",
+				"to": "00:11:06,940"
+			},
+			"offsets": {
+				"from": 659460,
+				"to": 666940
+			},
+			"text": " So, with my teachings from my family, I was able to meet some very strong people in the academic world."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,940",
+				"to": "00:11:17,340"
+			},
+			"offsets": {
+				"from": 666940,
+				"to": 677340
+			},
+			"text": " Dr. Kari Norgard, years back in 2005, we did a denied access to traditional foods in the Klamath River hydroelectric relicensing process."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,340",
+				"to": "00:11:30,250"
+			},
+			"offsets": {
+				"from": 677340,
+				"to": 690250
+			},
+			"text": " Before this point, no group of people of race or color has ever accused the federal government of destroying their health or their social well-being with a federal project."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,250",
+				"to": "00:11:37,870"
+			},
+			"offsets": {
+				"from": 690250,
+				"to": 697870
+			},
+			"text": " What we determined in that document was that the Kuduk people were way below the poverty line."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,870",
+				"to": "00:11:49,340"
+			},
+			"offsets": {
+				"from": 697870,
+				"to": 709340
+			},
+			"text": " Three, four times the national average in basic and other in health consequences such as diabetes, hypertension, mental illnesses, and all those different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,340",
+				"to": "00:11:52,340"
+			},
+			"offsets": {
+				"from": 709340,
+				"to": 712340
+			},
+			"text": " And it brought a great awareness to the community around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,340",
+				"to": "00:11:54,720"
+			},
+			"offsets": {
+				"from": 712340,
+				"to": 714720
+			},
+			"text": " It's not just a fish running up the river."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,720",
+				"to": "00:11:56,970"
+			},
+			"offsets": {
+				"from": 714720,
+				"to": 716970
+			},
+			"text": " It's a world ideology."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,970",
+				"to": "00:12:01,750"
+			},
+			"offsets": {
+				"from": 716970,
+				"to": 721750
+			},
+			"text": " I'm not fighting for the fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,750",
+				"to": "00:12:07,350"
+			},
+			"offsets": {
+				"from": 721750,
+				"to": 727350
+			},
+			"text": " I'm not fighting for the landscape for any other reason that that's my relation as part of my religion."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,350",
+				"to": "00:12:16,030"
+			},
+			"offsets": {
+				"from": 727350,
+				"to": 736030
+			},
+			"text": " If there's something very close to me that doesn't have a voice, it's up to me to speak on behalf of that creature or that living thing or that entity."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,030",
+				"to": "00:12:22,600"
+			},
+			"offsets": {
+				"from": 736030,
+				"to": 742600
+			},
+			"text": " I'm an introvert turned extrovert."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,600",
+				"to": "00:12:30,880"
+			},
+			"offsets": {
+				"from": 742600,
+				"to": 750880
+			},
+			"text": " And I like solitude, but I also like situations like this where it makes me feel very good in my heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,880",
+				"to": "00:12:39,600"
+			},
+			"offsets": {
+				"from": 750880,
+				"to": 759600
+			},
+			"text": " My spirit rises when I'm able to feel like I'm contributing to the success of people, communities other than the Kuduk people."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,600",
+				"to": "00:12:52,710"
+			},
+			"offsets": {
+				"from": 759600,
+				"to": 772710
+			},
+			"text": " It's ironic because I need this other community to shed light onto these issues at a greater level to determine what is the success process that we're searching for so diligently."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,710",
+				"to": "00:13:00,050"
+			},
+			"offsets": {
+				"from": 772710,
+				"to": 780050
+			},
+			"text": " People from all walks of life are here at this conference, and yet we have the same basic needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,050",
+				"to": "00:13:01,560"
+			},
+			"offsets": {
+				"from": 780050,
+				"to": 781560
+			},
+			"text": " We need to be a part of something."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,560",
+				"to": "00:13:02,560"
+			},
+			"offsets": {
+				"from": 781560,
+				"to": 782560
+			},
+			"text": " We need good food."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,560",
+				"to": "00:13:11,550"
+			},
+			"offsets": {
+				"from": 782560,
+				"to": 791550
+			},
+			"text": " We need to be able to contribute to the next generation and not hold our next generation hostage for the bad mistakes we're making today for tomorrow."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,550",
+				"to": "00:13:13,550"
+			},
+			"offsets": {
+				"from": 791550,
+				"to": 793550
+			},
+			"text": " So we're here to do all those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,550",
+				"to": "00:13:27,180"
+			},
+			"offsets": {
+				"from": 793550,
+				"to": 807180
+			},
+			"text": " And fortunately, for me, in my perspective, all these things fit under the ceremonial umbrella of the Kaduk religion, Pikyawish."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,180",
+				"to": "00:13:40,070"
+			},
+			"offsets": {
+				"from": 807180,
+				"to": 820070
+			},
+			"text": " Pikyawish tells us how to treat each other, manage the resources, harvest the resources, distribution of the resources, all under the ceremonial umbrella."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,070",
+				"to": "00:13:48,730"
+			},
+			"offsets": {
+				"from": 820070,
+				"to": 828730
+			},
+			"text": " And those are the things that I am incorporating into, trying to incorporate into people's lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,730",
+				"to": "00:13:58,650"
+			},
+			"offsets": {
+				"from": 828730,
+				"to": 838650
+			},
+			"text": " I've been able to raise awareness to the federal, the state governments, key stakeholders, and some tribal members."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,650",
+				"to": "00:14:01,900"
+			},
+			"offsets": {
+				"from": 838650,
+				"to": 841900
+			},
+			"text": " And that was a pretty hard fight."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,900",
+				"to": "00:14:06,900"
+			},
+			"offsets": {
+				"from": 841900,
+				"to": 846900
+			},
+			"text": " And it took me a few years to do that, or we, a lot of us, you know, participate in that process."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,900",
+				"to": "00:14:22,520"
+			},
+			"offsets": {
+				"from": 846900,
+				"to": 862520
+			},
+			"text": " But once we got to where we need to be as far as bringing focus to our tribal community, the last thing I thought I would be troubled with is getting our tribal people to the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,520",
+				"to": "00:14:29,840"
+			},
+			"offsets": {
+				"from": 862520,
+				"to": 869840
+			},
+			"text": " It's exhausting to get tribal people to the table for a lot of different reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,840",
+				"to": "00:14:35,710"
+			},
+			"offsets": {
+				"from": 869840,
+				"to": 875710
+			},
+			"text": " And our contemporary society thinks that we have these blanket fixes."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,710",
+				"to": "00:14:46,230"
+			},
+			"offsets": {
+				"from": 875710,
+				"to": 886230
+			},
+			"text": " Social programs come in and say, okay, teenage alcoholics, teenage pregnancies, they put all these different categories."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,230",
+				"to": "00:14:51,320"
+			},
+			"offsets": {
+				"from": 886230,
+				"to": 891320
+			},
+			"text": " But from a tribal perspective, you learn all those categories at a very young age."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,320",
+				"to": "00:15:01,370"
+			},
+			"offsets": {
+				"from": 891320,
+				"to": 901370
+			},
+			"text": " Before you ever have awareness of who you want to be or what your interests are as a brain growing and living in this world and what you want to become,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,370",
+				"to": "00:15:07,370"
+			},
+			"offsets": {
+				"from": 901370,
+				"to": 907370
+			},
+			"text": " you already have this self-respect, integrity, and dignity of being a kind of person."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,370",
+				"to": "00:15:09,340"
+			},
+			"offsets": {
+				"from": 907370,
+				"to": 909340
+			},
+			"text": " This is what that stands for."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:09,340",
+				"to": "00:15:15,330"
+			},
+			"offsets": {
+				"from": 909340,
+				"to": 915330
+			},
+			"text": " So that should allow you to deal with any of the pitfalls that life has to offer."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,330",
+				"to": "00:15:18,760"
+			},
+			"offsets": {
+				"from": 915330,
+				"to": 918760
+			},
+			"text": " And believe me, I got out of a couple of pitfalls."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,760",
+				"to": "00:15:25,760"
+			},
+			"offsets": {
+				"from": 918760,
+				"to": 925760
+			},
+			"text": " So I rely solely on the traditional knowledge, my awareness of the environment, and the awareness of the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,760",
+				"to": "00:15:31,880"
+			},
+			"offsets": {
+				"from": 925760,
+				"to": 931880
+			},
+			"text": " Something that I wasn't so gifted with when I was, you know, in the society I lived in."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,880",
+				"to": "00:15:36,970"
+			},
+			"offsets": {
+				"from": 931880,
+				"to": 936970
+			},
+			"text": " Through this awareness process, I've created great friends with networking."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,970",
+				"to": "00:15:41,160"
+			},
+			"offsets": {
+				"from": 936970,
+				"to": 941160
+			},
+			"text": " The work I do is basically doesn't really have a lot of funding."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,160",
+				"to": "00:15:56,780"
+			},
+			"offsets": {
+				"from": 941160,
+				"to": 956780
+			},
+			"text": " And so I've been bouncing around from fisheries to environmental justice to traditional knowledge to food systems to, you know, whatever this process, however it's perceived, we get funding."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:56,780",
+				"to": "00:16:06,510"
+			},
+			"offsets": {
+				"from": 956780,
+				"to": 966510
+			},
+			"text": " Because we're a federally recognized tribe without a reservation, we do not have resource money for our natural resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,510",
+				"to": "00:16:08,510"
+			},
+			"offsets": {
+				"from": 966510,
+				"to": 968510
+			},
+			"text": " So we're a grant-seeking tribe."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,510",
+				"to": "00:16:16,390"
+			},
+			"offsets": {
+				"from": 968510,
+				"to": 976390
+			},
+			"text": " So it really harnesses our ability to create a strategy because, of course, we all know with grants you have these deliverables."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,390",
+				"to": "00:16:22,410"
+			},
+			"offsets": {
+				"from": 976390,
+				"to": 982410
+			},
+			"text": " And a lot of times the deliverables don't pertain to tribal government or tribal vision."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,410",
+				"to": "00:16:28,500"
+			},
+			"offsets": {
+				"from": 982410,
+				"to": 988500
+			},
+			"text": " So we're often having to have several grants into one process to make it happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,500",
+				"to": "00:16:31,550"
+			},
+			"offsets": {
+				"from": 988500,
+				"to": 991550
+			},
+			"text": " And it's really, it gets really kind of messy."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,550",
+				"to": "00:16:35,190"
+			},
+			"offsets": {
+				"from": 991550,
+				"to": 995190
+			},
+			"text": " But there's such an awareness now because of climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,190",
+				"to": "00:16:41,250"
+			},
+			"offsets": {
+				"from": 995190,
+				"to": 1001250
+			},
+			"text": " Climate change has come into our purview and it's amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,250",
+				"to": "00:16:45,680"
+			},
+			"offsets": {
+				"from": 1001250,
+				"to": 1005680
+			},
+			"text": " It's amazing on both sides of the aisle."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,680",
+				"to": "00:16:56,650"
+			},
+			"offsets": {
+				"from": 1005680,
+				"to": 1016650
+			},
+			"text": " It's amazing the impacts that climate change has, but it's amazing that the ability of the Kuduk people, of indigenous people around the world to address the issues that only we can address."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,650",
+				"to": "00:17:01,190"
+			},
+			"offsets": {
+				"from": 1016650,
+				"to": 1021190
+			},
+			"text": " The only proven process on this planet is indigenous space."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,190",
+				"to": "00:17:03,380"
+			},
+			"offsets": {
+				"from": 1021190,
+				"to": 1023380
+			},
+			"text": " We're all indigenous at some point."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,380",
+				"to": "00:17:19,840"
+			},
+			"offsets": {
+				"from": 1023380,
+				"to": 1039840
+			},
+			"text": " Socialization has really disrupted the spiritual flow of human beings to the earth, back to the earth as a form of food, creating energy back to the people and so forth and so on."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:19,840",
+				"to": "00:17:26,440"
+			},
+			"offsets": {
+				"from": 1039840,
+				"to": 1046440
+			},
+			"text": " That's what I'm trying to reestablish in my mind so I can reestablish that in other folks' minds."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,440",
+				"to": "00:17:38,320"
+			},
+			"offsets": {
+				"from": 1046440,
+				"to": 1058320
+			},
+			"text": " And unfortunately, because it's intergenerational trauma, I have to seek a lot of this information outside of my tribal comfort zone."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:38,320",
+				"to": "00:17:48,360"
+			},
+			"offsets": {
+				"from": 1058320,
+				"to": 1068360
+			},
+			"text": " And in doing so, I get state-of-the-art type communication with people that I plug into my perspective, which makes it even more powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,360",
+				"to": "00:17:53,510"
+			},
+			"offsets": {
+				"from": 1068360,
+				"to": 1073510
+			},
+			"text": " So that's the beauty of working within a community that isn't all tribal."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,510",
+				"to": "00:17:57,510"
+			},
+			"offsets": {
+				"from": 1073510,
+				"to": 1077510
+			},
+			"text": " Because we need help to do what we do because we don't have the resources available to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,510",
+				"to": "00:18:00,810"
+			},
+			"offsets": {
+				"from": 1077510,
+				"to": 1080810
+			},
+			"text": " We are a true tribal environmental justice tribe."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,810",
+				"to": "00:18:03,860"
+			},
+			"offsets": {
+				"from": 1080810,
+				"to": 1083860
+			},
+			"text": " We're seeking to do all these great things, but we don't have the resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,860",
+				"to": "00:18:25,330"
+			},
+			"offsets": {
+				"from": 1083860,
+				"to": 1105330
+			},
+			"text": " We have all these ideas that we share consistently with the federal state governments that often take those issues out of context and put them out on the map or on the playing field or in the history as far as ink on paper and without any type of intellectual sovereignty given back to the Kuduk people."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,330",
+				"to": "00:18:28,970"
+			},
+			"offsets": {
+				"from": 1105330,
+				"to": 1108970
+			},
+			"text": " So one of the biggest things in my world is intellectual sovereignty."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,970",
+				"to": "00:18:32,540"
+			},
+			"offsets": {
+				"from": 1108970,
+				"to": 1112540
+			},
+			"text": " The Forest Service come into this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:32,540",
+				"to": "00:18:33,540"
+			},
+			"offsets": {
+				"from": 1112540,
+				"to": 1113540
+			},
+			"text": " I use the Forest Service."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,540",
+				"to": "00:18:34,540"
+			},
+			"offsets": {
+				"from": 1113540,
+				"to": 1114540
+			},
+			"text": " That's our biggest adversary."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,540",
+				"to": "00:18:36,540"
+			},
+			"offsets": {
+				"from": 1114540,
+				"to": 1116540
+			},
+			"text": " Ninety-five percent of ancestral territories owned by the federal government."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,540",
+				"to": "00:18:37,540"
+			},
+			"offsets": {
+				"from": 1116540,
+				"to": 1117540
+			},
+			"text": " The Forest Service owns that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,540",
+				"to": "00:18:41,540"
+			},
+			"offsets": {
+				"from": 1117540,
+				"to": 1121540
+			},
+			"text": " So we've been having a battering ram type of relationship with the Forest Service."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,540",
+				"to": "00:18:43,540"
+			},
+			"offsets": {
+				"from": 1121540,
+				"to": 1123540
+			},
+			"text": " So it's kind of a blessing."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,540",
+				"to": "00:18:45,540"
+			},
+			"offsets": {
+				"from": 1123540,
+				"to": 1125540
+			},
+			"text": " In some ways, we do not have a reservation."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,540",
+				"to": "00:18:50,920"
+			},
+			"offsets": {
+				"from": 1125540,
+				"to": 1130920
+			},
+			"text": " We don't have all the social issues that reservations have, but we don't have the resources available to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,920",
+				"to": "00:18:56,240"
+			},
+			"offsets": {
+				"from": 1130920,
+				"to": 1136240
+			},
+			"text": " So we don't have a specific place we can call home, but we have ancestral territory."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,240",
+				"to": "00:19:03,460"
+			},
+			"offsets": {
+				"from": 1136240,
+				"to": 1143460
+			},
+			"text": " So that gives us, because of the government to government consultation, ancestral territory is our management area."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,460",
+				"to": "00:19:10,800"
+			},
+			"offsets": {
+				"from": 1143460,
+				"to": 1150800
+			},
+			"text": " So we have 1.4 million acres that the federal government and the state governments have to consult with us when they want to do things."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,800",
+				"to": "00:19:11,800"
+			},
+			"offsets": {
+				"from": 1150800,
+				"to": 1151800
+			},
+			"text": " So that's a blessing."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,800",
+				"to": "00:19:17,050"
+			},
+			"offsets": {
+				"from": 1151800,
+				"to": 1157050
+			},
+			"text": " So I've been able to participate in a lot of those issues, bringing traditional knowledge into the forefront."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,050",
+				"to": "00:19:26,070"
+			},
+			"offsets": {
+				"from": 1157050,
+				"to": 1166070
+			},
+			"text": " In doing so, I got appointed to the USDA FRAC, the Forest Research Advisory Committee back in D.C."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,070",
+				"to": "00:19:30,070"
+			},
+			"offsets": {
+				"from": 1166070,
+				"to": 1170070
+			},
+			"text": " The first time a traditional knowledge component was added to that council."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,070",
+				"to": "00:19:40,090"
+			},
+			"offsets": {
+				"from": 1170070,
+				"to": 1180090
+			},
+			"text": " And the second year into that process, we, the council, hired a social scientist, a doctorate, Kennelly Kim."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,090",
+				"to": "00:19:42,410"
+			},
+			"offsets": {
+				"from": 1180090,
+				"to": 1182410
+			},
+			"text": " I remember her name."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:42,410",
+				"to": "00:19:43,410"
+			},
+			"offsets": {
+				"from": 1182410,
+				"to": 1183410
+			},
+			"text": " Not a very good name."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,410",
+				"to": "00:19:45,410"
+			},
+			"offsets": {
+				"from": 1183410,
+				"to": 1185410
+			},
+			"text": " I remember her because she's so important to this movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,410",
+				"to": "00:19:56,010"
+			},
+			"offsets": {
+				"from": 1185410,
+				"to": 1196010
+			},
+			"text": " And we're trying to figure out what is the best way to deal with climate change, wildfire suppression, and traditional knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:56,010",
+				"to": "00:19:57,230"
+			},
+			"offsets": {
+				"from": 1196010,
+				"to": 1197230
+			},
+			"text": " Bam!"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,230",
+				"to": "00:19:59,230"
+			},
+			"offsets": {
+				"from": 1197230,
+				"to": 1199230
+			},
+			"text": " That's just kind of like what we live for."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,230",
+				"to": "00:20:00,320"
+			},
+			"offsets": {
+				"from": 1199230,
+				"to": 1200320
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,320",
+				"to": "00:20:07,210"
+			},
+			"offsets": {
+				"from": 1200320,
+				"to": 1207210
+			},
+			"text": " So we're creating a process of using traditional knowledge for prescribed burns."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,210",
+				"to": "00:20:25,530"
+			},
+			"offsets": {
+				"from": 1207210,
+				"to": 1225530
+			},
+			"text": " And we have recently, well, not recently, in the last five years, we, with the help of UC Berkeley, I'm a co-founder of, along with Tom Carlson and Jennifer Sauerwein, I'm a co-founder of the Kaduk Tribe UC Berkeley Collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,530",
+				"to": "00:20:35,070"
+			},
+			"offsets": {
+				"from": 1225530,
+				"to": 1235070
+			},
+			"text": " UC Berkeley come up and help me quantify our traditional ecological knowledge perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,070",
+				"to": "00:20:38,410"
+			},
+			"offsets": {
+				"from": 1235070,
+				"to": 1238410
+			},
+			"text": " Prove it to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,410",
+				"to": "00:20:40,410"
+			},
+			"offsets": {
+				"from": 1238410,
+				"to": 1240410
+			},
+			"text": " In that process, we're able to prove these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,410",
+				"to": "00:20:46,600"
+			},
+			"offsets": {
+				"from": 1240410,
+				"to": 1246600
+			},
+			"text": " And now climate change has happened where they're asking, you know, they're asking for critical answers."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,600",
+				"to": "00:20:54,700"
+			},
+			"offsets": {
+				"from": 1246600,
+				"to": 1254700
+			},
+			"text": " Back in the fracking D.C., one of the biggest topics back there is budget borrowing for wildland fire suppression."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,700",
+				"to": "00:21:02,230"
+			},
+			"offsets": {
+				"from": 1254700,
+				"to": 1262230
+			},
+			"text": " And Congress has made a rule, we'll give you more money right now, you guys have to get a handle on this because you can't borrow anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,230",
+				"to": "00:21:11,630"
+			},
+			"offsets": {
+				"from": 1262230,
+				"to": 1271630
+			},
+			"text": " So you have to find a way to create a process, an economical, viable, sustainable process with wildland fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,630",
+				"to": "00:21:17,580"
+			},
+			"offsets": {
+				"from": 1271630,
+				"to": 1277580
+			},
+			"text": " And so, hence my availability to this frat council."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,580",
+				"to": "00:21:19,020"
+			},
+			"offsets": {
+				"from": 1277580,
+				"to": 1279020
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,020",
+				"to": "00:21:21,070"
+			},
+			"offsets": {
+				"from": 1279020,
+				"to": 1281070
+			},
+			"text": " Pretty honored."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,070",
+				"to": "00:21:22,070"
+			},
+			"offsets": {
+				"from": 1281070,
+				"to": 1282070
+			},
+			"text": " Pretty humbled."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,070",
+				"to": "00:21:27,820"
+			},
+			"offsets": {
+				"from": 1282070,
+				"to": 1287820
+			},
+			"text": " Because my constituents back there are pretty high academically profiled."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,820",
+				"to": "00:21:31,010"
+			},
+			"offsets": {
+				"from": 1288820,
+				"to": 1291010
+			},
+			"text": " And I would say I'm not."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,010",
+				"to": "00:21:38,320"
+			},
+			"offsets": {
+				"from": 1291010,
+				"to": 1298320
+			},
+			"text": " And so I'm there, the single purpose of traditional knowledge, but we are, but my traditional knowledge encompasses everybody around the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,320",
+				"to": "00:21:49,370"
+			},
+			"offsets": {
+				"from": 1298320,
+				"to": 1309370
+			},
+			"text": " So it's very exciting to share my ideas and to open, to open minded folks, because they realize that we got to get a handle on this budget borrowing issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,370",
+				"to": "00:22:02,920"
+			},
+			"offsets": {
+				"from": 1309370,
+				"to": 1322920
+			},
+			"text": " And there's nothing else on the landscape right now, pardon the pun, that allows us to fight catastrophic wildland fire with any kind of beneficial results."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,920",
+				"to": "00:22:13,460"
+			},
+			"offsets": {
+				"from": 1322920,
+				"to": 1333460
+			},
+			"text": " If you're representing traditional knowledge and you're working with a bunch of scientists, I've always felt like there's the boundaries between one kind of knowledge and the other are a little bit artificial."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,460",
+				"to": "00:22:22,410"
+			},
+			"offsets": {
+				"from": 1333460,
+				"to": 1342410
+			},
+			"text": " But yet there's so much in terms of what's, what's recognized and what's considered more legitimate that it just gets tricky to navigate."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,410",
+				"to": "00:22:35,910"
+			},
+			"offsets": {
+				"from": 1342410,
+				"to": 1355910
+			},
+			"text": " What's for you when you're, when you're having those conversations, when you're going back and forth with scientists and policymakers, what, what are the points of tension and what are the, what are the points of creativity and that kind of a collaboration?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,910",
+				"to": "00:22:49,350"
+			},
+			"offsets": {
+				"from": 1355910,
+				"to": 1369350
+			},
+			"text": " I guess one of the biggest points of contention for me is when I first started this traditional knowledge, being part of this movement was people understanding what I'm saying."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,350",
+				"to": "00:22:52,570"
+			},
+			"offsets": {
+				"from": 1369350,
+				"to": 1372570
+			},
+			"text": " In the beginning, it was like, it's like a foreign language."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,570",
+				"to": "00:22:53,570"
+			},
+			"offsets": {
+				"from": 1372570,
+				"to": 1373570
+			},
+			"text": " People don't get it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,570",
+				"to": "00:23:09,180"
+			},
+			"offsets": {
+				"from": 1373570,
+				"to": 1389180
+			},
+			"text": " For instance, I'm talking now of prescribed fire managers that have worked in the landscape for 20 years before we come up to this food security grant from the USDA and prescribed fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,180",
+				"to": "00:23:13,380"
+			},
+			"offsets": {
+				"from": 1389180,
+				"to": 1393380
+			},
+			"text": " Fire, we've been prescribing fire to the landscape for thousands of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,380",
+				"to": "00:23:24,670"
+			},
+			"offsets": {
+				"from": 1393380,
+				"to": 1404670
+			},
+			"text": " And the park-like existence of the natural resources when, when the Europeans first landed on this planet was because of our nurturing, our understanding, our spiritual connection with the landscape."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,670",
+				"to": "00:23:32,040"
+			},
+			"offsets": {
+				"from": 1404670,
+				"to": 1412040
+			},
+			"text": " And so, therefore, they stripped us of that connection, but now we're revitalizing that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,040",
+				"to": "00:23:33,950"
+			},
+			"offsets": {
+				"from": 1412040,
+				"to": 1413950
+			},
+			"text": " Excuse me, what is your question? I'm sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,950",
+				"to": "00:23:38,040"
+			},
+			"offsets": {
+				"from": 1413950,
+				"to": 1418040
+			},
+			"text": " In those conversations with scientists, where, where's that contention?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,040",
+				"to": "00:23:48,260"
+			},
+			"offsets": {
+				"from": 1418040,
+				"to": 1428260
+			},
+			"text": " Okay, so, which leads me, I guess I was on the right track, which leads me to language, which leads me to ability to learn."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:48,260",
+				"to": "00:23:54,450"
+			},
+			"offsets": {
+				"from": 1428260,
+				"to": 1434450
+			},
+			"text": " And so, I had to do my due diligence in a very non-academic way of going to meetings."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,450",
+				"to": "00:23:57,450"
+			},
+			"offsets": {
+				"from": 1434450,
+				"to": 1437450
+			},
+			"text": " I felt being thrown to the wolves."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,450",
+				"to": "00:24:05,500"
+			},
+			"offsets": {
+				"from": 1437450,
+				"to": 1445500
+			},
+			"text": " And hydroelectric relicensing was the first time I was a tribal lead on such a highly profiled process."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,500",
+				"to": "00:24:13,190"
+			},
+			"offsets": {
+				"from": 1445500,
+				"to": 1453190
+			},
+			"text": " And to get my points across was very contentious in the beginning because I couldn't articulate the way I'm kind of trying to articulate now."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,190",
+				"to": "00:24:20,190"
+			},
+			"offsets": {
+				"from": 1453190,
+				"to": 1460190
+			},
+			"text": " Now, I didn't have the ability, but my mindset wasn't big enough at that point to understand what it takes to create movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,190",
+				"to": "00:24:24,220"
+			},
+			"offsets": {
+				"from": 1460190,
+				"to": 1464220
+			},
+			"text": " And so, I had to do my due diligence and get the right language."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,220",
+				"to": "00:24:39,300"
+			},
+			"offsets": {
+				"from": 1464220,
+				"to": 1479300
+			},
+			"text": " Unfortunately, in a non-academic way, I was going to these meetings and talking these issues and getting the snot knocked out of me by lawyers, by stakeholders, by federal officials of not understanding what I'm saying."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,300",
+				"to": "00:24:45,300"
+			},
+			"offsets": {
+				"from": 1479300,
+				"to": 1485300
+			},
+			"text": " And their line of rhetoric and management was continual and very strong."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,300",
+				"to": "00:24:51,330"
+			},
+			"offsets": {
+				"from": 1485300,
+				"to": 1491330
+			},
+			"text": " And that's where the world is all leaning towards those type of prescriptions."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,330",
+				"to": "00:24:57,580"
+			},
+			"offsets": {
+				"from": 1491330,
+				"to": 1497580
+			},
+			"text": " And so, the more I got beat up, the more other sympathetic people around the table were throwing."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,580",
+				"to": "00:24:59,830"
+			},
+			"offsets": {
+				"from": 1497580,
+				"to": 1499830
+			},
+			"text": " I think what he's trying to say is this."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,830",
+				"to": "00:25:02,750"
+			},
+			"offsets": {
+				"from": 1499830,
+				"to": 1502750
+			},
+			"text": " Once I get that, I put that in my arsenal or my quiver."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,750",
+				"to": "00:25:07,860"
+			},
+			"offsets": {
+				"from": 1502750,
+				"to": 1507860
+			},
+			"text": " And pretty soon I have, so right now I have a lot of arrows in my quiver because of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,860",
+				"to": "00:25:16,590"
+			},
+			"offsets": {
+				"from": 1507860,
+				"to": 1516590
+			},
+			"text": " Being, you know, learning the language, learning how to communicate, and learning what is it that other people can understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,900",
+				"to": "00:25:21,900"
+			},
+			"offsets": {
+				"from": 1518900,
+				"to": 1521900
+			},
+			"text": " Unfortunately, those things are economics and health."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,900",
+				"to": "00:25:26,900"
+			},
+			"offsets": {
+				"from": 1521900,
+				"to": 1526900
+			},
+			"text": " Some of the things that we've done some really great work on, and so it grabs people's attention."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,900",
+				"to": "00:25:35,900"
+			},
+			"offsets": {
+				"from": 1526900,
+				"to": 1535900
+			},
+			"text": " So, we did the denied access to traditional foods, which then led us to this grant that we're on right now with this Coduc Tribe UC Berkeley Collaborative."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,900",
+				"to": "00:25:42,340"
+			},
+			"offsets": {
+				"from": 1535900,
+				"to": 1542340
+			},
+			"text": " Dr. Jennifer Sourwine wrote a grant, a highly competitive grant to the USDA."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,340",
+				"to": "00:25:46,400"
+			},
+			"offsets": {
+				"from": 1542340,
+				"to": 1546400
+			},
+			"text": " There's a NEFA AFRI Klamath Basin Food Security Grant."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,400",
+				"to": "00:25:55,400"
+			},
+			"offsets": {
+				"from": 1546400,
+				"to": 1555400
+			},
+			"text": " And the grant is for enhancing tribal health and food security in the Klamath Basin of Oregon and California by building a sustainable regional food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,400",
+				"to": "00:25:59,060"
+			},
+			"offsets": {
+				"from": 1555400,
+				"to": 1559060
+			},
+			"text": " Five years, multiple objectives."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,060",
+				"to": "00:26:06,060"
+			},
+			"offsets": {
+				"from": 1559060,
+				"to": 1566060
+			},
+			"text": " So, we're out doing K-12 curriculum development, building a traditional knowledge Western science compatibility chart."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,060",
+				"to": "00:26:15,060"
+			},
+			"offsets": {
+				"from": 1566060,
+				"to": 1575060
+			},
+			"text": " So, basically, when we're in the sciences, we can bring in traditional knowledge experts to come in and tell us what science really is and how it evolved to this point."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,060",
+				"to": "00:26:30,380"
+			},
+			"offsets": {
+				"from": 1575060,
+				"to": 1590380
+			},
+			"text": " In this process, we are teaching academics of how we manage the world in a totally different way of our European neighbors' colonizers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,380",
+				"to": "00:26:38,420"
+			},
+			"offsets": {
+				"from": 1590380,
+				"to": 1598420
+			},
+			"text": " So, in that process, we're able to distinguish between cultural pride and science."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:38,420",
+				"to": "00:26:43,450"
+			},
+			"offsets": {
+				"from": 1598420,
+				"to": 1603450
+			},
+			"text": " And so, that's kind of like what I do is try to connect people in these areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,450",
+				"to": "00:26:49,450"
+			},
+			"offsets": {
+				"from": 1603450,
+				"to": 1609450
+			},
+			"text": " I'm not a, like I said, intergenerational trauma doesn't make me a cultural expert."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,450",
+				"to": "00:26:53,440"
+			},
+			"offsets": {
+				"from": 1609450,
+				"to": 1613440
+			},
+			"text": " I'm a traditional dip net fisherman at Ishtapishy Falls."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,440",
+				"to": "00:26:57,470"
+			},
+			"offsets": {
+				"from": 1613440,
+				"to": 1617470
+			},
+			"text": " You can go on the internet and Google Krook Tribe, Klamath River Fishery."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:57,470",
+				"to": "00:27:00,470"
+			},
+			"offsets": {
+				"from": 1617470,
+				"to": 1620470
+			},
+			"text": " My name will come up and show me dipping down at Ishtapishy Falls."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:00,470",
+				"to": "00:27:03,720"
+			},
+			"offsets": {
+				"from": 1620470,
+				"to": 1623720
+			},
+			"text": " So, I'm an expert at fishing, which that's the only thing I'll claim."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,720",
+				"to": "00:27:06,720"
+			},
+			"offsets": {
+				"from": 1623720,
+				"to": 1626720
+			},
+			"text": " Everything else, I'm an expert at connecting people."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,720",
+				"to": "00:27:14,260"
+			},
+			"offsets": {
+				"from": 1626720,
+				"to": 1634260
+			},
+			"text": " And I have this vision, a traditional knowledge vision, that has been supported by a great amount of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,260",
+				"to": "00:27:16,190"
+			},
+			"offsets": {
+				"from": 1634260,
+				"to": 1636190
+			},
+			"text": " And I wouldn't be here today without those people."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,190",
+				"to": "00:27:21,820"
+			},
+			"offsets": {
+				"from": 1636190,
+				"to": 1641820
+			},
+			"text": " But the spirit of the people who walk before me is the reason why I'm here."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,820",
+				"to": "00:27:26,430"
+			},
+			"offsets": {
+				"from": 1641820,
+				"to": 1646430
+			},
+			"text": " But what made me find that trail was the people who walk after me."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,430",
+				"to": "00:27:29,430"
+			},
+			"offsets": {
+				"from": 1647430,
+				"to": 1649430
+			},
+			"text": " The people who live with me right today are my children."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:29,430",
+				"to": "00:27:37,300"
+			},
+			"offsets": {
+				"from": 1649430,
+				"to": 1657300
+			},
+			"text": " I owe them a better way of life because of my heritage responsibility, because of my belief in my religion."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,300",
+				"to": "00:27:41,430"
+			},
+			"offsets": {
+				"from": 1657300,
+				"to": 1661430
+			},
+			"text": " That is something I'm destined to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,430",
+				"to": "00:27:48,150"
+			},
+			"offsets": {
+				"from": 1661430,
+				"to": 1668150
+			},
+			"text": " Growing up in poverty, I had some big issues with my mother, not understanding what I do now."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,150",
+				"to": "00:27:54,360"
+			},
+			"offsets": {
+				"from": 1668150,
+				"to": 1674360
+			},
+			"text": " I was able to connect with her before she passed away, which leads me to this work that I do today."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,360",
+				"to": "00:28:12,830"
+			},
+			"offsets": {
+				"from": 1674360,
+				"to": 1692830
+			},
+			"text": " The spirit of her and her people who walk before her is the spirit that comes from me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,830",
+				"to": "00:28:17,250"
+			},
+			"offsets": {
+				"from": 1692830,
+				"to": 1697250
+			},
+			"text": " That's the spirit I project."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,250",
+				"to": "00:28:20,200"
+			},
+			"offsets": {
+				"from": 1697250,
+				"to": 1700200
+			},
+			"text": " It's a great responsibility, but it's an honor responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,200",
+				"to": "00:28:25,600"
+			},
+			"offsets": {
+				"from": 1700200,
+				"to": 1705600
+			},
+			"text": " And sometimes I feel like it's a burden."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,600",
+				"to": "00:28:28,300"
+			},
+			"offsets": {
+				"from": 1705600,
+				"to": 1708300
+			},
+			"text": " More importantly, it's a responsibility of mine."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,300",
+				"to": "00:28:42,810"
+			},
+			"offsets": {
+				"from": 1708300,
+				"to": 1722810
+			},
+			"text": " You talked a little bit last night, or one of my favorite parts of what you were saying is the sense of anger growing up, and then how you still feel it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,810",
+				"to": "00:28:47,860"
+			},
+			"offsets": {
+				"from": 1722810,
+				"to": 1727860
+			},
+			"text": " And it seems like that's part of this responsibility you're talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,860",
+				"to": "00:28:48,860"
+			},
+			"offsets": {
+				"from": 1727860,
+				"to": 1728860
+			},
+			"text": " Is that right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:48,860",
+				"to": "00:28:51,280"
+			},
+			"offsets": {
+				"from": 1728860,
+				"to": 1731280
+			},
+			"text": " Is that a transformation?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,280",
+				"to": "00:28:53,280"
+			},
+			"offsets": {
+				"from": 1731280,
+				"to": 1733280
+			},
+			"text": " How does that transformation work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,280",
+				"to": "00:29:02,340"
+			},
+			"offsets": {
+				"from": 1733280,
+				"to": 1742340
+			},
+			"text": " Well, very stubborn, very angry, very set in my ways, very strong minded."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,340",
+				"to": "00:29:07,060"
+			},
+			"offsets": {
+				"from": 1742340,
+				"to": 1747060
+			},
+			"text": " I was strong minded to be bad."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,060",
+				"to": "00:29:09,060"
+			},
+			"offsets": {
+				"from": 1747060,
+				"to": 1749060
+			},
+			"text": " I was strong minded to be antisocial."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,060",
+				"to": "00:29:13,180"
+			},
+			"offsets": {
+				"from": 1749060,
+				"to": 1753180
+			},
+			"text": " That's how I was expressing myself to how I viewed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,180",
+				"to": "00:29:16,690"
+			},
+			"offsets": {
+				"from": 1753180,
+				"to": 1756690
+			},
+			"text": " And I was getting into more trouble, more trouble, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,690",
+				"to": "00:29:20,690"
+			},
+			"offsets": {
+				"from": 1756690,
+				"to": 1760690
+			},
+			"text": " And, you know, alcoholism fell into that, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,690",
+				"to": "00:29:27,500"
+			},
+			"offsets": {
+				"from": 1760690,
+				"to": 1767500
+			},
+			"text": " And, you know, drug addiction was a part of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,500",
+				"to": "00:29:38,490"
+			},
+			"offsets": {
+				"from": 1767500,
+				"to": 1778490
+			},
+			"text": " But when it was time to take care of my family and my babies, it was time to figure out who I was as a person."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,490",
+				"to": "00:29:45,070"
+			},
+			"offsets": {
+				"from": 1778490,
+				"to": 1785070
+			},
+			"text": " And I had this foundation of knowledge that was unexpressed at that point."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:45,070",
+				"to": "00:30:01,650"
+			},
+			"offsets": {
+				"from": 1785070,
+				"to": 1801650
+			},
+			"text": " And now I'm trying to use that inherent responsibility to project not only to my tribal community but to the rest of the world so we can figure out what is the best common ground approach that we can use to get people on board with traditional knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,650",
+				"to": "00:30:03,650"
+			},
+			"offsets": {
+				"from": 1801650,
+				"to": 1803650
+			},
+			"text": " Traditional knowledge is nothing but local knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,650",
+				"to": "00:30:07,650"
+			},
+			"offsets": {
+				"from": 1803650,
+				"to": 1807650
+			},
+			"text": " The spirit of the landscape connected to human beings."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,650",
+				"to": "00:30:13,860"
+			},
+			"offsets": {
+				"from": 1807650,
+				"to": 1813860
+			},
+			"text": " It's amazing that the USDA actually put a social scientist on this committee."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,860",
+				"to": "00:30:16,860"
+			},
+			"offsets": {
+				"from": 1813860,
+				"to": 1816860
+			},
+			"text": " Probably just as amazing as traditional knowledge on this community."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,860",
+				"to": "00:30:26,040"
+			},
+			"offsets": {
+				"from": 1816860,
+				"to": 1826040
+			},
+			"text": " So now we have an ability to articulate our issues and concerns and to develop these issues and concerns at the highest level."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:26,040",
+				"to": "00:30:31,040"
+			},
+			"offsets": {
+				"from": 1826040,
+				"to": 1831040
+			},
+			"text": " The great work we're doing on the Klamath River right now is with prescribed burning."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,040",
+				"to": "00:30:38,070"
+			},
+			"offsets": {
+				"from": 1831040,
+				"to": 1838070
+			},
+			"text": " And that's basically all the federal state agencies and key stakeholders around the table doing consensus driven processes."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,070",
+				"to": "00:30:40,070"
+			},
+			"offsets": {
+				"from": 1838070,
+				"to": 1840070
+			},
+			"text": " That's a common ground approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,070",
+				"to": "00:30:41,070"
+			},
+			"offsets": {
+				"from": 1840070,
+				"to": 1841070
+			},
+			"text": " Zones of agreement."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,070",
+				"to": "00:30:42,070"
+			},
+			"offsets": {
+				"from": 1841070,
+				"to": 1842070
+			},
+			"text": " What are the things we agree on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,070",
+				"to": "00:30:45,070"
+			},
+			"offsets": {
+				"from": 1842070,
+				"to": 1845070
+			},
+			"text": " We've been fighting since contact and what we disagree about."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,070",
+				"to": "00:30:50,070"
+			},
+			"offsets": {
+				"from": 1845070,
+				"to": 1850070
+			},
+			"text": " This may be the first time in the history of the United States that we're working on things that we can all agree on."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,070",
+				"to": "00:30:58,220"
+			},
+			"offsets": {
+				"from": 1850070,
+				"to": 1858220
+			},
+			"text": " You mentioned that climate change opened up this possibility for a different way of looking at things or a different way of collaborating."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:58,220",
+				"to": "00:31:07,560"
+			},
+			"offsets": {
+				"from": 1858220,
+				"to": 1867560
+			},
+			"text": " Yeah, I alluded to that earlier when I said basically that climate, you know, that there's nothing else on the landscape that allows us to understand climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,560",
+				"to": "00:31:17,300"
+			},
+			"offsets": {
+				"from": 1867560,
+				"to": 1877300
+			},
+			"text": " And there's nothing else that can create a level of natural resource management that has positive impacts to climate change."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,300",
+				"to": "00:31:26,810"
+			},
+			"offsets": {
+				"from": 1877300,
+				"to": 1886810
+			},
+			"text": " Our forest up there in the Klamath River Basin eats up a lot of this carbon and produces oxygen."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:26,810",
+				"to": "00:31:38,410"
+			},
+			"offsets": {
+				"from": 1886810,
+				"to": 1898410
+			},
+			"text": " So the biggest thing is not only the economic devastation it does to our federal budget, but it also bankrupts our carbon emissions that go out into space from these catastrophic wildfires."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,410",
+				"to": "00:31:45,690"
+			},
+			"offsets": {
+				"from": 1898410,
+				"to": 1905690
+			},
+			"text": " So there's a so there's some big issues out there that these federal government, they have to deal with."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,690",
+				"to": "00:31:47,690"
+			},
+			"offsets": {
+				"from": 1905690,
+				"to": 1907690
+			},
+			"text": " And it's not like it's an epiphany that they've received."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,690",
+				"to": "00:31:53,690"
+			},
+			"offsets": {
+				"from": 1907690,
+				"to": 1913690
+			},
+			"text": " I think we've been telling them all along how we need to manage the landscape, how we need to manage the people, et cetera, et cetera."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,690",
+				"to": "00:31:55,690"
+			},
+			"offsets": {
+				"from": 1913690,
+				"to": 1915690
+			},
+			"text": " But there's no reason to hear us."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,690",
+				"to": "00:32:05,140"
+			},
+			"offsets": {
+				"from": 1915690,
+				"to": 1925140
+			},
+			"text": " Now, climate change has given us the opportunity to voice our opinions loud and clear about what our perspective of the world is."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,140",
+				"to": "00:32:17,200"
+			},
+			"offsets": {
+				"from": 1925140,
+				"to": 1937200
+			},
+			"text": " And with the quantification process with Berkeley and other academic institution nowadays with this movement, they're able to use Western science to do what it does best to quantify our process."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,200",
+				"to": "00:32:19,200"
+			},
+			"offsets": {
+				"from": 1937200,
+				"to": 1939200
+			},
+			"text": " We shouldn't have to go out and prove what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,200",
+				"to": "00:32:22,200"
+			},
+			"offsets": {
+				"from": 1939200,
+				"to": 1942200
+			},
+			"text": " It's a process that we've had for thousands of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,200",
+				"to": "00:32:24,200"
+			},
+			"offsets": {
+				"from": 1942200,
+				"to": 1944200
+			},
+			"text": " So we got it backwards a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,200",
+				"to": "00:32:28,200"
+			},
+			"offsets": {
+				"from": 1944200,
+				"to": 1948200
+			},
+			"text": " We shouldn't have to go prove something with a pilot project before we get more funding to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,200",
+				"to": "00:32:32,200"
+			},
+			"offsets": {
+				"from": 1948200,
+				"to": 1952200
+			},
+			"text": " We should just kind of like they should come up and just quantify our effort and realize what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,200",
+				"to": "00:32:48,380"
+			},
+			"offsets": {
+				"from": 1952200,
+				"to": 1968380
+			},
+			"text": " So that's what really Berkeley in this relationship with Berkeley is doing is coming and quantifying and putting it into Western science understanding to see how does traditional knowledge benefit climate change and all the social aspects of our community around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,380",
+				"to": "00:32:53,380"
+			},
+			"offsets": {
+				"from": 1968380,
+				"to": 1973380
+			},
+			"text": " So those are the things that I'm expressing not only today, every meeting I go to."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,380",
+				"to": "00:32:59,570"
+			},
+			"offsets": {
+				"from": 1973380,
+				"to": 1979570
+			},
+			"text": " And again, my biggest impact needs to be with my tribal community."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,570",
+				"to": "00:33:07,490"
+			},
+			"offsets": {
+				"from": 1979570,
+				"to": 1987490
+			},
+			"text": " And so that's the part that I'm really struggling with now at this point is we got the picture on the table about natural resource management."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,490",
+				"to": "00:33:11,590"
+			},
+			"offsets": {
+				"from": 1987490,
+				"to": 1991590
+			},
+			"text": " How do we come back and manage our people socially with the environment we have today?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,590",
+				"to": "00:33:14,590"
+			},
+			"offsets": {
+				"from": 1991590,
+				"to": 1994590
+			},
+			"text": " And so some of the things I've been talking about are all the different pieces."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,590",
+				"to": "00:33:19,590"
+			},
+			"offsets": {
+				"from": 1994590,
+				"to": 1999590
+			},
+			"text": " This new grant we have, we're in the fifth year of our grant."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,590",
+				"to": "00:33:32,570"
+			},
+			"offsets": {
+				"from": 1999590,
+				"to": 2012570
+			},
+			"text": " And so we are really looking forward to putting a lot of our visionary processes to play and accumulate a stepping stone from this food security grant into a climate change grant."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,570",
+				"to": "00:33:38,640"
+			},
+			"offsets": {
+				"from": 2012570,
+				"to": 2018640
+			},
+			"text": " Unfortunately, that's the way we work and I'm not sure how to deal with that type of issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,640",
+				"to": "00:33:57,040"
+			},
+			"offsets": {
+				"from": 2018640,
+				"to": 2037040
+			},
+			"text": " But we just and I'm just relying on the larger community of professionals and academia to figure out how can they help me build this climate change traditional knowledge vision that encompasses the world rather than just the biased community that you come from."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,040",
+				"to": "00:34:00,330"
+			},
+			"offsets": {
+				"from": 2037040,
+				"to": 2040330
+			},
+			"text": " And I think that brings people together."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:00,330",
+				"to": "00:34:05,330"
+			},
+			"offsets": {
+				"from": 2040330,
+				"to": 2045330
+			},
+			"text": " It's a spirit of Mother Earth connecting with the great creator, coming back through people."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,330",
+				"to": "00:34:11,540"
+			},
+			"offsets": {
+				"from": 2045330,
+				"to": 2051540
+			},
+			"text": " The energy comes back from the people through food and redistributes through the landscape once again."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,540",
+				"to": "00:34:15,540"
+			},
+			"offsets": {
+				"from": 2051540,
+				"to": 2055540
+			},
+			"text": " So those are the things that we're working on and we're pretty proud of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,540",
+				"to": "00:34:19,630"
+			},
+			"offsets": {
+				"from": 2055540,
+				"to": 2059630
+			},
+			"text": " And I'm doing the best I can."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,630",
+				"to": "00:34:26,630"
+			},
+			"offsets": {
+				"from": 2059630,
+				"to": 2066630
+			},
+			"text": " I have three children in college right now, you know, and they're all at home working in natural resource management."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,630",
+				"to": "00:34:33,540"
+			},
+			"offsets": {
+				"from": 2066630,
+				"to": 2073540
+			},
+			"text": " So I'm honored and humbled at the same time to be able to do the work I'm doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,540",
+				"to": "00:34:39,210"
+			},
+			"offsets": {
+				"from": 2073540,
+				"to": 2079210
+			},
+			"text": " And I've been meeting a wonderful amount of people along the way."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,210",
+				"to": "00:34:46,360"
+			},
+			"offsets": {
+				"from": 2079210,
+				"to": 2086360
+			},
+			"text": " And this movement really seems to be growing some really strong legs because we've been walking."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:46,360",
+				"to": "00:34:47,360"
+			},
+			"offsets": {
+				"from": 2086360,
+				"to": 2087360
+			},
+			"text": " First, we was crawling."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,360",
+				"to": "00:34:48,360"
+			},
+			"offsets": {
+				"from": 2087360,
+				"to": 2088360
+			},
+			"text": " Now we're walking."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:48,360",
+				"to": "00:34:51,380"
+			},
+			"offsets": {
+				"from": 2088360,
+				"to": 2091380
+			},
+			"text": " I can feel a little gallop starting to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,380",
+				"to": "00:34:53,410"
+			},
+			"offsets": {
+				"from": 2091380,
+				"to": 2093410
+			},
+			"text": " Has food always been a part of it for you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,410",
+				"to": "00:34:57,630"
+			},
+			"offsets": {
+				"from": 2093410,
+				"to": 2097630
+			},
+			"text": " Has fishing and wild foods always been a part of it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,630",
+				"to": "00:34:58,630"
+			},
+			"offsets": {
+				"from": 2097630,
+				"to": 2098630
+			},
+			"text": " Oh, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,630",
+				"to": "00:34:59,630"
+			},
+			"offsets": {
+				"from": 2098630,
+				"to": 2099630
+			},
+			"text": " My ceremonies."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:59,630",
+				"to": "00:35:02,030"
+			},
+			"offsets": {
+				"from": 2099630,
+				"to": 2102030
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,030",
+				"to": "00:35:10,030"
+			},
+			"offsets": {
+				"from": 2102030,
+				"to": 2110030
+			},
+			"text": " My first memories of my life were down there dancing the white deerskin dance with my grandpa and my close relations because there wasn't a lot of people participating."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,030",
+				"to": "00:35:26,680"
+			},
+			"offsets": {
+				"from": 2110030,
+				"to": 2126680
+			},
+			"text": " And in the same timeframe, I remember going out with my uncles and I remember this rainy day when my first memories, my rainy day up on a family gathering area where we was picking acorns up and tan oak mushrooms."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,680",
+				"to": "00:35:30,150"
+			},
+			"offsets": {
+				"from": 2126680,
+				"to": 2130150
+			},
+			"text": " And my uncles come by."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,150",
+				"to": "00:35:31,150"
+			},
+			"offsets": {
+				"from": 2130150,
+				"to": 2131150
+			},
+			"text": " Okay, everybody get down."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,150",
+				"to": "00:35:32,990"
+			},
+			"offsets": {
+				"from": 2131150,
+				"to": 2132990
+			},
+			"text": " They went to there was in the service."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:33,220",
+				"to": "00:35:34,340"
+			},
+			"offsets": {
+				"from": 2133220,
+				"to": 2134340
+			},
+			"text": " The military."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,340",
+				"to": "00:35:37,340"
+			},
+			"offsets": {
+				"from": 2134340,
+				"to": 2137340
+			},
+			"text": " And so they said, okay, everybody down, everybody down."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:37,340",
+				"to": "00:35:39,340"
+			},
+			"offsets": {
+				"from": 2137340,
+				"to": 2139340
+			},
+			"text": " So we all kind of like got down to the ground and you hear a pop."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,340",
+				"to": "00:35:45,020"
+			},
+			"offsets": {
+				"from": 2139340,
+				"to": 2145020
+			},
+			"text": " Pretty soon, here they come with a big buck."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,020",
+				"to": "00:35:48,620"
+			},
+			"offsets": {
+				"from": 2145020,
+				"to": 2148620
+			},
+			"text": " That was my first experience, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:48,620",
+				"to": "00:35:57,710"
+			},
+			"offsets": {
+				"from": 2148620,
+				"to": 2157710
+			},
+			"text": " So it's the ceremonies and natural resource management or, yeah, harvest still sticks in my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,710",
+				"to": "00:36:02,050"
+			},
+			"offsets": {
+				"from": 2157710,
+				"to": 2162050
+			},
+			"text": " And I think that allows me to be here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,050",
+				"to": "00:36:08,050"
+			},
+			"offsets": {
+				"from": 2162050,
+				"to": 2168050
+			},
+			"text": " I was taught the things, the integrity of who we are as a people, the blood that ran through my veins, the atrocities that happened to our people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,050",
+				"to": "00:36:13,370"
+			},
+			"offsets": {
+				"from": 2168050,
+				"to": 2173370
+			},
+			"text": " that we have to create a change even if it is out of our comfort zone."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,370",
+				"to": "00:36:37,310"
+			},
+			"offsets": {
+				"from": 2173370,
+				"to": 2197310
+			},
+			"text": " Having to live in a contemporary society without the cultural knowledge that was passed down from generation to generation to generation that stopped at my generation was one of the toughest things I ever had to go through."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:37,310",
+				"to": "00:36:45,470"
+			},
+			"offsets": {
+				"from": 2197310,
+				"to": 2205470
+			},
+			"text": " Teaching a lot of these things or learning a lot of these things from non-natives is a humbling experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,470",
+				"to": "00:36:56,740"
+			},
+			"offsets": {
+				"from": 2205470,
+				"to": 2216740
+			},
+			"text": " But it's an experience I respect because I can go teach my tribal community these things now."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,740",
+				"to": "00:37:04,890"
+			},
+			"offsets": {
+				"from": 2216740,
+				"to": 2224890
+			},
+			"text": " And I can relieve them of the embarrassment, the anxiety of, first of all, going to the event."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,890",
+				"to": "00:37:09,700"
+			},
+			"offsets": {
+				"from": 2224890,
+				"to": 2229700
+			},
+			"text": " Secondly, learning from a non-native."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,700",
+				"to": "00:37:14,580"
+			},
+			"offsets": {
+				"from": 2229700,
+				"to": 2234580
+			},
+			"text": " I have a strong shoulders, I have big shoulders, strong shoulders."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,580",
+				"to": "00:37:18,480"
+			},
+			"offsets": {
+				"from": 2234580,
+				"to": 2238480
+			},
+			"text": " And I was put here on this earth to do these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,480",
+				"to": "00:37:19,480"
+			},
+			"offsets": {
+				"from": 2238480,
+				"to": 2239480
+			},
+			"text": " I truly believe that."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,480",
+				"to": "00:37:25,840"
+			},
+			"offsets": {
+				"from": 2239480,
+				"to": 2245840
+			},
+			"text": " I'll go to the ends of this earth to do what I believe in, which I have."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,840",
+				"to": "00:37:31,840"
+			},
+			"offsets": {
+				"from": 2245840,
+				"to": 2251840
+			},
+			"text": " In the hydraulic licensing, we went to Scotland and demonstrated over there to the richest stakeholders in the world, Scottish power."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,730",
+				"to": "00:37:33,760"
+			},
+			"offsets": {
+				"from": 2252730,
+				"to": 2253760
+			},
+			"text": " And we rolled them."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,760",
+				"to": "00:37:36,760"
+			},
+			"offsets": {
+				"from": 2253760,
+				"to": 2256760
+			},
+			"text": " Unfortunately, they sold the dams to Warren Buffett."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:36,760",
+				"to": "00:37:40,580"
+			},
+			"offsets": {
+				"from": 2256760,
+				"to": 2260580
+			},
+			"text": " Warren Buffett now owns the dams and we're working on him and we're getting the dams out."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,580",
+				"to": "00:37:42,580"
+			},
+			"offsets": {
+				"from": 2260580,
+				"to": 2262580
+			},
+			"text": " We've already worked him over too."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,580",
+				"to": "00:37:45,580"
+			},
+			"offsets": {
+				"from": 2262580,
+				"to": 2265580
+			},
+			"text": " So anyway, now we're going to get the dams out in 2020."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,580",
+				"to": "00:37:47,580"
+			},
+			"offsets": {
+				"from": 2265580,
+				"to": 2267580
+			},
+			"text": " So that's just a stepping stone."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,580",
+				"to": "00:37:56,570"
+			},
+			"offsets": {
+				"from": 2267580,
+				"to": 2276570
+			},
+			"text": " And all the things that I've done in that process allows me to be here today with help of academia, with help of good friends and the help of a strong family."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,570",
+				"to": "00:38:02,740"
+			},
+			"offsets": {
+				"from": 2276570,
+				"to": 2282740
+			},
+			"text": " My wife is probably one of the strongest unheard of person in this movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,740",
+				"to": "00:38:05,890"
+			},
+			"offsets": {
+				"from": 2282740,
+				"to": 2285890
+			},
+			"text": " And unfortunately, she was here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,890",
+				"to": "00:38:07,890"
+			},
+			"offsets": {
+				"from": 2285890,
+				"to": 2287890
+			},
+			"text": " And now they've been corralling her."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,890",
+				"to": "00:38:13,720"
+			},
+			"offsets": {
+				"from": 2287890,
+				"to": 2293720
+			},
+			"text": " And she not only raised my children, but she's helped me be who I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,720",
+				"to": "00:38:14,720"
+			},
+			"offsets": {
+				"from": 2293720,
+				"to": 2294720
+			},
+			"text": " And it's a beautiful relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:14,720",
+				"to": "00:38:22,110"
+			},
+			"offsets": {
+				"from": 2294720,
+				"to": 2302110
+			},
+			"text": " And I'm pretty honored to be able to work on these issues at such a level that I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,110",
+				"to": "00:38:24,300"
+			},
+			"offsets": {
+				"from": 2302110,
+				"to": 2304300
+			},
+			"text": " And yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,300",
+				"to": "00:38:28,870"
+			},
+			"offsets": {
+				"from": 2304300,
+				"to": 2308870
+			},
+			"text": " You're not the only one we've talked to for this podcast, Chelsea and I."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,870",
+				"to": "00:38:34,160"
+			},
+			"offsets": {
+				"from": 2308870,
+				"to": 2314160
+			},
+			"text": " I mean, few people on this that we've interviewed."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,160",
+				"to": "00:38:44,380"
+			},
+			"offsets": {
+				"from": 2314160,
+				"to": 2324380
+			},
+			"text": " A black woman, a couple of women from India have said like this feeling that something that this huge thing has been lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,380",
+				"to": "00:38:50,550"
+			},
+			"offsets": {
+				"from": 2324380,
+				"to": 2330550
+			},
+			"text": " Our ways of what we know about food, what we know about ourselves and our health have been lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,550",
+				"to": "00:38:52,550"
+			},
+			"offsets": {
+				"from": 2330550,
+				"to": 2332550
+			},
+			"text": " It's just the weight of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,550",
+				"to": "00:38:54,510"
+			},
+			"offsets": {
+				"from": 2332550,
+				"to": 2334510
+			},
+			"text": " It's just almost it's too much."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:54,510",
+				"to": "00:39:00,410"
+			},
+			"offsets": {
+				"from": 2334510,
+				"to": 2340410
+			},
+			"text": " Too much to describe in words what's been lost through colonialism."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,410",
+				"to": "00:39:14,820"
+			},
+			"offsets": {
+				"from": 2340410,
+				"to": 2354820
+			},
+			"text": " And so rebuilding that rebuilding that seems complicated in a in a in a contemporary world."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,820",
+				"to": "00:39:27,110"
+			},
+			"offsets": {
+				"from": 2354820,
+				"to": 2367110
+			},
+			"text": " It's I guess what does it take to rebuild a knowledge in even given the reality that this unhelpful amount of knowledge has been lost?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:27,110",
+				"to": "00:39:34,760"
+			},
+			"offsets": {
+				"from": 2367110,
+				"to": 2374760
+			},
+			"text": " Easy, one word, sacred, two words, sacred fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:34,760",
+				"to": "00:39:46,650"
+			},
+			"offsets": {
+				"from": 2374760,
+				"to": 2386650
+			},
+			"text": " Over 90% of our plants, our traditional plants, our cultural plants need fire to reproduce."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,650",
+				"to": "00:39:54,830"
+			},
+			"offsets": {
+				"from": 2386650,
+				"to": 2394830
+			},
+			"text": " So our whole landscape was based on using fire as a primary force management tool."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,830",
+				"to": "00:40:01,570"
+			},
+			"offsets": {
+				"from": 2394830,
+				"to": 2401570
+			},
+			"text": " You learn so much by watching nature by observation."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:01,570",
+				"to": "00:40:05,570"
+			},
+			"offsets": {
+				"from": 2401570,
+				"to": 2405570
+			},
+			"text": " You throw a fire through someplace and you only see a certain amount of plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:05,570",
+				"to": "00:40:09,720"
+			},
+			"offsets": {
+				"from": 2405570,
+				"to": 2409720
+			},
+			"text": " You come back the year after a fire, two years after a fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:09,720",
+				"to": "00:40:13,730"
+			},
+			"offsets": {
+				"from": 2409720,
+				"to": 2413730
+			},
+			"text": " The diversity of that landscape has changed dramatically."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:13,730",
+				"to": "00:40:16,390"
+			},
+			"offsets": {
+				"from": 2413730,
+				"to": 2416390
+			},
+			"text": " Traditional plants are available now."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,390",
+				"to": "00:40:20,390"
+			},
+			"offsets": {
+				"from": 2416390,
+				"to": 2420390
+			},
+			"text": " And now it kind of provokes me to think, OK, what were these plants used for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:20,390",
+				"to": "00:40:21,350"
+			},
+			"offsets": {
+				"from": 2420390,
+				"to": 2421350
+			},
+			"text": " We're in."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,350",
+				"to": "00:40:31,120"
+			},
+			"offsets": {
+				"from": 2421350,
+				"to": 2431120
+			},
+			"text": " OK, then you start doing research through other ethnographic information through different folks that tribal folks have put together."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,120",
+				"to": "00:40:43,650"
+			},
+			"offsets": {
+				"from": 2431120,
+				"to": 2443650
+			},
+			"text": " And understanding that we have a lot of the answers to society's problems within our own traditional management movement."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,650",
+				"to": "00:40:59,490"
+			},
+			"offsets": {
+				"from": 2443650,
+				"to": 2459490
+			},
+			"text": " So I've been doing my best to try to understand that, you know, our traditional knowledge, interviewing elders and working on these natural resource issues and learning incrementally what it is to be cut out."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,490",
+				"to": "00:41:18,560"
+			},
+			"offsets": {
+				"from": 2459490,
+				"to": 2478560
+			},
+			"text": " And so now what it's allowed me to do now is to articulate those issues alongside of academics, alongside of federal, state policymakers, and to have an impact, a potential change the way they view the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,560",
+				"to": "00:41:21,910"
+			},
+			"offsets": {
+				"from": 2478560,
+				"to": 2481910
+			},
+			"text": " And that in itself is tremendous."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:21,910",
+				"to": "00:41:30,510"
+			},
+			"offsets": {
+				"from": 2481910,
+				"to": 2490510
+			},
+			"text": " And without the academic community, without people like you, without people like people at this conference, this doesn't happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,510",
+				"to": "00:41:39,960"
+			},
+			"offsets": {
+				"from": 2490510,
+				"to": 2499960
+			},
+			"text": " I mean, people at this conference are so polished that everything I say, I just see a hundred heads after shaking their head, yeah, yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:39,960",
+				"to": "00:41:42,960"
+			},
+			"offsets": {
+				"from": 2499960,
+				"to": 2502960
+			},
+			"text": " And don't do that to me because I just poured on after that."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:42,960",
+				"to": "00:41:53,950"
+			},
+			"offsets": {
+				"from": 2502960,
+				"to": 2513950
+			},
+			"text": " So, you know, so, I mean, it just really from, it's really been a great step from the first day I started talking about traditional knowledge, using fire in the landscape to protect our fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,950",
+				"to": "00:41:57,940"
+			},
+			"offsets": {
+				"from": 2513950,
+				"to": 2517940
+			},
+			"text": " You should have seen the biologists look in this with a state of confusion at that point."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,940",
+				"to": "00:41:59,940"
+			},
+			"offsets": {
+				"from": 2517940,
+				"to": 2519940
+			},
+			"text": " And that's been 15 years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:59,940",
+				"to": "00:42:03,940"
+			},
+			"offsets": {
+				"from": 2519940,
+				"to": 2523940
+			},
+			"text": " So now we've been doing a lot of work since then and people know it now."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:03,940",
+				"to": "00:42:05,940"
+			},
+			"offsets": {
+				"from": 2523940,
+				"to": 2525940
+			},
+			"text": " So now we're going up the landscape and fixing the landscape."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:05,940",
+				"to": "00:42:07,940"
+			},
+			"offsets": {
+				"from": 2525940,
+				"to": 2527940
+			},
+			"text": " And now they're saying, well, what about the fish?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,940",
+				"to": "00:42:08,940"
+			},
+			"offsets": {
+				"from": 2527940,
+				"to": 2528940
+			},
+			"text": " So it's kind of coming around."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:08,940",
+				"to": "00:42:10,940"
+			},
+			"offsets": {
+				"from": 2528940,
+				"to": 2530940
+			},
+			"text": " A lot of the different things are coming around full circle."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,940",
+				"to": "00:42:23,160"
+			},
+			"offsets": {
+				"from": 2530940,
+				"to": 2543160
+			},
+			"text": " And I think it's just a tribute to maybe my lack of traditional knowledge that I have this inherent responsibility to provide a foundation of traditional well-being to my family in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:23,160",
+				"to": "00:42:33,290"
+			},
+			"offsets": {
+				"from": 2543160,
+				"to": 2553290
+			},
+			"text": " So those are the things that I'm striving to create, to have a template for my own people to follow if they want to reach this level of harmony."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,290",
+				"to": "00:42:38,700"
+			},
+			"offsets": {
+				"from": 2553290,
+				"to": 2558700
+			},
+			"text": " Something that our tribal ceremonies are, that's it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,700",
+				"to": "00:42:42,820"
+			},
+			"offsets": {
+				"from": 2558700,
+				"to": 2562820
+			},
+			"text": " Diversity and harmony are the two primary factors of why we do these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,820",
+				"to": "00:42:50,420"
+			},
+			"offsets": {
+				"from": 2562820,
+				"to": 2570420
+			},
+			"text": " And the respect that it's a true interdisciplinary team to try managing."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:50,420",
+				"to": "00:43:04,450"
+			},
+			"offsets": {
+				"from": 2570420,
+				"to": 2584450
+			},
+			"text": " And so those are the things that I incorporate in my work, my world ideology that I'm still learning, and trying to find a better way for not only my tribal community, but the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:04,450",
+				"to": "00:43:07,320"
+			},
+			"offsets": {
+				"from": 2584450,
+				"to": 2587320
+			},
+			"text": " Pick you out."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,320",
+				"to": "00:43:09,450"
+			},
+			"offsets": {
+				"from": 2587320,
+				"to": 2589450
+			},
+			"text": " Thanks so much, Ron."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:09,450",
+				"to": "00:43:14,530"
+			},
+			"offsets": {
+				"from": 2589450,
+				"to": 2594530
+			},
+			"text": " I think that's been a great interview."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,530",
+				"to": "00:43:22,130"
+			},
+			"offsets": {
+				"from": 2594530,
+				"to": 2602130
+			},
+			"text": " I just wanted to ask you if there's anything I haven't asked about or if there's something else you'd like to tell to this audience."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:22,130",
+				"to": "00:43:36,020"
+			},
+			"offsets": {
+				"from": 2602130,
+				"to": 2616020
+			},
+			"text": " Well, you know, right now I think you've exhausted me, but I just feel like, you know, that this is real and climate change is real."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:36,020",
+				"to": "00:43:37,400"
+			},
+			"offsets": {
+				"from": 2616020,
+				"to": 2617400
+			},
+			"text": " Society is real."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:37,400",
+				"to": "00:43:42,410"
+			},
+			"offsets": {
+				"from": 2617400,
+				"to": 2622410
+			},
+			"text": " Our tribal perspective is that we leave no one behind."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:42,410",
+				"to": "00:43:45,300"
+			},
+			"offsets": {
+				"from": 2622410,
+				"to": 2625300
+			},
+			"text": " We need to start taking care of each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:45,300",
+				"to": "00:43:48,390"
+			},
+			"offsets": {
+				"from": 2625300,
+				"to": 2628390
+			},
+			"text": " People who don't have good food, we need to start addressing that issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:48,390",
+				"to": "00:43:56,370"
+			},
+			"offsets": {
+				"from": 2628390,
+				"to": 2636370
+			},
+			"text": " Because what happens is that, hey, society is paying for that regardless if we think we're paying for it or not, you know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,370",
+				"to": "00:44:06,040"
+			},
+			"offsets": {
+				"from": 2636370,
+				"to": 2646040
+			},
+			"text": " And I think that when I'm laid down to rest, this traditional knowledge is going to be in full bloom."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:06,040",
+				"to": "00:44:11,850"
+			},
+			"offsets": {
+				"from": 2646040,
+				"to": 2651850
+			},
+			"text": " And at some point in time, those seeds are going to drop."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:11,850",
+				"to": "00:44:15,650"
+			},
+			"offsets": {
+				"from": 2651850,
+				"to": 2655650
+			},
+			"text": " And when the seed drops, there's no stopping it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:15,650",
+				"to": "00:44:29,780"
+			},
+			"offsets": {
+				"from": 2655650,
+				"to": 2669780
+			},
+			"text": " So all I'm doing, I've been putting here on this earth like a speck of sand on a beach, physically and in time sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:29,780",
+				"to": "00:44:32,780"
+			},
+			"offsets": {
+				"from": 2669780,
+				"to": 2672780
+			},
+			"text": " What I'm doing right now is to be able to make my mother proud."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:32,780",
+				"to": "00:44:38,500"
+			},
+			"offsets": {
+				"from": 2672780,
+				"to": 2678500
+			},
+			"text": " The people who walked before me, proud."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:38,500",
+				"to": "00:44:56,980"
+			},
+			"offsets": {
+				"from": 2678500,
+				"to": 2696980
+			},
+			"text": " So when I go up, when I go home, the ceremonial circle is open for me to participate at a level, something I've been striving for my whole life."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:56,980",
+				"to": "00:45:11,210"
+			},
+			"offsets": {
+				"from": 2696980,
+				"to": 2711210
+			},
+			"text": " With that, the seeds will fall and I'll be up there watching down on the next generation to see if I fulfill my inherent responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,210",
+				"to": "00:45:19,160"
+			},
+			"offsets": {
+				"from": 2711210,
+				"to": 2719160
+			},
+			"text": " And my inherent responsibility is your inherent responsibility as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:19,160",
+				"to": "00:45:27,180"
+			},
+			"offsets": {
+				"from": 2719160,
+				"to": 2727180
+			},
+			"text": " The more we can collaborate and communicate, understand, critically, non-critically, is important to the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:27,180",
+				"to": "00:45:31,540"
+			},
+			"offsets": {
+				"from": 2727180,
+				"to": 2731540
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,540",
+				"to": "00:45:52,420"
+			},
+			"offsets": {
+				"from": 2731540,
+				"to": 2752420
+			},
+			"text": " Delicious Revolution is a show about food, culture and place made by Devin Sampson and me, Chelsea Wells."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:52,420",
+				"to": "00:45:57,420"
+			},
+			"offsets": {
+				"from": 2752420,
+				"to": 2757420
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:57,420",
+				"to": "00:46:02,220"
+			},
+			"offsets": {
+				"from": 2757420,
+				"to": 2762220
+			},
+			"text": " And you can learn more deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:02,220",
+				"to": "00:46:08,470"
+			},
+			"offsets": {
+				"from": 2762220,
+				"to": 2768470
+			},
+			"text": " There we've got pictures and notes all about the interviews and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:08,470",
+				"to": "00:46:10,640"
+			},
+			"offsets": {
+				"from": 2768470,
+				"to": 2770640
+			},
+			"text": " You can find us on Facebook and Twitter too."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:10,640",
+				"to": "00:46:19,640"
+			},
+			"offsets": {
+				"from": 2770640,
+				"to": 2779640
+			},
+			"text": " This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:19,640",
+				"to": "00:46:23,640"
+			},
+			"offsets": {
+				"from": 2779640,
+				"to": 2783640
+			},
+			"text": " Visit www.calhom.org."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:23,640",
+				"to": "00:46:29,630"
+			},
+			"offsets": {
+				"from": 2783640,
+				"to": 2789630
+			},
+			"text": " This season is a collaboration with Food First and a special thanks to Rebecca Murillo, our intern."
+		}
+	]
+}

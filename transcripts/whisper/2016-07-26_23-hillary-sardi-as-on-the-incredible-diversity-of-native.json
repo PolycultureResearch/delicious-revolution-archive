@@ -1,0 +1,5719 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,030",
+				"to": "00:00:05,510"
+			},
+			"offsets": {
+				"from": 30,
+				"to": 5510
+			},
+			"text": " Delicious Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,510",
+				"to": "00:00:11,350"
+			},
+			"offsets": {
+				"from": 5510,
+				"to": 11350
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building food movements."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,350",
+				"to": "00:00:14,350"
+			},
+			"offsets": {
+				"from": 11350,
+				"to": 14350
+			},
+			"text": " What's your food movement? Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,350",
+				"to": "00:00:19,820"
+			},
+			"offsets": {
+				"from": 14350,
+				"to": 19820
+			},
+			"text": " DeliciousRevolutionShow.com"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,820",
+				"to": "00:00:29,010"
+			},
+			"offsets": {
+				"from": 19820,
+				"to": 29010
+			},
+			"text": " One out of every three bites of food that you eat was probably a pollinated crop."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,010",
+				"to": "00:00:35,650"
+			},
+			"offsets": {
+				"from": 29010,
+				"to": 35650
+			},
+			"text": " These include things like watermelon, a lot of citrus, almonds, squash, tomato."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,650",
+				"to": "00:00:40,690"
+			},
+			"offsets": {
+				"from": 35650,
+				"to": 40690
+			},
+			"text": " These are all things that require a pollinator. Pollinators are essential to our food system."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,690",
+				"to": "00:00:45,890"
+			},
+			"offsets": {
+				"from": 40690,
+				"to": 45890
+			},
+			"text": " Most of those pollinated crops are a lot of the ones that provide vitamin E, vitamin A,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,890",
+				"to": "00:00:49,490"
+			},
+			"offsets": {
+				"from": 45890,
+				"to": 49490
+			},
+			"text": " a lot of these micronutrients that humans need to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,490",
+				"to": "00:00:53,330"
+			},
+			"offsets": {
+				"from": 49490,
+				"to": 53330
+			},
+			"text": " So we're pretty intricately intertwined with pollinators."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,330",
+				"to": "00:00:58,690"
+			},
+			"offsets": {
+				"from": 53330,
+				"to": 58690
+			},
+			"text": " Native bees are incredibly important because if honeybees do continue to decline,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,690",
+				"to": "00:01:04,930"
+			},
+			"offsets": {
+				"from": 58690,
+				"to": 64930
+			},
+			"text": " then we need alternate pollinators to fill that role, and native bees are the best candidates."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,930",
+				"to": "00:01:08,770"
+			},
+			"offsets": {
+				"from": 64930,
+				"to": 68770
+			},
+			"text": " And the estimate is about 20,000 species of native bee worldwide."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,770",
+				"to": "00:01:13,970"
+			},
+			"offsets": {
+				"from": 68770,
+				"to": 73970
+			},
+			"text": " So the fact that we only know of a honey bee is pretty surprising when there's all this amazing"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,970",
+				"to": "00:01:18,610"
+			},
+			"offsets": {
+				"from": 73970,
+				"to": 78610
+			},
+			"text": " diversity just buzzing around at all of our flowers that we don't even take note of."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,290",
+				"to": "00:01:26,390"
+			},
+			"offsets": {
+				"from": 79290,
+				"to": 86390
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,390",
+				"to": "00:01:27,430"
+			},
+			"offsets": {
+				"from": 86390,
+				"to": 87430
+			},
+			"text": " I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,430",
+				"to": "00:01:29,140"
+			},
+			"offsets": {
+				"from": 87430,
+				"to": 89140
+			},
+			"text": " And I'm Devin Sampson."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,140",
+				"to": "00:01:35,050"
+			},
+			"offsets": {
+				"from": 89140,
+				"to": 95050
+			},
+			"text": " We talk with people who work in and think about all aspects of food, including farmers, chefs,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,050",
+				"to": "00:01:39,650"
+			},
+			"offsets": {
+				"from": 95050,
+				"to": 99650
+			},
+			"text": " artists, and activists, bringing you in-depth conversations with some amazing people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,650",
+				"to": "00:01:44,610"
+			},
+			"offsets": {
+				"from": 99650,
+				"to": 104610
+			},
+			"text": " On this third season of Delicious Revolution, we're bringing you stories and perspectives from the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,610",
+				"to": "00:01:50,770"
+			},
+			"offsets": {
+				"from": 104610,
+				"to": 110770
+			},
+			"text": " unseen places in food systems, going behind kitchen doors into underground nests of native bees,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,770",
+				"to": "00:01:55,810"
+			},
+			"offsets": {
+				"from": 110770,
+				"to": 115810
+			},
+			"text": " places, under the waves, and to the far away origins of flavors we love, just to name a few."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,810",
+				"to": "00:02:01,930"
+			},
+			"offsets": {
+				"from": 115810,
+				"to": 121930
+			},
+			"text": " I'm speaking with people who work with food in places we normally cannot see or don't notice."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,930",
+				"to": "00:02:04,550"
+			},
+			"offsets": {
+				"from": 121930,
+				"to": 124550
+			},
+			"text": " It's a season of unseen stories of food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,550",
+				"to": "00:02:08,630"
+			},
+			"offsets": {
+				"from": 124550,
+				"to": 128630
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes or your favorite podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,630",
+				"to": "00:02:13,250"
+			},
+			"offsets": {
+				"from": 128630,
+				"to": 133250
+			},
+			"text": " Just search for Delicious Revolution wherever you get your podcasts, and you'll find us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,250",
+				"to": "00:02:18,260"
+			},
+			"offsets": {
+				"from": 133250,
+				"to": 138260
+			},
+			"text": " Our website is deliciousrevolutionshow.com, where we have pictures, links,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,260",
+				"to": "00:02:20,340"
+			},
+			"offsets": {
+				"from": 138260,
+				"to": 140340
+			},
+			"text": " and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,210",
+				"to": "00:02:25,940"
+			},
+			"offsets": {
+				"from": 141210,
+				"to": 145940
+			},
+			"text": " Hilary Sardinas is a pollination ecologist and naturalist."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,940",
+				"to": "00:02:31,780"
+			},
+			"offsets": {
+				"from": 145940,
+				"to": 151780
+			},
+			"text": " She studies the ability of small-scale on-farm native plant restoration to contribute to wild"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,780",
+				"to": "00:02:36,580"
+			},
+			"offsets": {
+				"from": 151780,
+				"to": 156580
+			},
+			"text": " bee conservation and at the same time contribute to farm viability through increased yields and"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,580",
+				"to": "00:02:37,940"
+			},
+			"offsets": {
+				"from": 156580,
+				"to": 157940
+			},
+			"text": " increased pollination."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,940",
+				"to": "00:02:44,180"
+			},
+			"offsets": {
+				"from": 157940,
+				"to": 164180
+			},
+			"text": " Hilary is the Pacific Coast Pollinator Specialist for the Xerxes Society for Invertebate Conservation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,180",
+				"to": "00:02:49,780"
+			},
+			"offsets": {
+				"from": 164180,
+				"to": 169780
+			},
+			"text": " and she blogs about the current pollinator-related research translating science into key points"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,780",
+				"to": "00:02:50,340"
+			},
+			"offsets": {
+				"from": 169780,
+				"to": 170340
+			},
+			"text": " for the public."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,340",
+				"to": "00:02:53,050"
+			},
+			"offsets": {
+				"from": 170340,
+				"to": 173050
+			},
+			"text": " Here's Chelsea's interview with Hilary Sardinas."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,050",
+				"to": "00:02:56,410"
+			},
+			"offsets": {
+				"from": 173050,
+				"to": 176410
+			},
+			"text": " Welcome to the show, Hilary."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,410",
+				"to": "00:02:58,090"
+			},
+			"offsets": {
+				"from": 176410,
+				"to": 178090
+			},
+			"text": " It's nice to have you here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,800",
+				"to": "00:03:07,020"
+			},
+			"offsets": {
+				"from": 180800,
+				"to": 187020
+			},
+			"text": " Right now, I'm sitting in Hilary's office, and we're looking at this, what is it, the lab"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,020",
+				"to": "00:03:08,220"
+			},
+			"offsets": {
+				"from": 187020,
+				"to": 188220
+			},
+			"text": " collection of native bees?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,220",
+				"to": "00:03:09,790"
+			},
+			"offsets": {
+				"from": 188220,
+				"to": 189790
+			},
+			"text": " A reference collection."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,790",
+				"to": "00:03:11,580"
+			},
+			"offsets": {
+				"from": 189790,
+				"to": 191580
+			},
+			"text": " And how many are here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,580",
+				"to": "00:03:14,080"
+			},
+			"offsets": {
+				"from": 191580,
+				"to": 194080
+			},
+			"text": " That is a really good question."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,080",
+				"to": "00:03:16,760"
+			},
+			"offsets": {
+				"from": 194080,
+				"to": 196760
+			},
+			"text": " A few hundred, I would say, or at least a hundred."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,890",
+				"to": "00:03:23,920"
+			},
+			"offsets": {
+				"from": 197890,
+				"to": 203920
+			},
+			"text": " Here in California, we have about 1,600 native species, and the region where we collect these,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,920",
+				"to": "00:03:29,840"
+			},
+			"offsets": {
+				"from": 203920,
+				"to": 209840
+			},
+			"text": " in the California Central Valley, we've collected about 130 different species."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,840",
+				"to": "00:03:34,320"
+			},
+			"offsets": {
+				"from": 209840,
+				"to": 214320
+			},
+			"text": " But we also have ones from Yosemite and other places where people have done their research."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,320",
+				"to": "00:03:38,190"
+			},
+			"offsets": {
+				"from": 214320,
+				"to": 218190
+			},
+			"text": " Well, it's a pretty amazing collection."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,190",
+				"to": "00:03:46,580"
+			},
+			"offsets": {
+				"from": 218190,
+				"to": 226580
+			},
+			"text": " So, what I'm looking at is this box full of native bees that are pinned and labeled."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,580",
+				"to": "00:03:55,620"
+			},
+			"offsets": {
+				"from": 226580,
+				"to": 235620
+			},
+			"text": " But they range from, I would say, maybe like the size of a big marble to like these really,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,620",
+				"to": "00:03:58,170"
+			},
+			"offsets": {
+				"from": 235620,
+				"to": 238170
+			},
+			"text": " really tiny ones that I can barely see that..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,170",
+				"to": "00:04:02,690"
+			},
+			"offsets": {
+				"from": 238170,
+				"to": 242690
+			},
+			"text": " Yeah, so carpenter bees are the biggest bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,690",
+				"to": "00:04:06,850"
+			},
+			"offsets": {
+				"from": 242690,
+				"to": 246850
+			},
+			"text": " Those are the marble-like ones you described, and they tend to be big and black, and people"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,850",
+				"to": "00:04:11,860"
+			},
+			"offsets": {
+				"from": 246850,
+				"to": 251860
+			},
+			"text": " often have them chewing into the wood pulp in their porches and decks."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,860",
+				"to": "00:04:13,540"
+			},
+			"offsets": {
+				"from": 251860,
+				"to": 253540
+			},
+			"text": " And a lot of people don't like them."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,100",
+				"to": "00:04:19,640"
+			},
+			"offsets": {
+				"from": 254100,
+				"to": 259640
+			},
+			"text": " They're black, but in the Central Valley, some of the males are bright yellow, like a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,640",
+				"to": "00:04:20,760"
+			},
+			"offsets": {
+				"from": 259640,
+				"to": 260760
+			},
+			"text": " piece of the sun."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,760",
+				"to": "00:04:25,240"
+			},
+			"offsets": {
+				"from": 260760,
+				"to": 265240
+			},
+			"text": " And the smallest bees, which is a kind of bee called Perdida, they're so small that it can"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,240",
+				"to": "00:04:27,800"
+			},
+			"offsets": {
+				"from": 265240,
+				"to": 267800
+			},
+			"text": " actually fit on the eyeball of the carpenter bee."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,800",
+				"to": "00:04:29,960"
+			},
+			"offsets": {
+				"from": 267800,
+				"to": 269960
+			},
+			"text": " So, that's the size range of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,960",
+				"to": "00:04:35,320"
+			},
+			"offsets": {
+				"from": 269960,
+				"to": 275320
+			},
+			"text": " But usually, we think of a honey bee, which is around the size of like a jelly bean."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,320",
+				"to": "00:04:40,040"
+			},
+			"offsets": {
+				"from": 275320,
+				"to": 280040
+			},
+			"text": " That would be kind of the mid-sized bee and everything else in different directions."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,040",
+				"to": "00:04:41,960"
+			},
+			"offsets": {
+				"from": 280040,
+				"to": 281960
+			},
+			"text": " And of course, there's tons of diversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,960",
+				"to": "00:04:46,600"
+			},
+			"offsets": {
+				"from": 281960,
+				"to": 286600
+			},
+			"text": " So, bumblebees are really common big black and yellow fuzzy bees, but there's also these"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,600",
+				"to": "00:04:49,560"
+			},
+			"offsets": {
+				"from": 286600,
+				"to": 289560
+			},
+			"text": " amazing jewel-like bees, the Osmia."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,200",
+				"to": "00:04:51,080"
+			},
+			"offsets": {
+				"from": 290200,
+				"to": 291080
+			},
+			"text": " And they're really neat."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,080",
+				"to": "00:04:52,840"
+			},
+			"offsets": {
+				"from": 291080,
+				"to": 292840
+			},
+			"text": " They carry pollen on their belly."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,360",
+				"to": "00:04:57,370"
+			},
+			"offsets": {
+				"from": 293360,
+				"to": 297370
+			},
+			"text": " If we turn them over, you can see that one doesn't have pollen."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,760",
+				"to": "00:05:01,030"
+			},
+			"offsets": {
+				"from": 297760,
+				"to": 301030
+			},
+			"text": " They have brushes of hair to collect them."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,630",
+				"to": "00:05:05,920"
+			},
+			"offsets": {
+				"from": 301630,
+				"to": 305920
+			},
+			"text": " And there's other bees that are stripy."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,400",
+				"to": "00:05:12,790"
+			},
+			"offsets": {
+				"from": 306400,
+				"to": 312790
+			},
+			"text": " This is a sunflower bee that has, it almost looks like it's carrying chaps of pollen on its"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,790",
+				"to": "00:05:15,110"
+			},
+			"offsets": {
+				"from": 312790,
+				"to": 315110
+			},
+			"text": " leg, just really big balloons of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,520",
+				"to": "00:05:21,140"
+			},
+			"offsets": {
+				"from": 315520,
+				"to": 321140
+			},
+			"text": " And this is a specialist on sunflower, which is what I studied for my graduate research."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,140",
+				"to": "00:05:23,780"
+			},
+			"offsets": {
+				"from": 321140,
+				"to": 323780
+			},
+			"text": " There's even things called cuckoo bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,780",
+				"to": "00:05:30,500"
+			},
+			"offsets": {
+				"from": 323780,
+				"to": 330500
+			},
+			"text": " These bees kind of look more like wasps, and they actually parasitize other bees' nests,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,500",
+				"to": "00:05:33,940"
+			},
+			"offsets": {
+				"from": 330500,
+				"to": 333940
+			},
+			"text": " so they don't need to collect pollen, which is why they're pretty hairless."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,940",
+				"to": "00:05:39,460"
+			},
+			"offsets": {
+				"from": 333940,
+				"to": 339460
+			},
+			"text": " They go in like a cuckoo bird, take over the nest, kill the young, use all the pollen stores,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,460",
+				"to": "00:05:41,060"
+			},
+			"offsets": {
+				"from": 339460,
+				"to": 341060
+			},
+			"text": " and then emerge themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,060",
+				"to": "00:05:43,470"
+			},
+			"offsets": {
+				"from": 341060,
+				"to": 343470
+			},
+			"text": " So they're pretty cool parasites."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,390",
+				"to": "00:05:50,360"
+			},
+			"offsets": {
+				"from": 344390,
+				"to": 350360
+			},
+			"text": " So of this collection, do you know about all of them and where they live and what they do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,600",
+				"to": "00:05:52,400"
+			},
+			"offsets": {
+				"from": 351600,
+				"to": 352400
+			},
+			"text": " Not always."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,400",
+				"to": "00:05:58,000"
+			},
+			"offsets": {
+				"from": 352400,
+				"to": 358000
+			},
+			"text": " A lot of times we collect bees on flowers, and it's really hard to find where bees nest."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,000",
+				"to": "00:06:00,320"
+			},
+			"offsets": {
+				"from": 358000,
+				"to": 360320
+			},
+			"text": " So we think of honeybees, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,320",
+				"to": "00:06:01,680"
+			},
+			"offsets": {
+				"from": 360320,
+				"to": 361680
+			},
+			"text": " They're bees that have a queen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,680",
+				"to": "00:06:02,800"
+			},
+			"offsets": {
+				"from": 361680,
+				"to": 362800
+			},
+			"text": " They live in a colony."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,800",
+				"to": "00:06:05,040"
+			},
+			"offsets": {
+				"from": 362800,
+				"to": 365040
+			},
+			"text": " They have, you know, bee wax."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,040",
+				"to": "00:06:08,160"
+			},
+			"offsets": {
+				"from": 365040,
+				"to": 368160
+			},
+			"text": " But most bees are solitary, so they don't have a colony."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,160",
+				"to": "00:06:09,760"
+			},
+			"offsets": {
+				"from": 368160,
+				"to": 369760
+			},
+			"text": " They're, in a way, their own queen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,760",
+				"to": "00:06:10,800"
+			},
+			"offsets": {
+				"from": 369760,
+				"to": 370800
+			},
+			"text": " They lay their own young."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,800",
+				"to": "00:06:14,240"
+			},
+			"offsets": {
+				"from": 370800,
+				"to": 374240
+			},
+			"text": " And most of them actually nest in the ground beneath the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,240",
+				"to": "00:06:20,640"
+			},
+			"offsets": {
+				"from": 374240,
+				"to": 380640
+			},
+			"text": " So they excavate net, they excavate these holes, create what we call brood chambers or little"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,640",
+				"to": "00:06:25,340"
+			},
+			"offsets": {
+				"from": 380640,
+				"to": 385340
+			},
+			"text": " cells that are like lined with wax, where they put, we call it bee bread."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,340",
+				"to": "00:06:28,380"
+			},
+			"offsets": {
+				"from": 385340,
+				"to": 388380
+			},
+			"text": " So this ball of pollen mixed with nexter."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,380",
+				"to": "00:06:33,020"
+			},
+			"offsets": {
+				"from": 388380,
+				"to": 393020
+			},
+			"text": " And they lay a single egg in there and cap that cell and never see their young again."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,020",
+				"to": "00:06:39,420"
+			},
+			"offsets": {
+				"from": 393020,
+				"to": 399420
+			},
+			"text": " The young will eat that whole ball of pollen and then pupate and overwinter kind of hibernating"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,420",
+				"to": "00:06:42,150"
+			},
+			"offsets": {
+				"from": 399420,
+				"to": 402150
+			},
+			"text": " underground until they emerge again."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,150",
+				"to": "00:06:46,070"
+			},
+			"offsets": {
+				"from": 402150,
+				"to": 406070
+			},
+			"text": " So these solitary bee nests, they can be really challenging to find."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,070",
+				"to": "00:06:49,750"
+			},
+			"offsets": {
+				"from": 406070,
+				"to": 409750
+			},
+			"text": " Sometimes they're just a tiny little hole for some of the small bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,750",
+				"to": "00:06:54,790"
+			},
+			"offsets": {
+				"from": 409750,
+				"to": 414790
+			},
+			"text": " Sometimes they build these things we call turrets, like a ring of mud stacked around it that can"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,790",
+				"to": "00:06:56,550"
+			},
+			"offsets": {
+				"from": 414790,
+				"to": 416550
+			},
+			"text": " get so tall it'll topple over."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,550",
+				"to": "00:06:57,670"
+			},
+			"offsets": {
+				"from": 416550,
+				"to": 417670
+			},
+			"text": " Those are easier to find."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,120",
+				"to": "00:07:04,110"
+			},
+			"offsets": {
+				"from": 419120,
+				"to": 424110
+			},
+			"text": " So one of the things I've actually studied a lot is how to find a bee nest."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,110",
+				"to": "00:07:08,670"
+			},
+			"offsets": {
+				"from": 424110,
+				"to": 428670
+			},
+			"text": " And what soil conditions they'll accept for nesting and whether or not those are present"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,670",
+				"to": "00:07:10,990"
+			},
+			"offsets": {
+				"from": 428670,
+				"to": 430990
+			},
+			"text": " in agricultural landscapes or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,870",
+				"to": "00:07:15,550"
+			},
+			"offsets": {
+				"from": 431870,
+				"to": 435550
+			},
+			"text": " But yeah, we don't know a lot about all of their life history."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,550",
+				"to": "00:07:17,410"
+			},
+			"offsets": {
+				"from": 435550,
+				"to": 437410
+			},
+			"text": " It's kind of an ongoing study."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,410",
+				"to": "00:07:19,700"
+			},
+			"offsets": {
+				"from": 437410,
+				"to": 439700
+			},
+			"text": " Well, let's back up a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,700",
+				"to": "00:07:26,830"
+			},
+			"offsets": {
+				"from": 439700,
+				"to": 446830
+			},
+			"text": " So, um, I'm not exactly sure when we met each other, but I feel like some of my first memories"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,830",
+				"to": "00:07:32,830"
+			},
+			"offsets": {
+				"from": 446830,
+				"to": 452830
+			},
+			"text": " of knowing and talking to you were in the Chadwick Garden at UC Santa Cruz, where,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,160",
+				"to": "00:07:41,160"
+			},
+			"offsets": {
+				"from": 454160,
+				"to": 461160
+			},
+			"text": " where you were a gardener, you, you work there and, um, you were so excited about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,390",
+				"to": "00:07:51,110"
+			},
+			"offsets": {
+				"from": 463390,
+				"to": 471110
+			},
+			"text": " And I, but I remember like hearing you talk about it and always kind of noting this quality of"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,110",
+				"to": "00:07:55,560"
+			},
+			"offsets": {
+				"from": 471110,
+				"to": 475560
+			},
+			"text": " close observation that came along with like noticing what an environment looked like in"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,560",
+				"to": "00:07:58,280"
+			},
+			"offsets": {
+				"from": 475560,
+				"to": 478280
+			},
+			"text": " this fascination with the natural world, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,280",
+				"to": "00:08:02,310"
+			},
+			"offsets": {
+				"from": 478280,
+				"to": 482310
+			},
+			"text": " So when they think about you, I think about all these different contexts that I've known"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,310",
+				"to": "00:08:08,380"
+			},
+			"offsets": {
+				"from": 482310,
+				"to": 488380
+			},
+			"text": " you in where you spend a lot of time outside looking at a lot of really small things in"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,380",
+				"to": "00:08:16,520"
+			},
+			"offsets": {
+				"from": 488380,
+				"to": 496520
+			},
+			"text": " really close detail and asking why, um, so maybe you can tell me how that led you to bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,640",
+				"to": "00:08:17,960"
+			},
+			"offsets": {
+				"from": 497640,
+				"to": 497960
+			},
+			"text": " Sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,960",
+				"to": "00:08:25,350"
+			},
+			"offsets": {
+				"from": 497960,
+				"to": 505350
+			},
+			"text": " So I went to UC Santa Cruz with you and I went to Merrill College, which is up on this hill."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,910",
+				"to": "00:08:31,270"
+			},
+			"offsets": {
+				"from": 505910,
+				"to": 511270
+			},
+			"text": " And within the first two weeks, just exploring, I found the Allen Chadwick Garden, which is part of"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,270",
+				"to": "00:08:37,750"
+			},
+			"offsets": {
+				"from": 511270,
+				"to": 517750
+			},
+			"text": " the Center for Agroecology and Sustainable Food Systems, and was started by this really eccentric"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,750",
+				"to": "00:08:43,250"
+			},
+			"offsets": {
+				"from": 517750,
+				"to": 523250
+			},
+			"text": " guy, Allen Chadwick, who was a biodynamic farmer. And he was so eccentric that he even,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,250",
+				"to": "00:08:49,390"
+			},
+			"offsets": {
+				"from": 523250,
+				"to": 529390
+			},
+			"text": " most of the beds there are, um, perpendicular to the slope instead of parallel because he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,390",
+				"to": "00:08:54,990"
+			},
+			"offsets": {
+				"from": 529390,
+				"to": 534990
+			},
+			"text": " thought that his form of farming could help prevent soil erosion. And they're still that way to this"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,990",
+				"to": "00:09:03,180"
+			},
+			"offsets": {
+				"from": 534990,
+				"to": 543180
+			},
+			"text": " day. And it's this incredibly magical place. So I grew up in Southern California where, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,180",
+				"to": "00:09:09,490"
+			},
+			"offsets": {
+				"from": 543180,
+				"to": 549490
+			},
+			"text": " Home Depot took over the local stream where coyotes and tumbleweeds used to go down the street."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,490",
+				"to": "00:09:15,090"
+			},
+			"offsets": {
+				"from": 549490,
+				"to": 555090
+			},
+			"text": " And now there's subdivisions, strip malls, cars. Like there's, there's very little nature left."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,090",
+				"to": "00:09:20,530"
+			},
+			"offsets": {
+				"from": 555090,
+				"to": 560530
+			},
+			"text": " And even though I didn't interact with nature a lot, I noticed this shift. And so when I got to"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,530",
+				"to": "00:09:26,450"
+			},
+			"offsets": {
+				"from": 560530,
+				"to": 566450
+			},
+			"text": " Santa Cruz and was immersed in nature, it opened my eyes. And then I went to this garden where people"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,450",
+				"to": "00:09:33,910"
+			},
+			"offsets": {
+				"from": 566450,
+				"to": 573910
+			},
+			"text": " were interacting with nature and you could sit there and like you said, see migratory birds come and"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,080",
+				"to": "00:09:41,440"
+			},
+			"offsets": {
+				"from": 576080,
+				"to": 581440
+			},
+			"text": " nibble the aphids off of the apple trees. Right? I saw my first yellow rummed warbler,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,440",
+				"to": "00:09:48,260"
+			},
+			"offsets": {
+				"from": 581440,
+				"to": 588260
+			},
+			"text": " which is this beautiful black and gray bird with this bright yellow booty, um, in that orchard."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,260",
+				"to": "00:09:53,220"
+			},
+			"offsets": {
+				"from": 588260,
+				"to": 593220
+			},
+			"text": " And I just became fascinated. You know, I saw hummingbirds, which I thought only consume nectar."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,180",
+				"to": "00:09:58,820"
+			},
+			"offsets": {
+				"from": 594180,
+				"to": 598820
+			},
+			"text": " They do this thing called saline. They'll sit on a perch and then they'll go out and grab a moth"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,820",
+				"to": "00:10:03,860"
+			},
+			"offsets": {
+				"from": 598820,
+				"to": 603860
+			},
+			"text": " and consume it. And I had no idea that birds ate insects, like hummingbirds ate insects. So I just"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,490",
+				"to": "00:10:10,910"
+			},
+			"offsets": {
+				"from": 604490,
+				"to": 610910
+			},
+			"text": " started hanging out there as much as possible and started, I shifted what I was studying to study"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,910",
+				"to": "00:10:18,240"
+			},
+			"offsets": {
+				"from": 610910,
+				"to": 618240
+			},
+			"text": " agroecology and natural history and took a bunch of classes, learned how to key out plants, um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,240",
+				"to": "00:10:26,880"
+			},
+			"offsets": {
+				"from": 618240,
+				"to": 626880
+			},
+			"text": " became just fascinated with botany. And that led me to, when I graduated, um, become a restoration ecologist."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,880",
+				"to": "00:10:32,410"
+			},
+			"offsets": {
+				"from": 626880,
+				"to": 632410
+			},
+			"text": " And I worked in a lot of native plant nurseries in the Bay Area. And one of the things I was really"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,410",
+				"to": "00:10:40,270"
+			},
+			"offsets": {
+				"from": 632410,
+				"to": 640270
+			},
+			"text": " fascinated with was seed collection. So collecting plants to grow for these restoration projects from"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,270",
+				"to": "00:10:47,450"
+			},
+			"offsets": {
+				"from": 640270,
+				"to": 647450
+			},
+			"text": " natural populations. And one of the tenants of that is to try and make the seeds as locally adapted"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,450",
+				"to": "00:10:52,890"
+			},
+			"offsets": {
+				"from": 647450,
+				"to": 652890
+			},
+			"text": " as possible, but not harm the population. But as I would go out, some plants that you would expect to"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,890",
+				"to": "00:10:59,160"
+			},
+			"offsets": {
+				"from": 652890,
+				"to": 659160
+			},
+			"text": " have seeds wouldn't have them. And that was perturbing to me. And so I started researching why,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,160",
+				"to": "00:11:04,520"
+			},
+			"offsets": {
+				"from": 659160,
+				"to": 664520
+			},
+			"text": " and it turns out that maybe they had lost some of their net native pollinators. And I became really"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,520",
+				"to": "00:11:09,480"
+			},
+			"offsets": {
+				"from": 664520,
+				"to": 669480
+			},
+			"text": " fascinated in that. I read a great book by Gary Paul Knobhan called The Forgotten Pollinators."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,180",
+				"to": "00:11:15,780"
+			},
+			"offsets": {
+				"from": 670180,
+				"to": 675780
+			},
+			"text": " Started asking my former professors about it. One of them told me about Claire Kremen at UC Berkeley."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,780",
+				"to": "00:11:21,540"
+			},
+			"offsets": {
+				"from": 675780,
+				"to": 681540
+			},
+			"text": " They said, \"You should absolutely talk to her.\" And I did. And she accepted me as a graduate student,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,540",
+				"to": "00:11:28,260"
+			},
+			"offsets": {
+				"from": 681540,
+				"to": 688260
+			},
+			"text": " even though my research in the past and my experience was, which is a lot more hands-on. She was interested"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,260",
+				"to": "00:11:35,580"
+			},
+			"offsets": {
+				"from": 688260,
+				"to": 695580
+			},
+			"text": " in that sort of applied aspect of it. And I started studying bees. And I started, and I looked at this"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,580",
+				"to": "00:11:42,620"
+			},
+			"offsets": {
+				"from": 695580,
+				"to": 702620
+			},
+			"text": " connection between nature and agriculture, where farmers could create habitat on their farms. I mostly"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,620",
+				"to": "00:11:48,780"
+			},
+			"offsets": {
+				"from": 702620,
+				"to": 708780
+			},
+			"text": " looked at hedgerows, which are these linear strips of native flowering shrubs that farmers can plant on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,780",
+				"to": "00:11:54,220"
+			},
+			"offsets": {
+				"from": 708780,
+				"to": 714220
+			},
+			"text": " field borders and not take up any arable lands, so it doesn't affect crop production. And whether or not"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,220",
+				"to": "00:12:01,660"
+			},
+			"offsets": {
+				"from": 714220,
+				"to": 721660
+			},
+			"text": " that, one, helped native bee conservation, but two, if that also helped them by providing an economic"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,660",
+				"to": "00:12:07,980"
+			},
+			"offsets": {
+				"from": 721660,
+				"to": 727980
+			},
+			"text": " benefit of increased crop pollination. So that is my long and winding tale of how I ended up doing what"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,980",
+				"to": "00:12:17,240"
+			},
+			"offsets": {
+				"from": 727980,
+				"to": 737240
+			},
+			"text": " I did. Cool. Well, okay. A few questions. Sometimes you say pollinators and sometimes you say bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,240",
+				"to": "00:12:25,050"
+			},
+			"offsets": {
+				"from": 737240,
+				"to": 745050
+			},
+			"text": " Are they the same thing? So bees are a type of pollinator. There's a lot of different pollinators."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,050",
+				"to": "00:12:31,690"
+			},
+			"offsets": {
+				"from": 745050,
+				"to": 751690
+			},
+			"text": " Bats and shrews can be pollinators. And those are the mammalian ones. Birds, as I mentioned, can be"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,690",
+				"to": "00:12:40,010"
+			},
+			"offsets": {
+				"from": 751690,
+				"to": 760010
+			},
+			"text": " pollinators. But insects are the main pollinators. And they range from beetles to flies to wasps to bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,010",
+				"to": "00:12:44,650"
+			},
+			"offsets": {
+				"from": 760010,
+				"to": 764650
+			},
+			"text": " And bees are unique as pollinators. We tend to think of them as the best ones because they actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,650",
+				"to": "00:12:53,030"
+			},
+			"offsets": {
+				"from": 764650,
+				"to": 773030
+			},
+			"text": " evolved to pollinate, whereas the other insects evolved earlier than that. So bees evolved during"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,030",
+				"to": "00:12:58,790"
+			},
+			"offsets": {
+				"from": 773030,
+				"to": 778790
+			},
+			"text": " the Cretaceous period, which is when flowering plants first came into being. Before that, we had"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,790",
+				"to": "00:13:09,070"
+			},
+			"offsets": {
+				"from": 778790,
+				"to": 789070
+			},
+			"text": " a lot of non-flowering plants. So you could think of like conifers. And suddenly there was this abundant"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,070",
+				"to": "00:13:14,990"
+			},
+			"offsets": {
+				"from": 789070,
+				"to": 794990
+			},
+			"text": " new resource, pollen and nectar. And wasps and beetles can kind of transport it, but they don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,990",
+				"to": "00:13:21,950"
+			},
+			"offsets": {
+				"from": 794990,
+				"to": 801950
+			},
+			"text": " have hairs. And so bees evolved these branched hairs that kind of let pollen stick in them. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,950",
+				"to": "00:13:29,690"
+			},
+			"offsets": {
+				"from": 801950,
+				"to": 809690
+			},
+			"text": " they started consuming that pollen and feeding it to their young, eating the nectar as fuel. And they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,690",
+				"to": "00:13:37,300"
+			},
+			"offsets": {
+				"from": 809690,
+				"to": 817300
+			},
+			"text": " evolved from ground nesting wasps. So they're pretty closely related. But wasps are, think of them as"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,300",
+				"to": "00:13:43,780"
+			},
+			"offsets": {
+				"from": 817300,
+				"to": 823780
+			},
+			"text": " carnivores, like the tarantula wasps, right, that paralyze them and lay their young in them and consume"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,780",
+				"to": "00:13:52,550"
+			},
+			"offsets": {
+				"from": 823780,
+				"to": 832550
+			},
+			"text": " them. Bees are almost like herbivorous wasps. So they're, yeah, they basically evolved to eat pollen."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,090",
+				"to": "00:14:02,940"
+			},
+			"offsets": {
+				"from": 833090,
+				"to": 842940
+			},
+			"text": " Cool. So when I think of a bee, I think of a honeybee, right? I think of, it's like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,940",
+				"to": "00:14:10,420"
+			},
+			"offsets": {
+				"from": 842940,
+				"to": 850420
+			},
+			"text": " sort of cute. It's like yellow, it has stripes, and it's, lots of people are allergic to it. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,080",
+				"to": "00:14:17,650"
+			},
+			"offsets": {
+				"from": 852080,
+				"to": 857650
+			},
+			"text": " honey comes like, you know, it like comes from bees, but like, sort of in this dubious way where"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,650",
+				"to": "00:14:22,500"
+			},
+			"offsets": {
+				"from": 857650,
+				"to": 862500
+			},
+			"text": " they come, they like live in hives, and they like get moved around on trucks. And I don't know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,500",
+				"to": "00:14:31,110"
+			},
+			"offsets": {
+				"from": 862500,
+				"to": 871110
+			},
+			"text": " in my imagination, they mostly live in almond orchards. But yeah, in January, exactly. And I"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,110",
+				"to": "00:14:36,100"
+			},
+			"offsets": {
+				"from": 871110,
+				"to": 876100
+			},
+			"text": " guess somewhere else the rest of the year, I don't know, I can imagine in the summer in sunflower"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,100",
+				"to": "00:14:42,950"
+			},
+			"offsets": {
+				"from": 876100,
+				"to": 882950
+			},
+			"text": " fields in the summer. Cool. But when I look at this box, it's like, there's little ones and big ones"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,950",
+				"to": "00:14:48,550"
+			},
+			"offsets": {
+				"from": 882950,
+				"to": 888550
+			},
+			"text": " and ones that are kind of hairy. And, you know, you just said that they don't mostly live in boxes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,550",
+				"to": "00:14:54,510"
+			},
+			"offsets": {
+				"from": 888550,
+				"to": 894510
+			},
+			"text": " they like live in tiny holes that they make in the ground. So what do all these different bees do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,510",
+				"to": "00:15:03,360"
+			},
+			"offsets": {
+				"from": 894510,
+				"to": 903360
+			},
+			"text": " Yeah, so the honeybee, you're right, is very unique as a bee. And that's part of why you know about"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,360",
+				"to": "00:15:09,680"
+			},
+			"offsets": {
+				"from": 903360,
+				"to": 909680
+			},
+			"text": " them. Because we have, we can manage them in a way where we put them in boxes, we can split off new"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:09,680",
+				"to": "00:15:17,120"
+			},
+			"offsets": {
+				"from": 909680,
+				"to": 917120
+			},
+			"text": " hives and rear queens and ship them around to pollinate our crops, almost like an input,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,120",
+				"to": "00:15:25,390"
+			},
+			"offsets": {
+				"from": 917120,
+				"to": 925390
+			},
+			"text": " like a fertilizer, right? We need a pollinator. So honeybees are actually not native to the Americas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,390",
+				"to": "00:15:31,150"
+			},
+			"offsets": {
+				"from": 925390,
+				"to": 931150
+			},
+			"text": " even though they're here now, they're native to Persia is where they first originated. And people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,150",
+				"to": "00:15:37,550"
+			},
+			"offsets": {
+				"from": 931150,
+				"to": 937550
+			},
+			"text": " you know, thousands and thousands of years ago were keeping them in pieces of wood. And then they got"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,550",
+				"to": "00:15:44,110"
+			},
+			"offsets": {
+				"from": 937550,
+				"to": 944110
+			},
+			"text": " shipped around, they were present in ancient Egypt, there are hieroglyphics of bees, they eventually made"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,110",
+				"to": "00:15:49,630"
+			},
+			"offsets": {
+				"from": 944110,
+				"to": 949630
+			},
+			"text": " it to Europe, where they escaped into the forest, and people would take, you know, ladders out to trees"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,630",
+				"to": "00:15:54,430"
+			},
+			"offsets": {
+				"from": 949630,
+				"to": 954430
+			},
+			"text": " that had bees and tend them. And I think it was a little dangerous, you know, there would be robbers"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,430",
+				"to": "00:16:01,230"
+			},
+			"offsets": {
+				"from": 954430,
+				"to": 961230
+			},
+			"text": " out there. But people eventually realized you could cut stumps that were hollow and get bees to nest in"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,230",
+				"to": "00:16:07,040"
+			},
+			"offsets": {
+				"from": 961230,
+				"to": 967040
+			},
+			"text": " that. And a big major breakthrough in honeybee keeping came when they created these things called"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,040",
+				"to": "00:16:14,680"
+			},
+			"offsets": {
+				"from": 967040,
+				"to": 974680
+			},
+			"text": " skeps, which are woven straws. So the end of a honey dipper, that's what a skep looks like. And then you had"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,680",
+				"to": "00:16:20,440"
+			},
+			"offsets": {
+				"from": 974680,
+				"to": 980440
+			},
+			"text": " these light, transportable ways to keep bees. And when they're in those, they're honeycomb,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,440",
+				"to": "00:16:27,000"
+			},
+			"offsets": {
+				"from": 980440,
+				"to": 987000
+			},
+			"text": " it takes all these really interesting complex forms. It's not the ones in the bee boxes where you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,000",
+				"to": "00:16:33,410"
+			},
+			"offsets": {
+				"from": 987000,
+				"to": 993410
+			},
+			"text": " just pull out a frame. So for a while, you know, people had those, and then they discovered this"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,410",
+				"to": "00:16:38,850"
+			},
+			"offsets": {
+				"from": 993410,
+				"to": 998850
+			},
+			"text": " thing called bee space. And unfortunately, since I don't study honeybees, I can't remember what the"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,850",
+				"to": "00:16:45,040"
+			},
+			"offsets": {
+				"from": 998850,
+				"to": 1005040
+			},
+			"text": " fraction of the inch is. It's like three-sevenths of an inch or something, which is the amount of space"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,040",
+				"to": "00:16:50,480"
+			},
+			"offsets": {
+				"from": 1005040,
+				"to": 1010480
+			},
+			"text": " between honeycomb where a bee won't connect it with wax. And so then you can remove a frame,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:50,480",
+				"to": "00:16:55,880"
+			},
+			"offsets": {
+				"from": 1010480,
+				"to": 1015880
+			},
+			"text": " and eventually people, you know, created these extractors that rotate to pull the honey out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,880",
+				"to": "00:17:03,420"
+			},
+			"offsets": {
+				"from": 1015880,
+				"to": 1023420
+			},
+			"text": " and you ended up with the, you know, top bar and lawn surf frames that we have now. So they have this"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,420",
+				"to": "00:17:10,110"
+			},
+			"offsets": {
+				"from": 1023420,
+				"to": 1030110
+			},
+			"text": " complex history, but they're native to Europe and were shipped to the Americas with settlers. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:10,110",
+				"to": "00:17:13,820"
+			},
+			"offsets": {
+				"from": 1030110,
+				"to": 1033820
+			},
+			"text": " they think that they didn't make them to California, which is where we are right now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,820",
+				"to": "00:17:20,300"
+			},
+			"offsets": {
+				"from": 1033820,
+				"to": 1040300
+			},
+			"text": " until the 1860s. So before that, native bees provided all of the pollination. And they're just"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,300",
+				"to": "00:17:27,100"
+			},
+			"offsets": {
+				"from": 1040300,
+				"to": 1047100
+			},
+			"text": " wild in the environment. They nest in the ground. Some nest in abandoned beetle burrows or pithy stem"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,100",
+				"to": "00:17:32,460"
+			},
+			"offsets": {
+				"from": 1047100,
+				"to": 1052460
+			},
+			"text": " plants. So sambucus or other things with hollow centered stems, raspberries would be an example most"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,460",
+				"to": "00:17:40,530"
+			},
+			"offsets": {
+				"from": 1052460,
+				"to": 1060530
+			},
+			"text": " people would know. And they were just abundant. John Muir has this amazing essay about the bee"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,530",
+				"to": "00:17:49,540"
+			},
+			"offsets": {
+				"from": 1060530,
+				"to": 1069540
+			},
+			"text": " pastures of California. If you go down to Tejon Ranch or the grapevine or right now, they're covered with"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,540",
+				"to": "00:18:00,180"
+			},
+			"offsets": {
+				"from": 1069540,
+				"to": 1080180
+			},
+			"text": " wildflowers. The scene from The Wizard of Oz where Dorothy is in that poppy field is the antelope valley"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,180",
+				"to": "00:18:07,140"
+			},
+			"offsets": {
+				"from": 1080180,
+				"to": 1087140
+			},
+			"text": " outside of LA. It literally exists. Just areas carpeted with lupins, with poppies, all kinds of wildflowers."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,140",
+				"to": "00:18:13,740"
+			},
+			"offsets": {
+				"from": 1087140,
+				"to": 1093740
+			},
+			"text": " So bees were super abundant and present everywhere and pollinating the plants and also the crops that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,740",
+				"to": "00:18:20,640"
+			},
+			"offsets": {
+				"from": 1093740,
+				"to": 1100640
+			},
+			"text": " people brought. Of course, with agriculture expanding, their populations have really declined. But they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:20,640",
+				"to": "00:18:26,400"
+			},
+			"offsets": {
+				"from": 1100640,
+				"to": 1106400
+			},
+			"text": " present in our environment. As I said, in California, there's about 1600 species. And the estimate is about"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,400",
+				"to": "00:18:32,800"
+			},
+			"offsets": {
+				"from": 1106400,
+				"to": 1112800
+			},
+			"text": " 20,000 species of native bee worldwide. So the fact that we only know of a honeybee is pretty surprising."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,360",
+				"to": "00:18:38,720"
+			},
+			"offsets": {
+				"from": 1113360,
+				"to": 1118720
+			},
+			"text": " And most people know about bumblebees when there's all this amazing diversity just buzzing around at all"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,720",
+				"to": "00:18:43,900"
+			},
+			"offsets": {
+				"from": 1118720,
+				"to": 1123900
+			},
+			"text": " of our flowers that we don't even take note of. And do these bees make honey?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,900",
+				"to": "00:18:52,900"
+			},
+			"offsets": {
+				"from": 1123900,
+				"to": 1132900
+			},
+			"text": " So for the most part, no. There's some bees in Mexico, the melapona bees, that make kind of a version of"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,900",
+				"to": "00:19:00,850"
+			},
+			"offsets": {
+				"from": 1132900,
+				"to": 1140850
+			},
+			"text": " honey. And bumblebees in these little mud cups make a version of it. But most bees make the bee bread,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,850",
+				"to": "00:19:04,610"
+			},
+			"offsets": {
+				"from": 1140850,
+				"to": 1144610
+			},
+			"text": " the ball of pollen moistened with nexter for their young."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,610",
+				"to": "00:19:11,390"
+			},
+			"offsets": {
+				"from": 1144610,
+				"to": 1151390
+			},
+			"text": " Cool. So let's talk about California because that's where your research is focused. And how does"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,390",
+				"to": "00:19:14,790"
+			},
+			"offsets": {
+				"from": 1151390,
+				"to": 1154790
+			},
+			"text": " agriculture relate to all these native pollinators?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,790",
+				"to": "00:19:23,120"
+			},
+			"offsets": {
+				"from": 1154790,
+				"to": 1163120
+			},
+			"text": " So about what we like to say is one out of every three bites of food that you eat was probably a"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,120",
+				"to": "00:19:31,090"
+			},
+			"offsets": {
+				"from": 1163120,
+				"to": 1171090
+			},
+			"text": " pollinated crop. These include things like watermelon, a lot of citrus, almonds, which you mentioned,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,850",
+				"to": "00:19:38,890"
+			},
+			"offsets": {
+				"from": 1171850,
+				"to": 1178890
+			},
+			"text": " squash, tomato. These are all things that require a pollinator to produce the fruit. There's also some"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:39,590",
+				"to": "00:19:45,310"
+			},
+			"offsets": {
+				"from": 1179590,
+				"to": 1185310
+			},
+			"text": " crops like strawberry that don't require a pollinator. But if you want a strawberry that is the big,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,310",
+				"to": "00:19:49,230"
+			},
+			"offsets": {
+				"from": 1185310,
+				"to": 1189230
+			},
+			"text": " plump, beautiful one that you get in the supermarket and not one of the deformed ones,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,680",
+				"to": "00:19:57,280"
+			},
+			"offsets": {
+				"from": 1190680,
+				"to": 1197280
+			},
+			"text": " then a pollinator has visited it. So basically, pollinators improve yield, they improve weight"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,280",
+				"to": "00:20:05,410"
+			},
+			"offsets": {
+				"from": 1197280,
+				"to": 1205410
+			},
+			"text": " and quality of crops that don't require pollination. So if you start from that point, pollinators are"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,410",
+				"to": "00:20:10,450"
+			},
+			"offsets": {
+				"from": 1205410,
+				"to": 1210450
+			},
+			"text": " essential to our food system. Most of those pollinated crops are a lot of the ones that provide"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,450",
+				"to": "00:20:15,730"
+			},
+			"offsets": {
+				"from": 1210450,
+				"to": 1215730
+			},
+			"text": " vitamin E, vitamin A, a lot of these micronutrients that humans need to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,730",
+				"to": "00:20:22,910"
+			},
+			"offsets": {
+				"from": 1215730,
+				"to": 1222910
+			},
+			"text": " So they're essential to our success and sustainability. So we're pretty intricately"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,910",
+				"to": "00:20:31,290"
+			},
+			"offsets": {
+				"from": 1222910,
+				"to": 1231290
+			},
+			"text": " intertwined with pollinators. We talk a lot about food security. So I think Chris and Mario Henia"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:31,290",
+				"to": "00:20:36,010"
+			},
+			"offsets": {
+				"from": 1231290,
+				"to": 1236010
+			},
+			"text": " talked about this a little bit, but I think their scale was more at the personal scale, what"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,010",
+				"to": "00:20:42,250"
+			},
+			"offsets": {
+				"from": 1236010,
+				"to": 1242250
+			},
+			"text": " individual farmers are doing. And when we look at pollination, it's more of this system scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,250",
+				"to": "00:20:48,200"
+			},
+			"offsets": {
+				"from": 1242250,
+				"to": 1248200
+			},
+			"text": " What would we do if the honeybee disappeared? That's a major crop pollinator. I think it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,200",
+				"to": "00:21:00,280"
+			},
+			"offsets": {
+				"from": 1248200,
+				"to": 1260280
+			},
+			"text": " responsible for globally over $2 billion annually. It's really important to our crop system. So without"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,280",
+				"to": "00:21:06,790"
+			},
+			"offsets": {
+				"from": 1260280,
+				"to": 1266790
+			},
+			"text": " them, a lot of crops would fail, a lot of farms would fail, a lot of people would go hungry."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,790",
+				"to": "00:21:14,370"
+			},
+			"offsets": {
+				"from": 1266790,
+				"to": 1274370
+			},
+			"text": " So because we just hear about the honeybees, we hear about colony collapse and all of these"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,370",
+				"to": "00:21:18,450"
+			},
+			"offsets": {
+				"from": 1274370,
+				"to": 1278450
+			},
+			"text": " other things, which I also don't know what that means exactly. So maybe you can tell me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,450",
+				"to": "00:21:26,070"
+			},
+			"offsets": {
+				"from": 1278450,
+				"to": 1286070
+			},
+			"text": " but how do native bees play a part in that? Like what do you, you just like made this whole list of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,070",
+				"to": "00:21:31,170"
+			},
+			"offsets": {
+				"from": 1286070,
+				"to": 1291170
+			},
+			"text": " foods that are, that are pollinated and are they pollinated by honeybees or are they pollinated by"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,170",
+				"to": "00:21:37,840"
+			},
+			"offsets": {
+				"from": 1291170,
+				"to": 1297840
+			},
+			"text": " this whole diversity of bees that lives there? And right when we started talking, you were talking"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,840",
+				"to": "00:21:42,990"
+			},
+			"offsets": {
+				"from": 1297840,
+				"to": 1302990
+			},
+			"text": " about what a generalist and a specialist is. So maybe you could also explain what those concepts are."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,990",
+				"to": "00:21:51,840"
+			},
+			"offsets": {
+				"from": 1302990,
+				"to": 1311840
+			},
+			"text": " Yeah, absolutely. So honeybees are amazing pollinators. They're a generalist, which means"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,840",
+				"to": "00:21:58,130"
+			},
+			"offsets": {
+				"from": 1311840,
+				"to": 1318130
+			},
+			"text": " that they will pretty much visit any flower that's out there. They're not very selective. Whereas if"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,130",
+				"to": "00:22:05,490"
+			},
+			"offsets": {
+				"from": 1318130,
+				"to": 1325490
+			},
+			"text": " they were specialists, say like a squash bee, those bees only visit squash. So they're, wake up really"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,490",
+				"to": "00:22:12,370"
+			},
+			"offsets": {
+				"from": 1325490,
+				"to": 1332370
+			},
+			"text": " early when squash blossoms open at dawn, right? And they go in and they spend a lot of time on each of"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,370",
+				"to": "00:22:18,190"
+			},
+			"offsets": {
+				"from": 1332370,
+				"to": 1338190
+			},
+			"text": " the stigmas, which is the part of the plant that's receptive to pollen. And they, squash actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,190",
+				"to": "00:22:24,190"
+			},
+			"offsets": {
+				"from": 1338190,
+				"to": 1344190
+			},
+			"text": " need a lot of pollen deposited on the stigma to create the squash. So they're pretty evolved to,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,980",
+				"to": "00:22:32,210"
+			},
+			"offsets": {
+				"from": 1344980,
+				"to": 1352210
+			},
+			"text": " to mimic, to fly when squash are in bloom. Whereas honeybees will come out later. They need warmer"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,210",
+				"to": "00:22:37,970"
+			},
+			"offsets": {
+				"from": 1352210,
+				"to": 1357970
+			},
+			"text": " temperatures. They'll mostly go down into the base of the flower and gorge on the nectar and kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,970",
+				"to": "00:22:43,730"
+			},
+			"offsets": {
+				"from": 1357970,
+				"to": 1363730
+			},
+			"text": " ignore the reproductive parts. So they don't do as good of a job pollinating squash. If you get enough"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,730",
+				"to": "00:22:49,730"
+			},
+			"offsets": {
+				"from": 1363730,
+				"to": 1369730
+			},
+			"text": " of them out on a field, they can do a fine job. But if you have that squash bee, they're much more"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,730",
+				"to": "00:22:58,030"
+			},
+			"offsets": {
+				"from": 1369730,
+				"to": 1378030
+			},
+			"text": " effective pollinators. That's true of a number of other crops. Take something that's an open flower,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,030",
+				"to": "00:23:04,430"
+			},
+			"offsets": {
+				"from": 1378030,
+				"to": 1384430
+			},
+			"text": " like a sunflower, which is what I researched. A lot of different bees can visit that. Almost all of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,430",
+				"to": "00:23:09,150"
+			},
+			"offsets": {
+				"from": 1384430,
+				"to": 1389150
+			},
+			"text": " bees you see here could probably visit it because it has all these florets that are accessible that"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,150",
+				"to": "00:23:16,620"
+			},
+			"offsets": {
+				"from": 1389150,
+				"to": 1396620
+			},
+			"text": " they can climb onto the face of. And so honeybees do a fairly good job, except honeybees pack their"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,620",
+				"to": "00:23:24,690"
+			},
+			"offsets": {
+				"from": 1396620,
+				"to": 1404690
+			},
+			"text": " pollen onto their leg, these little pollen baskets called corbicula. So if you get bee pollen in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,690",
+				"to": "00:23:31,770"
+			},
+			"offsets": {
+				"from": 1404690,
+				"to": 1411770
+			},
+			"text": " smoothie, that's the little ball of pollen that a honeybee carries. These other bees are really hairy"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:31,770",
+				"to": "00:23:37,450"
+			},
+			"offsets": {
+				"from": 1411770,
+				"to": 1417450
+			},
+			"text": " and carry their pollen on their legs or their abdomens. And that comes, it's loose and not"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,450",
+				"to": "00:23:44,730"
+			},
+			"offsets": {
+				"from": 1417450,
+				"to": 1424730
+			},
+			"text": " moistened and comes in contact with the stigma more frequently. So native bees are often much better"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,730",
+				"to": "00:23:51,770"
+			},
+			"offsets": {
+				"from": 1424730,
+				"to": 1431770
+			},
+			"text": " pollinators. When you get a number of different pollinators, so big ones to small ones, they complement"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,770",
+				"to": "00:23:56,730"
+			},
+			"offsets": {
+				"from": 1431770,
+				"to": 1436730
+			},
+			"text": " one another by touching different parts of the plant, spending different amounts of time on the plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,730",
+				"to": "00:24:04,720"
+			},
+			"offsets": {
+				"from": 1436730,
+				"to": 1444720
+			},
+			"text": " So that increases yields in a lot of cases. And when you have a honeybee, say you only had honeybees"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:04,720",
+				"to": "00:24:11,600"
+			},
+			"offsets": {
+				"from": 1444720,
+				"to": 1451600
+			},
+			"text": " from one hive on a flower, they'll just sit there and cruise around and not do a lot of cross pollinating."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,600",
+				"to": "00:24:17,360"
+			},
+			"offsets": {
+				"from": 1451600,
+				"to": 1457360
+			},
+			"text": " Whereas you put a bee from another species on there and if they meet on the flower, they get freaked out and"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,360",
+				"to": "00:24:22,880"
+			},
+			"offsets": {
+				"from": 1457360,
+				"to": 1462880
+			},
+			"text": " both of the bees fly away. And so they're spreading a lot more pollen in the orchard."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,880",
+				"to": "00:24:29,650"
+			},
+			"offsets": {
+				"from": 1462880,
+				"to": 1469650
+			},
+			"text": " So those are the ways that native bees can complement honeybees. But as I said, they carry a lot more loose"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,650",
+				"to": "00:24:36,130"
+			},
+			"offsets": {
+				"from": 1469650,
+				"to": 1476130
+			},
+			"text": " pollen and studies have shown that native bees are actually much more effective pollinators than honeybees."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:36,290",
+				"to": "00:24:43,780"
+			},
+			"offsets": {
+				"from": 1476290,
+				"to": 1483780
+			},
+			"text": " I think the statistic is four times better. So when you get all of the bees in the system, you're doing a better job"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,780",
+				"to": "00:24:50,860"
+			},
+			"offsets": {
+				"from": 1483780,
+				"to": 1490860
+			},
+			"text": " pollinating your crop. Native bees are incredibly important because if honeybees do continue to decline"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,200",
+				"to": "00:24:59,590"
+			},
+			"offsets": {
+				"from": 1491200,
+				"to": 1499590
+			},
+			"text": " because of diseases, then we need alternate pollinators to fill that role. And native bees are the best candidates."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,590",
+				"to": "00:25:08,060"
+			},
+			"offsets": {
+				"from": 1499590,
+				"to": 1508060
+			},
+			"text": " So why would you want something to, you were explaining like this example with the flower,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,060",
+				"to": "00:25:12,780"
+			},
+			"offsets": {
+				"from": 1508060,
+				"to": 1512780
+			},
+			"text": " where a bee would land on it and then it would land on another flower, but a honeybee would kind of just"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,780",
+				"to": "00:25:19,430"
+			},
+			"offsets": {
+				"from": 1512780,
+				"to": 1519430
+			},
+			"text": " focus on one flower until it had enough pollen or whatever. Like, why does that matter for crops?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,430",
+				"to": "00:25:28,400"
+			},
+			"offsets": {
+				"from": 1519430,
+				"to": 1528400
+			},
+			"text": " Well, a lot of plants are not self-fertile. They need, it's called conspecific pollen, so pollen from another plant to help fertilize it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,400",
+				"to": "00:25:34,410"
+			},
+			"offsets": {
+				"from": 1528400,
+				"to": 1534410
+			},
+			"text": " You know, when you have apples, right, you need a crab apple tree to help cross-pollinate with all of your,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,410",
+				"to": "00:25:42,090"
+			},
+			"offsets": {
+				"from": 1534410,
+				"to": 1542090
+			},
+			"text": " say you have a gala apple, right, same variety. And so it's that concept where you need to be moving pollen between plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,090",
+				"to": "00:25:51,270"
+			},
+			"offsets": {
+				"from": 1542090,
+				"to": 1551270
+			},
+			"text": " Something I didn't mention, but it's really cool. So male bees are really awesome. They often have"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,270",
+				"to": "00:25:57,350"
+			},
+			"offsets": {
+				"from": 1551270,
+				"to": 1557350
+			},
+			"text": " really long antennae, the ones in sunflower anyway, we call them longhorn bees, and they just zip up and"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,350",
+				"to": "00:26:04,630"
+			},
+			"offsets": {
+				"from": 1557350,
+				"to": 1564630
+			},
+			"text": " down the sunflower rows looking for female bees to mate with. But they're not good at always recognizing"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,630",
+				"to": "00:26:09,670"
+			},
+			"offsets": {
+				"from": 1564630,
+				"to": 1569670
+			},
+			"text": " those bees. And so often they land on honeybees and freak them out and cause them to move around"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,670",
+				"to": "00:26:17,240"
+			},
+			"offsets": {
+				"from": 1569670,
+				"to": 1577240
+			},
+			"text": " even more. So that's just another fun way that native bees help move a lot of pollen in a system."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,240",
+				"to": "00:26:24,670"
+			},
+			"offsets": {
+				"from": 1577240,
+				"to": 1584670
+			},
+			"text": " Cool. And so bees are actually so integral to having food continue to be produced, right? Because without"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,670",
+				"to": "00:26:30,460"
+			},
+			"offsets": {
+				"from": 1584670,
+				"to": 1590460
+			},
+			"text": " pollination, we don't even know what the impact, it'd be hard to imagine what that would, what a world without bees would be like."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,460",
+				"to": "00:26:36,780"
+			},
+			"offsets": {
+				"from": 1590460,
+				"to": 1596780
+			},
+			"text": " Unfortunately, we can imagine it. So there's a region of China where a lot of the native bees have"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,780",
+				"to": "00:26:42,860"
+			},
+			"offsets": {
+				"from": 1596780,
+				"to": 1602860
+			},
+			"text": " disappeared. And they actually go out into their apple orchards, or I had some people visit me who"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:42,860",
+				"to": "00:26:48,220"
+			},
+			"offsets": {
+				"from": 1602860,
+				"to": 1608220
+			},
+			"text": " were growing sunflower and they pay people to hand pollinate all of their crops, which is incredibly"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,220",
+				"to": "00:26:53,900"
+			},
+			"offsets": {
+				"from": 1608220,
+				"to": 1613900
+			},
+			"text": " time consuming. And often we're not as good of pollinators as bees are. So the yields tend to go"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,900",
+				"to": "00:27:02,630"
+			},
+			"offsets": {
+				"from": 1613900,
+				"to": 1622630
+			},
+			"text": " down a little bit. In the US, we can't really afford to pay people to do that. So people would probably"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,630",
+				"to": "00:27:07,590"
+			},
+			"offsets": {
+				"from": 1622630,
+				"to": 1627590
+			},
+			"text": " start planting different crops and our diets would radically change. But, but there are examples of"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,590",
+				"to": "00:27:12,630"
+			},
+			"offsets": {
+				"from": 1627590,
+				"to": 1632630
+			},
+			"text": " what a world without bees would look like. And it's not really a sustainable vision for our future."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,630",
+				"to": "00:27:19,040"
+			},
+			"offsets": {
+				"from": 1632630,
+				"to": 1639040
+			},
+			"text": " Sounds like a whole interesting thing to think about in terms of labor politics and bees and how"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,040",
+				"to": "00:27:25,960"
+			},
+			"offsets": {
+				"from": 1639040,
+				"to": 1645960
+			},
+			"text": " those two things are related. So could you describe what like a, what's a normal day of research in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,960",
+				"to": "00:27:32,170"
+			},
+			"offsets": {
+				"from": 1645960,
+				"to": 1652170
+			},
+			"text": " field look like for you? As you were, as you were talking about the squash bee, I was thinking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,170",
+				"to": "00:27:35,610"
+			},
+			"offsets": {
+				"from": 1652170,
+				"to": 1655610
+			},
+			"text": " what does Hillary actually do out there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,610",
+				"to": "00:27:41,930"
+			},
+			"offsets": {
+				"from": 1655610,
+				"to": 1661930
+			},
+			"text": " Well, I fortunately don't study squash bees. One of my wonderful colleagues does. And she had to get"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,930",
+				"to": "00:27:47,850"
+			},
+			"offsets": {
+				"from": 1661930,
+				"to": 1667850
+			},
+			"text": " up really early. But I study sunflower bees who tend to come out when it's, you know, much nicer"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,850",
+				"to": "00:27:54,090"
+			},
+			"offsets": {
+				"from": 1667850,
+				"to": 1674090
+			},
+			"text": " temperature, like 60 degrees. So I didn't have to start work until 9am. And I would trudge out into a"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,090",
+				"to": "00:28:00,650"
+			},
+			"offsets": {
+				"from": 1674090,
+				"to": 1680650
+			},
+			"text": " sunflower field in the central valley, which are, if you've ever driven up I-5 around, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:00,650",
+				"to": "00:28:07,780"
+			},
+			"offsets": {
+				"from": 1680650,
+				"to": 1687780
+			},
+			"text": " Davis, just miles and miles and miles of them. They're, they're beautiful, but in a way they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,780",
+				"to": "00:28:16,610"
+			},
+			"offsets": {
+				"from": 1687780,
+				"to": 1696610
+			},
+			"text": " also terrible because they are head high. They have all of these stinging hairs on them. So if you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,610",
+				"to": "00:28:20,770"
+			},
+			"offsets": {
+				"from": 1696610,
+				"to": 1700770
+			},
+			"text": " walking through them, you have to make sure to wear long sleeve shirts. And if you don't,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,770",
+				"to": "00:28:24,930"
+			},
+			"offsets": {
+				"from": 1700770,
+				"to": 1704930
+			},
+			"text": " you know, you'll just get a rash. And if you do, those shirts will get destroyed."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,260",
+				"to": "00:28:31,570"
+			},
+			"offsets": {
+				"from": 1706260,
+				"to": 1711570
+			},
+			"text": " So I'd walk out there in the sunflower fields with my net or sometimes my bug vac, which is like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,570",
+				"to": "00:28:39,490"
+			},
+			"offsets": {
+				"from": 1711570,
+				"to": 1719490
+			},
+			"text": " little kid's suction gun. Like literally I bought from a toy store to capture the bees off of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:39,490",
+				"to": "00:28:46,290"
+			},
+			"offsets": {
+				"from": 1719490,
+				"to": 1726290
+			},
+			"text": " sunflower heads, usually time how long you're doing it. So you can standardize it across fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:46,850",
+				"to": "00:28:52,450"
+			},
+			"offsets": {
+				"from": 1726850,
+				"to": 1732450
+			},
+			"text": " And I'd go out there with my interns. We'd also bag sunflower heads and collect them later to look"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,450",
+				"to": "00:29:01,140"
+			},
+			"offsets": {
+				"from": 1732450,
+				"to": 1741140
+			},
+			"text": " at how the yield was. And that process would take me most of the day. It sounds like not that much"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,140",
+				"to": "00:29:07,820"
+			},
+			"offsets": {
+				"from": 1741140,
+				"to": 1747820
+			},
+			"text": " right now, but it, you know, collecting bees takes a while. And we'd put them into little vials"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,820",
+				"to": "00:29:15,000"
+			},
+			"offsets": {
+				"from": 1747820,
+				"to": 1755000
+			},
+			"text": " and then bring them back to the lab and later pin them and identify them with most bees. Unfortunately,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,000",
+				"to": "00:29:21,480"
+			},
+			"offsets": {
+				"from": 1755000,
+				"to": 1761480
+			},
+			"text": " you have to kill them. It's, it's actually really sad. But they, you have to look at them under a"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,480",
+				"to": "00:29:26,040"
+			},
+			"offsets": {
+				"from": 1761480,
+				"to": 1766040
+			},
+			"text": " microscope and look at these very minute characteristics. You know, does it have this"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,040",
+				"to": "00:29:34,260"
+			},
+			"offsets": {
+				"from": 1766040,
+				"to": 1774260
+			},
+			"text": " little bump on its jaw to tell one species from another? Yeah. And then do data entry, but,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,260",
+				"to": "00:29:40,210"
+			},
+			"offsets": {
+				"from": 1774260,
+				"to": 1780210
+			},
+			"text": " but also back in the field, I looked a lot at bee nesting. And so in the heat of the day, say around"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,210",
+				"to": "00:29:49,960"
+			},
+			"offsets": {
+				"from": 1780210,
+				"to": 1789960
+			},
+			"text": " like two to 5 PM, we'd go try and hang out, lay low, you know, drinking iced coffee. And then we'd go"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,960",
+				"to": "00:29:54,760"
+			},
+			"offsets": {
+				"from": 1789960,
+				"to": 1794760
+			},
+			"text": " back out into the field around desk and set these things called emergence traps. They look like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,760",
+				"to": "00:30:00,140"
+			},
+			"offsets": {
+				"from": 1794760,
+				"to": 1800140
+			},
+			"text": " little camping tent, but they have an open bottom and you can bury the edges. And at the top,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,790",
+				"to": "00:30:06,650"
+			},
+			"offsets": {
+				"from": 1800790,
+				"to": 1806650
+			},
+			"text": " it basically funneled bees into a kill jar. So a jar filled with soapy water, ethanol,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:06,650",
+				"to": "00:30:11,850"
+			},
+			"offsets": {
+				"from": 1806650,
+				"to": 1811850
+			},
+			"text": " and we put them out at night over randomly over patches of ground and then saw whether or not bees"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:11,850",
+				"to": "00:30:17,370"
+			},
+			"offsets": {
+				"from": 1811850,
+				"to": 1817370
+			},
+			"text": " were there the next afternoon, which indicated that they came out to try and forage and then"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,370",
+				"to": "00:30:22,870"
+			},
+			"offsets": {
+				"from": 1817370,
+				"to": 1822870
+			},
+			"text": " got trapped. And then we'd look for where their nest was and correlate it to different soil properties or"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,870",
+				"to": "00:30:31,160"
+			},
+			"offsets": {
+				"from": 1822870,
+				"to": 1831160
+			},
+			"text": " above ground properties, how much bare ground was there or, you know, leaf litter or vegetation and"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,160",
+				"to": "00:30:37,160"
+			},
+			"offsets": {
+				"from": 1831160,
+				"to": 1837160
+			},
+			"text": " try and figure out where are bees nesting and why. And we did this in the hedge edges. So the hedgerows and"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,160",
+				"to": "00:30:43,160"
+			},
+			"offsets": {
+				"from": 1837160,
+				"to": 1843160
+			},
+			"text": " also in the fields and actually found a lot of bees nesting right under the sunflower, which was cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,160",
+				"to": "00:30:47,600"
+			},
+			"offsets": {
+				"from": 1843160,
+				"to": 1847600
+			},
+			"text": " But it meant our field days were, I don't know, some days, 15 hours long."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,600",
+				"to": "00:30:54,190"
+			},
+			"offsets": {
+				"from": 1847600,
+				"to": 1854190
+			},
+			"text": " Yeah, it sounds like you did a lot out there. I think just walking through a sunflower field sounds"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,190",
+				"to": "00:31:01,090"
+			},
+			"offsets": {
+				"from": 1854190,
+				"to": 1861090
+			},
+			"text": " like a lot of work to me. Having walked through some cornfields, I can relate to tall plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:01,090",
+				"to": "00:31:07,490"
+			},
+			"offsets": {
+				"from": 1861090,
+				"to": 1867490
+			},
+			"text": " A hundred degree heat and high humidity because of irrigation. Yeah, it was fun. I'm pretty glad"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,490",
+				"to": "00:31:15,550"
+			},
+			"offsets": {
+				"from": 1867490,
+				"to": 1875550
+			},
+			"text": " that the field portion of my research has ended. Let's talk about what a hedgerow is and where"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,550",
+				"to": "00:31:21,940"
+			},
+			"offsets": {
+				"from": 1875550,
+				"to": 1881940
+			},
+			"text": " these native bees actually live and how. I know you just explained how you found them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,940",
+				"to": "00:31:27,360"
+			},
+			"offsets": {
+				"from": 1881940,
+				"to": 1887360
+			},
+			"text": " but it's still a little hard to imagine. So let's go into that a little bit more."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:27,360",
+				"to": "00:31:34,690"
+			},
+			"offsets": {
+				"from": 1887360,
+				"to": 1894690
+			},
+			"text": " Sure. Hedgerows, as I said, are kind of these like linear strips of native flowering plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,690",
+				"to": "00:31:43,620"
+			},
+			"offsets": {
+				"from": 1894690,
+				"to": 1903620
+			},
+			"text": " You can often select plants to flower over the entire season. So starting in February with redbud,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:43,620",
+				"to": "00:31:50,900"
+			},
+			"offsets": {
+				"from": 1903620,
+				"to": 1910900
+			},
+			"text": " which is a beautiful pink pea-like plant, all the way into October with coyote brush. And the"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,900",
+				"to": "00:31:55,380"
+			},
+			"offsets": {
+				"from": 1910900,
+				"to": 1915380
+			},
+			"text": " importance for that overlapping bloom is because a lot of these native bees, when they come out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,380",
+				"to": "00:32:03,720"
+			},
+			"offsets": {
+				"from": 1915380,
+				"to": 1923720
+			},
+			"text": " they just fly for a few weeks and then that's that species season. But some bees also will fly."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,720",
+				"to": "00:32:08,120"
+			},
+			"offsets": {
+				"from": 1923720,
+				"to": 1928120
+			},
+			"text": " Like bumblebees have a big colony over the whole year. So you want to make sure you have resources"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,120",
+				"to": "00:32:13,280"
+			},
+			"offsets": {
+				"from": 1928120,
+				"to": 1933280
+			},
+			"text": " available for all of these species whenever they come out and for these longer-lived species."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,280",
+				"to": "00:32:17,550"
+			},
+			"offsets": {
+				"from": 1933280,
+				"to": 1937550
+			},
+			"text": " When you have a gap in resources, then they might leave your farm and that would"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,400",
+				"to": "00:32:24,000"
+			},
+			"offsets": {
+				"from": 1938400,
+				"to": 1944000
+			},
+			"text": " not behoove you because you wouldn't get their crop pollination benefits. So farmers put these often"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,800",
+				"to": "00:32:27,440"
+			},
+			"offsets": {
+				"from": 1944800,
+				"to": 1947440
+			},
+			"text": " just around the edges of their fields. You can fit them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,940",
+				"to": "00:32:33,580"
+			},
+			"offsets": {
+				"from": 1948940,
+				"to": 1953580
+			},
+			"text": " you know, between a road and an irrigation ditch pretty easily. They're just about, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,580",
+				"to": "00:32:39,260"
+			},
+			"offsets": {
+				"from": 1953580,
+				"to": 1959260
+			},
+			"text": " six to ten feet wide. A wildflower strip is something other people do, which is putting,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,260",
+				"to": "00:32:43,980"
+			},
+			"offsets": {
+				"from": 1959260,
+				"to": 1963980
+			},
+			"text": " instead of a woody shrub, something more herbaceous. And often those provide about the same"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,200",
+				"to": "00:32:50,410"
+			},
+			"offsets": {
+				"from": 1965200,
+				"to": 1970410
+			},
+			"text": " amount of bloom, which is usually the whole area just covered in flowers. They're really quite"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:50,410",
+				"to": "00:32:55,830"
+			},
+			"offsets": {
+				"from": 1970410,
+				"to": 1975830
+			},
+			"text": " beautiful. And bees are attracted to them because often in agricultural landscapes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,630",
+				"to": "00:33:01,750"
+			},
+			"offsets": {
+				"from": 1976630,
+				"to": 1981750
+			},
+			"text": " you know, fence row to fence row gets planted with crops. And so there's not a lot of natural"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,750",
+				"to": "00:33:06,780"
+			},
+			"offsets": {
+				"from": 1981750,
+				"to": 1986780
+			},
+			"text": " habitat and that this brings it back into the landscape. And that attracts bees to it because"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:06,780",
+				"to": "00:33:09,660"
+			},
+			"offsets": {
+				"from": 1986780,
+				"to": 1989660
+			},
+			"text": " they will fly pretty far to find resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,350",
+				"to": "00:33:14,890"
+			},
+			"offsets": {
+				"from": 1990350,
+				"to": 1994890
+			},
+			"text": " Yeah. What would an ideal field look like to attract native bees?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,770",
+				"to": "00:33:21,800"
+			},
+			"offsets": {
+				"from": 1995770,
+				"to": 2001800
+			},
+			"text": " An ideal field, and we're talking big scale, right? Like, so let's go from your sunflower research"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:21,800",
+				"to": "00:33:24,440"
+			},
+			"offsets": {
+				"from": 2001800,
+				"to": 2004440
+			},
+			"text": " and then we'll talk more about home gardens and things like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,440",
+				"to": "00:33:30,120"
+			},
+			"offsets": {
+				"from": 2004440,
+				"to": 2010120
+			},
+			"text": " Sure. Well, sunflower are unique because they're what's known as a mass flowering crop. So they provide"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,120",
+				"to": "00:33:36,440"
+			},
+			"offsets": {
+				"from": 2010120,
+				"to": 2016440
+			},
+			"text": " this huge amount of resources and a pulse. And since, as I said, a lot of bees can pollinate them."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:36,440",
+				"to": "00:33:44,850"
+			},
+			"offsets": {
+				"from": 2016440,
+				"to": 2024850
+			},
+			"text": " And so they're an amazing resource in and of themselves. And then if you were able to ring"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,850",
+				"to": "00:33:51,820"
+			},
+			"offsets": {
+				"from": 2024850,
+				"to": 2031820
+			},
+			"text": " that whole field with hedgerows, that would provide a permanent resource. So when that two-week period"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,820",
+				"to": "00:33:57,740"
+			},
+			"offsets": {
+				"from": 2031820,
+				"to": 2037740
+			},
+			"text": " of sunflower bloom disappears, you would then have additional flowers for the bees to forage on when"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,740",
+				"to": "00:34:02,860"
+			},
+			"offsets": {
+				"from": 2037740,
+				"to": 2042860
+			},
+			"text": " they didn't have the sunflower. So they didn't have to find the next field, which might be a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,860",
+				"to": "00:34:11,180"
+			},
+			"offsets": {
+				"from": 2042860,
+				"to": 2051180
+			},
+			"text": " ways away. So that would be an ideal sunflower field. Say for an almond orchard where they bloom earlier"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,180",
+				"to": "00:34:19,590"
+			},
+			"offsets": {
+				"from": 2051180,
+				"to": 2059590
+			},
+			"text": " in the year, you can plant in between the orchard rows ground cover of native wildflowers and have"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,590",
+				"to": "00:34:26,950"
+			},
+			"offsets": {
+				"from": 2059590,
+				"to": 2066950
+			},
+			"text": " that bloom for the rest of the year after the almond bloom disappears. So it would be having consistent"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,950",
+				"to": "00:34:35,450"
+			},
+			"offsets": {
+				"from": 2066950,
+				"to": 2075450
+			},
+			"text": " native flowers as much as the year as possible. And a lot of organic diversified farms actually achieve"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,450",
+				"to": "00:34:42,940"
+			},
+			"offsets": {
+				"from": 2075450,
+				"to": 2082940
+			},
+			"text": " this. There's a ton of crop rotation, polyculture. So you never just have one single crop that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,940",
+				"to": "00:34:48,300"
+			},
+			"offsets": {
+				"from": 2082940,
+				"to": 2088300
+			},
+			"text": " blooming at one time period. You have this nice patchwork of plants. Sometimes there's bed ends,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:48,300",
+				"to": "00:34:53,900"
+			},
+			"offsets": {
+				"from": 2088300,
+				"to": 2093900
+			},
+			"text": " insectary strips. Sometimes you don't always get to the lettuce before it bolts, right? And that provides"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,900",
+				"to": "00:35:03,650"
+			},
+			"offsets": {
+				"from": 2093900,
+				"to": 2103650
+			},
+			"text": " a short-term resource for bees. So those are different, amazing systems for bees. In the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,650",
+				"to": "00:35:09,280"
+			},
+			"offsets": {
+				"from": 2103650,
+				"to": 2109280
+			},
+			"text": " conventional systems, in the winter, planting a cover crop is a great way to add resources."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,280",
+				"to": "00:35:15,880"
+			},
+			"offsets": {
+				"from": 2109280,
+				"to": 2115880
+			},
+			"text": " If you mix in a flowering species, like a clover, and then let it go to bloom before you"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,880",
+				"to": "00:35:23,460"
+			},
+			"offsets": {
+				"from": 2115880,
+				"to": 2123460
+			},
+			"text": " sow in your annual crop, cash crop. That's an amazing short-term resource for bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:23,460",
+				"to": "00:35:29,990"
+			},
+			"offsets": {
+				"from": 2123460,
+				"to": 2129990
+			},
+			"text": " - So let's talk a little bit more about the conventional world and pesticide usage and"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,340",
+				"to": "00:35:39,630"
+			},
+			"offsets": {
+				"from": 2131340,
+				"to": 2139630
+			},
+			"text": " other things like that, different kinds of irrigation. What affects having bees on your farm or not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,630",
+				"to": "00:35:45,090"
+			},
+			"offsets": {
+				"from": 2139630,
+				"to": 2145090
+			},
+			"text": " - Yeah, so I hinted at before, a lot of bees, they'll nest in those hedgerows and"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,090",
+				"to": "00:35:50,980"
+			},
+			"offsets": {
+				"from": 2145090,
+				"to": 2150980
+			},
+			"text": " wildflower ships, but they also nest directly in the crop fields. And there, they're subject to"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,980",
+				"to": "00:35:59,780"
+			},
+			"offsets": {
+				"from": 2150980,
+				"to": 2159780
+			},
+			"text": " irrigation, to the effects of a spray, to tillage. There's some great research out of UC Davis that"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,780",
+				"to": "00:36:05,140"
+			},
+			"offsets": {
+				"from": 2159780,
+				"to": 2165140
+			},
+			"text": " shows that deep tilling will kill about half of the bee young. They won't be able to emerge. And so"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:05,140",
+				"to": "00:36:11,700"
+			},
+			"offsets": {
+				"from": 2165140,
+				"to": 2171700
+			},
+			"text": " a light till or no-till might help those bees emerge and continue to increase their populations over"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,700",
+				"to": "00:36:17,620"
+			},
+			"offsets": {
+				"from": 2171700,
+				"to": 2177620
+			},
+			"text": " time. Irrigation, surprisingly, I did a little project on this with one of my undergrads. And we"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,620",
+				"to": "00:36:25,400"
+			},
+			"offsets": {
+				"from": 2177620,
+				"to": 2185400
+			},
+			"text": " found, we thought that certainly drip irrigation would be better, right? Because it's less water"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,400",
+				"to": "00:36:31,930"
+			},
+			"offsets": {
+				"from": 2185400,
+				"to": 2191930
+			},
+			"text": " penetrating the ground and maybe wouldn't inundate and kill the bees. Whereas a flood irrigation or furrow"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,930",
+				"to": "00:36:38,250"
+			},
+			"offsets": {
+				"from": 2191930,
+				"to": 2198250
+			},
+			"text": " irrigation, which just totally saturates the soil, would be much worse. But we actually found no differences"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,250",
+				"to": "00:36:46,630"
+			},
+			"offsets": {
+				"from": 2198250,
+				"to": 2206630
+			},
+			"text": " between nesting bees. And there could be a number of reasons for that. One might be that bees line their"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,630",
+				"to": "00:36:54,070"
+			},
+			"offsets": {
+				"from": 2206630,
+				"to": 2214070
+			},
+			"text": " nest cells with this wax layer that has some hydrophobic properties. So that might help prevent"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,070",
+				"to": "00:37:01,930"
+			},
+			"offsets": {
+				"from": 2214070,
+				"to": 2221930
+			},
+			"text": " the water from penetrating it. Or they might actually be applying the same amount of irrigation water to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,930",
+				"to": "00:37:07,530"
+			},
+			"offsets": {
+				"from": 2221930,
+				"to": 2227530
+			},
+			"text": " the sunflower fields using the drip irrigation, but just getting less evaporation. So using the water more"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,530",
+				"to": "00:37:12,730"
+			},
+			"offsets": {
+				"from": 2227530,
+				"to": 2232730
+			},
+			"text": " efficiently, the subsurface environment might be pretty similar for the bees, and maybe that was why we"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:12,730",
+				"to": "00:37:18,770"
+			},
+			"offsets": {
+				"from": 2232730,
+				"to": 2238770
+			},
+			"text": " didn't see a difference. In that paper, we recommended people use drip irrigation because it has all of"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,770",
+				"to": "00:37:27,630"
+			},
+			"offsets": {
+				"from": 2238770,
+				"to": 2247630
+			},
+			"text": " these other environmental benefits. I think of like a meadow after a really rainy year or after a particularly"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,630",
+				"to": "00:37:35,370"
+			},
+			"offsets": {
+				"from": 2247630,
+				"to": 2255370
+			},
+			"text": " dry year. And I don't really know what it's like under the ground, right, in terms of the conditions of what"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,370",
+				"to": "00:37:39,310"
+			},
+			"offsets": {
+				"from": 2255370,
+				"to": 2259310
+			},
+			"text": " burrows and different nests would be like for insects there."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,310",
+				"to": "00:37:46,250"
+			},
+			"offsets": {
+				"from": 2259310,
+				"to": 2266250
+			},
+			"text": " Yeah. I mean, some bees, a lot. So most bee diversity is actually in Mediterranean climates"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,250",
+				"to": "00:37:50,490"
+			},
+			"offsets": {
+				"from": 2266250,
+				"to": 2270490
+			},
+			"text": " where there isn't a ton of rain. And you can imagine because most of them are underground. But there are"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,490",
+				"to": "00:37:56,490"
+			},
+			"offsets": {
+				"from": 2270490,
+				"to": 2276490
+			},
+			"text": " bees in the Pacific Northwest. Most of them are above ground nester and pithy stems. In the tropics,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,490",
+				"to": "00:38:03,050"
+			},
+			"offsets": {
+				"from": 2276490,
+				"to": 2283050
+			},
+			"text": " some below ground nesters actually lay their young in like a slurry and the larvae are able to deal with a"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,050",
+				"to": "00:38:09,450"
+			},
+			"offsets": {
+				"from": 2283050,
+				"to": 2289450
+			},
+			"text": " moist environment. So bees have adaptations to this. And there are studies that show that hurricanes and"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,450",
+				"to": "00:38:16,890"
+			},
+			"offsets": {
+				"from": 2289450,
+				"to": 2296890
+			},
+			"text": " floods actually, these super inundating events, bees can survive that. What actually might be more"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:16,890",
+				"to": "00:38:23,210"
+			},
+			"offsets": {
+				"from": 2296890,
+				"to": 2303210
+			},
+			"text": " harmful is if there's a mudslide, and that might destroy their nest. But they have some ability to"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,210",
+				"to": "00:38:23,930"
+			},
+			"offsets": {
+				"from": 2303210,
+				"to": 2303930
+			},
+			"text": " withstand it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,930",
+				"to": "00:38:26,420"
+			},
+			"offsets": {
+				"from": 2303930,
+				"to": 2306420
+			},
+			"text": " Well, that's pretty amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:26,420",
+				"to": "00:38:28,870"
+			},
+			"offsets": {
+				"from": 2306420,
+				"to": 2308870
+			},
+			"text": " They're amazing. They're pretty charismatic."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,870",
+				"to": "00:38:34,660"
+			},
+			"offsets": {
+				"from": 2308870,
+				"to": 2314660
+			},
+			"text": " It sounds like it. The more and more I hear about them. But let's talk about, well, let's talk about"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,660",
+				"to": "00:38:41,330"
+			},
+			"offsets": {
+				"from": 2314660,
+				"to": 2321330
+			},
+			"text": " something bees don't like, which is pesticides. And I don't really understand. There's all this new"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:41,330",
+				"to": "00:38:49,320"
+			},
+			"offsets": {
+				"from": 2321330,
+				"to": 2329320
+			},
+			"text": " research that's come out. And maybe you can just explain bees and pesticides generally, and then we can"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,320",
+				"to": "00:38:51,670"
+			},
+			"offsets": {
+				"from": 2329320,
+				"to": 2331670
+			},
+			"text": " talk more about native bees."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,670",
+				"to": "00:39:01,120"
+			},
+			"offsets": {
+				"from": 2331670,
+				"to": 2341120
+			},
+			"text": " Sure. So a lot of pesticides are neurotoxins and will affect, even if they don't kill a bee,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:01,120",
+				"to": "00:39:05,520"
+			},
+			"offsets": {
+				"from": 2341120,
+				"to": 2345520
+			},
+			"text": " if it's a dose that doesn't harm them, they have these sublethal effects where they can affect"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,520",
+				"to": "00:39:11,520"
+			},
+			"offsets": {
+				"from": 2345520,
+				"to": 2351520
+			},
+			"text": " their navigation, their ability to reproduce, to smell and sense other plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,350",
+				"to": "00:39:18,390"
+			},
+			"offsets": {
+				"from": 2352350,
+				"to": 2358390
+			},
+			"text": " So pesticides have this range of effects on honeybees and native bees. And there's this new class of"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:18,390",
+				"to": "00:39:23,030"
+			},
+			"offsets": {
+				"from": 2358390,
+				"to": 2363030
+			},
+			"text": " insecticides that's come under a lot of scrutiny. People have probably heard of called neonicotinoids."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,030",
+				"to": "00:39:33,620"
+			},
+			"offsets": {
+				"from": 2363030,
+				"to": 2373620
+			},
+			"text": " They're a synthetic nicotine derivative. So tobacco plants create nicotine as a chemical defense against"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,620",
+				"to": "00:39:42,300"
+			},
+			"offsets": {
+				"from": 2373620,
+				"to": 2382300
+			},
+			"text": " pests. So it's a pretty potent natural pesticide that was synthesized in the early 1990s and came on"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:42,300",
+				"to": "00:39:49,300"
+			},
+			"offsets": {
+				"from": 2382300,
+				"to": 2389300
+			},
+			"text": " the market first as imidacloprid. And the EPA just released a study that preliminary finds that"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,940",
+				"to": "00:39:58,790"
+			},
+			"offsets": {
+				"from": 2389940,
+				"to": 2398790
+			},
+			"text": " this is pretty toxic to bees. There's this amazing bee researcher in Britain named Dave Goulson, who,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,790",
+				"to": "00:40:05,990"
+			},
+			"offsets": {
+				"from": 2398790,
+				"to": 2405990
+			},
+			"text": " when he gives talks, he says that just a gram of imidacloprid is enough to kill 250,000 honeybees."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:06,950",
+				"to": "00:40:12,470"
+			},
+			"offsets": {
+				"from": 2406950,
+				"to": 2412470
+			},
+			"text": " That's a lot of bees for a very, very small amount. So they're incredibly toxic."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:12,470",
+				"to": "00:40:17,990"
+			},
+			"offsets": {
+				"from": 2412470,
+				"to": 2417990
+			},
+			"text": " And initially, the attraction with neonicotinoids was that they didn't seem that they would affect"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,020",
+				"to": "00:40:24,220"
+			},
+			"offsets": {
+				"from": 2419020,
+				"to": 2424220
+			},
+			"text": " things up the food chain, right? Remember DDT in Silent Spring? That was a pesticide that really"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:24,220",
+				"to": "00:40:30,300"
+			},
+			"offsets": {
+				"from": 2424220,
+				"to": 2430300
+			},
+			"text": " amplified as it went up the food chain, affecting bird nesting, affecting mammals. And it seems like"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:30,300",
+				"to": "00:40:36,460"
+			},
+			"offsets": {
+				"from": 2430300,
+				"to": 2436460
+			},
+			"text": " now, unfortunately, there's more evidence showing that neonicotinoids also affect things besides"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,460",
+				"to": "00:40:43,010"
+			},
+			"offsets": {
+				"from": 2436460,
+				"to": 2443010
+			},
+			"text": " invertebrates. But even for invertebrates, I mean, these are water-soluble chemicals they get into."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,010",
+				"to": "00:40:48,050"
+			},
+			"offsets": {
+				"from": 2443010,
+				"to": 2448050
+			},
+			"text": " They're pervasive in our waterways. Studies have found them in every river where they looked in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:48,050",
+				"to": "00:40:53,850"
+			},
+			"offsets": {
+				"from": 2448050,
+				"to": 2453850
+			},
+			"text": " Midwest. They found them, which is pretty scary. And they're actually more toxic to aquatic invertebrates."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:54,980",
+				"to": "00:40:59,540"
+			},
+			"offsets": {
+				"from": 2454980,
+				"to": 2459540
+			},
+			"text": " But because they're water-soluble, they're also a class of pesticide that's known as a systemic."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:00,180",
+				"to": "00:41:05,220"
+			},
+			"offsets": {
+				"from": 2460180,
+				"to": 2465220
+			},
+			"text": " This means that they're transported throughout an entire plant. So if you apply it to their leaf,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,220",
+				"to": "00:41:11,860"
+			},
+			"offsets": {
+				"from": 2465220,
+				"to": 2471860
+			},
+			"text": " they could get expressed in the pollen. And so bees will forage on a plant and be consuming small"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:11,860",
+				"to": "00:41:17,060"
+			},
+			"offsets": {
+				"from": 2471860,
+				"to": 2477060
+			},
+			"text": " quantities of the pollen and nectar containing neonicotinoids. So even if they aren't directly"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:17,060",
+				"to": "00:41:23,380"
+			},
+			"offsets": {
+				"from": 2477060,
+				"to": 2483380
+			},
+			"text": " sprayed, right, they could experience the sublethal effects that I described. And so that's part of why"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:23,380",
+				"to": "00:41:29,910"
+			},
+			"offsets": {
+				"from": 2483380,
+				"to": 2489910
+			},
+			"text": " they're so, why people are so concerned about them, why there's a moratorium on them in Europe,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,910",
+				"to": "00:41:36,630"
+			},
+			"offsets": {
+				"from": 2489910,
+				"to": 2496630
+			},
+			"text": " why the state of Maryland just banned them for, not for farming, but for ornamental use,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,630",
+				"to": "00:41:40,150"
+			},
+			"offsets": {
+				"from": 2496630,
+				"to": 2500150
+			},
+			"text": " and why California is also considering legislation banning them right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,150",
+				"to": "00:41:51,350"
+			},
+			"offsets": {
+				"from": 2500150,
+				"to": 2511350
+			},
+			"text": " So do all pesticides affect bees the same ways? And what, once again, like in your imagination,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,350",
+				"to": "00:41:56,680"
+			},
+			"offsets": {
+				"from": 2511350,
+				"to": 2516680
+			},
+			"text": " what would it look like to have a field that a conventional farmer did spray sometimes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:56,680",
+				"to": "00:42:02,400"
+			},
+			"offsets": {
+				"from": 2516680,
+				"to": 2522400
+			},
+			"text": " And what would be the ideal conditions to do that? Or how, how does that work? Like, is it an absolute?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:03,690",
+				"to": "00:42:10,550"
+			},
+			"offsets": {
+				"from": 2523690,
+				"to": 2530550
+			},
+			"text": " Yeah. So some pesticides are not rated as toxic to bees. They actually don't have harmful effects."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,550",
+				"to": "00:42:16,470"
+			},
+			"offsets": {
+				"from": 2530550,
+				"to": 2536470
+			},
+			"text": " And unfortunately, this isn't totally my expertise. So I can't name all of the compounds, but there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,470",
+				"to": "00:42:23,680"
+			},
+			"offsets": {
+				"from": 2536470,
+				"to": 2543680
+			},
+			"text": " some great resources out there. Oregon State University has a publication called How to Avoid"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:23,680",
+				"to": "00:42:30,320"
+			},
+			"offsets": {
+				"from": 2543680,
+				"to": 2550320
+			},
+			"text": " Bee Poisonings from Pesticides that has a really comprehensive list. And they flag them red, yellow,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,320",
+				"to": "00:42:35,840"
+			},
+			"offsets": {
+				"from": 2550320,
+				"to": 2555840
+			},
+			"text": " or green. Green being the ones that you can spray and bees shouldn't really be harmed versus red"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:35,840",
+				"to": "00:42:40,720"
+			},
+			"offsets": {
+				"from": 2555840,
+				"to": 2560720
+			},
+			"text": " would be the ones to avoid at all costs. The yellow ones are more interesting. They might have,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,720",
+				"to": "00:42:47,290"
+			},
+			"offsets": {
+				"from": 2560720,
+				"to": 2567290
+			},
+			"text": " say, be very toxic for a short period, but have a short residual toxicity so they would"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:47,290",
+				"to": "00:42:52,130"
+			},
+			"offsets": {
+				"from": 2567290,
+				"to": 2572130
+			},
+			"text": " dissipate from the environment quickly. So for those, you might be able to spray them at night"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:52,130",
+				"to": "00:42:58,540"
+			},
+			"offsets": {
+				"from": 2572130,
+				"to": 2578540
+			},
+			"text": " when bees aren't active. And then, you know, given the right conditions, they wouldn't be available"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,540",
+				"to": "00:43:05,740"
+			},
+			"offsets": {
+				"from": 2578540,
+				"to": 2585740
+			},
+			"text": " the next day and not that many bees would be harmed. So often for producers, we ask them to think about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,740",
+				"to": "00:43:12,360"
+			},
+			"offsets": {
+				"from": 2585740,
+				"to": 2592360
+			},
+			"text": " you know, what the risk is to bees to look at that and then decide when to spray. Maybe don't spray during"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:12,360",
+				"to": "00:43:18,120"
+			},
+			"offsets": {
+				"from": 2592360,
+				"to": 2598120
+			},
+			"text": " bloom, spray after bloom when bees aren't present. There are some chemicals when you mix them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:18,120",
+				"to": "00:43:23,400"
+			},
+			"offsets": {
+				"from": 2598120,
+				"to": 2603400
+			},
+			"text": " they become more toxic. So avoiding those mixtures, spraying at night, and of course,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,400",
+				"to": "00:43:28,920"
+			},
+			"offsets": {
+				"from": 2603400,
+				"to": 2608920
+			},
+			"text": " always calibrating their spray equipment and spraying during appropriate conditions where there's not a high"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:28,920",
+				"to": "00:43:35,480"
+			},
+			"offsets": {
+				"from": 2608920,
+				"to": 2615480
+			},
+			"text": " chance of drift or inversion that could carry the pesticides miles away. So those are some of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,480",
+				"to": "00:43:42,040"
+			},
+			"offsets": {
+				"from": 2615480,
+				"to": 2622040
+			},
+			"text": " things we recommend. And I work for a great nonprofit right now. And we go through, you know, a pesticide"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:42,040",
+				"to": "00:43:48,680"
+			},
+			"offsets": {
+				"from": 2622040,
+				"to": 2628680
+			},
+			"text": " report with a farmer, suggest alternatives, suggest when they should spray, and also work with them on"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:48,680",
+				"to": "00:43:54,400"
+			},
+			"offsets": {
+				"from": 2628680,
+				"to": 2634400
+			},
+			"text": " non-chemical mechanisms. So some farmers go through and they'll vacuum a crop. This happens a lot in"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:54,400",
+				"to": "00:44:00,720"
+			},
+			"offsets": {
+				"from": 2634400,
+				"to": 2640720
+			},
+			"text": " strawberry. So it's a physical means of getting rid of a pest. There are pheromone traps that are insect"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,720",
+				"to": "00:44:07,400"
+			},
+			"offsets": {
+				"from": 2640720,
+				"to": 2647400
+			},
+			"text": " specific, so only the males will go to that trap and you can reduce their populations. But there's also"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:07,400",
+				"to": "00:44:16,230"
+			},
+			"offsets": {
+				"from": 2647400,
+				"to": 2656230
+			},
+			"text": " conservation biocontrol. Basically, often you plant the same habitats that support pollinators, support"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:16,230",
+				"to": "00:44:23,860"
+			},
+			"offsets": {
+				"from": 2656230,
+				"to": 2663860
+			},
+			"text": " beneficial insects, ladybugs, right? Lacewings. These are predaceous ground beetles. They'll go to these"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:23,860",
+				"to": "00:44:29,540"
+			},
+			"offsets": {
+				"from": 2663860,
+				"to": 2669540
+			},
+			"text": " habitats and they go out and do natural pest control. Predaceous ground beetles will go out and kill slugs,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:29,540",
+				"to": "00:44:35,380"
+			},
+			"offsets": {
+				"from": 2669540,
+				"to": 2675380
+			},
+			"text": " and they're actually so aggressive. They'll kill more prey than they can even eat, which is a farmer's"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,380",
+				"to": "00:44:43,860"
+			},
+			"offsets": {
+				"from": 2675380,
+				"to": 2683860
+			},
+			"text": " dream, right? So we try and promote this suite of methods whereby farmers can reduce the need to apply"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:43,860",
+				"to": "00:44:49,700"
+			},
+			"offsets": {
+				"from": 2683860,
+				"to": 2689700
+			},
+			"text": " pesticides. And then when they are applying it, do it in a much smarter way that doesn't harm the insects"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:49,700",
+				"to": "00:44:51,220"
+			},
+			"offsets": {
+				"from": 2689700,
+				"to": 2691220
+			},
+			"text": " that they want to promote on their farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:51,220",
+				"to": "00:45:02,030"
+			},
+			"offsets": {
+				"from": 2691220,
+				"to": 2702030
+			},
+			"text": " And obviously has less environmental impacts or there's less risk of other things going wrong,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,030",
+				"to": "00:45:08,090"
+			},
+			"offsets": {
+				"from": 2702030,
+				"to": 2708090
+			},
+			"text": " too, right? With less pesticide use all around. Is this the program that is the pollinator"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:08,090",
+				"to": "00:45:10,490"
+			},
+			"offsets": {
+				"from": 2708090,
+				"to": 2710490
+			},
+			"text": " conservation program? Is that the same thing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,490",
+				"to": "00:45:12,630"
+			},
+			"offsets": {
+				"from": 2710490,
+				"to": 2712630
+			},
+			"text": " At the Xerci Society?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:12,630",
+				"to": "00:45:19,910"
+			},
+			"offsets": {
+				"from": 2712630,
+				"to": 2719910
+			},
+			"text": " Yeah. So I work for this amazing nonprofit. I respected them before I even started working for"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:19,910",
+				"to": "00:45:26,310"
+			},
+			"offsets": {
+				"from": 2719910,
+				"to": 2726310
+			},
+			"text": " them when I first found out about them and was so excited to get a position. But they have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:26,310",
+				"to": "00:45:32,960"
+			},
+			"offsets": {
+				"from": 2726310,
+				"to": 2732960
+			},
+			"text": " nationwide pollinator program and have really been doing invertebrate conservation before anybody else."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,960",
+				"to": "00:45:37,840"
+			},
+			"offsets": {
+				"from": 2732960,
+				"to": 2737840
+			},
+			"text": " I mean, they're probably the main nonprofit. We are. We're the main nonprofit worldwide"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:38,640",
+				"to": "00:45:42,720"
+			},
+			"offsets": {
+				"from": 2738640,
+				"to": 2742720
+			},
+			"text": " that looks at invertebrate conservation. And if you really think about it, invertebrates are the"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:43,690",
+				"to": "00:45:48,650"
+			},
+			"offsets": {
+				"from": 2743690,
+				"to": 2748650
+			},
+			"text": " center of the food web. They're the most populous species on Earth, right? There's more than a"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:48,650",
+				"to": "00:45:54,330"
+			},
+			"offsets": {
+				"from": 2748650,
+				"to": 2754330
+			},
+			"text": " million beetle species. But they don't get a lot of focus. We tend to focus on the charismatic"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:54,330",
+				"to": "00:46:01,210"
+			},
+			"offsets": {
+				"from": 2754330,
+				"to": 2761210
+			},
+			"text": " megafauna, gorillas and elephants, whereas these are, you know, the foundation of the food web."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:01,210",
+				"to": "00:46:08,130"
+			},
+			"offsets": {
+				"from": 2761210,
+				"to": 2768130
+			},
+			"text": " Um, yeah, we like to think of ourselves as like the Audubon Society of Insects. We do a lot of"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:08,130",
+				"to": "00:46:16,920"
+			},
+			"offsets": {
+				"from": 2768130,
+				"to": 2776920
+			},
+			"text": " supporting research, a lot of habitat work and a lot of policy. So, um, our executive director,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:16,920",
+				"to": "00:46:23,470"
+			},
+			"offsets": {
+				"from": 2776920,
+				"to": 2783470
+			},
+			"text": " Scott Hoffman Black, worked a lot with the Obama administration on the, uh, presidential memorandum,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:23,470",
+				"to": "00:46:31,020"
+			},
+			"offsets": {
+				"from": 2783470,
+				"to": 2791020
+			},
+			"text": " uh, to, uh, for pollinator conservation, which basically guided a lot of agencies like the USDA,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,020",
+				"to": "00:46:37,020"
+			},
+			"offsets": {
+				"from": 2791020,
+				"to": 2797020
+			},
+			"text": " the Forest Service to come up with best management practices for pollinators. Um, and those are being"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:37,020",
+				"to": "00:46:42,620"
+			},
+			"offsets": {
+				"from": 2797020,
+				"to": 2802620
+			},
+			"text": " rolled out. And so a lot of organizations are now starting to think about how pollinators,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:43,010",
+				"to": "00:46:47,510"
+			},
+			"offsets": {
+				"from": 2803010,
+				"to": 2807510
+			},
+			"text": " you know, think about them and their work and, and doing things to conserve them."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:48,540",
+				"to": "00:46:53,540"
+			},
+			"offsets": {
+				"from": 2808540,
+				"to": 2813540
+			},
+			"text": " Yeah, that's cool. I'd never heard that term before, pollinator conservation. So I was"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:53,540",
+				"to": "00:47:00,090"
+			},
+			"offsets": {
+				"from": 2813540,
+				"to": 2820090
+			},
+			"text": " just curious what that meant. So thanks for explaining. Maybe though we can end, um, with"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:00,090",
+				"to": "00:47:07,540"
+			},
+			"offsets": {
+				"from": 2820090,
+				"to": 2827540
+			},
+			"text": " thinking about if you're interested in having more native bees in your home garden or, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:07,540",
+				"to": "00:47:11,780"
+			},
+			"offsets": {
+				"from": 2827540,
+				"to": 2831780
+			},
+			"text": " around your workplace or whatever, whatever, I know everybody has different access to outside"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:11,780",
+				"to": "00:47:15,220"
+			},
+			"offsets": {
+				"from": 2831780,
+				"to": 2835220
+			},
+			"text": " space, but like what, what are the right things to do and what do you look out for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:15,220",
+				"to": "00:47:21,630"
+			},
+			"offsets": {
+				"from": 2835220,
+				"to": 2841630
+			},
+			"text": " Yeah, that's a great question. So in my home, we only had a tiny parking strip between, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:21,630",
+				"to": "00:47:27,630"
+			},
+			"offsets": {
+				"from": 2841630,
+				"to": 2847630
+			},
+			"text": " where we park and the sidewalk. And so we took out the lawn and put in some drought tolerant native"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:27,630",
+				"to": "00:47:33,870"
+			},
+			"offsets": {
+				"from": 2847630,
+				"to": 2853870
+			},
+			"text": " plants and then around those sprinkled wildflower seeds. So trying to make sure to have, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:33,870",
+				"to": "00:47:40,590"
+			},
+			"offsets": {
+				"from": 2853870,
+				"to": 2860590
+			},
+			"text": " as local native plants, uh, native bees as their name tend to focus on native plants because that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:40,590",
+				"to": "00:47:46,830"
+			},
+			"offsets": {
+				"from": 2860590,
+				"to": 2866830
+			},
+			"text": " what they evolved with. They prefer them to ornamental plants. Often a lot of ornamental plants look really"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:46,830",
+				"to": "00:47:52,590"
+			},
+			"offsets": {
+				"from": 2866830,
+				"to": 2872590
+			},
+			"text": " pretty, but don't provide pollen and nectar. And so trying to avoid those, those often the really"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:52,590",
+				"to": "00:47:59,150"
+			},
+			"offsets": {
+				"from": 2872590,
+				"to": 2879150
+			},
+			"text": " ornamental ones are, have been treated with pesticides in some cases, neonicotinoids. And so might actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:59,150",
+				"to": "00:48:05,320"
+			},
+			"offsets": {
+				"from": 2879150,
+				"to": 2885320
+			},
+			"text": " be little ecological traps for the bees when you put them out. Um, and then if you're trying to support"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:05,320",
+				"to": "00:48:10,680"
+			},
+			"offsets": {
+				"from": 2885320,
+				"to": 2890680
+			},
+			"text": " nesting, a lot of people love mulching to get rid of weeds. And I think that that's a great way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:10,680",
+				"to": "00:48:16,600"
+			},
+			"offsets": {
+				"from": 2890680,
+				"to": 2896600
+			},
+			"text": " but trying to leave little patches of well-drained bare soil for bees to nest in will help promote"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:16,600",
+				"to": "00:48:22,660"
+			},
+			"offsets": {
+				"from": 2896600,
+				"to": 2902660
+			},
+			"text": " them. Um, and then you can do this throughout the garden. Uh, having it be in a sunny place would"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:22,660",
+				"to": "00:48:29,090"
+			},
+			"offsets": {
+				"from": 2902660,
+				"to": 2909090
+			},
+			"text": " be better than a shady place. Um, yeah, those are the main things, you know, go to your local nursery,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:29,090",
+				"to": "00:48:35,360"
+			},
+			"offsets": {
+				"from": 2909090,
+				"to": 2915360
+			},
+			"text": " native plant nursery and, you know, buy them. And then how can I notice if there are native bees"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:35,360",
+				"to": "00:48:43,420"
+			},
+			"offsets": {
+				"from": 2915360,
+				"to": 2923420
+			},
+			"text": " in my garden? That is a great question. So a lot of people think that they're wasps or flies,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:43,420",
+				"to": "00:48:51,610"
+			},
+			"offsets": {
+				"from": 2923420,
+				"to": 2931610
+			},
+			"text": " some of them are really tiny, but bees tend to be a little hairy. You can often see them collecting"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:51,610",
+				"to": "00:48:59,500"
+			},
+			"offsets": {
+				"from": 2931610,
+				"to": 2939500
+			},
+			"text": " pollen. Um, you know, you can go to some websites like the XercesSociety.org and look at pictures"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:59,500",
+				"to": "00:49:08,520"
+			},
+			"offsets": {
+				"from": 2939500,
+				"to": 2948520
+			},
+			"text": " or, um, oh my goodness, Sam Droege of USGS has this amazing Flickr page online that has just"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:08,520",
+				"to": "00:49:13,640"
+			},
+			"offsets": {
+				"from": 2948520,
+				"to": 2953640
+			},
+			"text": " all these pictures of native bees. If you're interested in seeing their amazing diversity, you can go there"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:13,640",
+				"to": "00:49:19,320"
+			},
+			"offsets": {
+				"from": 2953640,
+				"to": 2959320
+			},
+			"text": " and, um, check out what they look like and try and see if they're there. But I think just getting up"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:19,320",
+				"to": "00:49:26,630"
+			},
+			"offsets": {
+				"from": 2959320,
+				"to": 2966630
+			},
+			"text": " close and remembering most native bees won't sting you. They're, they're not defending a hive. They're"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:26,630",
+				"to": "00:49:32,150"
+			},
+			"offsets": {
+				"from": 2966630,
+				"to": 2972150
+			},
+			"text": " the ones reproducing and a stinger is actually a modified ovipositor. And so they don't want to,"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:32,890",
+				"to": "00:49:39,830"
+			},
+			"offsets": {
+				"from": 2972890,
+				"to": 2979830
+			},
+			"text": " you know, tussle with you. And, and if they do sting you often, the toxins in their, um, venom are"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:39,830",
+				"to": "00:49:45,630"
+			},
+			"offsets": {
+				"from": 2979830,
+				"to": 2985630
+			},
+			"text": " slightly different than honeybees. So I, for example, I'm allergic to honeybees, but I've"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:45,630",
+				"to": "00:49:51,310"
+			},
+			"offsets": {
+				"from": 2985630,
+				"to": 2991310
+			},
+			"text": " been stung by a number of native bees and haven't had an issue. Although if you are allergic to, you"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:51,310",
+				"to": "00:49:55,150"
+			},
+			"offsets": {
+				"from": 2991310,
+				"to": 2995150
+			},
+			"text": " bees, make sure you have your epi pen and go to a hospital, but, but for the most part, native"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:55,150",
+				"to": "00:49:58,110"
+			},
+			"offsets": {
+				"from": 2995150,
+				"to": 2998110
+			},
+			"text": " bees won't sting."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:58,110",
+				"to": "00:50:00,940"
+			},
+			"offsets": {
+				"from": 2998110,
+				"to": 3000940
+			},
+			"text": " I'm going to send it there. Thanks, Hillary. Chelsea."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:13,440",
+				"to": "00:50:18,480"
+			},
+			"offsets": {
+				"from": 3013440,
+				"to": 3018480
+			},
+			"text": " Revolution is brought to you by us, by me and Chelsea, specifically by our consulting business."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:18,720",
+				"to": "00:50:23,600"
+			},
+			"offsets": {
+				"from": 3018720,
+				"to": 3023600
+			},
+			"text": " We provide participatory research, communications, and creative work to organizations that are building"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:23,600",
+				"to": "00:50:27,150"
+			},
+			"offsets": {
+				"from": 3023600,
+				"to": 3027150
+			},
+			"text": " food movements. What's your food movement? Let us know and get in touch."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:28,430",
+				"to": "00:50:36,840"
+			},
+			"offsets": {
+				"from": 3028430,
+				"to": 3036840
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place produced by Devin Sampson and me, Chelsea"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:36,840",
+				"to": "00:50:43,110"
+			},
+			"offsets": {
+				"from": 3036840,
+				"to": 3043110
+			},
+			"text": " Wills. You can subscribe to Delicious Revolution on iTunes or your favorite podcast app. If you"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:43,110",
+				"to": "00:50:51,490"
+			},
+			"offsets": {
+				"from": 3043110,
+				"to": 3051490
+			},
+			"text": " have a food story of your own, we'd love to hear it. Call 510-859-7430 and leave us a message. Of"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:51,490",
+				"to": "00:50:55,570"
+			},
+			"offsets": {
+				"from": 3051490,
+				"to": 3055570
+			},
+			"text": " course, you can get in touch with us in lots of different ways. And they are all on the website,"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:55,570",
+				"to": "00:51:02,410"
+			},
+			"offsets": {
+				"from": 3055570,
+				"to": 3062410
+			},
+			"text": " deliciousrevolutionshow.com. If you like Delicious Revolution and want to help our show reach more"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:02,410",
+				"to": "00:51:07,610"
+			},
+			"offsets": {
+				"from": 3062410,
+				"to": 3067610
+			},
+			"text": " people, please leave us a review on iTunes and send out a link on your favorite social network."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:07,610",
+				"to": "00:51:08,960"
+			},
+			"offsets": {
+				"from": 3067610,
+				"to": 3068960
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

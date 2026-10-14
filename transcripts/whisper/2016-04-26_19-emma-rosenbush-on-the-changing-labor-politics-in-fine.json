@@ -1,0 +1,3816 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:07,010",
+				"to": "00:00:39,310"
+			},
+			"offsets": {
+				"from": 7010,
+				"to": 39310
+			},
+			"text": " We get to the place where we need to start hiring people and there's also happens to be a hiring crunch in San Francisco because a lot of people who work in the service industry can't afford to live in the city anymore and take these jobs so you have a shortage particularly of cooks and then you also have this whole population of people who can't get work want to work are capable workers but they can't get work why because they have a record I mean it's just it's so dumb like it just it's it's we're we're missing out on this whole"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,330",
+				"to": "00:01:10,120"
+			},
+			"offsets": {
+				"from": 39330,
+				"to": 70120
+			},
+			"text": " group of capable individuals of our fellow humans and we didn't want to open with this gimmick of you know who are a restaurant that hires people with conviction histories we just wanted to provide really good food and really good service and hey this just happens to be our hiring practice after a few months we started to come out with a little bit more you know we said it was okay to say that when the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,120",
+				"to": "00:01:33,260"
+			},
+			"offsets": {
+				"from": 70120,
+				"to": 93260
+			},
+			"text": " the San Francisco Chronicle reviewed us because the flip side to not talking about it is nobody knowing how important this is and I want I want this to be a successful option because not only could this be what other restaurants do but this is this should be what other businesses do and how we look to hire to just be open to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,260",
+				"to": "00:01:48,360"
+			},
+			"offsets": {
+				"from": 93260,
+				"to": 108360
+			},
+			"text": " Welcome to delicious revolution a show about food culture and place I'm Chelsea Wills and I'm Devin Samson we talk with people who work"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,360",
+				"to": "00:02:00,760"
+			},
+			"offsets": {
+				"from": 108360,
+				"to": 120760
+			},
+			"text": " work in and think about all aspects of food including farmers chefs artists and activists on the second season we bring you in-depth conversations with some amazing people who work with food in incredible ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,760",
+				"to": "00:02:14,180"
+			},
+			"offsets": {
+				"from": 120760,
+				"to": 134180
+			},
+			"text": " You can subscribe to delicious revolution on iTunes or your favorite podcast app just search for delicious revolution and you'll find us our website is deliciousrevolutionshow.com where we have pictures links and more information about all the people on our show."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,180",
+				"to": "00:02:40,720"
+			},
+			"offsets": {
+				"from": 134180,
+				"to": 160720
+			},
+			"text": " deliciousrevolutionshow.com if you have a food story of your own we'd love to hear it call 510-859-7430 and leave us a message delicious revolution is brought to you by satori travel if you're a traveler and especially if you're thinking about going to Mexico or Japan you've got to check it out they offer unique guidebooks custom tailored trips and a concierge service for planning your next great adventure find out more at satori satori.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,720",
+				"to": "00:02:57,880"
+			},
+			"offsets": {
+				"from": 160720,
+				"to": 177880
+			},
+			"text": " i'm here with emma rosenbush today and we're going to be talking about her work with food and with labor and um her current work at cala in san francisco a restaurant that she just recently opened with gabriella camera."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,880",
+				"to": "00:03:28,070"
+			},
+			"offsets": {
+				"from": 177880,
+				"to": 208070
+			},
+			"text": " hello hi thanks so how'd you start working with food so i started as i feel most teenagers do um i started working in restaurants as a server and a barista um when i was 15 and i continued to work in restaurants into my early 20s um always you know summer jobs or jobs to support school"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,070",
+				"to": "00:03:57,230"
+			},
+			"offsets": {
+				"from": 208070,
+				"to": 237230
+			},
+			"text": " um and um i really took a left turn i feel into food when i moved to mexico city and started this project pichon with two friends what how did that happen i know so random so i had been working for a law firm um which i'm sure we'll get to later but i was always really so i grew up in new york"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,230",
+				"to": "00:04:13,480"
+			},
+			"offsets": {
+				"from": 237230,
+				"to": 253480
+			},
+			"text": " and i wasn't i didn't grow up in like a farmer's market family um my mom worked full-time and then was at school at night so a lot of my meals were out of a box or bokeh burgers or cereal"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,480",
+				"to": "00:04:37,050"
+			},
+			"offsets": {
+				"from": 253480,
+				"to": 277050
+			},
+			"text": " and when i moved to california for school when i was 18 i discovered the california farmer's market and it just blew my mind and it honestly seems cliche i read uh the art of simple food taught myself to cook from that book when i was 18 living in my first house or i guess by then i was 20"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,050",
+				"to": "00:04:49,570"
+			},
+			"offsets": {
+				"from": 277050,
+				"to": 289570
+			},
+			"text": " out of school and um i just loved the farmers markets and when i got a job out of school i was working in the office"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,570",
+				"to": "00:04:56,950"
+			},
+			"offsets": {
+				"from": 289570,
+				"to": 296950
+			},
+			"text": " i had these fantasies of outdoor working and living and when i eventually quit the law firm"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,010",
+				"to": "00:05:04,730"
+			},
+			"offsets": {
+				"from": 298010,
+				"to": 304730
+			},
+			"text": " um with intentions to travel i had a job i started to work for farmers in the bay in san francisco"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,610",
+				"to": "00:05:14,140"
+			},
+			"offsets": {
+				"from": 305610,
+				"to": 314140
+			},
+			"text": " um and actually in the east bay at the time and it was my way of eating the way that i wanted to"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,940",
+				"to": "00:05:22,070"
+			},
+			"offsets": {
+				"from": 314940,
+				"to": 322070
+			},
+			"text": " to afford to eat the way i wanted to um you know the whole farmers markets have such a trade economy"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,070",
+				"to": "00:05:27,680"
+			},
+			"offsets": {
+				"from": 322070,
+				"to": 327680
+			},
+			"text": " that i could eat you know i could work and even though the pay wasn't great you would leave with"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,680",
+				"to": "00:05:34,690"
+			},
+			"offsets": {
+				"from": 327680,
+				"to": 334690
+			},
+			"text": " groceries for a week so when i started to travel i had saved up money for a few years of working"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,690",
+				"to": "00:05:42,310"
+			},
+			"offsets": {
+				"from": 334690,
+				"to": 342310
+			},
+			"text": " and i went down to mexico with the intention to travel and not end up moving there the way i did but"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,310",
+				"to": "00:05:50,570"
+			},
+			"offsets": {
+				"from": 342310,
+				"to": 350570
+			},
+			"text": " i discovered the of course the markets in mexico city but what really excited me was the farms in"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,570",
+				"to": "00:05:57,210"
+			},
+			"offsets": {
+				"from": 350570,
+				"to": 357210
+			},
+			"text": " the south of mexico city in xochimilco called las chinampas and there to discover that there was"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,210",
+				"to": "00:06:05,630"
+			},
+			"offsets": {
+				"from": 357210,
+				"to": 365630
+			},
+			"text": " all of this organic local produce growing in mexico city but it there wasn't that same you know coming from"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,370",
+				"to": "00:06:12,520"
+			},
+			"offsets": {
+				"from": 366370,
+				"to": 372520
+			},
+			"text": " coming from the bay area where every menu describes you know every farmer's name that it is selling"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,520",
+				"to": "00:06:18,940"
+			},
+			"offsets": {
+				"from": 372520,
+				"to": 378940
+			},
+			"text": " its dandelion greens from there was just such a different interface with food and and agriculture"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,940",
+				"to": "00:06:28,260"
+			},
+			"offsets": {
+				"from": 378940,
+				"to": 388260
+			},
+			"text": " in that city um and the sort of just to have learned about that there was this local food being grown in"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,260",
+				"to": "00:06:35,380"
+			},
+			"offsets": {
+				"from": 388260,
+				"to": 395380
+			},
+			"text": " the city but not such an outlet for it outside of the sushimilco farmers market or market where"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,970",
+				"to": "00:06:49,290"
+			},
+			"offsets": {
+				"from": 395970,
+				"to": 409290
+			},
+			"text": " locals go um sort of spurred the next move so pichon came out of that and what was pichon or it still"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,290",
+				"to": "00:06:56,810"
+			},
+			"offsets": {
+				"from": 409290,
+				"to": 416810
+			},
+			"text": " exists right it still exists um it's gone through different iterations but nikki nakazawa is running it"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,810",
+				"to": "00:07:07,410"
+			},
+			"offsets": {
+				"from": 416810,
+				"to": 427410
+			},
+			"text": " currently and um it started as an idea to serve brunch like an american style brunch which was really lacking in"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,410",
+				"to": "00:07:18,890"
+			},
+			"offsets": {
+				"from": 427410,
+				"to": 438890
+			},
+			"text": " in the city um and this is in 2010 and it also was this venue for this local food production that was"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,890",
+				"to": "00:07:26,520"
+			},
+			"offsets": {
+				"from": 438890,
+				"to": 446520
+			},
+			"text": " happening in the chinampas and eventually led us throughout the state of mexico through a market"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,520",
+				"to": "00:07:32,760"
+			},
+			"offsets": {
+				"from": 446520,
+				"to": 452760
+			},
+			"text": " in the city called mercado del cien which was funny enough originally organized in part by gabriella"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,760",
+				"to": "00:07:42,220"
+			},
+			"offsets": {
+				"from": 452760,
+				"to": 462220
+			},
+			"text": " comoda who i work with now um but through this market and i don't know one door opened you know the next"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,220",
+				"to": "00:07:50,450"
+			},
+			"offsets": {
+				"from": 462220,
+				"to": 470450
+			},
+			"text": " door opened there was this energy in the city then that things were happening like young people were"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,450",
+				"to": "00:07:58,620"
+			},
+			"offsets": {
+				"from": 470450,
+				"to": 478620
+			},
+			"text": " making things happen and i'm sure that's still the case but i was so taken by it and you know i met nikki"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,620",
+				"to": "00:08:07,100"
+			},
+			"offsets": {
+				"from": 478620,
+				"to": 487100
+			},
+			"text": " down there we had actually met previously some six years before that and um but not well and this just"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,100",
+				"to": "00:08:13,740"
+			},
+			"offsets": {
+				"from": 487100,
+				"to": 493740
+			},
+			"text": " idea came about of we should do this we should try it and we had an original larger group we had an"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,740",
+				"to": "00:08:20,700"
+			},
+			"offsets": {
+				"from": 493740,
+				"to": 500700
+			},
+			"text": " architect we had mexican partners who were doing the finances and we found kenny who was going to be our"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,700",
+				"to": "00:08:27,230"
+			},
+			"offsets": {
+				"from": 500700,
+				"to": 507230
+			},
+			"text": " chef and we put this whole team together and we really tried to open a brick and mortar spot for"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,790",
+				"to": "00:08:34,180"
+			},
+			"offsets": {
+				"from": 507790,
+				"to": 514180
+			},
+			"text": " about nine months until it just became apparent it just it wasn't going to work there was so much"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,180",
+				"to": "00:08:43,010"
+			},
+			"offsets": {
+				"from": 514180,
+				"to": 523010
+			},
+			"text": " sort of red tape in the city and a lot of risk particularly as foreigners that we ended up um"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,010",
+				"to": "00:08:49,880"
+			},
+			"offsets": {
+				"from": 523010,
+				"to": 529880
+			},
+			"text": " doing it pop-up style and we rented we lived uh we also nikki and i also lived together and we lived"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,440",
+				"to": "00:08:58,850"
+			},
+			"offsets": {
+				"from": 530440,
+				"to": 538850
+			},
+			"text": " around the block or two blocks from what was it las tres marias marias lindas this fonda that opened"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,850",
+				"to": "00:09:03,760"
+			},
+			"offsets": {
+				"from": 538850,
+				"to": 543760
+			},
+			"text": " money through friday and um so they were closed on the weekend then we got to know the family we went"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,760",
+				"to": "00:09:10,850"
+			},
+			"offsets": {
+				"from": 543760,
+				"to": 550850
+			},
+			"text": " there for lunch and we started renting we decided we made this agreement with them where we could rent"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,850",
+				"to": "00:09:17,040"
+			},
+			"offsets": {
+				"from": 550850,
+				"to": 557040
+			},
+			"text": " their fonda on saturday and sunday to do our pichon to do our brunch and we actually didn't even do it"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,040",
+				"to": "00:09:23,360"
+			},
+			"offsets": {
+				"from": 557040,
+				"to": 563360
+			},
+			"text": " there for very long because we were fortunate to have these young architect and designers show up to"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,360",
+				"to": "00:09:33,800"
+			},
+			"offsets": {
+				"from": 563360,
+				"to": 573800
+			},
+			"text": " one of the early pop-ups and offer us to come work in their space which was cafe zena um and that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,800",
+				"to": "00:09:39,190"
+			},
+			"offsets": {
+				"from": 573800,
+				"to": 579190
+			},
+			"text": " sort of how it all started it when we discovered after the nine months of trying to make this work"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,190",
+				"to": "00:09:44,630"
+			},
+			"offsets": {
+				"from": 579190,
+				"to": 584630
+			},
+			"text": " we kind of trimmed down and it we sort of the group dissolved and it was just myself kenny and nikki"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,110",
+				"to": "00:09:52,360"
+			},
+			"offsets": {
+				"from": 585110,
+				"to": 592360
+			},
+			"text": " and um we had another like dear dear friend pj roundtree who is an artist still in mexico city"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,170",
+				"to": "00:10:02,530"
+			},
+			"offsets": {
+				"from": 593170,
+				"to": 602530
+			},
+			"text": " um he was with kenny at the time and he was our fourth peachone and so how often did you do brunch we"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,530",
+				"to": "00:10:15,690"
+			},
+			"offsets": {
+				"from": 602530,
+				"to": 615690
+			},
+			"text": " started it um doing it every few weeks and eventually we were doing it every week um so it was it was really"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,690",
+				"to": "00:10:23,170"
+			},
+			"offsets": {
+				"from": 615690,
+				"to": 623170
+			},
+			"text": " fun it was this really like interesting way to work where we had sort of a whole week to get it together and"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,170",
+				"to": "00:10:30,930"
+			},
+			"offsets": {
+				"from": 623170,
+				"to": 630930
+			},
+			"text": " we all worked other jobs um and then we would put on this production on sundays but it ultimately was a"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,930",
+				"to": "00:10:35,730"
+			},
+			"offsets": {
+				"from": 630930,
+				"to": 635730
+			},
+			"text": " really difficult model you know to have a pop-up and now to be working in a functioning restaurant"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,730",
+				"to": "00:10:40,930"
+			},
+			"offsets": {
+				"from": 635730,
+				"to": 640930
+			},
+			"text": " i understand better why it's so difficult you know so much of it being waste it was like we were either"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,570",
+				"to": "00:10:49,700"
+			},
+			"offsets": {
+				"from": 641570,
+				"to": 649700
+			},
+			"text": " we were either over purchasing and then we'd have all this waste that we couldn't keep to the following week"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,700",
+				"to": "00:10:55,060"
+			},
+			"offsets": {
+				"from": 649700,
+				"to": 655060
+			},
+			"text": " or we would you know because we were would fear that we would underbuy and then there's nothing worse"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,060",
+				"to": "00:10:59,610"
+			},
+			"offsets": {
+				"from": 655060,
+				"to": 659610
+			},
+			"text": " than having been running out of all your food when you still could do more hours of business that"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,610",
+				"to": "00:11:08,350"
+			},
+			"offsets": {
+				"from": 659610,
+				"to": 668350
+			},
+			"text": " doesn't look good and also it's just a bad business move so we learned a lot but the beauty in it"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,350",
+				"to": "00:11:14,930"
+			},
+			"offsets": {
+				"from": 668350,
+				"to": 674930
+			},
+			"text": " because it wasn't this money-making you know enterprise it really was an experiment and i think"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,930",
+				"to": "00:11:22,650"
+			},
+			"offsets": {
+				"from": 674930,
+				"to": 682650
+			},
+			"text": " we all learned so much from it you know about about food about people about sourcing that was you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,650",
+				"to": "00:11:28,010"
+			},
+			"offsets": {
+				"from": 682650,
+				"to": 688010
+			},
+			"text": " i would say the most exciting thing about peachone is the relationships we made with these different"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,010",
+				"to": "00:11:35,750"
+			},
+			"offsets": {
+				"from": 688010,
+				"to": 695750
+			},
+			"text": " farmers and we would find you know so and so growing this one thing and we really made the menus"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,750",
+				"to": "00:11:43,460"
+			},
+			"offsets": {
+				"from": 695750,
+				"to": 703460
+			},
+			"text": " around what we had available in a way that i think we could because we didn't have the constraints of"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,460",
+				"to": "00:11:50,890"
+			},
+			"offsets": {
+				"from": 703460,
+				"to": 710890
+			},
+			"text": " the everyday business and so i didn't really understand this part about you guys having other"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,890",
+				"to": "00:11:59,470"
+			},
+			"offsets": {
+				"from": 710890,
+				"to": 719470
+			},
+			"text": " jobs at the same time but that sort of makes sense for this broader story um what was yours and did was"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,470",
+				"to": "00:12:08,570"
+			},
+			"offsets": {
+				"from": 719470,
+				"to": 728570
+			},
+			"text": " is it related to the other work you did as with as an advocate no oh my god i hustled many weird"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,570",
+				"to": "00:12:15,670"
+			},
+			"offsets": {
+				"from": 728570,
+				"to": 735670
+			},
+			"text": " jobs in mexico city i taught english i like had many different english teaching jobs where i would"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,670",
+				"to": "00:12:20,790"
+			},
+			"offsets": {
+				"from": 735670,
+				"to": 740790
+			},
+			"text": " i i think i only worked at this one place for a few weeks because it was awful teaching english to"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,790",
+				"to": "00:12:30,050"
+			},
+			"offsets": {
+				"from": 740790,
+				"to": 750050
+			},
+			"text": " business men at 6 a.m in mexico i had like another two two t that i worked with a few times a week um i did"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,050",
+				"to": "00:12:38,390"
+			},
+			"offsets": {
+				"from": 750050,
+				"to": 758390
+			},
+			"text": " a lot of translation work and editing work so i worked with um i worked for pedro reyes and helped him on"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,390",
+				"to": "00:12:49,570"
+			},
+			"offsets": {
+				"from": 758390,
+				"to": 769570
+			},
+			"text": " his projects i worked with this dear friend jorge who he runs so many like culturally important"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,570",
+				"to": "00:12:54,570"
+			},
+			"offsets": {
+				"from": 769570,
+				"to": 774570
+			},
+			"text": " projects in the state i don't even know how to describe what he does but i would do different projects for"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,570",
+				"to": "00:13:04,840"
+			},
+			"offsets": {
+				"from": 774570,
+				"to": 784840
+			},
+			"text": " him or help do transcribing of tapes um i also had an editing job that i got working it was based in"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,840",
+				"to": "00:13:12,210"
+			},
+			"offsets": {
+				"from": 784840,
+				"to": 792210
+			},
+			"text": " the actually out of brazil but they had different printed this publication it was actually this"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,210",
+				"to": "00:13:17,970"
+			},
+			"offsets": {
+				"from": 792210,
+				"to": 797970
+			},
+			"text": " publication about petrochemicals that was twice a month that was really my bread and butter um but very"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,970",
+				"to": "00:13:27,170"
+			},
+			"offsets": {
+				"from": 797970,
+				"to": 807170
+			},
+			"text": " odd mashing things together um and still like not making any money but that was also the beauty of"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,170",
+				"to": "00:13:35,000"
+			},
+			"offsets": {
+				"from": 807170,
+				"to": 815000
+			},
+			"text": " living there is that you could live and eat well by you know without without too much to live on"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,000",
+				"to": "00:13:42,170"
+			},
+			"offsets": {
+				"from": 815000,
+				"to": 822170
+			},
+			"text": " because you could just buy fresh vegetables and fruit but then you decided to come back to california"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,170",
+				"to": "00:13:51,570"
+			},
+			"offsets": {
+				"from": 822170,
+				"to": 831570
+			},
+			"text": " i did i did i had a lot of health problems the whole time i lived there unfortunately and um i fell in"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,570",
+				"to": "00:14:00,250"
+			},
+			"offsets": {
+				"from": 831570,
+				"to": 840250
+			},
+			"text": " love with somebody that was living in sonoma when i was down there and i started to think about sort of"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,250",
+				"to": "00:14:07,210"
+			},
+			"offsets": {
+				"from": 840250,
+				"to": 847210
+			},
+			"text": " where i you know these these seeds that we had been planting i it was becoming apparent we were getting"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,210",
+				"to": "00:14:12,460"
+			},
+			"offsets": {
+				"from": 847210,
+				"to": 852460
+			},
+			"text": " to this place where it was working and it was going to take this commitment and investment to grow it"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,460",
+				"to": "00:14:21,340"
+			},
+			"offsets": {
+				"from": 852460,
+				"to": 861340
+			},
+			"text": " further and i started to have doubts about not doing that in my own land and i really felt like um i missed"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,340",
+				"to": "00:14:28,860"
+			},
+			"offsets": {
+				"from": 861340,
+				"to": 868860
+			},
+			"text": " my land in my bones i had never experienced that before i mean i never lived outside of um my country for"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,860",
+				"to": "00:14:37,660"
+			},
+			"offsets": {
+				"from": 868860,
+				"to": 877660
+			},
+			"text": " that long before but it was i was yeah it was a really hard decision because we had spent so much time"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,210",
+				"to": "00:14:45,530"
+			},
+			"offsets": {
+				"from": 879210,
+				"to": 885530
+			},
+			"text": " getting peachone to where it was and where it we thought it could go and and i loved you know my"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:45,530",
+				"to": "00:14:53,380"
+			},
+			"offsets": {
+				"from": 885530,
+				"to": 893380
+			},
+			"text": " partners they were also my best friends there so it was difficult but but it became you know just i just"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,380",
+				"to": "00:15:02,990"
+			},
+			"offsets": {
+				"from": 893380,
+				"to": 902990
+			},
+			"text": " had to do it it was it was it was my next move and and then oddly or serendipitously gabriella camera who"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,790",
+				"to": "00:15:13,950"
+			},
+			"offsets": {
+				"from": 903790,
+				"to": 913950
+			},
+			"text": " she had she has contra mar and um a handful of restaurants in mexico city she i had met her previously"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,570",
+				"to": "00:15:20,740"
+			},
+			"offsets": {
+				"from": 914570,
+				"to": 920740
+			},
+			"text": " um of course because if you were into food and restaurants in mexico you know all about her and"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,740",
+				"to": "00:15:26,890"
+			},
+			"offsets": {
+				"from": 920740,
+				"to": 926890
+			},
+			"text": " her restaurants because they're pretty amazing and i had learned that she was going to open a restaurant"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,890",
+				"to": "00:15:31,800"
+			},
+			"offsets": {
+				"from": 926890,
+				"to": 931800
+			},
+			"text": " in new york and had they had changed their minds and they were going to open in san francisco"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,670",
+				"to": "00:15:40,400"
+			},
+			"offsets": {
+				"from": 932670,
+				"to": 940400
+			},
+			"text": " um and i got in touch and we had this meeting when i was still in mexico and it was this really like the"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:40,400",
+				"to": "00:15:48,420"
+			},
+			"offsets": {
+				"from": 940400,
+				"to": 948420
+			},
+			"text": " stars aligned and we connected and they were still going to be in mexico for a while and so i was going"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,420",
+				"to": "00:15:54,140"
+			},
+			"offsets": {
+				"from": 948420,
+				"to": 954140
+			},
+			"text": " to go and i could start looking for a place and kind of help in different ways so the job was sort of"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,140",
+				"to": "00:16:00,980"
+			},
+			"offsets": {
+				"from": 954140,
+				"to": 960980
+			},
+			"text": " unclear at the beginning you know i was sort of this all-around assistant um but thinking i would be working in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,980",
+				"to": "00:16:09,900"
+			},
+			"offsets": {
+				"from": 960980,
+				"to": 969900
+			},
+			"text": " restaurant and it started to clarify with time and what did it turn into and it turned into"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,750",
+				"to": "00:16:19,540"
+			},
+			"offsets": {
+				"from": 970750,
+				"to": 979540
+			},
+			"text": " call a restaurant um my position turned into the general manager and her partner which was really"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,000",
+				"to": "00:16:28,960"
+			},
+			"offsets": {
+				"from": 980000,
+				"to": 988960
+			},
+			"text": " miraculous and wonderful um and it was a really long labor of love and other things it took us about two"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,960",
+				"to": "00:16:37,160"
+			},
+			"offsets": {
+				"from": 988960,
+				"to": 997160
+			},
+			"text": " and a half years from start to finish just because we in finding the space in negotiating the lease"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,160",
+				"to": "00:16:44,630"
+			},
+			"offsets": {
+				"from": 997160,
+				"to": 1004630
+			},
+			"text": " and doing the build out that was a real stressor there to build a restaurant from scratch was sort of like"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,630",
+				"to": "00:16:51,550"
+			},
+			"offsets": {
+				"from": 1004630,
+				"to": 1011550
+			},
+			"text": " hell but an amazing experience you know and and i'm one that i'm so grateful for because i knew"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,550",
+				"to": "00:16:59,730"
+			},
+			"offsets": {
+				"from": 1011550,
+				"to": 1019730
+			},
+			"text": " fucking nothing of what i was doing so to have somebody you know support me both emotionally but"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,730",
+				"to": "00:17:06,740"
+			},
+			"offsets": {
+				"from": 1019730,
+				"to": 1026740
+			},
+			"text": " financially you know to get paid to help figure this out and really figure it out and do it i feel like"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,740",
+				"to": "00:17:16,540"
+			},
+			"offsets": {
+				"from": 1026740,
+				"to": 1036540
+			},
+			"text": " i went to grad school for restaurant you know starting um but but also difficult and i think you know difficult"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,540",
+				"to": "00:17:24,600"
+			},
+			"offsets": {
+				"from": 1036540,
+				"to": 1044600
+			},
+			"text": " for her because she had started a restaurant when she was 23 it had been some years since she was at this"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,340",
+				"to": "00:17:33,110"
+			},
+			"offsets": {
+				"from": 1045340,
+				"to": 1053110
+			},
+			"text": " start one point and in mexico she has this really established team and we were forming that here so"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,110",
+				"to": "00:17:41,960"
+			},
+			"offsets": {
+				"from": 1053110,
+				"to": 1061960
+			},
+			"text": " it was really working with a rookie um which made the process just hard well so let's let's back up a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,960",
+				"to": "00:17:48,860"
+			},
+			"offsets": {
+				"from": 1061960,
+				"to": 1068860
+			},
+			"text": " bit and talk about maybe what you studied in college and um you're like prison advocacy work and then"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,860",
+				"to": "00:17:57,980"
+			},
+			"offsets": {
+				"from": 1068860,
+				"to": 1077980
+			},
+			"text": " let's jump back and talk about forming a team and what that looks like yeah so i i studied um sociology"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,980",
+				"to": "00:18:04,940"
+			},
+			"offsets": {
+				"from": 1077980,
+				"to": 1084940
+			},
+			"text": " in school and i went to one of the claremont colleges in southern california i went to pitzer college"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:04,940",
+				"to": "00:18:11,130"
+			},
+			"offsets": {
+				"from": 1084940,
+				"to": 1091130
+			},
+			"text": " which had this pretty outstanding social responsibility requirement to it um and the"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,130",
+				"to": "00:18:17,120"
+			},
+			"offsets": {
+				"from": 1091130,
+				"to": 1097120
+			},
+			"text": " sociology department there was just amazing and a lot of the work like a lot of the classwork was"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,120",
+				"to": "00:18:24,220"
+			},
+			"offsets": {
+				"from": 1097120,
+				"to": 1104220
+			},
+			"text": " outside of the classroom so i was exposed to the juvenile hall that was in laverne california"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,220",
+				"to": "00:18:33,570"
+			},
+			"offsets": {
+				"from": 1104220,
+				"to": 1113570
+			},
+			"text": " and i started working at the juvenile hall teaching writing and poetry and i got a summer job there"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,570",
+				"to": "00:18:39,370"
+			},
+			"offsets": {
+				"from": 1113570,
+				"to": 1119370
+			},
+			"text": " leading this course called borrowed voices and it was just sort of my like foray into this world that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,370",
+				"to": "00:18:49,810"
+			},
+			"offsets": {
+				"from": 1119370,
+				"to": 1129810
+			},
+			"text": " i had had no previous experience with and um my research like for my thesis work was around this um"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,810",
+				"to": "00:18:56,700"
+			},
+			"offsets": {
+				"from": 1129810,
+				"to": 1136700
+			},
+			"text": " i worked in a tattoo removal clinic like there was this interface of gang sort of work of people"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,700",
+				"to": "00:19:04,630"
+			},
+			"offsets": {
+				"from": 1136700,
+				"to": 1144630
+			},
+			"text": " getting out of gangs happening in los angeles and juveniles and prisoners and art and everything kind"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,630",
+				"to": "00:19:11,990"
+			},
+			"offsets": {
+				"from": 1144630,
+				"to": 1151990
+			},
+			"text": " together and when i graduated i got a job working for the prison law office up in berkeley which was a"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,990",
+				"to": "00:19:20,280"
+			},
+			"offsets": {
+				"from": 1151990,
+				"to": 1160280
+			},
+			"text": " prisoner advocacy job working as a paralegal for really the firm that's responsible for pretty much"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,280",
+				"to": "00:19:26,360"
+			},
+			"offsets": {
+				"from": 1160280,
+				"to": 1166360
+			},
+			"text": " the majority of prison reform that's taken place in the state of california really fueled by this law firm"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,360",
+				"to": "00:19:35,240"
+			},
+			"offsets": {
+				"from": 1166360,
+				"to": 1175240
+			},
+			"text": " so it's a small firm uh run by donald specter but it's just a bunch of badass attorneys and working"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,240",
+				"to": "00:19:43,330"
+			},
+			"offsets": {
+				"from": 1175240,
+				"to": 1183330
+			},
+			"text": " for them was i mean it was so shocking and difficult i remember you know moving up here moving up to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,330",
+				"to": "00:19:50,270"
+			},
+			"offsets": {
+				"from": 1183330,
+				"to": 1190270
+			},
+			"text": " bay and or one of my first days we just you get mail as a paralegal you deal with the mail which is how"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,270",
+				"to": "00:19:57,590"
+			},
+			"offsets": {
+				"from": 1190270,
+				"to": 1197590
+			},
+			"text": " most of the correspondence is and they represent all state prisoners in california who have medical issues"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,590",
+				"to": "00:20:04,090"
+			},
+			"offsets": {
+				"from": 1197590,
+				"to": 1204090
+			},
+			"text": " and disability issues and mental health issues um through these class action cases that they have"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,090",
+				"to": "00:20:12,690"
+			},
+			"offsets": {
+				"from": 1204090,
+				"to": 1212690
+			},
+			"text": " won and continue to monitor so i would get mail from strangers from prisoners you know who were"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,700",
+				"to": "00:20:23,120"
+			},
+			"offsets": {
+				"from": 1213700,
+				"to": 1223120
+			},
+			"text": " hiv positive and housed in wasco state prison which is in the valley fever region and is illegal because"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,120",
+				"to": "00:20:28,400"
+			},
+			"offsets": {
+				"from": 1223120,
+				"to": 1228400
+			},
+			"text": " you have a suppressed immune system and you can't you know be housed there technically so they would"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,400",
+				"to": "00:20:34,030"
+			},
+			"offsets": {
+				"from": 1228400,
+				"to": 1234030
+			},
+			"text": " reach out to the prison law office paralegals would read it sort through the mail we would you know had a"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,030",
+				"to": "00:20:42,530"
+			},
+			"offsets": {
+				"from": 1234030,
+				"to": 1242530
+			},
+			"text": " whole system of identifying the level of severity and then it would be a different level of advocacy work"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,530",
+				"to": "00:20:51,580"
+			},
+			"offsets": {
+				"from": 1242530,
+				"to": 1251580
+			},
+			"text": " that would that would come from it with the attorney so it was eye-opening and i had the chance through"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,580",
+				"to": "00:20:58,440"
+			},
+			"offsets": {
+				"from": 1251580,
+				"to": 1258440
+			},
+			"text": " this job to start to tour the state prisons um both for the medical rights case and then more in my"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,440",
+				"to": "00:21:04,760"
+			},
+			"offsets": {
+				"from": 1258440,
+				"to": 1264760
+			},
+			"text": " second year there for the disability rights case which is called armstrong so i had a lot of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,440",
+				"to": "00:21:12,880"
+			},
+			"offsets": {
+				"from": 1265440,
+				"to": 1272880
+			},
+			"text": " exposure as this 22 23 year old going into the state prisons interviewing people and looking"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,880",
+				"to": "00:21:19,640"
+			},
+			"offsets": {
+				"from": 1272880,
+				"to": 1279640
+			},
+			"text": " at the conditions and then writing up you know we write up little write-up reports about it um"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,450",
+				"to": "00:21:27,450"
+			},
+			"offsets": {
+				"from": 1280450,
+				"to": 1287450
+			},
+			"text": " review prisoner files i mean everything that all of my work that i had to do in support of the attorney's work"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,080",
+				"to": "00:21:37,660"
+			},
+			"offsets": {
+				"from": 1288080,
+				"to": 1297660
+			},
+			"text": " and it was just so apparent this was this was when you know overcrowding was at 200 percent in the state and recidivism was at 75 percent"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,660",
+				"to": "00:21:44,600"
+			},
+			"offsets": {
+				"from": 1297660,
+				"to": 1304600
+			},
+			"text": " which i actually just learned last week is still the same which is upsetting because that this was"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,600",
+				"to": "00:21:52,240"
+			},
+			"offsets": {
+				"from": 1304600,
+				"to": 1312240
+			},
+			"text": " was quite a few years ago this was back in 2008 to 2010 right before i left for mexico more or less"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,960",
+				"to": "00:21:58,210"
+			},
+			"offsets": {
+				"from": 1312960,
+				"to": 1318210
+			},
+			"text": " and on these drives you know i would be with the attorney and we would drive all the way to the central"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,210",
+				"to": "00:22:04,290"
+			},
+			"offsets": {
+				"from": 1318210,
+				"to": 1324290
+			},
+			"text": " valley and i just was thinking so much you know law was not for me it moved really slowly i didn't want"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,290",
+				"to": "00:22:13,110"
+			},
+			"offsets": {
+				"from": 1324290,
+				"to": 1333110
+			},
+			"text": " to be at a desk um all day every day and it was really apparent that there was just a need for jobs"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,110",
+				"to": "00:22:18,920"
+			},
+			"offsets": {
+				"from": 1333110,
+				"to": 1338920
+			},
+			"text": " you know like if what if we have a 75 percent recidivism rate obviously our system is broken but"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,920",
+				"to": "00:22:25,320"
+			},
+			"offsets": {
+				"from": 1338920,
+				"to": 1345320
+			},
+			"text": " one of just the basics of how do you how do you stabilize how do you get on your feet if you get"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,320",
+				"to": "00:22:31,240"
+			},
+			"offsets": {
+				"from": 1345320,
+				"to": 1351240
+			},
+			"text": " out and you don't have an opportunity to work and provide for yourself and provide for your family and"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,240",
+				"to": "00:22:37,760"
+			},
+			"offsets": {
+				"from": 1351240,
+				"to": 1357760
+			},
+			"text": " there's obviously the financial side of that but there's also the mental side the mental emotional you"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,760",
+				"to": "00:22:45,560"
+			},
+			"offsets": {
+				"from": 1357760,
+				"to": 1365560
+			},
+			"text": " know human side of not working not having a purpose not having a place you have to be every day not"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,560",
+				"to": "00:22:51,270"
+			},
+			"offsets": {
+				"from": 1365560,
+				"to": 1371270
+			},
+			"text": " having that structure and when i've gone through periods of not having work or even my weird jobs"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,270",
+				"to": "00:22:58,150"
+			},
+			"offsets": {
+				"from": 1371270,
+				"to": 1378150
+			},
+			"text": " in mexico it's really hard i've been really depressed and down and i can only imagine if you're in that"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,150",
+				"to": "00:23:05,360"
+			},
+			"offsets": {
+				"from": 1378150,
+				"to": 1385360
+			},
+			"text": " situation with much less of you know a chance of getting a job because of your history or your"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,360",
+				"to": "00:23:13,410"
+			},
+			"offsets": {
+				"from": 1385360,
+				"to": 1393410
+			},
+			"text": " background it just it's just shitty and it's not smart like as a culture as a society we are not"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,410",
+				"to": "00:23:19,250"
+			},
+			"offsets": {
+				"from": 1393410,
+				"to": 1399250
+			},
+			"text": " integrating people back in and so of course we have a 75 percent recidivism what are what other option"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,250",
+				"to": "00:23:26,590"
+			},
+			"offsets": {
+				"from": 1399250,
+				"to": 1406590
+			},
+			"text": " do you have in many cases so anyway that you know my thinking was i had always wanted to have like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:26,590",
+				"to": "00:23:34,790"
+			},
+			"offsets": {
+				"from": 1406590,
+				"to": 1414790
+			},
+			"text": " bakery a gluten-free bakery i had to stop eating gluten um 10 years ago when way before it was very"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,790",
+				"to": "00:23:41,020"
+			},
+			"offsets": {
+				"from": 1414790,
+				"to": 1421020
+			},
+			"text": " hip as it is now and i always thought i should do a gluten-free bakery run by formerly incarcerated"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,020",
+				"to": "00:23:49,250"
+			},
+			"offsets": {
+				"from": 1421020,
+				"to": 1429250
+			},
+			"text": " people so this is just a weird little pipe dream but fast forward to you know getting out of this world of"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,250",
+				"to": "00:23:56,430"
+			},
+			"offsets": {
+				"from": 1429250,
+				"to": 1436430
+			},
+			"text": " prisoners rights and still very much caring about about prisoners rights i realized what i was more"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,430",
+				"to": "00:24:04,280"
+			},
+			"offsets": {
+				"from": 1436430,
+				"to": 1444280
+			},
+			"text": " interested in was re-entry um the re-entry in back into society it felt also more hopeful it was really"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:04,760",
+				"to": "00:24:11,670"
+			},
+			"offsets": {
+				"from": 1444760,
+				"to": 1451670
+			},
+			"text": " difficult you know to do that to do prison work is i have so much admiration for these attorneys and"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,220",
+				"to": "00:24:22,630"
+			},
+			"offsets": {
+				"from": 1452220,
+				"to": 1462630
+			},
+			"text": " other non-profits that do this because it is grim and it's there's not a lot of hope in there but re-entry"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,630",
+				"to": "00:24:29,310"
+			},
+			"offsets": {
+				"from": 1462630,
+				"to": 1469310
+			},
+			"text": " is this area of hope or it should be an area of hope and maybe isn't where it could be but um"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,310",
+				"to": "00:24:37,060"
+			},
+			"offsets": {
+				"from": 1469310,
+				"to": 1477060
+			},
+			"text": " can i just ask you like what are employment options for formerly incarcerated people when they get out"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,060",
+				"to": "00:24:45,130"
+			},
+			"offsets": {
+				"from": 1477060,
+				"to": 1485130
+			},
+			"text": " so in my experience having done the bit of research that i'd started to do you know it's not great it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,130",
+				"to": "00:24:52,920"
+			},
+			"offsets": {
+				"from": 1485130,
+				"to": 1492920
+			},
+			"text": " like work and and that said for all of the employers out there that are looking to to these folks to"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:52,920",
+				"to": "00:24:58,600"
+			},
+			"offsets": {
+				"from": 1492920,
+				"to": 1498600
+			},
+			"text": " employ them like amazing good for them i think that's what every business is should be open to"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,600",
+				"to": "00:25:08,930"
+			},
+			"offsets": {
+				"from": 1498600,
+				"to": 1508930
+			},
+			"text": " but it tends to be work that's you know more entry-level um working in a freezer uh working"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,090",
+				"to": "00:25:22,580"
+			},
+			"offsets": {
+				"from": 1510090,
+				"to": 1522580
+			},
+			"text": " for it seems to be landscaping a lot of physical labor um and not not the most sort of engaging"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,580",
+				"to": "00:25:29,480"
+			},
+			"offsets": {
+				"from": 1522580,
+				"to": 1529480
+			},
+			"text": " exciting sort of like conceptually exciting work which isn't to say that's what you need to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,480",
+				"to": "00:25:39,180"
+			},
+			"offsets": {
+				"from": 1529480,
+				"to": 1539180
+			},
+			"text": " but um when i went to so the way i kind of got into this for the restaurant was um so fast forward"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,180",
+				"to": "00:25:44,680"
+			},
+			"offsets": {
+				"from": 1539180,
+				"to": 1544680
+			},
+			"text": " right we get to the place where we need to start hiring people and there's also happens to be a hiring"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,680",
+				"to": "00:25:49,480"
+			},
+			"offsets": {
+				"from": 1544680,
+				"to": 1549480
+			},
+			"text": " crunch in san francisco because a lot of people who work in the service industry can't afford to live"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,480",
+				"to": "00:25:56,110"
+			},
+			"offsets": {
+				"from": 1549480,
+				"to": 1556110
+			},
+			"text": " in the city anymore and take these jobs so you have a shortage um particularly of cooks but of"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,110",
+				"to": "00:26:01,070"
+			},
+			"offsets": {
+				"from": 1556110,
+				"to": 1561070
+			},
+			"text": " everyone it's kind of a great time if you're looking to work in a restaurant you've got a lot of options"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,070",
+				"to": "00:26:09,000"
+			},
+			"offsets": {
+				"from": 1561070,
+				"to": 1569000
+			},
+			"text": " right now and then you also have this whole population of people who can't get work want to work are"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,000",
+				"to": "00:26:17,100"
+			},
+			"offsets": {
+				"from": 1569000,
+				"to": 1577100
+			},
+			"text": " capable workers but they can't get work why because they have a record i mean it's just it's so dumb"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,100",
+				"to": "00:26:24,570"
+			},
+			"offsets": {
+				"from": 1577100,
+				"to": 1584570
+			},
+			"text": " like it just it's it's we're we're missing out on this whole group of capable individuals of our"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,570",
+				"to": "00:26:32,040"
+			},
+			"offsets": {
+				"from": 1584570,
+				"to": 1592040
+			},
+			"text": " fellow humans and you know when i bring this up when i brought this up to gabriella she you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,040",
+				"to": "00:26:38,840"
+			},
+			"offsets": {
+				"from": 1592040,
+				"to": 1598840
+			},
+			"text": " supported it and said figure it out and in a way it's different in mexico of course she hadn't been"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:38,840",
+				"to": "00:26:46,440"
+			},
+			"offsets": {
+				"from": 1598840,
+				"to": 1606440
+			},
+			"text": " specifically seeking out this population but you know mexico has its own class issues and she has"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,440",
+				"to": "00:26:52,990"
+			},
+			"offsets": {
+				"from": 1606440,
+				"to": 1612990
+			},
+			"text": " supported the servers that work at contramar are probably the best paid in the city um you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,990",
+				"to": "00:27:00,270"
+			},
+			"offsets": {
+				"from": 1612990,
+				"to": 1620270
+			},
+			"text": " she's always been into supporting people and that's why people have worked for her there for over 10"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:00,270",
+				"to": "00:27:05,950"
+			},
+			"offsets": {
+				"from": 1620270,
+				"to": 1625950
+			},
+			"text": " years you know she's got servers that have been there since six for 16 17 years so she was in support of"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,950",
+				"to": "00:27:13,490"
+			},
+			"offsets": {
+				"from": 1625950,
+				"to": 1633490
+			},
+			"text": " this and when we did this outreach when i sort of tapped into my old prison law office network and"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,170",
+				"to": "00:27:19,850"
+			},
+			"offsets": {
+				"from": 1634170,
+				"to": 1639850
+			},
+			"text": " i actually contacted some of my old professors and they connected me to their network my email was"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,850",
+				"to": "00:27:26,620"
+			},
+			"offsets": {
+				"from": 1639850,
+				"to": 1646620
+			},
+			"text": " like it it went viral in this re-entry community and the response that i was getting from these"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,620",
+				"to": "00:27:33,850"
+			},
+			"offsets": {
+				"from": 1646620,
+				"to": 1653850
+			},
+			"text": " organizations that were looking for employers you know were a lot were was this excitement of jobs that"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,850",
+				"to": "00:27:43,840"
+			},
+			"offsets": {
+				"from": 1653850,
+				"to": 1663840
+			},
+			"text": " were a little more dynamic or just new and different you know and an employer that particularly i think the"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,840",
+				"to": "00:27:51,050"
+			},
+			"offsets": {
+				"from": 1663840,
+				"to": 1671050
+			},
+			"text": " benefit to have to be attached to gabriella's name and to be opening something that is has the potential"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,050",
+				"to": "00:27:59,080"
+			},
+			"offsets": {
+				"from": 1671050,
+				"to": 1679080
+			},
+			"text": " to be in the public eye a little bit more and couple that with this hiring practice to me is really"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,080",
+				"to": "00:28:05,060"
+			},
+			"offsets": {
+				"from": 1679080,
+				"to": 1685060
+			},
+			"text": " powerful and i think to these organizations as well well so something i think about when you talk about"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,060",
+				"to": "00:28:14,490"
+			},
+			"offsets": {
+				"from": 1685060,
+				"to": 1694490
+			},
+			"text": " that is this idea of kind of sustainable sourcing right and thinking about our a lot of times when in"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,490",
+				"to": "00:28:20,660"
+			},
+			"offsets": {
+				"from": 1694490,
+				"to": 1700660
+			},
+			"text": " agriculture world when we talk about um like where food comes from and what it is there's this distinct"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:20,660",
+				"to": "00:28:26,340"
+			},
+			"offsets": {
+				"from": 1700660,
+				"to": 1706340
+			},
+			"text": " lack of the people in that right and so i think it's a really interesting thing to bring that into the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,340",
+				"to": "00:28:37,210"
+			},
+			"offsets": {
+				"from": 1706340,
+				"to": 1717210
+			},
+			"text": " restaurant world and fine dining which i think is a pretty like solidly blue-collar job but also requires"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,210",
+				"to": "00:28:45,490"
+			},
+			"offsets": {
+				"from": 1717210,
+				"to": 1725490
+			},
+			"text": " this incredible amount of skill and training both in the kitchen and the front of the house so um what has that been"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,490",
+				"to": "00:28:54,390"
+			},
+			"offsets": {
+				"from": 1725490,
+				"to": 1734390
+			},
+			"text": " like to negotiate that and think about that over time you opened five months ago now and just to provide"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,390",
+				"to": "00:29:00,630"
+			},
+			"offsets": {
+				"from": 1734390,
+				"to": 1740630
+			},
+			"text": " a little context it was your hiring practice was just that you were open to people in this re-entry"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,630",
+				"to": "00:29:07,710"
+			},
+			"offsets": {
+				"from": 1740630,
+				"to": 1747710
+			},
+			"text": " world right so you didn't have an employment policy that excluded people with records from applying for"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,710",
+				"to": "00:29:16,550"
+			},
+			"offsets": {
+				"from": 1747710,
+				"to": 1756550
+			},
+			"text": " these jobs exactly it's such a good point i think about that all the time particularly in this organic"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,550",
+				"to": "00:29:25,300"
+			},
+			"offsets": {
+				"from": 1756550,
+				"to": 1765300
+			},
+			"text": " local food movement um there's such a lack of you know not only who is growing the food but who is"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,300",
+				"to": "00:29:36,440"
+			},
+			"offsets": {
+				"from": 1765300,
+				"to": 1776440
+			},
+			"text": " serving it who is cooking it i mean it's it's such a disconnect to be so um you know to to now be such fanatics"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,440",
+				"to": "00:29:47,060"
+			},
+			"offsets": {
+				"from": 1776440,
+				"to": 1787060
+			},
+			"text": " about our produce and to not give a shit about the human side of it it's just ridiculous and i read um"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,890",
+				"to": "00:29:55,140"
+			},
+			"offsets": {
+				"from": 1787890,
+				"to": 1795140
+			},
+			"text": " saru jayaraman's book behind the kitchen door which for anybody who hasn't read it she is amazing and"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,140",
+				"to": "00:30:00,020"
+			},
+			"offsets": {
+				"from": 1795140,
+				"to": 1800020
+			},
+			"text": " she just wrote a new book called forked which i just got haven't read yet but she really talks about"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,020",
+				"to": "00:30:08,180"
+			},
+			"offsets": {
+				"from": 1800020,
+				"to": 1808180
+			},
+			"text": " this she started labor activism in new york after 9 11 um when there was a group of employees who worked"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,180",
+				"to": "00:30:16,520"
+			},
+			"offsets": {
+				"from": 1808180,
+				"to": 1816520
+			},
+			"text": " for windows windows of the world the restaurant that was in the world trade center and to help mobilize"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,520",
+				"to": "00:30:23,960"
+			},
+			"offsets": {
+				"from": 1816520,
+				"to": 1823960
+			},
+			"text": " sort of unfair restaurant practices or to mobilize activists against this and has been really successful"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,960",
+				"to": "00:30:31,940"
+			},
+			"offsets": {
+				"from": 1823960,
+				"to": 1831940
+			},
+			"text": " at it and she's formed this thing called roc um so anyway getting off track but yes there is this"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,940",
+				"to": "00:30:40,780"
+			},
+			"offsets": {
+				"from": 1831940,
+				"to": 1840780
+			},
+			"text": " disconnect of the human element in it and we didn't want to open with this gimmick of you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,780",
+				"to": "00:30:47,170"
+			},
+			"offsets": {
+				"from": 1840780,
+				"to": 1847170
+			},
+			"text": " who are a restaurant that hires people with conviction histories we just wanted to provide really good food"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,170",
+				"to": "00:30:54,130"
+			},
+			"offsets": {
+				"from": 1847170,
+				"to": 1854130
+			},
+			"text": " and really good service and hey this just happens to be our hiring practice um we after a few months we"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,130",
+				"to": "00:31:02,150"
+			},
+			"offsets": {
+				"from": 1854130,
+				"to": 1862150
+			},
+			"text": " started to come out with a little bit more you know we said it was okay to say that when the san"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,150",
+				"to": "00:31:08,390"
+			},
+			"offsets": {
+				"from": 1862150,
+				"to": 1868390
+			},
+			"text": " francisco chronicle reviewed us because the flip side to not talking about it is nobody knowing how important"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,390",
+				"to": "00:31:18,320"
+			},
+			"offsets": {
+				"from": 1868390,
+				"to": 1878320
+			},
+			"text": " this is and i want i want this to be a successful option because not only could this be what other"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,320",
+				"to": "00:31:24,290"
+			},
+			"offsets": {
+				"from": 1878320,
+				"to": 1884290
+			},
+			"text": " restaurants do but this is this should be what other businesses do and how we look to hire to just be"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,290",
+				"to": "00:31:34,270"
+			},
+			"offsets": {
+				"from": 1884290,
+				"to": 1894270
+			},
+			"text": " open to it um but it has been really hard for sure and you know on top of starting a new restaurant and"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,270",
+				"to": "00:31:39,470"
+			},
+			"offsets": {
+				"from": 1894270,
+				"to": 1899470
+			},
+			"text": " everything that comes with that to start a new restaurant and hire people who don't have experience"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,470",
+				"to": "00:31:44,720"
+			},
+			"offsets": {
+				"from": 1899470,
+				"to": 1904720
+			},
+			"text": " working in restaurants before or in the style of service that you want or in the level of cooking"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,720",
+				"to": "00:31:52,240"
+			},
+			"offsets": {
+				"from": 1904720,
+				"to": 1912240
+			},
+			"text": " that you need um was definitely a challenge and i think we had more turnover than the average new"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,240",
+				"to": "00:32:00,650"
+			},
+			"offsets": {
+				"from": 1912240,
+				"to": 1920650
+			},
+			"text": " restaurant that begins which i think has typically high turnover anyway um and sort of i hadn't been"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,650",
+				"to": "00:32:08,650"
+			},
+			"offsets": {
+				"from": 1920650,
+				"to": 1928650
+			},
+			"text": " prepared of the issues that would come up um i think it's on i think the restaurant industry has a lot of"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,650",
+				"to": "00:32:18,570"
+			},
+			"offsets": {
+				"from": 1928650,
+				"to": 1938570
+			},
+			"text": " alcoholism and drug use regardless i think a lot of people who have records who are out of uh how have"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,570",
+				"to": "00:32:29,360"
+			},
+			"offsets": {
+				"from": 1938570,
+				"to": 1949360
+			},
+			"text": " served time also have those issues um so that was definitely something that came up a lot in the very"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:29,360",
+				"to": "00:32:37,900"
+			},
+			"offsets": {
+				"from": 1949360,
+				"to": 1957900
+			},
+			"text": " beginning of you know understanding understanding the lifestyle that people had been used to particularly"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,900",
+				"to": "00:32:43,100"
+			},
+			"offsets": {
+				"from": 1957900,
+				"to": 1963100
+			},
+			"text": " when we worked with the probation department it's just sort of a more lifestyle of people having gone in"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,100",
+				"to": "00:32:50,540"
+			},
+			"offsets": {
+				"from": 1963100,
+				"to": 1970540
+			},
+			"text": " and out of jail and not serving longer time um funny enough people coming out of prison who have served"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:50,540",
+				"to": "00:32:58,220"
+			},
+			"offsets": {
+				"from": 1970540,
+				"to": 1978220
+			},
+			"text": " longer periods i actually think seem to be much more stable because they've done that and there is a level of work"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,220",
+				"to": "00:33:05,770"
+			},
+			"offsets": {
+				"from": 1978220,
+				"to": 1985770
+			},
+			"text": " ethic that's coming out of this particularly partnering with delancey street which is um delancey street"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,770",
+				"to": "00:33:11,250"
+			},
+			"offsets": {
+				"from": 1985770,
+				"to": 1991250
+			},
+			"text": " in san francisco is just extraordinary i don't even really know it's not a non-for-profit they have"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,250",
+				"to": "00:33:16,130"
+			},
+			"offsets": {
+				"from": 1991250,
+				"to": 1996130
+			},
+			"text": " all their own businesses they run a cafe and a restaurant and a framing and a moving and a christmas tree"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,690",
+				"to": "00:33:24,480"
+			},
+			"offsets": {
+				"from": 1996690,
+				"to": 2004480
+			},
+			"text": " companies all under the self-sustaining organization that's really tough you know people go in there and you have"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,480",
+				"to": "00:33:30,560"
+			},
+			"offsets": {
+				"from": 2004480,
+				"to": 2010560
+			},
+			"text": " to be sober and you work seven days a week and it really cultivates a fierce work ethic so getting"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,560",
+				"to": "00:33:37,400"
+			},
+			"offsets": {
+				"from": 2010560,
+				"to": 2017400
+			},
+			"text": " people that have come out of that program has been really great um it hasn't really been the work"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,400",
+				"to": "00:33:44,270"
+			},
+			"offsets": {
+				"from": 2017400,
+				"to": 2024270
+			},
+			"text": " ethic the motivation that's been a challenge across the board it's been the training side of it you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,270",
+				"to": "00:33:50,750"
+			},
+			"offsets": {
+				"from": 2024270,
+				"to": 2030750
+			},
+			"text": " and us figuring out how we can do better to train because it's a steep learning curve for sure and to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,750",
+				"to": "00:33:57,510"
+			},
+			"offsets": {
+				"from": 2030750,
+				"to": 2037510
+			},
+			"text": " opened and to have gotten this wonderful recognition which no complaints we are you know humbled and"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,510",
+				"to": "00:34:03,470"
+			},
+			"offsets": {
+				"from": 2037510,
+				"to": 2043470
+			},
+			"text": " thrilled and amazed but it felt very much like in the public eye like we didn't have time to fuck up"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,930",
+				"to": "00:34:08,400"
+			},
+			"offsets": {
+				"from": 2043930,
+				"to": 2048400
+			},
+			"text": " behind you know while we were getting started because we opened and there was this amazing boom"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,120",
+				"to": "00:34:15,350"
+			},
+			"offsets": {
+				"from": 2049120,
+				"to": 2055350
+			},
+			"text": " but you know i think back to those beginning days of service and it's just like makes me cringe a bit"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,350",
+				"to": "00:34:22,410"
+			},
+			"offsets": {
+				"from": 2055350,
+				"to": 2062410
+			},
+			"text": " because there was a lot of just a lot of training and what i'm still struggling with is like how do i"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,130",
+				"to": "00:34:30,150"
+			},
+			"offsets": {
+				"from": 2063130,
+				"to": 2070150
+			},
+			"text": " support these extra needs that are there but i'm not a social service you know where we are a business"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:30,970",
+				"to": "00:34:39,010"
+			},
+			"offsets": {
+				"from": 2070970,
+				"to": 2079010
+			},
+			"text": " so there so that is a challenge of the reality is people who have conviction histories just have more"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,010",
+				"to": "00:34:46,250"
+			},
+			"offsets": {
+				"from": 2079010,
+				"to": 2086250
+			},
+			"text": " things going on or continuing to have things unresolved or instability that they're currently"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:46,250",
+				"to": "00:34:52,250"
+			},
+			"offsets": {
+				"from": 2086250,
+				"to": 2092250
+			},
+			"text": " transitioning out of and to want you know i totally i see it so clearly now like how do you get out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,250",
+				"to": "00:34:58,670"
+			},
+			"offsets": {
+				"from": 2092250,
+				"to": 2098670
+			},
+			"text": " the instability if you don't have the possibility of a job but from a business standpoint how do you give"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,670",
+				"to": "00:35:05,440"
+			},
+			"offsets": {
+				"from": 2098670,
+				"to": 2105440
+			},
+			"text": " that opportunity if you can't get a get stability out of somebody who works for you well so let's talk"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,440",
+				"to": "00:35:12,790"
+			},
+			"offsets": {
+				"from": 2105440,
+				"to": 2112790
+			},
+			"text": " about that for a second i think um this concept of restorative justice is a big thing that exists in"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,790",
+				"to": "00:35:18,710"
+			},
+			"offsets": {
+				"from": 2112790,
+				"to": 2118710
+			},
+			"text": " the you know in the prison advocacy world and definitely in this re-entry world and it means a lot of"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,710",
+				"to": "00:35:25,110"
+			},
+			"offsets": {
+				"from": 2118710,
+				"to": 2125110
+			},
+			"text": " different things to a lot of different people and i think delancy street is like one of those institutions"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:25,110",
+				"to": "00:35:31,450"
+			},
+			"offsets": {
+				"from": 2125110,
+				"to": 2131450
+			},
+			"text": " that has existed for a long time and has done really incredible work in this one stage kind of"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,450",
+				"to": "00:35:38,050"
+			},
+			"offsets": {
+				"from": 2131450,
+				"to": 2138050
+			},
+			"text": " of transitioning out of institutions right so and when sorry when i say institutions i'm meaning"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,050",
+				"to": "00:35:46,930"
+			},
+			"offsets": {
+				"from": 2138050,
+				"to": 2146930
+			},
+			"text": " prisons and um you know i think also for youth with things like you know group homes or or you know this"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,930",
+				"to": "00:35:53,480"
+			},
+			"offsets": {
+				"from": 2146930,
+				"to": 2153480
+			},
+			"text": " whole kind of array of state addiction they take a lot of people that just have not served time that"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,480",
+				"to": "00:35:59,230"
+			},
+			"offsets": {
+				"from": 2153480,
+				"to": 2159230
+			},
+			"text": " maybe we're about to serve time but there's a lot of addiction issues there so yeah they take on"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,230",
+				"to": "00:36:08,270"
+			},
+			"offsets": {
+				"from": 2159230,
+				"to": 2168270
+			},
+			"text": " you're right coming out of this complicated world right right with a lot of um like you were describing"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,270",
+				"to": "00:36:17,140"
+			},
+			"offsets": {
+				"from": 2168270,
+				"to": 2177140
+			},
+			"text": " needs right so maybe let's just imagine for a second like what like if you were to start another"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,140",
+				"to": "00:36:25,230"
+			},
+			"offsets": {
+				"from": 2177140,
+				"to": 2185230
+			},
+			"text": " business what would be the kind of support you would call in to have help with those issues that came up"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,230",
+				"to": "00:36:33,450"
+			},
+			"offsets": {
+				"from": 2185230,
+				"to": 2193450
+			},
+			"text": " um but also let you focus on running a business so like what would be the structure that would be needed"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,450",
+				"to": "00:36:38,650"
+			},
+			"offsets": {
+				"from": 2193450,
+				"to": 2198650
+			},
+			"text": " and maybe maybe you know some of those resources at this point so maybe there are some that you could"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,650",
+				"to": "00:36:47,780"
+			},
+			"offsets": {
+				"from": 2198650,
+				"to": 2207780
+			},
+			"text": " share with people if they're thinking about doing this with their hiring practices well i think um i think"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,780",
+				"to": "00:36:57,020"
+			},
+			"offsets": {
+				"from": 2207780,
+				"to": 2217020
+			},
+			"text": " in a way what would have been healthier actually is to and this maybe sounds maybe this sounds harsh but i think"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,780",
+				"to": "00:37:03,440"
+			},
+			"offsets": {
+				"from": 2217780,
+				"to": 2223440
+			},
+			"text": " one thing would have been maybe not to have dragged on some of the initial relationships that i had with"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,440",
+				"to": "00:37:10,830"
+			},
+			"offsets": {
+				"from": 2223440,
+				"to": 2230830
+			},
+			"text": " employees where i just wanted it to work so badly and i felt so compelled by their stories that i sort"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,830",
+				"to": "00:37:19,120"
+			},
+			"offsets": {
+				"from": 2230830,
+				"to": 2239120
+			},
+			"text": " of allowed you know things to go on too long and that sounds like too vague but um just issues that arise"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,650",
+				"to": "00:37:27,500"
+			},
+			"offsets": {
+				"from": 2239650,
+				"to": 2247500
+			},
+			"text": " what i'm learning is it helps nobody to like postpone like a level of unprofessionalism because the reality"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,500",
+				"to": "00:37:34,100"
+			},
+			"offsets": {
+				"from": 2247500,
+				"to": 2254100
+			},
+			"text": " is we're in a job you have basic things you have to show up you have to show up that's it i mean that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,100",
+				"to": "00:37:38,980"
+			},
+			"offsets": {
+				"from": 2254100,
+				"to": 2258980
+			},
+			"text": " that's the first most important thing you have to show up not showing up you know no call no show"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,980",
+				"to": "00:37:46,900"
+			},
+			"offsets": {
+				"from": 2258980,
+				"to": 2266900
+			},
+			"text": " is really detrimental to your whole team so part of it is maybe you know on one hand you give a chance"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,430",
+				"to": "00:37:53,480"
+			},
+			"offsets": {
+				"from": 2267430,
+				"to": 2273480
+			},
+			"text": " and they the that person has to hold up their end of the bargain all that being said i don't mean to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,480",
+				"to": "00:38:00,010"
+			},
+			"offsets": {
+				"from": 2273480,
+				"to": 2280010
+			},
+			"text": " say that i don't understand like why these things came up so i feel that maybe what one thing that"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,010",
+				"to": "00:38:06,480"
+			},
+			"offsets": {
+				"from": 2280010,
+				"to": 2286480
+			},
+			"text": " would be helpful is instead of trying to take those things on ourselves to really to really partner with"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,350",
+				"to": "00:38:13,560"
+			},
+			"offsets": {
+				"from": 2287350,
+				"to": 2293560
+			},
+			"text": " some organization i haven't found it to be in existence somebody should start this but that really"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,560",
+				"to": "00:38:19,660"
+			},
+			"offsets": {
+				"from": 2293560,
+				"to": 2299660
+			},
+			"text": " works with people coming out of these places out of the institutions because even when you think"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,660",
+				"to": "00:38:25,430"
+			},
+			"offsets": {
+				"from": 2299660,
+				"to": 2305430
+			},
+			"text": " about prison like everything is i mean it's terrible but everything is taken care of you know you don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,430",
+				"to": "00:38:28,630"
+			},
+			"offsets": {
+				"from": 2305430,
+				"to": 2308630
+			},
+			"text": " have to think about where your food's coming from you don't think about where you're sleeping like"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,630",
+				"to": "00:38:33,350"
+			},
+			"offsets": {
+				"from": 2308630,
+				"to": 2313350
+			},
+			"text": " all of these things that are managed for other people when you get out of that and when you get out"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,350",
+				"to": "00:38:40,450"
+			},
+			"offsets": {
+				"from": 2313350,
+				"to": 2320450
+			},
+			"text": " of delancey even you know delancey does this extraordinary job and then you leave and you got to"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:40,450",
+				"to": "00:38:47,310"
+			},
+			"offsets": {
+				"from": 2320450,
+				"to": 2327310
+			},
+			"text": " find a place to live in san francisco no less or in the bay area and you gotta you know figure out how"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,310",
+				"to": "00:38:51,390"
+			},
+			"offsets": {
+				"from": 2327310,
+				"to": 2331390
+			},
+			"text": " you're getting to work every day like there's all these things you know and maybe you had this whole"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,390",
+				"to": "00:39:00,550"
+			},
+			"offsets": {
+				"from": 2331390,
+				"to": 2340550
+			},
+			"text": " support for you know not drinking or not doing whatever which is gone so finding some sort of"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,550",
+				"to": "00:39:09,390"
+			},
+			"offsets": {
+				"from": 2340550,
+				"to": 2349390
+			},
+			"text": " almost like a person between the organizations and the employer and i know that they exist um i know a"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:09,390",
+				"to": "00:39:14,350"
+			},
+			"offsets": {
+				"from": 2349390,
+				"to": 2354350
+			},
+			"text": " really great example in los angeles for example the la kitchen where they're kind of taking on this like"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,350",
+				"to": "00:39:20,630"
+			},
+			"offsets": {
+				"from": 2354350,
+				"to": 2360630
+			},
+			"text": " holistic approach um i do think in san francisco the san francisco probation the adult probation"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,630",
+				"to": "00:39:27,880"
+			},
+			"offsets": {
+				"from": 2360630,
+				"to": 2367880
+			},
+			"text": " department is doing as good a job as they can at the cask center um this is also a very holistic"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:27,880",
+				"to": "00:39:32,840"
+			},
+			"offsets": {
+				"from": 2367880,
+				"to": 2372840
+			},
+			"text": " you know you go there for job training you go there for housing for to get your social security card"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,840",
+				"to": "00:39:40,480"
+			},
+			"offsets": {
+				"from": 2372840,
+				"to": 2380480
+			},
+			"text": " to get your driver's license to get sort of everything in one centralized place but there's something like"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:40,980",
+				"to": "00:39:47,760"
+			},
+			"offsets": {
+				"from": 2380980,
+				"to": 2387760
+			},
+			"text": " bigger that's needed and i don't even know what it looks like but maybe it's more focused on a specific"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:47,760",
+				"to": "00:39:54,160"
+			},
+			"offsets": {
+				"from": 2387760,
+				"to": 2394160
+			},
+			"text": " training program of restaurants you know there's some element of what you got to do to work period you"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,160",
+				"to": "00:40:02,480"
+			},
+			"offsets": {
+				"from": 2394160,
+				"to": 2402480
+			},
+			"text": " know showing up not being late professional conduct sort of thing although that has been less of an"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,480",
+				"to": "00:40:07,920"
+			},
+			"offsets": {
+				"from": 2402480,
+				"to": 2407920
+			},
+			"text": " issue the lateness has not and the showing up has that has been difficult for us but i think maybe"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,520",
+				"to": "00:40:14,840"
+			},
+			"offsets": {
+				"from": 2408520,
+				"to": 2414840
+			},
+			"text": " also if there was somebody that was specifically training restaurant jobs and i just discovered"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,720",
+				"to": "00:40:24,220"
+			},
+			"offsets": {
+				"from": 2415720,
+				"to": 2424220
+			},
+			"text": " a project out of the tenderloin um run by del seymour who is kind of like the mayor of the tenderloin"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:24,220",
+				"to": "00:40:30,150"
+			},
+			"offsets": {
+				"from": 2424220,
+				"to": 2430150
+			},
+			"text": " i am told um and they're working with people in that neighborhood which is very close to our restaurant"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:30,850",
+				"to": "00:40:37,180"
+			},
+			"offsets": {
+				"from": 2430850,
+				"to": 2437180
+			},
+			"text": " and working with them on different levels of training for restaurant work so we just hired our first"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,180",
+				"to": "00:40:44,870"
+			},
+			"offsets": {
+				"from": 2437180,
+				"to": 2444870
+			},
+			"text": " person through them um we'll see how that goes but i would like to find more support in organizations that"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:44,870",
+				"to": "00:40:51,030"
+			},
+			"offsets": {
+				"from": 2444870,
+				"to": 2451030
+			},
+			"text": " are kind of taking on that in-between place because that's been the hardest what i'm seeing is to go from"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:51,030",
+				"to": "00:40:58,570"
+			},
+			"offsets": {
+				"from": 2451030,
+				"to": 2458570
+			},
+			"text": " wherever you've been to where you want to be you know it's a big leap and again as a business"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,570",
+				"to": "00:41:05,760"
+			},
+			"offsets": {
+				"from": 2458570,
+				"to": 2465760
+			},
+			"text": " that's a lot to take on like when you're already trying to run a business yeah and i think you bring"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,760",
+				"to": "00:41:12,910"
+			},
+			"offsets": {
+				"from": 2465760,
+				"to": 2472910
+			},
+			"text": " up that so many of those things you bring up are um symptomatic of where san francisco is at right"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,910",
+				"to": "00:41:19,550"
+			},
+			"offsets": {
+				"from": 2472910,
+				"to": 2479550
+			},
+			"text": " now too right like high cost of living and um you know changing infrastructure in terms of public"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:19,550",
+				"to": "00:41:27,880"
+			},
+			"offsets": {
+				"from": 2479550,
+				"to": 2487880
+			},
+			"text": " transportation and i think less access to food in a lot of ways right like more access to expensive food"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,880",
+				"to": "00:41:34,840"
+			},
+			"offsets": {
+				"from": 2487880,
+				"to": 2494840
+			},
+			"text": " and less access to maybe affordable food in a lot of these neighborhoods or cities that people are"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:34,840",
+				"to": "00:41:45,460"
+			},
+			"offsets": {
+				"from": 2494840,
+				"to": 2505460
+			},
+			"text": " commuting from right so um it makes me think about how these issues spread wider than uh you know just for"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,080",
+				"to": "00:41:54,980"
+			},
+			"offsets": {
+				"from": 2506080,
+				"to": 2514980
+			},
+			"text": " people who were formerly incarcerated right like how do we have restaurants that have these social justice"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:54,980",
+				"to": "00:42:02,990"
+			},
+			"offsets": {
+				"from": 2514980,
+				"to": 2522990
+			},
+			"text": " missions that can really walk the walk in all kinds of ways like no no matter who you're hiring right"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:02,990",
+				"to": "00:42:09,630"
+			},
+			"offsets": {
+				"from": 2522990,
+				"to": 2529630
+			},
+			"text": " absolutely no i think it's i mean maybe they just don't go together you know maybe in order to run"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:09,630",
+				"to": "00:42:16,400"
+			},
+			"offsets": {
+				"from": 2529630,
+				"to": 2536400
+			},
+			"text": " a really successful restaurant you can't have such a social mission i mean i hope that's not the case"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,400",
+				"to": "00:42:22,960"
+			},
+			"offsets": {
+				"from": 2536400,
+				"to": 2542960
+			},
+			"text": " and we're certainly still figuring that out but you know another example is we decided not to do the"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:22,960",
+				"to": "00:42:30,560"
+			},
+			"offsets": {
+				"from": 2542960,
+				"to": 2550560
+			},
+			"text": " traditional tip model we include a service charge of 20 which we realize is high you know and therefore"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,560",
+				"to": "00:42:34,800"
+			},
+			"offsets": {
+				"from": 2550560,
+				"to": 2554800
+			},
+			"text": " we expect really good service if you're automatically going to be tipped 20 or you're tipping 20"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:35,840",
+				"to": "00:42:42,850"
+			},
+			"offsets": {
+				"from": 2555840,
+				"to": 2562850
+			},
+			"text": " um but the idea of the service charge is so that we can fairly compensate our back of house as well as"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,850",
+				"to": "00:42:50,320"
+			},
+			"offsets": {
+				"from": 2562850,
+				"to": 2570320
+			},
+			"text": " our front of house you know legally when you tip a server that belongs to them and in order for us to"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:50,320",
+				"to": "00:42:57,200"
+			},
+			"offsets": {
+				"from": 2570320,
+				"to": 2577200
+			},
+			"text": " redistribute that more fairly if we include it as a service charge we legally can tip out the back of"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:57,200",
+				"to": "00:43:05,290"
+			},
+			"offsets": {
+				"from": 2577200,
+				"to": 2585290
+			},
+			"text": " house tip out the front of house um it goes to our whole staff we also provide full benefits full"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,290",
+				"to": "00:43:09,130"
+			},
+			"offsets": {
+				"from": 2585290,
+				"to": 2589130
+			},
+			"text": " medical and dental benefits because it was the same thinking of you know why in all these other"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:09,130",
+				"to": "00:43:14,970"
+			},
+			"offsets": {
+				"from": 2589130,
+				"to": 2594970
+			},
+			"text": " jobs is it a given that you have those things and in the restaurant service it's like we just expect"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,970",
+				"to": "00:43:21,530"
+			},
+			"offsets": {
+				"from": 2594970,
+				"to": 2601530
+			},
+			"text": " that it's just kind of more expendable work and that you don't need those things which is ridiculous"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:21,530",
+				"to": "00:43:26,630"
+			},
+			"offsets": {
+				"from": 2601530,
+				"to": 2606630
+			},
+			"text": " because people who work in restaurants have families too and have health issues so part of my idea"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:26,630",
+				"to": "00:43:33,030"
+			},
+			"offsets": {
+				"from": 2606630,
+				"to": 2613030
+			},
+			"text": " our our idea was let's really go all the way and let's try and make this as fair as we can to our cooks as"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,030",
+				"to": "00:43:39,110"
+			},
+			"offsets": {
+				"from": 2613030,
+				"to": 2619110
+			},
+			"text": " well as our you know front of house and have everybody be taken care of because if we take"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:39,110",
+				"to": "00:43:45,520"
+			},
+			"offsets": {
+				"from": 2619110,
+				"to": 2625520
+			},
+			"text": " care of our team then we have a better chance of actually providing the type of service that we want"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:45,520",
+				"to": "00:43:51,360"
+			},
+			"offsets": {
+				"from": 2625520,
+				"to": 2631360
+			},
+			"text": " you know how do you expect your team to take care of others if they're not being taken care of"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,360",
+				"to": "00:44:00,460"
+			},
+			"offsets": {
+				"from": 2631360,
+				"to": 2640460
+			},
+			"text": " well something that stands out to me is um is contramar in mexico city and the service is totally"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,460",
+				"to": "00:44:05,420"
+			},
+			"offsets": {
+				"from": 2640460,
+				"to": 2645420
+			},
+			"text": " different than anywhere else that you go you feel taken care of you feel like you're walking into"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:05,420",
+				"to": "00:44:11,560"
+			},
+			"offsets": {
+				"from": 2645420,
+				"to": 2651560
+			},
+			"text": " somebody's home it's it's this amazing thing people notice things that you they never notice in other"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:11,560",
+				"to": "00:44:20,650"
+			},
+			"offsets": {
+				"from": 2651560,
+				"to": 2660650
+			},
+			"text": " restaurants right it's really like a wonderful warm experience to be there and i think each business has its own"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,650",
+				"to": "00:44:26,170"
+			},
+			"offsets": {
+				"from": 2660650,
+				"to": 2666170
+			},
+			"text": " model for how to make that happen right because you can think of other ones in your life too and so"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:26,170",
+				"to": "00:44:31,290"
+			},
+			"offsets": {
+				"from": 2666170,
+				"to": 2671290
+			},
+			"text": " maybe let's just end it there and um good luck with that sounds like you're taking all the right"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:31,290",
+				"to": "00:44:48,600"
+			},
+			"offsets": {
+				"from": 2671290,
+				"to": 2688600
+			},
+			"text": " steps to do that and i can't wait to hear more about that as it continues thanks delicious revolution"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:48,600",
+				"to": "00:44:55,580"
+			},
+			"offsets": {
+				"from": 2688600,
+				"to": 2695580
+			},
+			"text": " is a show about food culture and place produced by devin sampson and me chelsea wills you can subscribe"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:55,580",
+				"to": "00:45:01,570"
+			},
+			"offsets": {
+				"from": 2695580,
+				"to": 2701570
+			},
+			"text": " to delicious revolution on itunes or your favorite podcast app if you have a food story of your own"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:01,570",
+				"to": "00:45:09,820"
+			},
+			"offsets": {
+				"from": 2701570,
+				"to": 2709820
+			},
+			"text": " we'd love to hear it call 510-859-7430 and leave us a message of course you can get in touch with"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:09,820",
+				"to": "00:45:16,440"
+			},
+			"offsets": {
+				"from": 2709820,
+				"to": 2716440
+			},
+			"text": " us in lots of different ways and they are all on the website deliciousrevolutionshow.com if you like"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:16,440",
+				"to": "00:45:21,880"
+			},
+			"offsets": {
+				"from": 2716440,
+				"to": 2721880
+			},
+			"text": " delicious revolution and want to help our show reach more people please leave us a review on itunes"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:21,880",
+				"to": "00:45:28,720"
+			},
+			"offsets": {
+				"from": 2721880,
+				"to": 2728720
+			},
+			"text": " and send out a link on your favorite social network thanks for listening delicious revolution"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:28,720",
+				"to": "00:45:32,720"
+			},
+			"offsets": {
+				"from": 2728720,
+				"to": 2732720
+			},
+			"text": " is brought to you by satori travel if you're a traveler and especially if you're thinking about"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,720",
+				"to": "00:45:38,400"
+			},
+			"offsets": {
+				"from": 2732720,
+				"to": 2738400
+			},
+			"text": " going to mexico or japan you've got to check it out they offer unique guidebooks custom tailored trips"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:38,400",
+				"to": "00:45:46,010"
+			},
+			"offsets": {
+				"from": 2738400,
+				"to": 2746010
+			},
+			"text": " and a concierge service for planning your next great adventure find out more at satori satori.com"
+		}
+	]
+}

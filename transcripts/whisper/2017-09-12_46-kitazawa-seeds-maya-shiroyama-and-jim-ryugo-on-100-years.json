@@ -1,0 +1,4520 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/devon/.cache/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:08,000",
+				"to": "00:00:12,640"
+			},
+			"offsets": {
+				"from": 8000,
+				"to": 12640
+			},
+			"text": " Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,640",
+				"to": "00:00:21,320"
+			},
+			"offsets": {
+				"from": 12640,
+				"to": 21320
+			},
+			"text": " In this fifth season, we're speaking with visionary chefs, gardeners, farmers, organizers, artists, and scientists about migrations of all kinds."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,320",
+				"to": "00:00:31,500"
+			},
+			"offsets": {
+				"from": 21320,
+				"to": 31500
+			},
+			"text": " We'll hear about food and the experience of leaving home and in finding new ones, of decolonizing food traditions, and tracing recipes through the movements of diaspora."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,500",
+				"to": "00:00:35,640"
+			},
+			"offsets": {
+				"from": 31500,
+				"to": 35640
+			},
+			"text": " Delicious Revolution is made by Devon Samson and Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,640",
+				"to": "00:00:40,730"
+			},
+			"offsets": {
+				"from": 35640,
+				"to": 40730
+			},
+			"text": " You can subscribe to the show on Apple Podcasts or wherever you get your podcasts."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,730",
+				"to": "00:00:48,290"
+			},
+			"offsets": {
+				"from": 40730,
+				"to": 48290
+			},
+			"text": " And you can find all of our episodes along with pictures and more on the website deliciousrevolutionshow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,290",
+				"to": "00:01:03,320"
+			},
+			"offsets": {
+				"from": 48290,
+				"to": 63320
+			},
+			"text": " Maya Shiroyama and Jim Ryugo run Kitazawa Seeds, a hundred-year-old seed distributor based in California that specializes in Asian vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,320",
+				"to": "00:01:10,800"
+			},
+			"offsets": {
+				"from": 63320,
+				"to": 70800
+			},
+			"text": " The company was started by Giju Kitazawa in 1917, serving mostly Japanese-American gardeners on the West Coast."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,800",
+				"to": "00:01:23,240"
+			},
+			"offsets": {
+				"from": 70800,
+				"to": 83240
+			},
+			"text": " It closed for four years when the United States government sent Kitazawa and most of his customers to internment camps during World War II, and reopened in 1945 shortly after their release."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,340",
+				"to": "00:01:34,380"
+			},
+			"offsets": {
+				"from": 84340,
+				"to": 94380
+			},
+			"text": " Maya and Jim had planted the company seeds in their home garden for years, when a missing seed order led them to buying the seed company from Kitazawa's granddaughter in 2000."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,480",
+				"to": "00:01:50,770"
+			},
+			"offsets": {
+				"from": 94480,
+				"to": 110770
+			},
+			"text": " In this episode, Maya and Jim talk with Evan about the 100-year history of the seed company, the global network of growers that supply their unique inventory, and the new and old varieties dear to Asian-American gardeners and farmers around the country."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,390",
+				"to": "00:02:04,330"
+			},
+			"offsets": {
+				"from": 111390,
+				"to": 124330
+			},
+			"text": " My name is Maya Shiroyama, and I'm with Kitazawa Seed Company, and my husband."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,770",
+				"to": "00:02:08,980"
+			},
+			"offsets": {
+				"from": 124770,
+				"to": 128980
+			},
+			"text": " Hi, I'm Jim Ryugo, co-owner of Kitazawa Seed Company."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,290",
+				"to": "00:02:13,370"
+			},
+			"offsets": {
+				"from": 129290,
+				"to": 133370
+			},
+			"text": " Hey, thanks so much for making some time to talk to me, and welcome to Delicious Revolution."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,590",
+				"to": "00:02:20,970"
+			},
+			"offsets": {
+				"from": 133590,
+				"to": 140970
+			},
+			"text": " I guess I wanted to start with the fact that this business has been around for 100 years this year."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,390",
+				"to": "00:02:24,190"
+			},
+			"offsets": {
+				"from": 141390,
+				"to": 144190
+			},
+			"text": " Can you give me the history of the company?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,470",
+				"to": "00:02:34,490"
+			},
+			"offsets": {
+				"from": 144470,
+				"to": 154490
+			},
+			"text": " Kitazawa Seed Company started in 1917 by an immigrant who came to the United States probably in the early 1900s."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,350",
+				"to": "00:02:46,250"
+			},
+			"offsets": {
+				"from": 155350,
+				"to": 166250
+			},
+			"text": " He settled in the San Jose area, and he had been trained in Japan in, I guess, by a seed company."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,370",
+				"to": "00:02:48,610"
+			},
+			"offsets": {
+				"from": 166370,
+				"to": 168610
+			},
+			"text": " He was some sort of apprentice in Japan."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,170",
+				"to": "00:02:53,830"
+			},
+			"offsets": {
+				"from": 169170,
+				"to": 173830
+			},
+			"text": " So he knew a little bit about seeds, or maybe knew a lot about seeds, I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,920",
+				"to": "00:03:08,710"
+			},
+			"offsets": {
+				"from": 174920,
+				"to": 188710
+			},
+			"text": " He came to America, he set down his roots, and he realized that there were a lot of other immigrants from Japan who were longing for a taste of their homeland."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,710",
+				"to": "00:03:25,310"
+			},
+			"offsets": {
+				"from": 188710,
+				"to": 205310
+			},
+			"text": " And he started importing seeds from Japan and selling them from basically the back of his garage type of thing to other fellow immigrants up and down the coast and into the Central Valley."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,150",
+				"to": "00:03:33,370"
+			},
+			"offsets": {
+				"from": 206150,
+				"to": 213370
+			},
+			"text": " And back in the early 1900s, you literally went door-to-door, farmer-to-farmer selling your seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,550",
+				"to": "00:03:35,630"
+			},
+			"offsets": {
+				"from": 213550,
+				"to": 215630
+			},
+			"text": " It was a whole different world back then."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,630",
+				"to": "00:03:48,340"
+			},
+			"offsets": {
+				"from": 215630,
+				"to": 228340
+			},
+			"text": " And so the sale of seeds were based upon personal relationships with other farmers, word of mouth, family connections, relatives, you name it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,680",
+				"to": "00:03:55,720"
+			},
+			"offsets": {
+				"from": 228680,
+				"to": 235720
+			},
+			"text": " I would guess the Japanese-American population at that time was pretty tight-knit."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,150",
+				"to": "00:04:01,050"
+			},
+			"offsets": {
+				"from": 236150,
+				"to": 241050
+			},
+			"text": " I mean, they were bound together by language and a common heritage."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,210",
+				"to": "00:04:13,150"
+			},
+			"offsets": {
+				"from": 241210,
+				"to": 253150
+			},
+			"text": " And so they stuck together in terms of survival, but they also shared things like the food that they produced, the seeds that came from Japan that you couldn't get anyplace else."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,680",
+				"to": "00:04:19,510"
+			},
+			"offsets": {
+				"from": 253680,
+				"to": 259510
+			},
+			"text": " And so that, in a nutshell, is how the company started."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,910",
+				"to": "00:04:29,240"
+			},
+			"offsets": {
+				"from": 259910,
+				"to": 269240
+			},
+			"text": " We don't have a whole lot of information about what happened between then and, you know, their displacement during World War II."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,620",
+				"to": "00:04:31,140"
+			},
+			"offsets": {
+				"from": 269620,
+				"to": 271140
+			},
+			"text": " There's kind of this gap."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,340",
+				"to": "00:04:40,700"
+			},
+			"offsets": {
+				"from": 271340,
+				"to": 280700
+			},
+			"text": " We've tried to do some research and we've talked to people, relatives, but there isn't a whole lot of written information about what happened and how they survived."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,900",
+				"to": "00:04:47,150"
+			},
+			"offsets": {
+				"from": 280900,
+				"to": 287150
+			},
+			"text": " We just heard bits and pieces that it was a struggle selling seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,450",
+				"to": "00:04:55,420"
+			},
+			"offsets": {
+				"from": 287450,
+				"to": 295420
+			},
+			"text": " They basically worked out of their, sometimes their living room, packing seeds because you get seeds in bulk."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,620",
+				"to": "00:05:02,190"
+			},
+			"offsets": {
+				"from": 295620,
+				"to": 302190
+			},
+			"text": " You package them into smaller packages to figure out a way to distribute them or get them out to your customers."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,990",
+				"to": "00:05:09,580"
+			},
+			"offsets": {
+				"from": 302990,
+				"to": 309580
+			},
+			"text": " It was strictly, or not say strictly, it was completely kind of a cottage industry at some level."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,580",
+				"to": "00:05:19,350"
+			},
+			"offsets": {
+				"from": 309580,
+				"to": 319350
+			},
+			"text": " At another level, at some point, they had a storefront and there's like a picture on our wall showing what it kind of looked like in San Jose back in the day."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,760",
+				"to": "00:05:28,100"
+			},
+			"offsets": {
+				"from": 319760,
+				"to": 328100
+			},
+			"text": " And then after World War II, the family came back to San Jose and they kind of picked up where they left off selling seeds again."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,620",
+				"to": "00:05:35,160"
+			},
+			"offsets": {
+				"from": 328620,
+				"to": 335160
+			},
+			"text": " But again, we don't have a whole lot of information about who they are selling to or how they got their seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,260",
+				"to": "00:05:39,330"
+			},
+			"offsets": {
+				"from": 335260,
+				"to": 339330
+			},
+			"text": " It's kind of one of those mysteries that we'll never know about."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,910",
+				"to": "00:05:50,860"
+			},
+			"offsets": {
+				"from": 339910,
+				"to": 350860
+			},
+			"text": " Mr. Kitazawa, when he was selling pre-World War II, there were a lot of Japanese-American farmers on the West Coast."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,420",
+				"to": "00:06:04,230"
+			},
+			"offsets": {
+				"from": 351420,
+				"to": 364230
+			},
+			"text": " Then when World War II occurred, people lost their farms, had to either retract from the West Coast or get relocated into the camps."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,230",
+				"to": "00:06:23,940"
+			},
+			"offsets": {
+				"from": 364230,
+				"to": 383940
+			},
+			"text": " And so in that process, two things I think happened is that after World War II, the reason why my assumptions are is that Kitazawa's seed became much smaller and hit some hard times is because people, his clientele, didn't have the farms anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,940",
+				"to": "00:06:37,290"
+			},
+			"offsets": {
+				"from": 383940,
+				"to": 397290
+			},
+			"text": " So in that process is when he was also selling throughout the West Coast rather than just on the West Coast area."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,290",
+				"to": "00:06:44,160"
+			},
+			"offsets": {
+				"from": 397290,
+				"to": 404160
+			},
+			"text": " We have a real international audience, so we should talk a little bit about the internment."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,400",
+				"to": "00:06:52,260"
+			},
+			"offsets": {
+				"from": 404400,
+				"to": 412260
+			},
+			"text": " And I think it's relevant to the times that we're living through now and kind of the rise of xenophobia in our country and in Europe."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,020",
+				"to": "00:07:02,940"
+			},
+			"offsets": {
+				"from": 413020,
+				"to": 422940
+			},
+			"text": " There's a point where, because of World War II, the United States government decides to imprison all its Japanese residents."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,940",
+				"to": "00:07:10,290"
+			},
+			"offsets": {
+				"from": 422940,
+				"to": 430290
+			},
+			"text": " Yeah, I think from a historical context, and I'm just talking off the top of my head."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,690",
+				"to": "00:07:25,660"
+			},
+			"offsets": {
+				"from": 430690,
+				"to": 445660
+			},
+			"text": " So from a historical context, you know, Japanese-Americans are looking back at the 75th anniversary of the signing of the presidential, what was it, decree?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,660",
+				"to": "00:07:37,580"
+			},
+			"offsets": {
+				"from": 445660,
+				"to": 457580
+			},
+			"text": " That basically allowed the U.S. government to intern Japanese-Americans to remove them from their homes, with the exception of those living in Hawaii."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,780",
+				"to": "00:07:42,340"
+			},
+			"offsets": {
+				"from": 457780,
+				"to": 462340
+			},
+			"text": " They seem to have been somewhat allowed to stay put."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,340",
+				"to": "00:07:53,180"
+			},
+			"offsets": {
+				"from": 462340,
+				"to": 473180
+			},
+			"text": " But my parents, my grandparents, Maya's parents, her grandparents were all interned in various locations for a couple of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,700",
+				"to": "00:07:55,680"
+			},
+			"offsets": {
+				"from": 473700,
+				"to": 475680
+			},
+			"text": " My father served in the U.S. Army."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,440",
+				"to": "00:08:13,010"
+			},
+			"offsets": {
+				"from": 476440,
+				"to": 493010
+			},
+			"text": " At some point, my mother was allowed to leave the Thule Lake Camp, and she went to college back in Minnesota, where I guess it was considered she wasn't a threat to anybody being isolated in Minnesota."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,010",
+				"to": "00:08:15,790"
+			},
+			"offsets": {
+				"from": 493010,
+				"to": 495790
+			},
+			"text": " And so she was able to go to college there."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,930",
+				"to": "00:08:20,320"
+			},
+			"offsets": {
+				"from": 495930,
+				"to": 500320
+			},
+			"text": " And then my aunts and uncles, they were all interned as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,770",
+				"to": "00:08:35,230"
+			},
+			"offsets": {
+				"from": 500770,
+				"to": 515230
+			},
+			"text": " And so it was a critical point in everybody's lives in terms of the disruption from their normal daily activities to a new life in an internment camp."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,800",
+				"to": "00:08:42,590"
+			},
+			"offsets": {
+				"from": 516800,
+				"to": 522590
+			},
+			"text": " And even after getting out of the internment camp, things were not quite right."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,400",
+				"to": "00:08:51,600"
+			},
+			"offsets": {
+				"from": 524400,
+				"to": 531600
+			},
+			"text": " My parents, my father came back to their home in Sacramento to find that it was basically gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,170",
+				"to": "00:08:57,670"
+			},
+			"offsets": {
+				"from": 533170,
+				"to": 537670
+			},
+			"text": " The house that was there was there, but it was in just a terrible shape."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,830",
+				"to": "00:08:59,250"
+			},
+			"offsets": {
+				"from": 537830,
+				"to": 539250
+			},
+			"text": " None of their belongings were there."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,940",
+				"to": "00:09:02,030"
+			},
+			"offsets": {
+				"from": 539940,
+				"to": 542030
+			},
+			"text": " So they had to start over from scratch, basically."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,530",
+				"to": "00:09:07,340"
+			},
+			"offsets": {
+				"from": 542530,
+				"to": 547340
+			},
+			"text": " And I think that's kind of more of the norm for most Japanese Americans."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,480",
+				"to": "00:09:10,330"
+			},
+			"offsets": {
+				"from": 547480,
+				"to": 550330
+			},
+			"text": " I mean, there are some that were luckier."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,530",
+				"to": "00:09:21,810"
+			},
+			"offsets": {
+				"from": 550530,
+				"to": 561810
+			},
+			"text": " Perhaps their farms were taken care of by a good neighbor who basically took care of the farms when they were gone and paid the taxes and, you know, produced income while the family was gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,090",
+				"to": "00:09:25,450"
+			},
+			"offsets": {
+				"from": 562090,
+				"to": 565450
+			},
+			"text": " But I think that was more of the exception rather than the rule."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:25,720",
+				"to": "00:09:29,510"
+			},
+			"offsets": {
+				"from": 565720,
+				"to": 569510
+			},
+			"text": " Most people lost, you know, everything except what they could take with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,970",
+				"to": "00:09:30,750"
+			},
+			"offsets": {
+				"from": 569970,
+				"to": 570750
+			},
+			"text": " It's interesting."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,110",
+				"to": "00:09:46,090"
+			},
+			"offsets": {
+				"from": 571110,
+				"to": 586090
+			},
+			"text": " My paternal and maternal family were farmers on both sides and in real remote areas of California where the population was probably under 1,000."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,090",
+				"to": "00:10:03,230"
+			},
+			"offsets": {
+				"from": 586090,
+				"to": 603230
+			},
+			"text": " And it's kind of interesting when you compare what occurred in very isolated rural areas in agriculture then and metropolitan areas where my parents' families were, were very isolated and very poor areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,120",
+				"to": "00:10:11,330"
+			},
+			"offsets": {
+				"from": 604120,
+				"to": 611330
+			},
+			"text": " And they, their farms were taken care of by their neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,980",
+				"to": "00:10:19,080"
+			},
+			"offsets": {
+				"from": 611980,
+				"to": 619080
+			},
+			"text": " And their neighbors couldn't understand why they were being relocated or into these internment camps."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,540",
+				"to": "00:10:28,640"
+			},
+			"offsets": {
+				"from": 619540,
+				"to": 628640
+			},
+			"text": " And they promised them that they would take care of their property, pay their property tax, and so that they had something to come back to."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,960",
+				"to": "00:10:35,900"
+			},
+			"offsets": {
+				"from": 628960,
+				"to": 635900
+			},
+			"text": " And so it was basically just everybody trying to make a living, to make a go of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,520",
+				"to": "00:10:46,940"
+			},
+			"offsets": {
+				"from": 636520,
+				"to": 646940
+			},
+			"text": " And so it's kind of interesting that both sides of my family were able to come back to their farms and their farmhouses, which were taken care of by their neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,420",
+				"to": "00:10:55,320"
+			},
+			"offsets": {
+				"from": 647420,
+				"to": 655320
+			},
+			"text": " And I think the areas were so isolated and poor that they just couldn't understand why this was happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,980",
+				"to": "00:11:03,300"
+			},
+			"offsets": {
+				"from": 655980,
+				"to": 663300
+			},
+			"text": " And whether it's isolation, I don't know, but anyway, both of my sides of my family were able to come back to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,720",
+				"to": "00:11:08,140"
+			},
+			"offsets": {
+				"from": 663720,
+				"to": 668140
+			},
+			"text": " But like Jim said, is that when their families returned, life was not the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,540",
+				"to": "00:11:15,940"
+			},
+			"offsets": {
+				"from": 668540,
+				"to": 675940
+			},
+			"text": " There was a lot of prejudice targeted toward Japanese Americans and crops being damaged."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,640",
+				"to": "00:11:24,960"
+			},
+			"offsets": {
+				"from": 676640,
+				"to": 684960
+			},
+			"text": " My father and mother, when they first got married, they couldn't afford to buy their own farmland, and so they rented and leased farmland."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,960",
+				"to": "00:11:39,950"
+			},
+			"offsets": {
+				"from": 684960,
+				"to": 699950
+			},
+			"text": " And my parents would say how sometimes their row crops in between their orchards, like watermelons or different types of melons, would get totally punctured because people didn't want them farming in their area."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,050",
+				"to": "00:11:42,250"
+			},
+			"offsets": {
+				"from": 700050,
+				"to": 702250
+			},
+			"text": " And these are in remote areas of California."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,810",
+				"to": "00:11:49,100"
+			},
+			"offsets": {
+				"from": 702810,
+				"to": 709100
+			},
+			"text": " So they were targets, just like how, you know, the ethnicities that are targeted today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,100",
+				"to": "00:11:55,840"
+			},
+			"offsets": {
+				"from": 709100,
+				"to": 715840
+			},
+			"text": " These are the isolated groups, and the prejudices are no different than versus now."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,280",
+				"to": "00:12:03,800"
+			},
+			"offsets": {
+				"from": 716280,
+				"to": 723800
+			},
+			"text": " I grew up on Bainbridge Island, which is one of the infamous first sites of gathering people up to send them to internment camps."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,880",
+				"to": "00:12:09,570"
+			},
+			"offsets": {
+				"from": 723880,
+				"to": 729570
+			},
+			"text": " So I remember seeing some of the propaganda posters fomenting racism against Japanese folks."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,850",
+				"to": "00:12:15,550"
+			},
+			"offsets": {
+				"from": 729850,
+				"to": 735550
+			},
+			"text": " And so after a few years of that, you'd see people going out and puncturing melons."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,550",
+				"to": "00:12:28,190"
+			},
+			"offsets": {
+				"from": 735550,
+				"to": 748190
+			},
+			"text": " Yeah, it's, you know, life has been good for us along the way until recently of hysteria happening again."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,190",
+				"to": "00:12:33,750"
+			},
+			"offsets": {
+				"from": 748190,
+				"to": 753750
+			},
+			"text": " And it's hard to understand that this exists."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,010",
+				"to": "00:12:39,590"
+			},
+			"offsets": {
+				"from": 754010,
+				"to": 759590
+			},
+			"text": " But in my parents' eyes, they truly believe, I mean, they experienced it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,770",
+				"to": "00:12:41,410"
+			},
+			"offsets": {
+				"from": 759770,
+				"to": 761410
+			},
+			"text": " Very hurtful experiences."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,130",
+				"to": "00:12:42,270"
+			},
+			"offsets": {
+				"from": 762130,
+				"to": 762270
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,620",
+				"to": "00:12:49,280"
+			},
+			"offsets": {
+				"from": 762620,
+				"to": 769280
+			},
+			"text": " Well, I guess what you know about Kitazawa is that after World War II, they're able to restart the business."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,260",
+				"to": "00:12:54,320"
+			},
+			"offsets": {
+				"from": 770260,
+				"to": 774320
+			},
+			"text": " And do you know more about the company in those years after World War II?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,480",
+				"to": "00:12:58,500"
+			},
+			"offsets": {
+				"from": 774480,
+				"to": 778500
+			},
+			"text": " We just knew through family members that it was very lean years."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,940",
+				"to": "00:13:06,760"
+			},
+			"offsets": {
+				"from": 778940,
+				"to": 786760
+			},
+			"text": " And who knows what happens, you know, everybody's experiences from those camps of what it does to you personally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,300",
+				"to": "00:13:16,640"
+			},
+			"offsets": {
+				"from": 787300,
+				"to": 796640
+			},
+			"text": " or how much it injures you, it just did not come back like it was, as it was prior to World War II."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,840",
+				"to": "00:13:28,670"
+			},
+			"offsets": {
+				"from": 796840,
+				"to": 808670
+			},
+			"text": " And so I don't know what happened to the family, but they just said that the business shrank and they continued to run it out of their home."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,390",
+				"to": "00:13:35,620"
+			},
+			"offsets": {
+				"from": 809390,
+				"to": 815620
+			},
+			"text": " Let's talk a little bit about kind of the parallel history of when I understand that you're both gardeners"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,620",
+				"to": "00:13:40,580"
+			},
+			"offsets": {
+				"from": 815620,
+				"to": 820580
+			},
+			"text": " and that you were using, buying Kitazawa seed in your home garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,900",
+				"to": "00:13:42,940"
+			},
+			"offsets": {
+				"from": 820900,
+				"to": 822940
+			},
+			"text": " Is that, was that your first contact with the company?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,940",
+				"to": "00:13:55,680"
+			},
+			"offsets": {
+				"from": 822940,
+				"to": 835680
+			},
+			"text": " Well, I used to, my being from farming families, that my grandparents taught me how to garden with Kitazawa seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,900",
+				"to": "00:14:03,270"
+			},
+			"offsets": {
+				"from": 835900,
+				"to": 843270
+			},
+			"text": " And I remember the manila envelope with the green ink stamp on it, and which we continue to use today."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,770",
+				"to": "00:14:11,080"
+			},
+			"offsets": {
+				"from": 843770,
+				"to": 851080
+			},
+			"text": " And the role of the Kitazawa seeds, historically, is huge in Japanese-American culinary."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,720",
+				"to": "00:14:13,740"
+			},
+			"offsets": {
+				"from": 851720,
+				"to": 853740
+			},
+			"text": " So anyway, that's how I learned."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,900",
+				"to": "00:14:16,910"
+			},
+			"offsets": {
+				"from": 853900,
+				"to": 856910
+			},
+			"text": " And then my parents always had gardens."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,230",
+				"to": "00:14:25,310"
+			},
+			"offsets": {
+				"from": 857230,
+				"to": 865310
+			},
+			"text": " I grew up on a farm, and we continue to garden that way, providing our own vegetables for our table."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,710",
+				"to": "00:14:32,350"
+			},
+			"offsets": {
+				"from": 865710,
+				"to": 872350
+			},
+			"text": " And then one year, my father asked, hey, I didn't get my mail order, and I didn't know what's going to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,490",
+				"to": "00:14:34,990"
+			},
+			"offsets": {
+				"from": 872490,
+				"to": 874990
+			},
+			"text": " And so he asked me to go down to San Jose."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,450",
+				"to": "00:14:42,990"
+			},
+			"offsets": {
+				"from": 875450,
+				"to": 882990
+			},
+			"text": " And so I found out that the last person who was running the company passed away, and they didn't know what was going to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,960",
+				"to": "00:14:54,250"
+			},
+			"offsets": {
+				"from": 883960,
+				"to": 894250
+			},
+			"text": " And so Helen Komatsu was running the company at that time, and she said, well, I'll send your seeds, but she said, I don't know what's going to happen to this company."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,450",
+				"to": "00:15:03,110"
+			},
+			"offsets": {
+				"from": 894450,
+				"to": 903110
+			},
+			"text": " And I felt, I did tell her that your company has such a huge part of Japanese-American history that it just can't go under."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,110",
+				"to": "00:15:15,810"
+			},
+			"offsets": {
+				"from": 903110,
+				"to": 915810
+			},
+			"text": " And so we had discussions about if it was going to be closed, that it would be something that I think that I would like to pursue and to continue it on as a legacy."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,290",
+				"to": "00:15:22,120"
+			},
+			"offsets": {
+				"from": 916290,
+				"to": 922120
+			},
+			"text": " And so it took about three or four months, and she called, and she said, I've had it."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,160",
+				"to": "00:15:22,700"
+			},
+			"offsets": {
+				"from": 922160,
+				"to": 922700
+			},
+			"text": " I'm done."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,060",
+				"to": "00:15:31,420"
+			},
+			"offsets": {
+				"from": 923060,
+				"to": 931420
+			},
+			"text": " My mimeograph machine broke down, and I don't know how to produce these packets anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,940",
+				"to": "00:15:38,830"
+			},
+			"offsets": {
+				"from": 931940,
+				"to": 938830
+			},
+			"text": " So, lo and behold, we came to an agreement, and that's how we landed with Kitazawa Seed Company."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,370",
+				"to": "00:15:46,490"
+			},
+			"offsets": {
+				"from": 939370,
+				"to": 946490
+			},
+			"text": " So, yeah, it's been, it's a great, a great industry to be in, the seed industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,910",
+				"to": "00:15:48,230"
+			},
+			"offsets": {
+				"from": 946910,
+				"to": 948230
+			},
+			"text": " Every day is new."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,790",
+				"to": "00:16:02,340"
+			},
+			"offsets": {
+				"from": 948790,
+				"to": 962340
+			},
+			"text": " There's so much change always happening, and the clientele of working with farmers, specialty growers, chefs, retailers, home gardeners across the U.S."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,340",
+				"to": "00:16:04,960"
+			},
+			"offsets": {
+				"from": 962340,
+				"to": 964960
+			},
+			"text": " It's been a really great experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,480",
+				"to": "00:16:09,410"
+			},
+			"offsets": {
+				"from": 965480,
+				"to": 969410
+			},
+			"text": " Yeah, what were you doing for a living before you became seed sellers?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,610",
+				"to": "00:16:12,270"
+			},
+			"offsets": {
+				"from": 970610,
+				"to": 972270
+			},
+			"text": " What was the transition like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,270",
+				"to": "00:16:13,510"
+			},
+			"offsets": {
+				"from": 972270,
+				"to": 973510
+			},
+			"text": " What was the transition?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,810",
+				"to": "00:16:16,090"
+			},
+			"offsets": {
+				"from": 974810,
+				"to": 976090
+			},
+			"text": " Well, let's see."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,190",
+				"to": "00:16:18,270"
+			},
+			"offsets": {
+				"from": 976190,
+				"to": 978270
+			},
+			"text": " What was I doing before Kitazawa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:18,750",
+				"to": "00:16:24,410"
+			},
+			"offsets": {
+				"from": 978750,
+				"to": 984410
+			},
+			"text": " Well, my early part of my career, I was doing market research in the housing industry."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,790",
+				"to": "00:16:42,550"
+			},
+			"offsets": {
+				"from": 984790,
+				"to": 1002550
+			},
+			"text": " Something totally different, very analytical, very little face-to-face except with corporate-type meeting situations versus, you know, real basic food-to-table type conversations, which is so refreshing."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,550",
+				"to": "00:16:54,920"
+			},
+			"offsets": {
+				"from": 1002550,
+				"to": 1014920
+			},
+			"text": " So, that's the difference is doing market analyzing versus dealing with home gardeners and plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,560",
+				"to": "00:17:02,420"
+			},
+			"offsets": {
+				"from": 1015560,
+				"to": 1022420
+			},
+			"text": " Was there a point when you thought, like, what did I get myself into in the seed industry, or has it been fun the whole time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:02,910",
+				"to": "00:17:12,950"
+			},
+			"offsets": {
+				"from": 1022910,
+				"to": 1032950
+			},
+			"text": " Well, it's, over the last 20 years, it's been transitions of, when we took over the business, there was a huge learning curve."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,110",
+				"to": "00:17:14,850"
+			},
+			"offsets": {
+				"from": 1033110,
+				"to": 1034850
+			},
+			"text": " I mean, and it had to be immediate."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,390",
+				"to": "00:17:22,790"
+			},
+			"offsets": {
+				"from": 1035390,
+				"to": 1042790
+			},
+			"text": " And we also saw the shrinking clientele of the Kitazawa business."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,930",
+				"to": "00:17:25,610"
+			},
+			"offsets": {
+				"from": 1042930,
+				"to": 1045610
+			},
+			"text": " It was mostly all Japanese-Americans."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,350",
+				"to": "00:17:31,410"
+			},
+			"offsets": {
+				"from": 1046350,
+				"to": 1051410
+			},
+			"text": " So, through that, the first three or four years, at that time, no internet."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,830",
+				"to": "00:17:42,870"
+			},
+			"offsets": {
+				"from": 1051830,
+				"to": 1062870
+			},
+			"text": " And so, I committed probably eight hours a day, five days a week, writing letters to chefs, newspapers, and magazines."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,870",
+				"to": "00:17:43,230"
+			},
+			"offsets": {
+				"from": 1062870,
+				"to": 1063230
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,630",
+				"to": "00:17:43,910"
+			},
+			"offsets": {
+				"from": 1063630,
+				"to": 1063910
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,130",
+				"to": "00:17:47,290"
+			},
+			"offsets": {
+				"from": 1064130,
+				"to": 1067290
+			},
+			"text": " And it was basically cold calling."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,290",
+				"to": "00:18:01,360"
+			},
+			"offsets": {
+				"from": 1067290,
+				"to": 1081360
+			},
+			"text": " Then we were fortunate to land, gosh, within three months of taking over the business, we had a four-page layout in House and Garden Magazine, which was a national magazine."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,700",
+				"to": "00:18:03,680"
+			},
+			"offsets": {
+				"from": 1081700,
+				"to": 1083680
+			},
+			"text": " And I was like, wow, this is the best thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,760",
+				"to": "00:18:05,180"
+			},
+			"offsets": {
+				"from": 1083760,
+				"to": 1085180
+			},
+			"text": " This is going to be so easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,560",
+				"to": "00:18:07,120"
+			},
+			"offsets": {
+				"from": 1085560,
+				"to": 1087120
+			},
+			"text": " Letter from Martha Stewart."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,700",
+				"to": "00:18:09,680"
+			},
+			"offsets": {
+				"from": 1087700,
+				"to": 1089680
+			},
+			"text": " I mean, this is easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,100",
+				"to": "00:18:14,320"
+			},
+			"offsets": {
+				"from": 1091100,
+				"to": 1094320
+			},
+			"text": " So, anyway, we had a lot of fortune along the way."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,320",
+				"to": "00:18:16,280"
+			},
+			"offsets": {
+				"from": 1094320,
+				"to": 1096280
+			},
+			"text": " That people were recognizing us."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,280",
+				"to": "00:18:22,040"
+			},
+			"offsets": {
+				"from": 1096280,
+				"to": 1102040
+			},
+			"text": " And then the power of the internet happened, and it brought in a whole other way of doing business."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,740",
+				"to": "00:18:31,700"
+			},
+			"offsets": {
+				"from": 1102740,
+				"to": 1111700
+			},
+			"text": " And that basically also gave us some global interaction with customers that we've been working with for many years now."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,180",
+				"to": "00:18:34,020"
+			},
+			"offsets": {
+				"from": 1113180,
+				"to": 1114020
+			},
+			"text": " And so, we work with exporting."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,020",
+				"to": "00:18:46,460"
+			},
+			"offsets": {
+				"from": 1114020,
+				"to": 1126460
+			},
+			"text": " And over the last 10 years, what's been a fun part of our business and a good part of our business is to support U.S. agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,810",
+				"to": "00:18:57,960"
+			},
+			"offsets": {
+				"from": 1127810,
+				"to": 1137960
+			},
+			"text": " Kitazawa seed company initially was importing all their seed, the Asian varieties, because a lot of them cannot be produced in the U.S."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,960",
+				"to": "00:19:03,250"
+			},
+			"offsets": {
+				"from": 1137960,
+				"to": 1143250
+			},
+			"text": " And so, that was something that always bothered our philosophy."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,110",
+				"to": "00:19:09,750"
+			},
+			"offsets": {
+				"from": 1144110,
+				"to": 1149750
+			},
+			"text": " And so, we made it a decision to support U.S. agriculture."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,430",
+				"to": "00:19:16,490"
+			},
+			"offsets": {
+				"from": 1150430,
+				"to": 1156490
+			},
+			"text": " And so, now, over half of our business is selling U.S.-provided seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,040",
+				"to": "00:19:18,800"
+			},
+			"offsets": {
+				"from": 1157040,
+				"to": 1158800
+			},
+			"text": " And so, we're doing both."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,920",
+				"to": "00:19:25,260"
+			},
+			"offsets": {
+				"from": 1158920,
+				"to": 1165260
+			},
+			"text": " We're importing and we're also exporting U.S.-grown seed and selling U.S.-grown seed in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,650",
+				"to": "00:19:30,230"
+			},
+			"offsets": {
+				"from": 1165650,
+				"to": 1170230
+			},
+			"text": " And who are the seed growers, or what does a seed-growing farm look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,310",
+				"to": "00:19:32,250"
+			},
+			"offsets": {
+				"from": 1170310,
+				"to": 1172250
+			},
+			"text": " Seeds are a global commodity."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,330",
+				"to": "00:19:38,130"
+			},
+			"offsets": {
+				"from": 1173330,
+				"to": 1178130
+			},
+			"text": " Seeds are essential for agricultural production across the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,130",
+				"to": "00:19:46,300"
+			},
+			"offsets": {
+				"from": 1178130,
+				"to": 1186300
+			},
+			"text": " And so, it's interesting even that we work primarily with, say, Japanese seed companies."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,840",
+				"to": "00:19:55,510"
+			},
+			"offsets": {
+				"from": 1186840,
+				"to": 1195510
+			},
+			"text": " These companies have had a U.S. presence for 30, 40 years because Japan's land mass is relatively small."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,750",
+				"to": "00:19:58,190"
+			},
+			"offsets": {
+				"from": 1195750,
+				"to": 1198190
+			},
+			"text": " You know, we know it's about the same size as California."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,030",
+				"to": "00:20:09,730"
+			},
+			"offsets": {
+				"from": 1199030,
+				"to": 1209730
+			},
+			"text": " And so, these seed companies have a global presence both in California, across into Oregon, Washington, Arizona, even down to Mexico."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,570",
+				"to": "00:20:18,840"
+			},
+			"offsets": {
+				"from": 1210570,
+				"to": 1218840
+			},
+			"text": " And seed companies today have a presence in the Southern Hemisphere because their seasons are opposite from ours."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,840",
+				"to": "00:20:27,730"
+			},
+			"offsets": {
+				"from": 1218840,
+				"to": 1227730
+			},
+			"text": " And so, they can grow their seeds year-round because of the North and Southern Hemispheres being opposite seasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,050",
+				"to": "00:20:32,350"
+			},
+			"offsets": {
+				"from": 1228050,
+				"to": 1232350
+			},
+			"text": " And it's also as an insurance to prevent, you know, crop failure."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:32,350",
+				"to": "00:20:39,540"
+			},
+			"offsets": {
+				"from": 1232350,
+				"to": 1239540
+			},
+			"text": " So, if a crop failure occurs in Northern Hemisphere, perhaps the Southern Hemisphere doesn't have a crop failure."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,720",
+				"to": "00:20:44,680"
+			},
+			"offsets": {
+				"from": 1239720,
+				"to": 1244680
+			},
+			"text": " And so, the seeds produced in the Southern Hemisphere will supplement the North and vice versa."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,040",
+				"to": "00:20:52,100"
+			},
+			"offsets": {
+				"from": 1245040,
+				"to": 1252100
+			},
+			"text": " And so, it's a very diverse set of circumstances that powers seed production everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,700",
+				"to": "00:21:04,720"
+			},
+			"offsets": {
+				"from": 1252700,
+				"to": 1264720
+			},
+			"text": " And because of that, you will find, like in California, you drive down Highway 5 in an isolated part of the state, you'll see a little plot of land that's green."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,940",
+				"to": "00:21:07,240"
+			},
+			"offsets": {
+				"from": 1264940,
+				"to": 1267240
+			},
+			"text": " And it's like, what are these people doing out in the middle of nowhere?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,240",
+				"to": "00:21:21,350"
+			},
+			"offsets": {
+				"from": 1267240,
+				"to": 1281350
+			},
+			"text": " Well, odds are they're probably producing seeds because they want the seeds to be grown in an isolated area where it can't be cross-pollinated by some other pollen that gets away and contaminates the field."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,350",
+				"to": "00:21:25,930"
+			},
+			"offsets": {
+				"from": 1281350,
+				"to": 1285930
+			},
+			"text": " So, isolation is really very important for seed production."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,930",
+				"to": "00:21:44,230"
+			},
+			"offsets": {
+				"from": 1285930,
+				"to": 1304230
+			},
+			"text": " And so, there are large areas of California and now in Oregon, Idaho, Washington that are remote where seed producers can be assured that there'll be no cross-pollination taking place that might damage or interrupt their seed production."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,860",
+				"to": "00:21:49,950"
+			},
+			"offsets": {
+				"from": 1304860,
+				"to": 1309950
+			},
+			"text": " So, that's one of the issues that we recognize is that it is a global commodity."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,610",
+				"to": "00:21:53,600"
+			},
+			"offsets": {
+				"from": 1310610,
+				"to": 1313600
+			},
+			"text": " Seeds are being produced here in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,000",
+				"to": "00:21:56,980"
+			},
+			"offsets": {
+				"from": 1314000,
+				"to": 1316980
+			},
+			"text": " They're shipped to Japan where it might be further processed."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,700",
+				"to": "00:22:04,480"
+			},
+			"offsets": {
+				"from": 1317700,
+				"to": 1324480
+			},
+			"text": " They get shipped back to us where we repackage them and sell them and vice versa."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,720",
+				"to": "00:22:06,680"
+			},
+			"offsets": {
+				"from": 1324720,
+				"to": 1326680
+			},
+			"text": " Lots of seeds are produced here in the U.S."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,680",
+				"to": "00:22:13,520"
+			},
+			"offsets": {
+				"from": 1326680,
+				"to": 1333520
+			},
+			"text": " They package, sent to Japan, sent to China, sent all over the world to feed the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:14,100",
+				"to": "00:22:16,360"
+			},
+			"offsets": {
+				"from": 1334100,
+				"to": 1336360
+			},
+			"text": " So, it's an interesting process to watch."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,360",
+				"to": "00:22:30,780"
+			},
+			"offsets": {
+				"from": 1336360,
+				"to": 1350780
+			},
+			"text": " It's pretty amazing how much we rely on others to produce our seeds, not just other countries, but other businesses in terms of the global reach and how important it is to have these global connections."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,260",
+				"to": "00:22:44,950"
+			},
+			"offsets": {
+				"from": 1351260,
+				"to": 1364950
+			},
+			"text": " And again, it comes back to the whole notion that for all this to work, we have to work together with other producing countries in order for this to all make sense and to pencil out financially."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,950",
+				"to": "00:23:03,050"
+			},
+			"offsets": {
+				"from": 1364950,
+				"to": 1383050
+			},
+			"text": " And as soon as you start talking about tariffs or political exercises to try and change the way things are, it does have an influence on some basic things like what we eat, what's it going to cost for us to produce food, who's going to buy our food, who are we going to sell our food to."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:03,370",
+				"to": "00:23:09,030"
+			},
+			"offsets": {
+				"from": 1383370,
+				"to": 1389030
+			},
+			"text": " I mean, it gets very complicated because it's all part of this bigger global economy."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,030",
+				"to": "00:23:18,900"
+			},
+			"offsets": {
+				"from": 1389030,
+				"to": 1398900
+			},
+			"text": " Also, the seed production is also influenced by labor costs because some seed production takes a lot of manual labor."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,280",
+				"to": "00:23:29,660"
+			},
+			"offsets": {
+				"from": 1399280,
+				"to": 1409660
+			},
+			"text": " And so, you'll find that regions where seed production occurs internationally will also follow those economic patterns of where seed will be produced."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,660",
+				"to": "00:23:39,530"
+			},
+			"offsets": {
+				"from": 1409660,
+				"to": 1419530
+			},
+			"text": " I mentioned before we started recording that my mom used to buy pitazawa seeds and varieties like red Russian kale and mizuna, things that at that time you couldn't find anywhere else."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,790",
+				"to": "00:23:41,630"
+			},
+			"offsets": {
+				"from": 1419790,
+				"to": 1421630
+			},
+			"text": " Of course, you can find those everywhere now."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,350",
+				"to": "00:23:49,900"
+			},
+			"offsets": {
+				"from": 1422350,
+				"to": 1429900
+			},
+			"text": " By maintaining this global network of providers and of customers, there's access to this incredible amount of biodiversity."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,940",
+				"to": "00:23:58,120"
+			},
+			"offsets": {
+				"from": 1430940,
+				"to": 1438120
+			},
+			"text": " There's, you know, as I said, that there's a lot of species that we offer that cannot be produced in the United States."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,650",
+				"to": "00:24:03,860"
+			},
+			"offsets": {
+				"from": 1438650,
+				"to": 1443860
+			},
+			"text": " And the culinary scene in the United States has made them very popular."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,860",
+				"to": "00:24:12,690"
+			},
+			"offsets": {
+				"from": 1443860,
+				"to": 1452690
+			},
+			"text": " So, what we do is we search for those rare open pollinate varieties that a lot of people are asking us to find."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,950",
+				"to": "00:24:27,680"
+			},
+			"offsets": {
+				"from": 1452950,
+				"to": 1467680
+			},
+			"text": " And we work with seed companies in Japan that search for small productions or look for species for us because they know what we do here in the United States and they want to assist us in bringing unique seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,100",
+				"to": "00:24:35,490"
+			},
+			"offsets": {
+				"from": 1468100,
+				"to": 1475490
+			},
+			"text": " So, one seed that we've carried for 100 years is the shishito pepper."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,490",
+				"to": "00:24:46,920"
+			},
+			"offsets": {
+				"from": 1475490,
+				"to": 1486920
+			},
+			"text": " And now I see it sold at Trader Joe's and Safeway and served as an app at the Cheesecake Factory."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:47,580",
+				"to": "00:24:55,110"
+			},
+			"offsets": {
+				"from": 1487580,
+				"to": 1495110
+			},
+			"text": " And it seems like it took 100 years to bring it to the American table."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,370",
+				"to": "00:25:05,740"
+			},
+			"offsets": {
+				"from": 1496370,
+				"to": 1505740
+			},
+			"text": " And just the other day, I mean, a big farmer said, oh, a chain store wants me to grow this shishito pepper."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,880",
+				"to": "00:25:07,680"
+			},
+			"offsets": {
+				"from": 1505880,
+				"to": 1507680
+			},
+			"text": " So, what is this shishito pepper?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,060",
+				"to": "00:25:09,580"
+			},
+			"offsets": {
+				"from": 1508060,
+				"to": 1509580
+			},
+			"text": " What makes it so special?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,220",
+				"to": "00:25:12,480"
+			},
+			"offsets": {
+				"from": 1510220,
+				"to": 1512480
+			},
+			"text": " So, anyway, it was new to him."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,760",
+				"to": "00:25:15,780"
+			},
+			"offsets": {
+				"from": 1512760,
+				"to": 1515780
+			},
+			"text": " And so, I had to explain to him how long it had existed."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,080",
+				"to": "00:25:20,380"
+			},
+			"offsets": {
+				"from": 1516080,
+				"to": 1520380
+			},
+			"text": " And he's like, he couldn't believe it that it was under the radar for this long."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,190",
+				"to": "00:25:35,450"
+			},
+			"offsets": {
+				"from": 1521190,
+				"to": 1535450
+			},
+			"text": " But we have some old heirlooms here that are still are not mainstream here, but have existed so long in Asia that they're daily products for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,510",
+				"to": "00:25:44,260"
+			},
+			"offsets": {
+				"from": 1536510,
+				"to": 1544260
+			},
+			"text": " I mean, we carry things like the Kamo eggplant, which is what we call a dento yasai of Japan."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,260",
+				"to": "00:25:50,980"
+			},
+			"offsets": {
+				"from": 1544260,
+				"to": 1550980
+			},
+			"text": " It's like a treasured variety, maybe equivalent to what we call here an heirloom."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,520",
+				"to": "00:25:54,540"
+			},
+			"offsets": {
+				"from": 1551520,
+				"to": 1554540
+			},
+			"text": " We have shishigatani squash."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,720",
+				"to": "00:25:56,200"
+			},
+			"offsets": {
+				"from": 1554720,
+				"to": 1556200
+			},
+			"text": " It's a Japanese pumpkin."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,160",
+				"to": "00:25:58,620"
+			},
+			"offsets": {
+				"from": 1557160,
+				"to": 1558620
+			},
+			"text": " The manganji pepper."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,780",
+				"to": "00:26:12,040"
+			},
+			"offsets": {
+				"from": 1559780,
+				"to": 1572040
+			},
+			"text": " That's an old variety that is not even, I mean, people, I think, who are into the Asian culinary scene or have traveled can identify with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,040",
+				"to": "00:26:16,620"
+			},
+			"offsets": {
+				"from": 1572040,
+				"to": 1576620
+			},
+			"text": " Or chefs that have, like, seriously studied cuisine in Asia might know of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,780",
+				"to": "00:26:28,580"
+			},
+			"offsets": {
+				"from": 1576780,
+				"to": 1588580
+			},
+			"text": " But one of our main purposes here is to provide these specialty varieties that are known in other parts of the world, but not here."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,160",
+				"to": "00:26:31,700"
+			},
+			"offsets": {
+				"from": 1589160,
+				"to": 1591700
+			},
+			"text": " So, we're trying to still get the word out."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,940",
+				"to": "00:26:35,920"
+			},
+			"offsets": {
+				"from": 1592940,
+				"to": 1595920
+			},
+			"text": " Do you go out searching for vegetable varieties?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,040",
+				"to": "00:26:36,800"
+			},
+			"offsets": {
+				"from": 1596040,
+				"to": 1596800
+			},
+			"text": " That sounds amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,020",
+				"to": "00:26:37,500"
+			},
+			"offsets": {
+				"from": 1597020,
+				"to": 1597500
+			},
+			"text": " We do."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,720",
+				"to": "00:26:46,460"
+			},
+			"offsets": {
+				"from": 1597720,
+				"to": 1606460
+			},
+			"text": " That's something that our relationships globally, we've been working with them for a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,290",
+				"to": "00:26:52,830"
+			},
+			"offsets": {
+				"from": 1607290,
+				"to": 1612830
+			},
+			"text": " And prior to our ownership, we've still been maintaining those relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,870",
+				"to": "00:27:04,460"
+			},
+			"offsets": {
+				"from": 1613870,
+				"to": 1624460
+			},
+			"text": " And so, they constantly have their ears open or evaluate what we have, our offering here, and we'll make suggestions to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,620",
+				"to": "00:27:11,480"
+			},
+			"offsets": {
+				"from": 1624620,
+				"to": 1631480
+			},
+			"text": " And because there's all these different little regions throughout Asia that have these specialty varieties."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,860",
+				"to": "00:27:12,220"
+			},
+			"offsets": {
+				"from": 1631860,
+				"to": 1632220
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,280",
+				"to": "00:27:16,300"
+			},
+			"offsets": {
+				"from": 1632280,
+				"to": 1636300
+			},
+			"text": " What are some examples of recent ones or ones that you would like to carry?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,640",
+				"to": "00:27:23,960"
+			},
+			"offsets": {
+				"from": 1636640,
+				"to": 1643960
+			},
+			"text": " We just started to import Chinese cabbages that were developed in Korea specifically for making kimchi."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,590",
+				"to": "00:27:27,430"
+			},
+			"offsets": {
+				"from": 1644590,
+				"to": 1647430
+			},
+			"text": " And so, a lot of our customers are interested in making kimchi."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:28,690",
+				"to": "00:27:34,930"
+			},
+			"offsets": {
+				"from": 1648690,
+				"to": 1654930
+			},
+			"text": " And so, what's different about these varieties from Korea is that they have a lower moisture content."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,730",
+				"to": "00:27:48,290"
+			},
+			"offsets": {
+				"from": 1655730,
+				"to": 1668290
+			},
+			"text": " And so, when you're making kimchi, you want kind of a drier Chinese cabbage, so you don't have to use as much salt to draw out all the fluid that's in the leaves and not affect the flavor."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,510",
+				"to": "00:27:53,580"
+			},
+			"offsets": {
+				"from": 1668510,
+				"to": 1673580
+			},
+			"text": " So, that's an example of something that, you know, the Koreans have been making kimchi forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,320",
+				"to": "00:28:07,950"
+			},
+			"offsets": {
+				"from": 1674320,
+				"to": 1687950
+			},
+			"text": " And so, selling a Korean variety of Chinese cabbage that's for the kimchi market is perfect for people who want to experiment with kimchi and to kind of replicate what is done in Korea."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,950",
+				"to": "00:28:16,970"
+			},
+			"offsets": {
+				"from": 1687950,
+				"to": 1696970
+			},
+			"text": " It's also interesting that it wasn't too long ago that, you know, we didn't have refrigeration when you think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,280",
+				"to": "00:28:18,880"
+			},
+			"offsets": {
+				"from": 1697280,
+				"to": 1698880
+			},
+			"text": " We used ice boxes."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,220",
+				"to": "00:28:21,460"
+			},
+			"offsets": {
+				"from": 1699220,
+				"to": 1701460
+			},
+			"text": " And prior to ice boxes, guess what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,760",
+				"to": "00:28:23,240"
+			},
+			"offsets": {
+				"from": 1701760,
+				"to": 1703240
+			},
+			"text": " There wasn't refrigeration."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,420",
+				"to": "00:28:25,000"
+			},
+			"offsets": {
+				"from": 1703420,
+				"to": 1705000
+			},
+			"text": " All of our foods were pickled."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,450",
+				"to": "00:28:27,420"
+			},
+			"offsets": {
+				"from": 1705450,
+				"to": 1707420
+			},
+			"text": " They were salted, pickled, dried."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,840",
+				"to": "00:28:30,080"
+			},
+			"offsets": {
+				"from": 1707840,
+				"to": 1710080
+			},
+			"text": " And that's how we survived."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,680",
+				"to": "00:28:40,800"
+			},
+			"offsets": {
+				"from": 1710680,
+				"to": 1720800
+			},
+			"text": " And it's interesting for me to think about the history of man not too long ago not having refrigeration."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,800",
+				"to": "00:28:49,610"
+			},
+			"offsets": {
+				"from": 1720800,
+				"to": 1729610
+			},
+			"text": " And a good portion of the world today still do not have refrigeration, yet they're able to eat because they're preserving foods in a very traditional way."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,610",
+				"to": "00:28:53,990"
+			},
+			"offsets": {
+				"from": 1729610,
+				"to": 1733990
+			},
+			"text": " On the flip side, we're being told salt is bad for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,130",
+				"to": "00:28:58,150"
+			},
+			"offsets": {
+				"from": 1734130,
+				"to": 1738150
+			},
+			"text": " We eat too much salt and it creates high blood pressure, etc."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,530",
+				"to": "00:29:06,310"
+			},
+			"offsets": {
+				"from": 1738530,
+				"to": 1746310
+			},
+			"text": " Yet, at the same time, mankind has been using salt to preserve foods for as long as we've been walking on this earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,530",
+				"to": "00:29:15,880"
+			},
+			"offsets": {
+				"from": 1746530,
+				"to": 1755880
+			},
+			"text": " So, there's a bit of a contradiction in terms of how much salt we eat versus how much salt we should be using to preserve our food because that's the way we have evolved."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,220",
+				"to": "00:29:25,360"
+			},
+			"offsets": {
+				"from": 1756220,
+				"to": 1765360
+			},
+			"text": " And instead, we're looking at using food preservatives that none of us can pronounce, let alone even understand how it works."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,140",
+				"to": "00:29:40,660"
+			},
+			"offsets": {
+				"from": 1766140,
+				"to": 1780660
+			},
+			"text": " And so, we live in a complicated world where we're being told salt is bad for us, yet at the same time, we've been pickling our vegetables for eons using salt, basically, and vinegar in simple food processes."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,020",
+				"to": "00:29:51,150"
+			},
+			"offsets": {
+				"from": 1781020,
+				"to": 1791150
+			},
+			"text": " I come back to this notion that many of the varieties that are produced in Asia and in Japan were produced specifically for pickling."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,430",
+				"to": "00:29:51,650"
+			},
+			"offsets": {
+				"from": 1791430,
+				"to": 1791650
+			},
+			"text": " Why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,770",
+				"to": "00:30:03,340"
+			},
+			"offsets": {
+				"from": 1791770,
+				"to": 1803340
+			},
+			"text": " Because they had really distinctive flavors that you could add a lot of salt to it, you could pickle it, and the flavor still comes out through all of this, you know, processing and preservation."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,340",
+				"to": "00:30:13,590"
+			},
+			"offsets": {
+				"from": 1803340,
+				"to": 1813590
+			},
+			"text": " And that's an important thing to think about for small producers or even home gardeners who want to, you know, capture the best flavor."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,910",
+				"to": "00:30:14,930"
+			},
+			"offsets": {
+				"from": 1813910,
+				"to": 1814930
+			},
+			"text": " You can do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,230",
+				"to": "00:30:17,610"
+			},
+			"offsets": {
+				"from": 1815230,
+				"to": 1817610
+			},
+			"text": " And if you're into pickling, because guess what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,670",
+				"to": "00:30:23,110"
+			},
+			"offsets": {
+				"from": 1817670,
+				"to": 1823110
+			},
+			"text": " When you have a small garden and you produce all these vegetables, you can't possibly eat them all at once."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,310",
+				"to": "00:30:30,760"
+			},
+			"offsets": {
+				"from": 1823310,
+				"to": 1830760
+			},
+			"text": " You have to either give them away, refrigerate them, which we don't have refrigerators big enough, or you pickle them."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,940",
+				"to": "00:30:32,100"
+			},
+			"offsets": {
+				"from": 1830940,
+				"to": 1832100
+			},
+			"text": " You can them or pickle them."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,750",
+				"to": "00:30:34,410"
+			},
+			"offsets": {
+				"from": 1832750,
+				"to": 1834410
+			},
+			"text": " And that's the way of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:34,550",
+				"to": "00:30:38,050"
+			},
+			"offsets": {
+				"from": 1834550,
+				"to": 1838050
+			},
+			"text": " I mean, that's how people have been doing it for long periods of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,130",
+				"to": "00:30:38,830"
+			},
+			"offsets": {
+				"from": 1838130,
+				"to": 1838830
+			},
+			"text": " They're still pickling."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,830",
+				"to": "00:30:47,450"
+			},
+			"offsets": {
+				"from": 1838830,
+				"to": 1847450
+			},
+			"text": " And it's just ironic and perhaps coincidental that there's a growing interest today in people learning how to pickle."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,830",
+				"to": "00:30:48,710"
+			},
+			"offsets": {
+				"from": 1847830,
+				"to": 1848710
+			},
+			"text": " And it's like, really?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,190",
+				"to": "00:30:50,810"
+			},
+			"offsets": {
+				"from": 1849190,
+				"to": 1850810
+			},
+			"text": " I thought everybody knew how to pickle."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,910",
+				"to": "00:31:07,150"
+			},
+			"offsets": {
+				"from": 1852910,
+				"to": 1867150
+			},
+			"text": " But if you've lived in urban life, you know, for generations, and you don't have access to fresh vegetables, and you don't know how to pickle, I mean, it's just the way things are."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,490",
+				"to": "00:31:19,880"
+			},
+			"offsets": {
+				"from": 1867490,
+				"to": 1879880
+			},
+			"text": " And so, there's new interest in basic food preservation and trying to come up with new ways, not new ways, but new flavors of pickling."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:19,960",
+				"to": "00:31:22,480"
+			},
+			"offsets": {
+				"from": 1879960,
+				"to": 1882480
+			},
+			"text": " And you're seeing that also in restaurants as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,480",
+				"to": "00:31:23,480"
+			},
+			"offsets": {
+				"from": 1882480,
+				"to": 1883480
+			},
+			"text": " People are experimenting."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,720",
+				"to": "00:31:30,990"
+			},
+			"offsets": {
+				"from": 1883720,
+				"to": 1890990
+			},
+			"text": " They're putting together different combinations of vegetables and spices to pickle things and serve them up."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,330",
+				"to": "00:31:31,870"
+			},
+			"offsets": {
+				"from": 1891330,
+				"to": 1891870
+			},
+			"text": " And guess what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,930",
+				"to": "00:31:33,410"
+			},
+			"offsets": {
+				"from": 1891930,
+				"to": 1893410
+			},
+			"text": " It doesn't require refrigeration."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,510",
+				"to": "00:31:34,430"
+			},
+			"offsets": {
+				"from": 1893510,
+				"to": 1894430
+			},
+			"text": " It stores well."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,790",
+				"to": "00:31:36,210"
+			},
+			"offsets": {
+				"from": 1894790,
+				"to": 1896210
+			},
+			"text": " It's relatively inexpensive."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,830",
+				"to": "00:31:39,210"
+			},
+			"offsets": {
+				"from": 1896830,
+				"to": 1899210
+			},
+			"text": " And how much more basic can it get?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,290",
+				"to": "00:31:41,650"
+			},
+			"offsets": {
+				"from": 1899290,
+				"to": 1901650
+			},
+			"text": " It's just salt, water, and vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,130",
+				"to": "00:31:45,290"
+			},
+			"offsets": {
+				"from": 1902130,
+				"to": 1905290
+			},
+			"text": " And there's the whole microbiome research area, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,470",
+				"to": "00:31:47,250"
+			},
+			"offsets": {
+				"from": 1905470,
+				"to": 1907250
+			},
+			"text": " It just sounds like it's really good for you, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,530",
+				"to": "00:31:47,930"
+			},
+			"offsets": {
+				"from": 1907530,
+				"to": 1907930
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,010",
+				"to": "00:31:56,910"
+			},
+			"offsets": {
+				"from": 1908010,
+				"to": 1916910
+			},
+			"text": " That's a whole different conversation about how fermented foods and preserving foods in a natural way is good for our digestive systems."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,370",
+				"to": "00:31:59,380"
+			},
+			"offsets": {
+				"from": 1917370,
+				"to": 1919380
+			},
+			"text": " And it's beneficial."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,160",
+				"to": "00:32:07,000"
+			},
+			"offsets": {
+				"from": 1920160,
+				"to": 1927000
+			},
+			"text": " And so, there are these elements that I think we've lost because we're no longer an agrarian society."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:07,000",
+				"to": "00:32:09,210"
+			},
+			"offsets": {
+				"from": 1927000,
+				"to": 1929210
+			},
+			"text": " We're a technology society."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,210",
+				"to": "00:32:12,110"
+			},
+			"offsets": {
+				"from": 1929210,
+				"to": 1932110
+			},
+			"text": " And so, things have gotten lost during that time."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:12,250",
+				"to": "00:32:27,000"
+			},
+			"offsets": {
+				"from": 1932250,
+				"to": 1947000
+			},
+			"text": " And I think we're in a position where we can sell seeds to people who are interested in kind of relearning things that they may have known or their ancestors certainly knew, but have been forgotten."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,000",
+				"to": "00:32:33,420"
+			},
+			"offsets": {
+				"from": 1947000,
+				"to": 1953420
+			},
+			"text": " It's a lost art in terms of pickling and preserving and saving your vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,830",
+				"to": "00:32:37,260"
+			},
+			"offsets": {
+				"from": 1953830,
+				"to": 1957260
+			},
+			"text": " We sell a lot of kabocha squash, Japanese squash."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,760",
+				"to": "00:32:50,170"
+			},
+			"offsets": {
+				"from": 1957760,
+				"to": 1970170
+			},
+			"text": " And that's an example of something that as long as you store it in a cool, dry place, the squash will stay good months without any refrigeration, without any sort of, you know, preservatives."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:50,410",
+				"to": "00:32:52,680"
+			},
+			"offsets": {
+				"from": 1970410,
+				"to": 1972680
+			},
+			"text": " And it was designed that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,000",
+				"to": "00:32:54,000"
+			},
+			"offsets": {
+				"from": 1973000,
+				"to": 1974000
+			},
+			"text": " It has a tough skin."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,540",
+				"to": "00:32:59,100"
+			},
+			"offsets": {
+				"from": 1974540,
+				"to": 1979100
+			},
+			"text": " It can withstand, you know, long periods of time without losing its flavor."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,220",
+				"to": "00:33:04,780"
+			},
+			"offsets": {
+				"from": 1979220,
+				"to": 1984780
+			},
+			"text": " And when you cut it open and cook it, it tastes as good as it does back when it was first harvested."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:04,980",
+				"to": "00:33:11,340"
+			},
+			"offsets": {
+				"from": 1984980,
+				"to": 1991340
+			},
+			"text": " So, there's some interesting flavors that are inherent in some of the vegetables that we're selling today."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,480",
+				"to": "00:33:17,670"
+			},
+			"offsets": {
+				"from": 1992480,
+				"to": 1997670
+			},
+			"text": " That they do have a long history of being flavorful over the course of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,670",
+				"to": "00:33:25,360"
+			},
+			"offsets": {
+				"from": 1997670,
+				"to": 2005360
+			},
+			"text": " So, we have two pepper seeds that migrated here from South Korea through Namu Farm, Kristen Leach."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:25,560",
+				"to": "00:33:27,120"
+			},
+			"offsets": {
+				"from": 2005560,
+				"to": 2007120
+			},
+			"text": " Did you talk about that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,320",
+				"to": "00:33:29,760"
+			},
+			"offsets": {
+				"from": 2007320,
+				"to": 2009760
+			},
+			"text": " Yeah, we, well, we did a little bit on the interview."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,860",
+				"to": "00:33:31,740"
+			},
+			"offsets": {
+				"from": 2009860,
+				"to": 2011740
+			},
+			"text": " Yeah, Kristen, we interviewed for the last season."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:31,940",
+				"to": "00:33:33,120"
+			},
+			"offsets": {
+				"from": 2011940,
+				"to": 2013120
+			},
+			"text": " She actually is an incredible farmer."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:33,280",
+				"to": "00:33:36,920"
+			},
+			"offsets": {
+				"from": 2013280,
+				"to": 2016920
+			},
+			"text": " And you work with her on a line of seeds called Second Generation Seeds?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:36,920",
+				"to": "00:33:37,200"
+			},
+			"offsets": {
+				"from": 2016920,
+				"to": 2017200
+			},
+			"text": " Correct."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,620",
+				"to": "00:33:38,000"
+			},
+			"offsets": {
+				"from": 2017620,
+				"to": 2018000
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,480",
+				"to": "00:33:52,040"
+			},
+			"offsets": {
+				"from": 2018480,
+				"to": 2032040
+			},
+			"text": " And we currently, the first two varieties that we are selling of Kristen's or Namu Farm is two peppers for gogujang seasoning."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,560",
+				"to": "00:33:57,770"
+			},
+			"offsets": {
+				"from": 2032560,
+				"to": 2037770
+			},
+			"text": " And Kristen found these seeds or were given these seeds by a hermit lady."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,770",
+				"to": "00:34:11,930"
+			},
+			"offsets": {
+				"from": 2037770,
+				"to": 2051930
+			},
+			"text": " And to pay homage to this hermit lady that we were sitting around the table one day thinking, how are we going to name these for her?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,410",
+				"to": "00:34:16,850"
+			},
+			"offsets": {
+				"from": 2052410,
+				"to": 2056850
+			},
+			"text": " And so, we named them Lady Choi and Lady Hermit."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,850",
+				"to": "00:34:29,240"
+			},
+			"offsets": {
+				"from": 2056850,
+				"to": 2069240
+			},
+			"text": " And from day one, they've been, it's the interest of, they were on our cover catalog and been phenomenal sales for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:29,540",
+				"to": "00:34:35,600"
+			},
+			"offsets": {
+				"from": 2069540,
+				"to": 2075600
+			},
+			"text": " And people's interest and reception to pickling or Korean cooking."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,560",
+				"to": "00:34:40,300"
+			},
+			"offsets": {
+				"from": 2076560,
+				"to": 2080300
+			},
+			"text": " And so, we feel honored to sell that for Namu Farm."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,650",
+				"to": "00:34:43,430"
+			},
+			"offsets": {
+				"from": 2080650,
+				"to": 2083430
+			},
+			"text": " Well, let's talk some more about that second generation seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,430",
+				"to": "00:34:47,790"
+			},
+			"offsets": {
+				"from": 2083430,
+				"to": 2087790
+			},
+			"text": " Just to tell us a quick story, we interviewed Kristen late fall last year."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:48,290",
+				"to": "00:34:53,090"
+			},
+			"offsets": {
+				"from": 2088290,
+				"to": 2093090
+			},
+			"text": " And I did that when our new baby is just a month old."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,910",
+				"to": "00:35:02,450"
+			},
+			"offsets": {
+				"from": 2093910,
+				"to": 2102450
+			},
+			"text": " And so, she gave me some leftover seedlings of a, oh, it was a Korean mustard for a kimchi, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,070",
+				"to": "00:35:04,710"
+			},
+			"offsets": {
+				"from": 2103070,
+				"to": 2104710
+			},
+			"text": " This little six-pack of ones."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:04,790",
+				"to": "00:35:08,610"
+			},
+			"offsets": {
+				"from": 2104790,
+				"to": 2108610
+			},
+			"text": " And I brought it home and just neglected it because we had a new child."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,610",
+				"to": "00:35:14,490"
+			},
+			"offsets": {
+				"from": 2108610,
+				"to": 2114490
+			},
+			"text": " Our whole garden got neglected and I left that six-pack out over the winter."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,870",
+				"to": "00:35:20,590"
+			},
+			"offsets": {
+				"from": 2114870,
+				"to": 2120590
+			},
+			"text": " And the mustard put down roots through the, broke open the plastic."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,050",
+				"to": "00:35:25,640"
+			},
+			"offsets": {
+				"from": 2121050,
+				"to": 2125640
+			},
+			"text": " I know it's six feet high, these huge red leaves."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,210",
+				"to": "00:35:34,140"
+			},
+			"offsets": {
+				"from": 2126210,
+				"to": 2134140
+			},
+			"text": " But Kristen's been growing things to be these strong, independent, tough plants adapted to California."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,140",
+				"to": "00:35:46,060"
+			},
+			"offsets": {
+				"from": 2134140,
+				"to": 2146060
+			},
+			"text": " Yeah, it's amazing what she's doing with some of these, adapting, not just importing seeds, but adapting them to both this place and her vision of how farming can work."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,060",
+				"to": "00:35:52,560"
+			},
+			"offsets": {
+				"from": 2146060,
+				"to": 2152560
+			},
+			"text": " She adapted the lady peppers for four years before releasing them."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,280",
+				"to": "00:36:05,190"
+			},
+			"offsets": {
+				"from": 2153280,
+				"to": 2165190
+			},
+			"text": " And so, we feel positive, very positive about how they're going to acclimate or work throughout U.S. for home gardeners and for commercial growers."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,150",
+				"to": "00:36:15,150"
+			},
+			"offsets": {
+				"from": 2166150,
+				"to": 2175150
+			},
+			"text": " So, and the whole rise of Korean cooking or cuisine in the United States is really taking on strong."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,150",
+				"to": "00:36:21,430"
+			},
+			"offsets": {
+				"from": 2175150,
+				"to": 2181430
+			},
+			"text": " I can't imagine that the growing climate of South Korea is very similar to the East Bay Hills or Rishi Farms."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,300",
+				"to": "00:36:25,900"
+			},
+			"offsets": {
+				"from": 2182300,
+				"to": 2185900
+			},
+			"text": " So, it's a big project to adapt vegetables to their new homes."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,900",
+				"to": "00:36:40,430"
+			},
+			"offsets": {
+				"from": 2185900,
+				"to": 2200430
+			},
+			"text": " I generally feel that the weather here in California, our soil, our access to some of the best water resources, makes it an ideal place to grow vegetables and fruit, for that matter."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,990",
+				"to": "00:37:00,760"
+			},
+			"offsets": {
+				"from": 2200990,
+				"to": 2220760
+			},
+			"text": " And so, I think that if you have a plot of land here in California that's reasonably balanced in terms of nutrients and relatively deep, as you might find in certain parts of the Central Valley, and access to good water, it's remarkable what is being produced in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:00,760",
+				"to": "00:37:08,390"
+			},
+			"offsets": {
+				"from": 2220760,
+				"to": 2228390
+			},
+			"text": " So, a lot of produce from all over the world seems to thrive in California."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,870",
+				"to": "00:37:18,700"
+			},
+			"offsets": {
+				"from": 2228870,
+				"to": 2238700
+			},
+			"text": " And I think all you have to do is go into, like, Chinatown and walk through some of the stalls where they're selling just all sorts of vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,940",
+				"to": "00:37:20,180"
+			},
+			"offsets": {
+				"from": 2238940,
+				"to": 2240180
+			},
+			"text": " Some I can't even identify."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,990",
+				"to": "00:37:23,700"
+			},
+			"offsets": {
+				"from": 2240990,
+				"to": 2243700
+			},
+			"text": " And they're probably grown not too far from here."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:24,280",
+				"to": "00:37:28,220"
+			},
+			"offsets": {
+				"from": 2244280,
+				"to": 2248220
+			},
+			"text": " And it's all, quote, locally grown and enjoyed by many."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,360",
+				"to": "00:37:34,320"
+			},
+			"offsets": {
+				"from": 2248360,
+				"to": 2254320
+			},
+			"text": " I guess all kinds of people have been bringing seeds with them to California for longer than even Kitazawa's been around."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:36,140",
+				"to": "00:37:44,210"
+			},
+			"offsets": {
+				"from": 2256140,
+				"to": 2264210
+			},
+			"text": " Yeah, there are some, there's a specific variety, Aquatica ipomea, that is a water spinach."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:44,690",
+				"to": "00:37:55,410"
+			},
+			"offsets": {
+				"from": 2264690,
+				"to": 2275410
+			},
+			"text": " And you can go down to Chinatown or Asian markets in this metropolitan area and find it in almost every store during the specific season."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,690",
+				"to": "00:37:59,130"
+			},
+			"offsets": {
+				"from": 2275690,
+				"to": 2279130
+			},
+			"text": " We get customers asking us and farmers, where can we get the seed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,630",
+				"to": "00:38:04,330"
+			},
+			"offsets": {
+				"from": 2279630,
+				"to": 2284330
+			},
+			"text": " But it is illegal to import the seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,110",
+				"to": "00:38:09,330"
+			},
+			"offsets": {
+				"from": 2285110,
+				"to": 2289330
+			},
+			"text": " And so, people are wondering, well, how do they get these seeds?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,830",
+				"to": "00:38:17,210"
+			},
+			"offsets": {
+				"from": 2289830,
+				"to": 2297210
+			},
+			"text": " But, you know, I mean, it's considered an invasive species, but they're not growing it near waterways."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,570",
+				"to": "00:38:24,270"
+			},
+			"offsets": {
+				"from": 2297570,
+				"to": 2304270
+			},
+			"text": " And it's considered, in certain parts of Asia, an essential green in their diet."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,150",
+				"to": "00:38:28,510"
+			},
+			"offsets": {
+				"from": 2305150,
+				"to": 2308510
+			},
+			"text": " So, they miss it and they find ways to bring it here."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,690",
+				"to": "00:38:37,120"
+			},
+			"offsets": {
+				"from": 2309690,
+				"to": 2317120
+			},
+			"text": " I'm going to ask you about where people can find seeds and follow along with what you're doing and all that kind of thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:37,180",
+				"to": "00:38:45,830"
+			},
+			"offsets": {
+				"from": 2317180,
+				"to": 2325830
+			},
+			"text": " But before I do that, I just wanted to ask if there's any other aspect of the seed company or what you're doing that we haven't talked about that you want to discuss."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,110",
+				"to": "00:39:07,150"
+			},
+			"offsets": {
+				"from": 2327110,
+				"to": 2347150
+			},
+			"text": " One of the things, through dumb luck on our part, as well as the power of the internet, the combination of our dumb luck in deciding to create a website so that we could attempt to sell seeds over the internet from a business standpoint was a critical move."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:07,150",
+				"to": "00:39:13,010"
+			},
+			"offsets": {
+				"from": 2347150,
+				"to": 2353010
+			},
+			"text": " It's because Kitazawa seed company was primarily a mail-order catalog type of business."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:13,770",
+				"to": "00:39:16,800"
+			},
+			"offsets": {
+				"from": 2353770,
+				"to": 2356800
+			},
+			"text": " And we continue to produce a catalog today."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:17,100",
+				"to": "00:39:21,780"
+			},
+			"offsets": {
+				"from": 2357100,
+				"to": 2361780
+			},
+			"text": " We send out upwards of 75,000 catalogs every year."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,530",
+				"to": "00:39:23,350"
+			},
+			"offsets": {
+				"from": 2362530,
+				"to": 2363350
+			},
+			"text": " There's still interest."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,470",
+				"to": "00:39:25,670"
+			},
+			"offsets": {
+				"from": 2363470,
+				"to": 2365670
+			},
+			"text": " People still request catalogs from us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:26,150",
+				"to": "00:39:30,690"
+			},
+			"offsets": {
+				"from": 2366150,
+				"to": 2370690
+			},
+			"text": " We get compliments for our catalog because of the information that's in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,320",
+				"to": "00:39:39,180"
+			},
+			"offsets": {
+				"from": 2371320,
+				"to": 2379180
+			},
+			"text": " But from a purely business perspective, the internet itself has been a tremendous boost to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:39,360",
+				"to": "00:39:45,190"
+			},
+			"offsets": {
+				"from": 2379360,
+				"to": 2385190
+			},
+			"text": " We've been able to reach customers who continue to find us today through the internet search."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,350",
+				"to": "00:39:46,770"
+			},
+			"offsets": {
+				"from": 2385350,
+				"to": 2386770
+			},
+			"text": " They contact us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,830",
+				"to": "00:39:48,050"
+			},
+			"offsets": {
+				"from": 2386830,
+				"to": 2388050
+			},
+			"text": " They find out more about us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,110",
+				"to": "00:39:52,730"
+			},
+			"offsets": {
+				"from": 2388110,
+				"to": 2392730
+			},
+			"text": " They can read about Asian vegetables, the seeds that we sell online."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,050",
+				"to": "00:39:54,530"
+			},
+			"offsets": {
+				"from": 2393050,
+				"to": 2394530
+			},
+			"text": " They can order online."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:55,170",
+				"to": "00:39:59,390"
+			},
+			"offsets": {
+				"from": 2395170,
+				"to": 2399390
+			},
+			"text": " It just has changed the dynamics of the whole business."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:00,070",
+				"to": "00:40:06,090"
+			},
+			"offsets": {
+				"from": 2400070,
+				"to": 2406090
+			},
+			"text": " And so that, I think, has been a real important element to our business."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:06,090",
+				"to": "00:40:14,530"
+			},
+			"offsets": {
+				"from": 2406090,
+				"to": 2414530
+			},
+			"text": " And it also changes how we communicate and work with our customers because everything is so instantaneous."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,870",
+				"to": "00:40:19,270"
+			},
+			"offsets": {
+				"from": 2414870,
+				"to": 2419270
+			},
+			"text": " We find out, you know, immediately if we sent out the wrong seeds."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,590",
+				"to": "00:40:27,910"
+			},
+			"offsets": {
+				"from": 2419590,
+				"to": 2427910
+			},
+			"text": " We find out immediately or within like two or three weeks if the seeds didn't germinate and they're having a problem with, you know, a variety or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:28,150",
+				"to": "00:40:29,070"
+			},
+			"offsets": {
+				"from": 2428150,
+				"to": 2429070
+			},
+			"text": " It's not by telephone."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,230",
+				"to": "00:40:31,510"
+			},
+			"offsets": {
+				"from": 2429230,
+				"to": 2431510
+			},
+			"text": " It's all by email that comes in."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,590",
+				"to": "00:40:34,210"
+			},
+			"offsets": {
+				"from": 2431590,
+				"to": 2434210
+			},
+			"text": " And so that has changed how we work."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:34,210",
+				"to": "00:40:42,570"
+			},
+			"offsets": {
+				"from": 2434210,
+				"to": 2442570
+			},
+			"text": " It means on weekends when home gardeners are trying to decide which seeds to buy, they're shopping."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,230",
+				"to": "00:40:46,450"
+			},
+			"offsets": {
+				"from": 2443230,
+				"to": 2446450
+			},
+			"text": " Saturdays and Sundays are big shopping days for home gardeners."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,550",
+				"to": "00:40:49,470"
+			},
+			"offsets": {
+				"from": 2446550,
+				"to": 2449470
+			},
+			"text": " And so it means Monday we have to be ready to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:50,960",
+				"to": "00:40:58,410"
+			},
+			"offsets": {
+				"from": 2450960,
+				"to": 2458410
+			},
+			"text": " We're always looking for that special vegetable for people to experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,890",
+				"to": "00:41:21,670"
+			},
+			"offsets": {
+				"from": 2458890,
+				"to": 2481670
+			},
+			"text": " And whether in an heirloom or new breeding programs by our companies that we represent, one of the special items that we have been able to sample but not able to market very well because of the cost of production and breeding is the red Chinese cabbage."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:21,670",
+				"to": "00:41:31,030"
+			},
+			"offsets": {
+				"from": 2481670,
+				"to": 2491030
+			},
+			"text": " And it's a full-headed, barrelhead type Chinese cabbage that has red leaves."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,510",
+				"to": "00:41:33,450"
+			},
+			"offsets": {
+				"from": 2491510,
+				"to": 2493450
+			},
+			"text": " And it's absolutely stunning."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:34,130",
+				"to": "00:41:37,350"
+			},
+			"offsets": {
+				"from": 2494130,
+				"to": 2497350
+			},
+			"text": " And we tested it in our garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:38,050",
+				"to": "00:41:44,120"
+			},
+			"offsets": {
+				"from": 2498050,
+				"to": 2504120
+			},
+			"text": " And it seemed like it was the only thing that the rats liked to eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,340",
+				"to": "00:41:45,760"
+			},
+			"offsets": {
+				"from": 2504340,
+				"to": 2505760
+			},
+			"text": " So we knew it was good."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,260",
+				"to": "00:41:51,100"
+			},
+			"offsets": {
+				"from": 2506260,
+				"to": 2511100
+			},
+			"text": " And they would just keep on going after it as new growth came out."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,200",
+				"to": "00:41:59,300"
+			},
+			"offsets": {
+				"from": 2511200,
+				"to": 2519300
+			},
+			"text": " But anyway, there are a lot of challenges that are occurring in agriculture that we can introduce new things."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:59,300",
+				"to": "00:42:17,690"
+			},
+			"offsets": {
+				"from": 2519300,
+				"to": 2537690
+			},
+			"text": " But what people are willing to pay for the R&D in a breeding program where seed companies put a lot of time, money, energy into breeding programs."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,690",
+				"to": "00:42:22,400"
+			},
+			"offsets": {
+				"from": 2537690,
+				"to": 2542400
+			},
+			"text": " And so, you know, they also want to make it a hit."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:22,660",
+				"to": "00:42:25,660"
+			},
+			"offsets": {
+				"from": 2542660,
+				"to": 2545660
+			},
+			"text": " But how many of those are actually going to be successful?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,000",
+				"to": "00:42:32,080"
+			},
+			"offsets": {
+				"from": 2546000,
+				"to": 2552080
+			},
+			"text": " So anyway, we're trying to always find and provide new and interesting varieties for our customers."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:32,520",
+				"to": "00:42:34,060"
+			},
+			"offsets": {
+				"from": 2552520,
+				"to": 2554060
+			},
+			"text": " And we work really hard at that."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:34,620",
+				"to": "00:42:38,860"
+			},
+			"offsets": {
+				"from": 2554620,
+				"to": 2558860
+			},
+			"text": " Your customers, it's really different than when Kitazawa started out 100 years ago, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,900",
+				"to": "00:42:41,380"
+			},
+			"offsets": {
+				"from": 2558900,
+				"to": 2561380
+			},
+			"text": " And has that changed recently with the internet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:41,500",
+				"to": "00:42:43,460"
+			},
+			"offsets": {
+				"from": 2561500,
+				"to": 2563460
+			},
+			"text": " I know you said that it's a broader area."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:43,640",
+				"to": "00:42:53,880"
+			},
+			"offsets": {
+				"from": 2563640,
+				"to": 2573880
+			},
+			"text": " Yeah, our customer base from when we first started was, well, when we first started, it was probably 95% Japanese clientele."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:54,740",
+				"to": "00:42:57,180"
+			},
+			"offsets": {
+				"from": 2574740,
+				"to": 2577180
+			},
+			"text": " I mean, you could just see the database names."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,760",
+				"to": "00:43:06,740"
+			},
+			"offsets": {
+				"from": 2578760,
+				"to": 2586740
+			},
+			"text": " And then over the years, we had to transition that in order to stay in business."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,740",
+				"to": "00:43:13,230"
+			},
+			"offsets": {
+				"from": 2587740,
+				"to": 2593230
+			},
+			"text": " So, you know, the power of the internet and the popularity of Asian vegetables."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:13,230",
+				"to": "00:43:21,670"
+			},
+			"offsets": {
+				"from": 2593230,
+				"to": 2601670
+			},
+			"text": " We have been able to transition it, not only Japanese Americans, but all ethnicities."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:21,830",
+				"to": "00:43:27,570"
+			},
+			"offsets": {
+				"from": 2601830,
+				"to": 2607570
+			},
+			"text": " And there's a huge immigration that occurred in the United States since the time that we have done."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:28,230",
+				"to": "00:43:33,730"
+			},
+			"offsets": {
+				"from": 2608230,
+				"to": 2613730
+			},
+			"text": " And so they have brought whole new recommended vegetables to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:34,080",
+				"to": "00:43:39,190"
+			},
+			"offsets": {
+				"from": 2614080,
+				"to": 2619190
+			},
+			"text": " Like Cho here at the office, she introduced us, and Kristen did, to sour leaf."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:39,530",
+				"to": "00:43:46,870"
+			},
+			"offsets": {
+				"from": 2619530,
+				"to": 2626870
+			},
+			"text": " Kristen was growing it for the hibiscus flower for the buds."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,770",
+				"to": "00:43:50,070"
+			},
+			"offsets": {
+				"from": 2627770,
+				"to": 2630070
+			},
+			"text": " And Cho introduced it to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:50,230",
+				"to": "00:43:51,030"
+			},
+			"offsets": {
+				"from": 2630230,
+				"to": 2631030
+			},
+			"text": " She's from Burma."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,730",
+				"to": "00:43:55,550"
+			},
+			"offsets": {
+				"from": 2631730,
+				"to": 2635550
+			},
+			"text": " And in their culinary cooking, they use it, the leaves."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,210",
+				"to": "00:43:59,450"
+			},
+			"offsets": {
+				"from": 2636210,
+				"to": 2639450
+			},
+			"text": " So just totally what Kristen was growing it for the buds."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:59,890",
+				"to": "00:44:12,560"
+			},
+			"offsets": {
+				"from": 2639890,
+				"to": 2652560
+			},
+			"text": " And it is an incredible, incredible vegetable that I don't think people in the U.S. do not even know what this is, this vegetable is like."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:13,020",
+				"to": "00:44:24,080"
+			},
+			"offsets": {
+				"from": 2653020,
+				"to": 2664080
+			},
+			"text": " My experience and palate with it is like eating a spinach that tastes like umeboshi, but naturally, not with a lot of salt."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:24,790",
+				"to": "00:44:26,250"
+			},
+			"offsets": {
+				"from": 2664790,
+				"to": 2666250
+			},
+			"text": " I mean, it's not pickled or anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:26,730",
+				"to": "00:44:36,460"
+			},
+			"offsets": {
+				"from": 2666730,
+				"to": 2676460
+			},
+			"text": " So if you can only imagine that with traditional spices with turmeric and paprika, it just takes it in chili."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:36,760",
+				"to": "00:44:45,780"
+			},
+			"offsets": {
+				"from": 2676760,
+				"to": 2685780
+			},
+			"text": " So we were really excited to find the seed, bring it here, and we were surprised in how much we were moving out now."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:46,040",
+				"to": "00:44:47,760"
+			},
+			"offsets": {
+				"from": 2686040,
+				"to": 2687760
+			},
+			"text": " I think that's a great place to leave it."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,920",
+				"to": "00:44:56,100"
+			},
+			"offsets": {
+				"from": 2687920,
+				"to": 2696100
+			},
+			"text": " And before we stop recording it, just will you say the website name and where people can find the seeds and also kind of know more about Kitazawa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:56,100",
+				"to": "00:45:00,820"
+			},
+			"offsets": {
+				"from": 2696100,
+				"to": 2700820
+			},
+			"text": " Yes, we can be found at KitazawaSeed.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:01,520",
+				"to": "00:45:08,800"
+			},
+			"offsets": {
+				"from": 2701520,
+				"to": 2708800
+			},
+			"text": " And we accept orders by mail, the old-fashioned way, phone, and through our website."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:09,200",
+				"to": "00:45:09,960"
+			},
+			"offsets": {
+				"from": 2709200,
+				"to": 2709960
+			},
+			"text": " Well, thanks so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,000",
+				"to": "00:45:15,800"
+			},
+			"offsets": {
+				"from": 2710000,
+				"to": 2715800
+			},
+			"text": " It's been a pleasure to talk to you and see where all these packets come through when you send out all these orders."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:16,740",
+				"to": "00:45:17,600"
+			},
+			"offsets": {
+				"from": 2716740,
+				"to": 2717600
+			},
+			"text": " Thank you, Devin."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:20,950",
+				"to": "00:45:30,670"
+			},
+			"offsets": {
+				"from": 2720950,
+				"to": 2730670
+			},
+			"text": " Delicious Revolution is a show about food, culture, and place made by Devin Sampson and me, Chelsea Wills."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:30,670",
+				"to": "00:45:36,220"
+			},
+			"offsets": {
+				"from": 2730670,
+				"to": 2736220
+			},
+			"text": " You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,780",
+				"to": "00:45:40,940"
+			},
+			"offsets": {
+				"from": 2736780,
+				"to": 2740940
+			},
+			"text": " And you can learn more at DeliciousRevolutionShow.com."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,090",
+				"to": "00:45:46,460"
+			},
+			"offsets": {
+				"from": 2741090,
+				"to": 2746460
+			},
+			"text": " There we've got pictures and notes all about the interviews, and you can sign up for our monthly email."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:46,850",
+				"to": "00:45:49,020"
+			},
+			"offsets": {
+				"from": 2746850,
+				"to": 2749020
+			},
+			"text": " You can find us on Facebook and Twitter, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:49,020",
+				"to": "00:45:49,500"
+			},
+			"offsets": {
+				"from": 2749020,
+				"to": 2749500
+			},
+			"text": " Thank you."
+		}
+	]
+}
