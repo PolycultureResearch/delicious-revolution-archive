@@ -1,0 +1,171 @@
+## Introduction
+
+**Chelsea Wills:** Delicious Revolution is made by Devon Sampson and Chelsea Wills.
+
+Sandor Ellix Katz is a fermentation revivalist. Since publishing Wild Fermentation in 2003, he has taught hundreds of workshops demystifying fermentation and empowering people to reclaim this transformational process in their kitchens. The New York Times calls him one of the unlikely rock stars of the American food scene.
+
+Sandor grew up in the pandemic, demanding resources to address the AIDS epidemic. He migrated from New York City to a commune in rural Tennessee in 1993 after testing positive for HIV. He now lives down the road from the commune and travels the world teaching about fermentation. He talks with Devon about creative tactics and community of ACT UP, the modern relevance of ancient food traditions and migrating from the city to the country.
+
+## Interview
+
+**Devon Sampson:** Sandor, welcome to Delicious Revolution. I'm so happy to be talking to you a little bit today.
+
+**Sandor Katz:** Well, thank you so much for having me on your show.
+
+**Devon Sampson:** So, there's a ton of things I want to ask you about. Let's talk about where you live. I want to hear a little bit about where you live now and what you've got going on and just what the springtime is like there.
+
+**Sandor Katz:** Well, I live in Middle Tennessee and we are definitely in high spring. The trees are all leafed out. The irises are blooming. We're planting everything in the garden, eating the earliest things out of the garden, lettuce and radishes. So, yeah, it's high spring down here and I migrated down here 25 years ago from New York City where I grew up.
+
+Sometimes the people in New York assume that Tennessee has no seasons and is hot all the time and that's definitely not true. We definitely have four full seasons but thankfully a shorter and milder winter than I grew up with in New York.
+
+**Devon Sampson:** Sandor, you grew up in New York City, right? What was food like in your world growing up?
+
+**Sandor Katz:** Well, we always ate well. Both of my parents liked to cook and we lived in a neighborhood with amazing markets and lots of vegetables and fruits available and seafood and pickles. I definitely grew up loving to eat pickles and I would say my childhood love of pickles is part of what led me into my fermentation work.
+
+But we would go out for Chinese food sometimes and sometimes other kinds of restaurants. But mostly we would eat at home and we were always expected to pitch in. So we all learned to cook as we were growing up.
+
+**Devon Sampson:** I came across an interview you did for the ACT UP oral history project and I was just reading a little bit about that context. So, you grew up with a lot of politics in the house too, right?
+
+**Sandor Katz:** Yeah. Absolutely. My family was definitely involved in various political causes. And I can remember as a little kid going to some marches and demonstrations. And then when I was a bigger kid, I got pretty involved myself in political campaigns. And then as I got a little bit older, when I went to college, I got more involved, I would say, in some activist causes. But ACT UP, which you're referencing, is certainly the political cause I got most directly involved in.
+
+**Devon Sampson:** Right. Yeah. So, let's talk about ACT UP because, I guess, in the bigger sense, I'm interested in talking a lot about radical community and queer community and the way that their work flows through that. But I'm also interested in this turning point of working in politics and ACT UP and Westpride and then leaving New York and that kind of politics for rural Tennessee. So, yeah, ACT UP to me is like there's a legendary moment in New York of organizing around survival.
+
+**Sandor Katz:** Yeah. No, it definitely was that. It was organizing around survival. And we all, myself included, felt incredibly committed to it because so much was at stake.
+
+**Devon Sampson:** What kinds of organizing were you doing? What were the kinds of tactics and how did those emerge?
+
+**Sandor Katz:** Well, one thing ACT UP was famous for was these surprise actions that we would call zaps where we would show up at some office or some event unannounced. So there were lots of small guerrilla actions, but also there were lots of big actions that were announced and where the objective was to get as many people there as possible. So I definitely attended a lot of demonstrations of both styles.
+
+One thing I always did in ACT UP was I was a chant leader. So just trying to get people riled up and chanting loudly with relevant topical chants. We also tried, especially for the bigger demonstrations, to get everybody up to speed and everybody well-versed on the issues so that everybody could be a spokesperson and an articulate spokesperson and have a real clear sense of the message that we were trying to communicate. So I was always very involved in these teach-ins and trainings where we would share information.
+
+And I also always did postering, which would be going late at night with a bucket of wheat paste and whatever the poster for the latest event we were publicizing and just walk from where the meetings were up to where I lived on the Upper West Side, putting up posters. So I was involved in lots of different ways and it definitely was an incredible moment.
+
+Friends were dying all the time and that added a huge sense of urgency to it. I tested positive myself during that time, which added to the feeling of urgency. Although in terms of my own migration, I would say that me testing positive led me to asking some questions and realizing I needed to make some big changes in my life that ended up resulting in me leaving New York and moving down here to rural Middle Tennessee.
+
+**Devon Sampson:** Right. So can you tell me a little bit more about that moment of deciding to leave that one radical community? I guess I want to know what that radical community felt like and what made that such a special moment? Because it sounds terrifying, but I've heard over and over again that there's something absolutely magical about it, too.
+
+**Sandor Katz:** Well, the times were terrifying because there was disease with no effective treatments that was ravaging our community. And it was a scary time. But I think ACT UP made us feel our power. It made us feel like, OK, we're not powerless in this situation. This is something that's happening to us, but there are ways that we can respond.
+
+And clearly it's a medical issue. But to come up with answers for medical problems takes resources. And it really took years to get resources devoted to AIDS research, especially when you had political leadership that could only laugh like it was a funny joke that this was happening to gay people.
+
+So I think that we had this sense of righteous indignation and the activism really helped us to feel our power and find our power to force the medical research institutions to put resources into finding solutions. And ultimately to valuing our lives.
+
+So it wasn't fun to have the president chuckling that we were having this problem. But I think that it triggered this anger that was transformative, certainly in the lives of the people who were part of it. And I would say transformative in the larger arc of the struggle for rights for LGBT people, and I think had huge influence over the culture at large.
+
+**Devon Sampson:** Yeah, yeah, for sure. So, you're doing this activism in solidarity with friends and then you test positive for HIV. This is a huge question, but what shifted in you at that point?
+
+**Sandor Katz:** Well, it was huge and it was a shock. I didn't go to get tested for HIV expecting to be positive. I thought that I was being very conscientious and being very, very careful. And so it really shocked me when I tested positive. And I would say I walked around for a few months just in a state of shock. I couldn't quite believe that this was the reality of my life that I had to deal with.
+
+And by that time I had buried a lot of friends, but I also had friends who had been living for some years with HIV. So I would say my experience within ACT UP gave me a lot of role models of people who were not defeatist about it and who were going on living their lives. So I'm really thankful for that because I didn't for a minute just think like, oh, this is it. I'm gone in a few years. I should figure out how to plan the end of my life. It wasn't a feeling of that at all.
+
+But it did certainly change my ideas about career and longevity. And I pretty much lost interest in my career in municipal government right away. And just started thinking about, okay, well, what do I really want in life? I don't want to be planning a 40-year career and my retirement. I need to think about living in the moment and enjoying life while I've got it. And I would say it was those reflections and just thinking, oh, I need to really make some huge change in my life that made me open to the idea of moving to Tennessee.
+
+And the way that all came about is that I went to New Orleans for Mardi Gras in 1992. My roommates in New York had previously lived in New Orleans and they talked me into coming with them. And at New Orleans, I met some of the people who lived at this rural commune in Tennessee. And I was very intrigued by them and I was very intrigued by the idea that a rural commune could exist in a place like Tennessee, which I'd never really been to, but had all kinds of ideas about.
+
+And so I went and I visited and I was very enchanted and I visited again and I felt even more enchanted. And I started talking to them about, so how does a person go about moving in here? And then within a year of my first visit, I had sublet my apartment, taken a leave of absence from my job and moved into this commune in Tennessee, where I stayed and lived for 17 years.
+
+**Devon Sampson:** Wow. Wow. And what were those first few months like living in rural Tennessee?
+
+**Sandor Katz:** Oh, it was great. Really from the minute I arrived, I arrived in early March. So it's still winter in New York, but down here it's beautiful springtime and being directly involved in a garden for the first time. No, I just loved it. I loved it. Just spending all my time outdoors and active, hiking through the woods a lot, learning a lot about the plants and wildflowers and herbs of the area.
+
+No, it was a really exciting time in my life. And I never looked back. After a couple of weeks of living down here, I really never thought about moving back to New York. It just felt so right. And it continues to, I love living down here. Don't get me wrong. I enjoy traveling. I get huge stimulation when I visit New York or other big cities. But it's always such a pleasure for me to come home. And I really love living amongst the trees in a lower density place and I have no regrets.
+
+**Devon Sampson:** I was just thinking about the food traditions that have come out of rural communes in this country, the way that, I don't know, the people on The Farm started making tempeh and all these things that are part of our popular food culture have, a lot of them, started on communes in rural America.
+
+**Sandor Katz:** Yeah, let's just understand tempeh did not start on The Farm. Tempeh started in Indonesia. The Farm introduced it to American vegetarians, which is different than starting it.
+
+There was this article in the New York Times a couple of weeks ago that I was quoted in that I found incredibly annoying, but it basically was that in the realm of food, the hippies won. And she was like, oh yeah, fermentation is a hippie thing. I was like, what are you talking about? Okay, you look in the Foxfire books and you can see that the hippies learned it from the old settlers. Sauerkraut is just a practical food if you're preserving food without a refrigerator. So to think that that was a hippie food just seems ridiculous. And so anyway, the people at The Farm definitely did not invent tempeh and they would be the first ones to tell you that.
+
+**Devon Sampson:** Right. Okay. So let me rephrase it. Even now in food scholarship and activism, there's this idea that new ideas come from these big cities. When I think about you and fermented foods, and I think about a lot of foods, they come from rural places, revitalizing them and remixing them. So they didn't invent tempeh for sure, but there's this revaluing of certain things.
+
+**Sandor Katz:** I pretty much think nobody has invented any new fermented foods or beverages since, let's say, before the time of Jesus. I'm sure people have clever ideas. David Chang in New York is taking these ancient Japanese methods of making miso and he's applying them to pistachios and to pine nuts. So he's applying a traditional process to ingredients that are very different from the ones that the process has always been applied to, but he's not really inventing a new process. He's just applying an existing process to a new substrate.
+
+And there's a lot of really innovative experimentation going on right now and recombination. And I think because of globalization and really the spread of information more than anything else, people are able to access information about these rich traditions in one part of the world having to do with one kind of a food and applying them in new and sometimes very clever ways. But they're still working with these ancient processes.
+
+And in terms of fermenting, I've been asked a lot over the last year or two to comment on fermentation as a trend or a fad or something like that. And sure, I don't want to deny that there is growing awareness of fermentation, a growing interest in the phenomenon of fermentation. I'm thrilled that more and more people in their home kitchens and chefs in their restaurant kitchens are playing around with fermentation.
+
+But there's nothing new about fermentation. I don't think there was ever a time when bread, cheese, cured meats, condiments, wine, beer, et cetera, waned in popularity. Certainly in the time when I grew up in the 60s and 70s, certainly when my parents grew up in the 30s and 40s, these foods were just part of everybody's table and everybody's meal. And maybe no one was talking about them being fermented.
+
+**Devon Sampson:** Well, let's talk about that because that's actually the other migration I wanted to talk to you about, the moving of these ideas and these methods and the knowledge about food around the world. Actually, my favorite book of yours is The Revolution Will Not Be Microwaved. And I love the descriptions of traveling around, doing workshops in these really different kinds of places, like punk houses, fundamentalist Christians, obsessive artisans, and teaching fermentation, but also getting to know these underground food movements. People making food that's sometimes illegally, but, I don't know, hidden a little bit from public view.
+
+**Sandor Katz:** Well, they're hidden in plain sight. I can tell you my story of how I learned to make sauerkraut for the first time. The Joy of Cooking, the place where I went to learn how to make everything else that I didn't know how to make that I was trying to figure out. And it was just there, it wasn't like it was extremely prominent or that the book was trying to lead people there. But there it was in very simple terms, how to make sauerkraut. And I upped my yogurt game from reading The Joy of Cooking also. Our most basic references have information about fermentation.
+
+I think, to me, the really interesting migration is about skills. They're essential cultural information that are key elements of how people make effective use of the food resources that are available to them. And along with how you grow the foods in the first place, how you save the seeds, how you use fermentation to make use of the food has just been an essential part of what gets passed down from generation to generation. And if you're going to live among these people in this area, you're just going to need this information.
+
+And then over the course of the 20th century, thanks in part to greater mobility, thanks in part to food mass production, refrigeration, the rise of the supermarket, more and more convenience foods being available. It was marketed as liberation from the kitchen, liberation from the farm. But the flip side of it was people deciding that it was no longer relevant to them to learn the skills of their grandparents. And that they were part of this exciting new world and they just didn't need to do that kind of labor. They had the supermarket.
+
+So we had a severing in the continuous passing on of these traditions, at the same time as we've had a lot of cultural resorting. And most people would say that they're not the product of a single cultural tradition, but rather an amalgam of a number of different cultural traditions. And maybe they draw on different ones or maybe they don't really know what they identify with. But the world has gotten more complicated and we have a lot of choices with food. But at the same time, most of us are fairly disempowered.
+
+So I mostly think about fermentation in terms of empowerment, that the skills themselves are generally fairly simple and straightforward. We need to break out of this very confining role of the consumer and we need to empower ourselves with skills to take on a more balanced role of being producers as well as consumers. And I think that fermentation is only one element of that. But I think that we need to be reconnecting with the essential cultural information of how to produce food and make effective use of our food resources. And that this system of food mass production and distribution is really a failed experiment. And one of our most critical projects is to reclaim our food.
+
+**Devon Sampson:** It seems to me like there's a temporary moment in some ways. Not that that system isn't going strong still, but there's this temporary moment of amnesia about fermented foods and a lot of food craft. But while that's temporarily forgotten from a bigger culture, there's plenty of people, radicals, of all kinds, keeping up those traditions. And it's the moment comes for it to, we just had this drought in California and now it's raining all over again. And plants that I haven't seen in five years are blooming again. I kind of see that they've been hanging out somewhere where we haven't seen them. And that's a lot of the role of these, I don't know, more radical folks hanging on to these traditions and adapting them. And then as moments, right, they come out en masse a little bit more.
+
+You wrote this book, The Art of Fermentation, and it has this incredible draw on fermentation traditions from all around the world. Do you have this library of bubbling things in your garage that represent all these ideas that you've picked up? Or do you have stories about some specific or surprising places where you've found fermentation along the way?
+
+**Sandor Katz:** Well, okay. So first of all, you asked about a library of bubbling things. I have a library of books. An incredible amount of what I've pieced together has come from books and continues to. So sure, I have experiments now. So, okay, I tried this experimental thing the other day that I've never done before. It's a Korean style of a starter. It's called meju. It's made out of soybeans. And you soak soybeans, cook them until they're soft, mash them up, and then you make a brick or a ball or a cone. You make a big shape of the mashed up soybeans. And then you put that in a bed of straw and try to dry it out a little bit and get it to start molding.
+
+So anyway, I did this. It's a pretty simple, straightforward process. But I came to this after having followed a recipe by a Korean-American food blogger for making gochujang that I realized at some point after I had made it was fatally flawed in that it had no real starter in it. And I have this book called Korean Fermentation Technology. And I found in it a description of this starter called meju, which was the critical piece that I was missing. So anyway, I rely on books and the descriptions that I can find in books of how things are done frequently.
+
+I try things, but living foods, you can't really maintain as a library unless you're going to keep on making them. So all of these things that I make have a time frame. And that time frame could be measured in hours or days or weeks or months or years. Different projects I've done have different kinds of time frames. But I certainly don't attempt to keep all of these projects going all of the time so I can have a library.
+
+And there are a handful of things that I typically have going all the time. I'm always fermenting vegetables. Different times of the year, you might catch me with different styles of fermented vegetables. From my recent travels in China, I've been making pao cai, which is the Chinese fermented vegetables. And there's certainly not just one style of it, but I've been experimenting with seasonings and making some seasonings for it that make it really, really distinctive and different. So that's something I've been doing lately.
+
+I've been maintaining a sourdough starter for 20 years. So sometimes if I travel, I just bury that in the back of my refrigerator and it's fine without ongoing maintenance. But when I'm at home, I'm feeding it every couple of days and making pancakes and baking with it and things like that. I have a yogurt starter I've been using for years. So it's not like I make yogurt every day or every week, but about once a month I'll make yogurt and try to make enough to last me.
+
+So I've got different projects that are ongoing. I just hosted a week-long workshop here. So at the moment I have a lot of projects. I have a sweet potato fly, which is a lightly fermented soft drink. I have some sake going. We just started a batch of miso. So I've got lots going on, actually.
+
+**Devon Sampson:** Let's see. I guess there's a question I want to, I'm almost embarrassed to ask this, but all right. So here's it. I just feel like it's a little trite to ask advice for the times, but I'm going to do it anyway. I read that you're actually an organizer working against a Trump development in Manhattan at one point, right?
+
+**Sandor Katz:** Right, right, right. So, sure. 30 years ago, I was involved fighting Donald Trump, trying to stop this wall of eleven 70-story buildings that he wanted to build along the Hudson River.
+
+**Devon Sampson:** Eleven 70s. Wow. Drawing on, we were talking about resistance of ACT UP, and we're drawing on, you've been part of a lot of queer community and all this work with fermentation. I don't know, what's your take on how we survive this political moment, or how we resist it and find resilience?
+
+**Sandor Katz:** Hmm, yeah. I wish I had an easy answer to that. I think that more and more people have to start paying attention, picking up their phones, expressing their outrage to representatives, showing up at demonstrations. Like with ACT UP, the stakes are really, really high. And I think that it's really imperative that people take the duties of citizenship seriously and take the time to express their opinions when they're feeling it, to express their outrage, and definitely to take to the streets and be part of expressing resistance and making it known.
+
+**Devon Sampson:** I feel like, I don't know, maybe it's a little early to tell, but I feel like that's happening a lot, or there's a lot of energy behind that.
+
+**Sandor Katz:** Well, I think you're right. I think that it is happening. I see it. I see it down here in our rural area, the number of people showing up at the town hall meetings that the legislators have. The day after the inauguration, I went to this march in Nashville. It was the women's march against Trump. And by many orders of magnitude, the largest demonstration I had ever seen there, but I think that showing up for a single demonstration is not enough.
+
+And we just have to make this part of our lives in an ongoing way. And that's what resistance is like. It's an activity, it's a priority. And I think that, again, to use this phrase, our responsibility as citizens, it's not just about voting, but it's about making our feelings known, especially when the people in power aren't interested in them.
+
+**Devon Sampson:** Right. Yeah. I guess the other side of that I want to ask you about is how do we keep that up in community or how do we stay resilient when it feels like the attack might land on any one of our allies or us at any moment? Do you know what I mean?
+
+**Sandor Katz:** Yeah. Well, I think that community has to reinforce that. We have to feel like our friends and the people we care about are engaging in these things. And this has to be part of our activities. It has to be fun. It has to be like, hang out with your friends. It doesn't have to be a separate thing. And what we need is for our social circles to make that activity part of the socializing.
+
+It's no secret that a big part of the success of ACT UP was the social aspects of it. And what a scene developed within the organization, a social scene. So people wanted to hang out together and often it was in the social context and the planning of events and the traveling to events. That just became our social life.
+
+**Devon Sampson:** Right. Yeah.
+
+**Sandor Katz:** So my early attempts at making beer, which I followed all the directions and I made okay beer, but I was always like, this is miserable. It's just hours in the kitchen. And then someone was like, no, you're doing it wrong. You're supposed to do this with other people. You're not supposed to do it all by yourself. Of course, it's miserable to make your own beer that way.
+
+And so then the hours in the kitchen, because it's like this phrase I used to use a lot, getting there is half the fun, but you just can't think of the time in the kitchen, the time going to a demonstration, you can't think about that as your punishment or your chore. You have to pull a Tom Sawyer. You have to find a way to make it fun.
+
+**Devon Sampson:** Yeah, for sure. How are you doing that now? Does that come naturally?
+
+**Sandor Katz:** Yeah, sure. I do a lot of things with people. I spend so much time with people that actually it feels like a big treat when I'm by myself. So that makes even the things I do by myself feel fun.
+
+**Devon Sampson:** Great. It's been a really great conversation, Sandor. Is there anything else that you want to talk about that I haven't asked about?
+
+**Sandor Katz:** Nothing specific. I guess I would mention my website, which is wildfermentation.com. And just say that all of the workshops that I do, I post on my website. So anyone who's interested in learning more about fermentation, my website's a good place to look for opportunities for that.
+
+You've mentioned two of my books, The Art of Fermentation and The Revolution Will Not Be Microwaved, which is about basically grassroots movements to reclaim food. And then I have another book, which is really the book that started it all, which is called Wild Fermentation. And that book was just revised last year. So there's a brand new edition of Wild Fermentation floating around. And mostly I just thank you for having me on your show.
+
+And since the theme is migration, I'll just say that one of the most consistently interesting and exciting interactions that I have about fermentation with people is with immigrants to the United States. I have learned so much about fermentation traditions in different parts of the world from immigrants who have come to the U.S. and maybe one of the things that they miss about the place that they left is some of the food culture.
+
+And it's just really thrilling either to be able to just learn from people who have always been doing this because it's their cultural tradition and they brought it with them, or helping someone who felt like they left those things behind figure out how they can recreate foods from the old country that they miss. So in terms of migration and people's food memories and associations, fermentation is very, very powerful in that way.
+
+**Devon Sampson:** Sure. But wait, give me an example.
+
+**Sandor Katz:** Oh, it's just from all over. Just a couple of weeks ago, I went into this Asian grocery store in the outskirts of Nashville that was owned by this Burmese family and had such an amazing interaction with them about fermented Burmese tea leaves, which I bought some of from them.
+
+At a sustainable agriculture conference I was at a couple of years ago, there was a Senegalese fellow who, when I mentioned the name soumbala, which is the Senegalese name for a condiment that's used very, very widely there that's fermented from African locust beans, the guy just lit up that I had heard of this and he went home and got some of the soumbala that someone in his family had sent him from Senegal and brought it to me.
+
+So just experiences like that, and just because fermentation is so integral in food traditions in every part of the world, I've had beautiful experiences like this with people from lots of different places.
+
+**Devon Sampson:** Yeah, no, I bet. All right. Well, thanks so much, Sandor. I really appreciate taking the time and having the conversation.
+
+**Sandor Katz:** Okay. Well, thank you so much for having me on your podcast.
+
+## Closing
+
+**Chelsea Wills:** Delicious Revolution is a show about food, culture, and place. Made by Devon Sampson and me, Chelsea Wills.

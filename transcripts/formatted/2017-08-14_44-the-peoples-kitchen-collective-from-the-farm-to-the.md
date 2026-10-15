@@ -2,17 +2,17 @@
 
 **Chelsea Wills:** The People's Kitchen Collective works at the intersection of art and activism as a food-centered political education project and cooperative business. Based in Oakland, California, their creative practices reflect the diverse histories and backgrounds of collective members Sita Kuratomi Bhaumik, Jocelyn Jackson, and Saqib Keval. Written in their families' recipes are maps of migrations and the stories of resilience. It is from their foundation that they create immersive experiences that celebrate centuries of shared struggle.
 
-Collectively cooking and sharing food is sanctified and celebrated community work in many cultures. With passage of time, systems of imperialism, including capitalism and gentrification, have turned cooking into an inaccessible burden. In response to this inequality, PKC has been creating accessible, healthy, and loving food spaces since 2007. Active in Oakland since 2011, they've been committed to using local and organic ingredients whenever possible and sharing meals with as many people as they can. The goal of the People's Kitchen Collective is not only to fill stomachs, but to nourish souls, feed minds, and fuel movement.
+Collectively cooking and sharing food is sanctified and celebrated community work in many cultures. With passage of time, systems of imperialism, including capitalism and gentrification, have turned cooking into an inaccessible burden. In response to this inequality, PKC has been creating accessible, healthy, and loving food spaces since 2007. Active in Oakland since 2011, they've been committed to using local and organic ingredients whenever possible and sharing meals with as many people as they can.
 
-In this episode, PKC talks with Chelsea about nourishing a radical, beloved community and feeding movements from the farm to the kitchen to the table to the street. Oh, and just a heads-up, there's a couple swear words in this episode.
+The goal of the People's Kitchen Collective is not only to fill stomachs, but to nourish souls, feed minds, and fuel movement. In this episode, PKC talks with Chelsea about nourishing a radical, beloved community and feeding movements from the farm to the kitchen to the table to the street. Oh, and just a heads-up, there's a couple swear words in this episode.
 
 ## Interview
 
 **Chelsea Wills:** Welcome to the show, People's Kitchen Collective.
 
-**Saqib Keval:** Heyo!
+**Jocelyn Jackson:** Heyo!
 
-**Jocelyn Jackson:** Hello!
+**Sita Kuratomi Bhaumik:** Hello!
 
 **Chelsea Wills:** So good to have all of you here today. Why don't you introduce yourselves first?
 
@@ -20,21 +20,19 @@ In this episode, PKC talks with Chelsea about nourishing a radical, beloved comm
 
 **Saqib Keval:** My name is Saqib Keval.
 
-**Sita Kuratomi Bhaumik:** My name is Sita Kuratomi Bhaumik.
+**Sita Kuratomi Bhaumik:** My name is Sita Kuratomi Bhaumik. And we're the People's Kitchen Collective!
 
-**Jocelyn Jackson:** And we're the People's Kitchen Collective!
+**Saqib Keval:** We were better at it about two months ago.
 
-**Saqib Keval:** We were better at about two months ago.
+**Jocelyn Jackson:** Two months ago. We were really good at it.
 
-**Sita Kuratomi Bhaumik:** Two months ago. We were really good at it.
-
-**Jocelyn Jackson:** We're out of practice.
+**Sita Kuratomi Bhaumik:** We're out of practice.
 
 **Saqib Keval:** Yeah, out of touch. That's why we're not busting out the choreographed dance moves right now.
 
 **Chelsea Wills:** Well, that'll come later, I hope.
 
-**Sita Kuratomi Bhaumik:** Hopefully.
+**Jocelyn Jackson:** Hopefully.
 
 **Saqib Keval:** If you're listening on this podcast, we are all doing choreographed dance moves right now that are perfectly executed.
 
@@ -44,47 +42,51 @@ In this episode, PKC talks with Chelsea about nourishing a radical, beloved comm
 
 **Chelsea Wills:** I'll put the notes so you can do them at home in the liner. Well, how'd you guys start cooking together?
 
-**Sita Kuratomi Bhaumik:** How did we start cooking together?
+**Jocelyn Jackson:** How did we start cooking together?
 
 **Saqib Keval:** It's Craigslist missed connections.
 
 **Chelsea Wills:** Oh, really?
 
-**Sita Kuratomi Bhaumik:** No.
+**Saqib Keval:** No.
 
 **Jocelyn Jackson:** I have a problem with that.
 
-**Saqib Keval:** You're good. You reach for the same spice as I did.
+**Saqib Keval:** You're good.
+
+**Sita Kuratomi Bhaumik:** You reach for the same spice as I did.
+
+**Jocelyn Jackson:** Well, I...
 
 **Sita Kuratomi Bhaumik:** You've got a frying pan.
 
-**Jocelyn Jackson:** Eating a mango.
+**Saqib Keval:** Eating a mango.
 
-**Saqib Keval:** You had a cast iron skillet.
+**Jocelyn Jackson:** You had a cast iron skillet.
 
-**Sita Kuratomi Bhaumik:** I didn't know where you were going.
+**Sita Kuratomi Bhaumik:** I didn't know where you were going. I'm going to give that one to you.
 
-**Jocelyn Jackson:** I'm going to give that one to you.
+**Saqib Keval:** So, we all cook in community. And I've always cooked in community in different ways. And there's a lot of overlap in our circles, and doing food and art and activism in different versions of it. I met Jocelyn when you came to a People's Kitchen dinner, the first one in Oakland.
 
-**Saqib Keval:** So, we all cook in community. And I've always cooked in community in different ways. And there's a lot of overlap in our circles, and doing food and art and activism in different versions of it. I met Jocelyn when you came to a People's Kitchen dinner.
+**Jocelyn Jackson:** In Oakland.
 
-**Jocelyn Jackson:** The first one in Oakland.
-
-**Saqib Keval:** In Oakland. That was at Betti Ono Art Gallery. And it was a part of the Word to Your Motherland dinner, which was basically just a dinner that I was doing with my family, of all South Asian, East African recipes. And Jocelyn came. And there's a video of her standing up and singing during the meal. And we cooked the first time together. And then we were stuck.
+**Saqib Keval:** That was at Betti Ono Art Gallery. And it was a part of the Word to Your Motherland dinner, which was basically just a dinner that I was doing with my family, of all South Asian, East African recipes. And Jocelyn came. And there's a video of her standing up and singing during the meal. And we cooked the first time together. And then we were stuck.
 
 **Jocelyn Jackson:** No.
 
-**Saqib Keval:** And that's how we met. Sita and I met because I was very jealous of Sita's artwork and her brilliance. And so I disliked her. Because sometimes when you see someone doing something really cool that you wish you were at that level. And I'm a very petty, judgmental person. So I was super just judgmental about who the person.
+**Saqib Keval:** And that's how we met.
+
+**Jocelyn Jackson:** Sita and I met because I was very jealous of Sita's artwork and her brilliance. And so I disliked her. Because sometimes when you see someone doing something really cool that you wish you were at that level. And I'm a very petty, judgmental person. So I was super just judgmental about who the person...
 
 **Sita Kuratomi Bhaumik:** It's good to know I'm finding this out now.
 
-**Saqib Keval:** Who is this really genius person that's doing this amazing spice murals, and talking about the stuff I want to be talking about, but better. And we met, actually, for the first time...
+**Jocelyn Jackson:** Who is this really genius person that's doing these amazing spice murals, and talking about the stuff I want to be talking about, but better? And we met, actually, for the first time on a radio show.
 
-**Sita Kuratomi Bhaumik:** On a radio.
+**Sita Kuratomi Bhaumik:** On Apex Express.
 
-**Saqib Keval:** On a radio show. On APEX Express. And then started cooking together, too.
+**Jocelyn Jackson:** And then started cooking together, too.
 
-**Sita Kuratomi Bhaumik:** Yeah, the first time we met, we cooked, actually.
+**Sita Kuratomi Bhaumik:** Yeah, we actually, the first time we met, we cooked, actually.
 
 **Saqib Keval:** Yeah, at my house.
 
@@ -98,13 +100,15 @@ In this episode, PKC talks with Chelsea about nourishing a radical, beloved comm
 
 **Jocelyn Jackson:** Some love.
 
-**Saqib Keval:** Some love. Whatever.
+**Sita Kuratomi Bhaumik:** Some love. Whatever.
 
-**Sita Kuratomi Bhaumik:** Okay, wait, so we met, but we hadn't formed as PKC at that point.
+**Chelsea Wills:** Okay, wait, so.
 
-**Saqib Keval:** No. We had a lot of fun of each other.
+**Saqib Keval:** So we met, but we hadn't formed as PKC at that point.
 
-**Jocelyn Jackson:** The first time we cooked together wasn't the first time I met you. It was the first time I volunteered for People's Kitchen at Life Is Living.
+**Sita Kuratomi Bhaumik:** No. We had a lot of fun of each other.
+
+**Jocelyn Jackson:** The first time we cooked together wasn't the first time I met you. It was the first time I volunteered for People's Kitchen at Life is Living.
 
 **Saqib Keval:** That's right.
 
@@ -112,27 +116,33 @@ In this episode, PKC talks with Chelsea about nourishing a radical, beloved comm
 
 **Saqib Keval:** I don't think we should say private home, either. We got together at a place that was definitely licensed and...
 
-**Jocelyn Jackson:** There we go. There we go. Okay. Let's refocus.
+**Sita Kuratomi Bhaumik:** There we go.
 
-**Sita Kuratomi Bhaumik:** Focus.
+**Chelsea Wills:** There we go.
 
-**Saqib Keval:** Legal seat over. Refocus.
+**Jocelyn Jackson:** Okay. Let's refocus.
 
-**Sita Kuratomi Bhaumik:** This is public.
+**Sita Kuratomi Bhaumik:** Refocus. Legal seat over.
 
-**Jocelyn Jackson:** But it was that moment of getting together at the very earliest of hours, that it was still dark out, and composing a meal for hundreds of community members for Life Is Living and doing this free-breakfast-program-inspired offering for community. And it was very evocative of what must have happened every time the Black Panther Party got together to cook.
+**Saqib Keval:** This is public.
 
-**Saqib Keval:** Which was every morning.
+**Jocelyn Jackson:** But it was that moment of getting together at the very earliest of hours, that it was still dark out, and composing a meal for hundreds of community members for Life is Living and doing this free breakfast program inspired offering for community. And it was very evocative of what must have happened every time the Black Panther Party got together to cook.
 
-**Jocelyn Jackson:** Make it work. Every morning. Just make it work. And the community coming together in such a solid, and I just remember so much laughter and so much joy in that space. It's like, okay, we can make everything that seems impossible possible, was kind of the feel of it. And we did. And yeah, just so much joy in a kitchen that is faced with so many, there's something about that. Logistical challenges for cooks is almost like catnip. It's like, okay, solutions are always found at every time.
+**Saqib Keval:** Which was every morning. Make it work. Every morning. Just make it work.
+
+**Jocelyn Jackson:** And the community coming together in such a solid, and I just remember so much laughter and so much joy in that space. It's like, okay, we can make everything that seems impossible possible, was kind of the feel of it. And we did. And yeah, just so much joy in a kitchen that is faced with so many, there's something about that.
+
+**Saqib Keval:** Logistical challenges for cooks is almost like catnip.
+
+**Jocelyn Jackson:** It's like, okay, solutions are always found at every time.
 
 **Sita Kuratomi Bhaumik:** Oh my God.
 
 **Jocelyn Jackson:** And the high that comes from that experience.
 
-**Saqib Keval:** Because at that time, the People's Kitchen and the free breakfast program was very loosey-goosey, community project, but I was taking on a lot of it. And that free breakfast program, I remember them having flashbacks to that morning of you being in the kitchen. And it was such a logistically bananas thing to do, to prepare breakfast at that scale for that many people in that time period in that setting. And to have someone like Jocelyn there, that was, yeah, that was the quick.
+**Saqib Keval:** Because at that time, the People's Kitchen and the free breakfast program was very loosey-goosey, community project, but I was taking on a lot of it. And that free breakfast program, I remember having flashbacks to that morning of you being in the kitchen. And it was such a logistically bananas thing to do, to prepare breakfast at that scale for that many people in that time period in that setting. And to have someone like Jocelyn there, that was, yeah, that was the quick.
 
-**Jocelyn Jackson:** But it was a chef bonanza. You had all your peoples, like who saw it.
+**Jocelyn Jackson:** But it was a chef bonanza. You had all your peoples, who saw it.
 
 **Chelsea Wills:** Tell me what happened.
 
@@ -150,43 +160,41 @@ In this episode, PKC talks with Chelsea about nourishing a radical, beloved comm
 
 **Saqib Keval:** Well, we start the day before.
 
-**Sita Kuratomi Bhaumik:** Day before.
+**Jocelyn Jackson:** Day before.
 
-**Jocelyn Jackson:** Day before, yeah.
+**Sita Kuratomi Bhaumik:** Day before, yeah.
 
 **Chelsea Wills:** Okay. What'd you make?
 
-**Saqib Keval:** Our standard menu for this free breakfast program is kind of evolved over time, but it includes the coconut milk grits, the collard greens, Jocelyn's sweetheart sweet potato biscuits, some type of fruit butter to go with that, right?
+**Saqib Keval:** Our standard menu for this free breakfast program has kind of evolved over time, but it includes the coconut milk grits, the collard greens, Jocelyn's Sweetheart sweet potato biscuits, some type of fruit butter to go with that, right?
 
 **Sita Kuratomi Bhaumik:** Tofu scramble or egg scramble?
 
 **Jocelyn Jackson:** Tofu scramble.
 
-**Saqib Keval:** Yeah, tofu scramble, a spiced tofu scramble, and scrambled eggs. Very buttery, fluffy scrambled eggs. And then sometimes one of the farms nearby will come by with some herbs and we'll make a lemon balm tea or something like that.
+**Saqib Keval:** Yeah, tofu scramble, a spiced tofu scramble and scrambled eggs. Very buttery, fluffy scrambled eggs. And then sometimes one of the farms nearby will come by with some herbs and we'll make a lemon balm tea or something like that.
 
 **Jocelyn Jackson:** Yeah, some type of agua.
 
-**Sita Kuratomi Bhaumik:** But the inspiration for that meal, and for basically honoring the legacy of the free breakfast program, is the Black Panther Party for Self-Defense. That was also one of the threads that we shared in common, was just this fascination, love, respect, admiration for the work of the Black Panther Party, the roots in Oakland, and the survival programs in particular. So the meal, which is now going on how many years that we've been doing it?
+**Saqib Keval:** But the inspiration for that meal, and for basically honoring the legacy of the free breakfast program, is the Black Panther Party for Self-Defense. That was also one of the threads that we shared in common, was just this fascination, love, respect, admiration for the work of the Black Panther Party, the roots in Oakland, and the survival programs in particular. So the meal, which is now going on how many years that we've been doing it?
 
-**Saqib Keval:** This will be our eighth year.
+**Sita Kuratomi Bhaumik:** This will be our eighth year.
 
-**Sita Kuratomi Bhaumik:** With Life Is Living, is to serve specifically the youth that come to participate in the programs, including Young, Gifted and Black and so many other amazing youth performers, and to really kick off that weekend. And it's held in DeFremery Park. And DeFremery Park, also known as Little Bobby Hutton Park, is also this incredible site for organizing, for conferences, for survival conferences, for sickle cell testing, for breakfast, for so many of those programs that the Black Panther Party had in the 60s and 70s.
+**Saqib Keval:** With Life is Living, is to serve specifically the youth that come to participate in the programs, including Young, Gifted and Black and so many other amazing youth performers, and to really kick off that weekend. And it's held in DeFremery Park. And DeFremery Park, also known as Little Bobby Hutton Park, is also this incredible site for organizing, for conferences, for survival conferences, for sickle cell testing, for breakfast, for so many of those programs that the Black Panther Party had in the 60s and 70s.
 
-And so after I started cooking with these folks, I remember I found a physical, old-style file folder that I had of clippings that I collected over the years about the free breakfast program. And just the head of the FBI calling it the single most dangerous threat to domestic security, was feeding young black children. And at one point, the statistic is that they were feeding more children throughout the country than the entire state of California.
+And so it's really, after I started cooking with these folks, I remember I found a physical old style file folder that I had of clippings that I collected over the years about the free breakfast program. And just the head of the FBI calling it the single most dangerous threat to domestic security was feeding young black children. And at one point, the statistic is that they were feeding more children throughout the country than the entire state of California. And that's why we have free breakfast and lunch programs in schools now, right? Because the Panthers shamed the government basically into providing breakfast and lunch in schools.
 
-**Saqib Keval:** And that's why we have free breakfast and lunch programs in schools now, right? Because the Panthers shamed the government basically into providing breakfast and lunch in schools. And that was really not just the genius of the Panthers, but that was one of the driving factors between a lot of their survival programs. They termed them "survival pending revolution," meaning this is just to get us from point A to point B and make sure that we stay alive to get to the revolution, right?
+And that was really, not just the genius of the Panthers, but that was one of the driving factors between a lot of their survival programs, was they termed them survival pending revolution, meaning this is just to get us from point A to point B and make sure that we stay alive to get to the revolution, right? And these were all programs that were coming out of necessity and they weren't grant funded, people need things like shoes, the shoes for homeless people program, like it's winter and it's cold. People need shoes. We are going to make sure there's a way for people to get shoes. Or they had a program of their own ambulance services in their communities because ambulances weren't going to serve their communities and didn't answer calls.
 
-And these were all programs that were coming out of necessity, and they weren't grant funded. Things like shoes for homeless people program: it's winter and it's cold. People need shoes. We are going to make sure there's a way for people to get shoes. Or they had a program of their own ambulance services in their communities, because ambulances weren't going to serve their communities and didn't answer calls. And they had their own patrols, because cops only came into their communities to beat up and shoot their community and not to actually serve and protect or whatever that cops are supposed to do.
-
-And they had the visiting the elders and making sure people cared for and tended for. These are all programs that are taken for granted in more well-to-do neighborhoods and, I think, in more privileged communities. And for the Panthers to, one, lay claim to that and also create infrastructure to make sure that was possible was and is a revolutionary act.
+And they had their own patrols because cops only came into their communities to beat up and shoot their community and not to actually serve and protect or whatever that cops are supposed to do. And they had the visiting the elders and making sure people were cared for and tended for. These are all programs that are taken for granted in more well-to-do neighborhoods and in more privileged communities, and for the Panthers to, one, lay claim to that and also create infrastructure to make sure that was possible was and is a revolutionary act.
 
 **Chelsea Wills:** So something that comes up for me is each of you is pretty formidable in your own right, right? You do a lot of different things in your life. But what does it mean to represent a legacy? When I've seen you guys and when I've been in your spaces and eating at your meals, which I don't know how this happened to everybody, but I feel like I went to every PKC meal for four or five months in a row, and it was accidental, but I just kept finding myself there.
 
 **Saqib Keval:** Did you get your punch card?
 
-**Sita Kuratomi Bhaumik:** Seriously.
+**Chelsea Wills:** Seriously.
 
-**Jocelyn Jackson:** Did you get your punch card?
+**Saqib Keval:** Did you get your punch card?
 
 **Chelsea Wills:** What happened to me?
 
@@ -194,109 +202,117 @@ And they had the visiting the elders and making sure people cared for and tended
 
 **Chelsea Wills:** What does it mean to represent a legacy? You're talking about the Panthers right now, but my sense is that you represent lots of legacies and that you...
 
-**Jocelyn Jackson:** That's really true. And I'm glad you bring it up that way because, oh my gosh, it's an incredible privilege to be able to represent so much legacy amongst the three of us, representing so many diasporic traditions, and ancestry is so key to the way that we're able to show up together as a collective.
+**Jocelyn Jackson:** That's really true. And I'm glad you bring it up that way because we are incredibly, oh my gosh, it's an incredible privilege to be able to represent so much legacy amongst the three of us, representing so many diasporic traditions, and ancestry is so key to the way that we're able to show up together as a collective. One of the quotes that's just really moving around in my brain and my heart right now is this idea of: the opposite of poverty isn't wealth. The opposite of poverty is justice.
 
-One of the quotes that's really moving around in my brain and my heart right now is this idea of the opposite of poverty isn't wealth. The opposite of poverty is justice. And so no matter what tradition we're pulling from in our own familial traditions or experiences professionally, there's something that is resonating around this idea that we have everything we need within community and within the wisdom of our elders to heal ourselves and to survive and to create a path forward for black and brown folks and their lived experience. That is joyful, that is in that place of claiming the decolonized reality of our present sociopolitical moment. So it's rich to be able to do that through the reality of food traditions, through creativity, and through active social justice by cooking.
+And so no matter what tradition we're pulling from in our own familial traditions or experiences professionally, there's something that is resonating around this idea that we have everything we need within community and within the wisdom of our elders to heal ourselves and to survive and to create a path forward for black and brown folks and their lived experience. That is joyful, that is in that place of claiming the decolonized reality of our present sociopolitical moment. So it's rich to be able to do that through this idea of, or through the reality of, food traditions, through creativity, and through active social justice by cooking.
 
-**Sita Kuratomi Bhaumik:** I've been thinking a lot as an artist of what gets preserved, what gets included and what gets left out, and the histories behind that, whose story gets told, and how. And so to think about the legacy of the Black Panthers, I take my students at CCA on this walking tour of the area in North Oakland and they're always shocked at, why isn't there even a plaque here? Why isn't there a statue here? Why is this so invisible? And the reasons to that are very complicated and there are many. It goes back to the same, why were the Panthers so threatening?
+**Sita Kuratomi Bhaumik:** I've been thinking a lot as an artist of what gets preserved, what gets included and what gets left out, and the histories behind that, whose story gets told, and how. And so I think to think about the legacy of the Black Panthers, I take my students at CCA on this walking tour of the area in North Oakland and they're always shocked at, why isn't there even a plaque here? Why isn't there a statue here? Why is this so invisible? And the reasons to that are very complicated and there are many. It goes back to the same, why were the Panthers so threatening? And I think that invisibility, I see that to see the opportunity kind of where the challenge is.
 
-And I think that that invisibility, I see that to see the opportunity kind of where the challenge is. You've been thinking a lot about, okay, there's two ways to preserve something. You can take it, you can put it behind glass, you can stick in a museum, you can forget about it. Or you can learn how to make the thing and you can recreate it. And I think communities of color in particular, indigenous communities throughout the world, have placed a lot of importance on passing on the knowledge of how to do the thing instead of just preserving object and moving on to something else.
+**Saqib Keval:** You've been thinking a lot about, okay, there's two ways to preserve something. You can take it, you can put it behind glass, you can stick it in a museum, you can forget about it.
 
-And I feel like cooking is one of those crafts that is informed by what came before us very specifically. And that's, I think, one of the reasons that I find cooking a way to keep these histories alive, as an extension of this legacy, whether that's Black Panther Party, whether that's migration of my own people coming from different continents. But it's not passive. When you're sitting at a table, you even have to decide, am I going to eat this? Am I not going to eat this? It's a very active process. And I think that that's part of the opportunity that we see in engaging people: this is history alive and this is past, present and future all at the same time.
+**Chelsea Wills:** Right.
 
-**Saqib Keval:** Because that type of white supremacy thrives in silence, right? And thrives in us not knowing our own histories, white supremacy and a myriad of systems of oppression. So this act of keeping and being able to talk about the Panthers or the Brown Berets or the Red Guard or the Ghadar Party or the American Indian Movement, all these political movements, actively to talk about them and talk about the present day impacts on our lives, I think it's very powerful and political. But to talk about side by side with our immigrant stories and immigration stories and people's migration histories is very powerful, too.
+**Saqib Keval:** Or you can learn how to make the thing and you can recreate it. And I think communities of color in particular, indigenous communities throughout the world, have placed a lot of importance on passing on the knowledge of how to do the thing instead of just preserving the object and moving on to something else. And I feel like cooking is one of those crafts that is informed by what came before us very specifically. And that's, I think, one of the reasons that I find cooking a way to keep these histories alive, as an extension of this legacy, whether that's the Black Panther Party, whether that's migration of my own people coming from different continents.
 
-Because it reminds us both in the food that we cook, but also in our day-to-day lives that, one, we come from giants and two, we are also giants, right? That things that our ancestors have done that at the time seemed formidable and impossible have been done and that we have that connection to that. And we've got the recipes that fed them as they went through all of that, right? And so for us, I think that as we're cooking, it's constantly trying to reclaim that, the power, the strength. And like the Panthers demonstrated so often, the self-determination of being able to cook and feed and gather people together around a meal and just the immense politic of that.
+But it's something, it's not passive. When you're sitting at a table, you even have to decide, am I going to eat this? Am I not going to eat this? It's a very active process. And I think that that's part of the opportunity that we see in engaging people, is this is history alive and this is past, present and future all at the same time. Because that type of white supremacy thrives in silence, right? And thrives in us not knowing our own histories, white supremacy and a myriad of systems of oppression.
+
+So this act of keeping and being able to talk about the Panthers or the Brown Berets or the Red Guard or the Guider Party or the American Indian Movement, all these political movements, actively, to talk about them and talk about the present day impacts on our lives, I think it's very powerful and political. But to talk about them side by side with our immigrant stories and immigration stories and people's migration histories is very powerful, too. Because it reminds us, both in the food that we cook, but also in our day-to-day lives, that, one, we come from giants and, two, we are also giants, right? That things that our ancestors have done that at the time seemed formidable and impossible have been done and that we have that connection to that. And we've got the recipes that fed them as they went through all of that, right?
+
+And so for us, I think that as we're cooking, it's constantly trying to reclaim that, the power, the strength. And as the Panthers demonstrated so often, the self-determination of being able to cook and feed and gather people together around a meal, and just the immense politic of that.
 
 **Chelsea Wills:** So at your meals, the ones that I've been to have started with an invocation of your ancestors. And I'm thinking about Marvin K. White and his...
 
 **Jocelyn Jackson:** Theopoetics.
 
-**Chelsea Wills:** Theopoetics and the invitation to have prophetic space as part of the work that you do. And something for me feels really different and really powerful about work that is both inward-looking and outward-looking at the same time. I leave and I feel really fed and I feel really nourished because I was part of ritual and because I'm full. I'm satiated in this way that is different than a fancy dinner out, that feels more like my hope for what family party feel like. I may say that because we were talking about this before we started recording. But where there's a coming together and there's a celebration and there's a nuance. And I wonder if you guys can talk about this idea of invocation and the prophetic in your work.
+**Chelsea Wills:** Theopoetics, and the invitation to have prophetic space as part of the work that you do. And something for me feels really different and really powerful about work that is both inward-looking and outward-looking at the same time. There's something that feels like I leave and I feel really fed and I feel really nourished because I was part of ritual and because I'm full. I'm satiated in this way that is different than a fancy dinner out, that feels more like my hope for what family parties feel like. I may say that because we were talking about this before we started recording. But where there's a coming together and there's a celebration and there's a nuance. And I wonder if you guys can talk about this idea of invocation and the prophetic in your work.
 
 **Sita Kuratomi Bhaumik:** I think it's so interesting because Marvin, one of the things he also says is that this is for us. And just remember, this is for us. And I think that inward-outward is, from the folks who are participating and producing the food and putting it on a table, we're having a really good time, even before the guests show up. And I also think that one of the ways that we invoke is, to me, it's Jocelyn, your singing, is part of that invocation and part of just that feeling that you can't get from spoken words otherwise. It only comes through song. That really also feels like a deep ancestral tie.
 
-**Jocelyn Jackson:** And that goes back to what Sita does, which is bring this really strong attention to the artistry of the moment, the composition of an evening in order to be experienced. And there's something really true in, beyond the spoken word, if there is poetry present, if there is song present, if there is an altar present that has the spirit of elders with it. If smudging has happened in the room with the intention of us all being empowered and uplifted by the presence of our ancestries, that creates a ground for us to stand on for every event that is beyond us and for us all at the same time.
+**Jocelyn Jackson:** And that goes back to what Sita does, which is bring this really strong attention to the artistry of the moment, the composition of an evening in order to be experienced. And there's something really true in, beyond the spoken word, if there is poetry present, if there is song present, if there is an altar present that has the spirit of elders with it. If smudging has happened in the room with the intention of us all being empowered and uplifted by the presence of our ancestries, that creates a ground for us to stand on for every event that is beyond us and for us all at the same time. And that's all on purpose. There's no mistake in that.
 
-And that's all on purpose. That's no mistake in that. There are things that we do every time intentionally in order to create a space that everyone can be invited into, to have a sense of welcome, so that they can be changed during the process of an evening. It's something that really matters for me, to create an environment where folks really do believe and feel a sense of beloved community. That there is a shift of when you're outside the door and when you come in the room. And for that to be so palpable and so moving that we can create an environment of transformation and of, we are living the reality that we actually want to have in the world.
+There are things that we do every time intentionally in order to create a space that everyone can be invited into, to have a sense of welcome, so that they can be changed during the process of an evening. It's something that really matters for me, to create an environment where folks really do believe and feel a sense of beloved community. That there is a shift of when you're outside the door and when you come in the room. And for that to be so palpable and so moving that we can create an environment of transformation and of: we are living the reality that we actually want to have in the world. Without those opportunities to experience that, for it to be lived, it doesn't seem possible in the world.
 
-Without those opportunities to experience that, for it to be lived, it doesn't seem possible in the world. And so for that to happen, and every time for me it feels like it happens, it's so delicious to be able to have that experience. And it's sometimes very disorienting because we are in this pressure cooker of getting an event done and all that that includes and all the directions that we're moving. And then there's those moments where we all come together and we can see what's happening.
+And so for that to happen, and every time for me it feels like it happens, it's so delicious to be able to have that experience. And that's why it's sometimes very disorienting, because we are in this pressure cooker of getting an event done and all that that includes and all the directions that we're moving. And then there's those moments where we all come together and we can see what's happening. And it's just remarkable to know that there's frenzy, there's chaos of just eventness. But there's also this solid thing that's happening in that space of a connection of one human being to another in order to elicit a more beautiful and joyful reality for all of us to exist in. Nothing short of that. That's what I want to do on a daily. I don't have time for anything else. So I'm really grateful that PKC can create that for our community.
 
-And it's just remarkable to know that there's frenzy, there's chaos of just eventness. But there's also this solid thing that's happening in that space, of a connection of one human being to another in order to elicit a more beautiful and joyful reality for all of us to exist in. Nothing short of that. That's what I want to do on a daily. I don't have time for anything else. So I'm really grateful that PKC can create that for our community.
+**Saqib Keval:** I like that you said how you felt filled by that meal, right? So one of our sayings with PKC is it's not just to fill your stomach, but it's also to nourish your soul, feed your mind and fuel the movement, right? That we want the meals not just to be about sitting and eating, because the meal extends so far beyond just the sitting and eating together. That we want that to feed you and fill you, but carry you out to the streets, advocate for the issues that matter, right? That it uses all of your senses to engage in the PKC space. And that for us is very intentional and very particular, how we design the space, and it's part of that ritual, right?
 
-**Saqib Keval:** I like that you said how you felt filled by that meal, right? So one of our sayings with PKC is it's not just to fill your stomach, but it's also to nourish your soul, feed your mind and fuel the movement, right? That we want the meals not just to be about sitting and eating, because the meal extends so far beyond just the sitting and eating together. That we want that to feed you and fill you, but carry you out to the streets, advocate for the issues that matter, right? That it uses all of your senses to engage in the PKC space.
+Trying to move people's relationship to eating, especially in the Bay Area, with this very mainstream foodie movement that's so much about consumption and conspicuous consumption of: look at my place in life by where I'm eating and how much I'm eating, what I'm spending on this meal. To flip that, and part of this act of decolonization, of how to remove that type of consumption from it. So if we bring it back to, like you said, this family space or this familial space, where we can care for, tend to and build relationship in a more genuine way.
 
-And that for us is very intentional and very particular of how we design the space, and it's part of that ritual, right? Trying to move something, people's relationship to eating, especially in the Bay Area with this very mainstream foodie movement that's so much about consumption and conspicuous consumption of, look at my place in life by where I'm eating and how much I'm eating, what I'm spending on this meal. To flip that, and part of this act of decolonization, of how to remove that type of consumption from it. So if we bring it back to this, like you said, this family space or this familial space where we can care for, tend to and build relationship in a more genuine way.
+And I think a lot of that for us, and one of the things I love most about PKC, is that it prioritizes and centers the voices and experiences of people of color. And it tells and brings together narratives and stories of people often left out of the mainstream food movement and outside of the foodie narratives. This food was never meant for us to eat. The style of gathering, governments have done a lot to keep us from being able to gather and have common spaces like this. So again, this feels a little bit like a survival program in and of itself, of how do we sit, how do we come together, how do we nourish ourselves and feed our movements.
 
-And one of the things I love most about PKC is that it prioritizes and centers the voices and experiences of people of color. And it tells and brings together narratives and stories of people often left out of the mainstream food movement and outside of the foodie narratives. This food was never meant for us to eat. The style of gathering, governments have done a lot to keep us from being able to gather and have common spaces like this. So again, this feels a little bit like a survival program in and of itself, of how do we sit, how do we come together, how do we nourish ourselves and feed our movements.
+**Sita Kuratomi Bhaumik:** Yeah, you said you'd started with invocation and I never made this connection between invocation and hospitality. And I think that one of the things that I'm reminded of is just in my family, hospitality meant that you knew that you had to serve your elders first. And there was, there's an ancestry that you have to understand in order to be able to provide hospitality. And I think that that's what gets divorced when you think of hospitality as something that I can go and pay for.
 
-**Sita Kuratomi Bhaumik:** Yeah, you said you'd started with invocation and I never made this connection between invocation and hospitality. And I think that one of the things that I'm reminded of is just in my family, hospitality meant that you knew that you had to serve your elders first. There's an ancestry that you have to understand in order to be able to provide hospitality. And I think that that's what gets divorced when you think of hospitality as something that I can go and pay for. That it's a service. And I think that one of the things that we say in our meals is that you are in service. You are being of service. You're not a server.
+**Chelsea Wills:** Right.
 
-And it's complicated because there's a lot of patriarchy, a lot of class that is embedded in those codes, and I think that for me, PKC is also a space to figure out, OK, what is it that we of those? Because the ancestors, grateful for them, and they didn't have all the answers in the world. It's changed a lot in that time. So how do we take the best of how they survived and thrived and also make it our own?
+**Sita Kuratomi Bhaumik:** That it's a service. And I think that one of the things that we say in our meals is that you are in service. You are being of service. You're being, sorry, you're being of service. You're not a server.
 
-**Jocelyn Jackson:** And prepare ourselves for what's to come.
+**Chelsea Wills:** Right.
 
-**Saqib Keval:** Because we've been doing PKC now for a while and it's always been this process of creating new language also around food work and restaurant work, and creating a new operating model of what a kitchen can be and how a food business can operate. And it's been a constant learning process, but also designing process and unlearning process.
+**Sita Kuratomi Bhaumik:** And it's complicated because there's a lot of patriarchy, a lot of class that is embedded in those codes, and I think that for me, PKC is also a space to figure out, okay, what is it that we, of those? Because the ancestors, grateful for them, and they didn't have all the answers in the world. It's changed a lot in that time. So how do we take the best of how they survived and thrived and also make it our own, right? And prepare ourselves for what's to come.
 
-**Chelsea Wills:** We could talk about that for the rest of the time. There's so much structural to delve into with that. One thing that stands out to me is this continual process of visibility that you encourage in your process. You talk about what goes into the meal every time, right, as a process, as a dynamic action rather than as a product. And I think there's this really humanizing quality about that. And I think visibility, as I experience it at your meals, is about me being visible to myself, too.
+**Saqib Keval:** Yeah. Because there's a lot of the, this process, we've been doing PKC now for a while and it's always been this process of creating new language also around food work and restaurant work, and creating a new operating model of what a kitchen can be and how a food business can operate. And it's been a constant learning process, but also designing process and unlearning process. We could talk about that for the rest of the time. There's so much structural to delve into with that.
 
-And so I think of all these tropes, like there's a space for everybody at the table and all of these things. It's like, what does that actually feel like to have space for everybody? I think every part of your process, from your sourcing to how people are working in your kitchen to the way that food is served to the spaces that you decide to inhabit, are about holding this visibility in a way that notices where you are and the complexity that it holds. So I'm curious, y'all are a pretty intentional group, right? There's not a lot that happens by accident with these three minds sitting at the table.
+**Chelsea Wills:** One thing that stands out to me is this continual process of visibility that you encourage in your process. You talk about what goes into the meal every time, right, as a process, as a dynamic action rather than as a product. And I think there's this really humanizing quality about that. And I think visibility, as I experience it at your meals, is about me being visible to myself, too.
+
+**Jocelyn Jackson:** Right.
+
+**Chelsea Wills:** And so I think of all these tropes, there's a space for everybody at the table and all of these things. It's like, what does that actually feel like, to have space for everybody? I think every part of your process, from your sourcing to how people are working in your kitchen to the way that food is served to the spaces that you decide to inhabit, are about holding this visibility in a way that notices where you are and the complexity that it holds. So I'm curious, y'all are a pretty intentional group, right? There's not a lot that happens by accident with these three minds sitting at the table.
 
 **Saqib Keval:** What?
 
 **Sita Kuratomi Bhaumik:** There's stuff that happens by accident, but then we figure out why.
 
-**Saqib Keval:** They throw some language on it. You're like, yeah. That's pretty good.
+**Chelsea Wills:** They throw some language on it.
 
-**Jocelyn Jackson:** That's good. Sorry. What was the rest of your question?
+**Saqib Keval:** Yeah. That's pretty good. That's good.
+
+**Jocelyn Jackson:** Sorry. What was the rest of your question?
 
 **Chelsea Wills:** No, that's it. So what is visibility?
 
-**Jocelyn Jackson:** It really brings to mind what was in our consideration when creating this four-part meal series that we were mentioning before, from the farm to the kitchen to the table to the street. And when we were conceptualizing each of those spaces and what it means to be transparent about what or who the wisdom keepers are in each of those places and spaces, what was really resonant for the first one, farm, was in some ways surprising. Because for farm, it really was trying to capture the feeling of home.
+**Jocelyn Jackson:** It really brings to mind what was in our consideration when creating this four-part meal series that we were mentioning before, from the farm to the kitchen to the table to the street. And when we were conceptualizing each of those spaces and what it means to be transparent about what or who the wisdom keepers are in each of those places and spaces, what was really resonant for the first one, farm, was in some ways surprising. Because for farm, it really was trying to capture the feeling of home. And the feeling of home is a way of claiming land and honoring the things that come from the land, which, most obviously, is food production, where we source our food from. But it's also where we get our flavors. Without the land, without it being a vessel for the flavors of our homelands, we aren't actually able to engage with any other part of the meal process or experience.
 
-And the feeling of home is a way of claiming land and honoring the things that come from the land, which most obviously is food production, where we source our food from. But it's also where we get our flavors. Without the land, without it being a vessel for the flavors of our homelands, we aren't actually able to engage with any other part of the meal process or experience. And that's critical. But in our farm to table ethic, farm is reduced to a place of production instead of process. The stories are eliminated from the commercialization of the production of food.
+And that's critical. But in our farm to table ethic, farm is reduced to a place of production instead of process. The stories are eliminated from the commercialization of the production of food. And so for us to reclaim the space as something that is deeper and richer and filled with basically the blood of our ancestors, that's a beautiful experience. And that is, like you say, there is a lot of intention here. To be able to evoke the feeling of what I described, it seems impossible. And in many ways it is. But the fact that we make the attempt to bring that into a space where a meal is being shared by community makes me so happy, that we can even try to do that in the face of so many systems that are trying to limit the stories that we're able to share, or remember, or create on behalf of our own survival.
 
-And so for us to reclaim the space as something that is deeper and richer and filled with basically the blood of our ancestors, that's a beautiful experience. And like you say, there is a lot of intention here. To be able to evoke the feeling of what I described, it seems impossible. And in many ways it is. But the fact that we make the attempt to bring that into a space where a meal is being shared by community makes me so happy that we can even try to do that in the face of so many systems that are trying to limit the stories that we're being able to share. Or remember or create on behalf of our own survival.
-
-**Saqib Keval:** I think there's so much in the mainstream foodie culture and restaurant culture that thrives on making people invisible and making our labor invisible, right? So I really love hearing that. That's something that you noticed at our meal that struck you as being specific. Because it is something that's come up. People's Kitchen is 12 years old now, about 11 or 12 years old. And our collective is 10 years old.
+**Saqib Keval:** I think there's so much in the mainstream foodie culture and restaurant culture that thrives on making people invisible and making our labor invisible, right? So I really love hearing that, that that's something that you noticed at our meal that struck you as being specific. Because it is something that's come up. People's Kitchen is 12 years old now, about 11 or 12 years old. And our collective is 10 years old.
 
 **Sita Kuratomi Bhaumik:** It feels so much older.
 
-**Saqib Keval:** 50. 50 years old. And then two years or one year for our collective, something like that.
+**Jocelyn Jackson:** 50.
+
+**Saqib Keval:** 50 years old. And then two years or one year for our collective, something like that.
 
 **Sita Kuratomi Bhaumik:** A little over a year now.
 
-**Saqib Keval:** I am not the memory keeper in this collective. But we've done this so many different ways over this time period. But one of the things that's always been consistent is that the people who make the food should be the center of the narrative and be brought out and also be engaged with and given thanks to in a way that restaurants don't do it. Because if you go to most restaurants, regardless of how much you're paying, regardless of how foodie or how many stars it is or how local it is, almost every time, the darker the skin color of the person, the further back of house they're going to be. Even that distinction of front of house to back of house.
+**Saqib Keval:** Yeah. I am not the memory keeper in this collective. But so, we've done this so many different ways over this time period. But one of the things that's always been consistent is that the people who make the food should be the center of the narrative, and be brought out and be engaged with and given thanks to in a way that restaurants don't do it. Right. Because if you go to most restaurants, regardless of how much you're paying, regardless of how foodie or how many stars it is or how local it is, almost every time, the darker the skin color of the person, the further back of house they're going to be. Right. Even that distinction of front of house to back of house.
 
-With restaurants built, the modern day restaurant built off of the French military, right, and taken to design from the French military. There's a lot of bullshit and horrible, horrible politic that's built into the way that restaurants operate and the way that they thrive. So for us to do that is definitely very intentional. Again, this thing about narrative and story and experiences, what it looks like to center the experiences of people of color in this.
+With the modern day restaurant built off of the French military, right, and taking its design from the French military, there's a lot of bullshit and horrible, horrible politic that's kind of built into the way that restaurants operate and the way that they thrive. So for us to do that is definitely very intentional. Again, this thing about narrative and story and experiences, what it looks like to center the experiences of people of color in this.
 
-When Jocelyn was talking about from the farm to the kitchen, to the table, to the street, we're focusing on each of those sites because each of those are sites of knowledge production, culture keeping, storytelling, and places of survival for folks of color. But it's also the parts of the food narrative that we're left out of the most. For folks of color, for immigrant people, our experiences exist on the narrative. So if the narrative is just farm to table, we are on the narrative. The folks of color are the people in between that, who are bringing the food from the farm to the table or working at the farm or taking it away from the table back to the dish room and then to compost or to the processing plant.
+When Jocelyn was talking about from the farm to the kitchen, to the table, to the street, we're focusing on each of those sites because each of those are sites of knowledge production, culture keeping, storytelling, and places of survival for folks of color. But it's also the parts of the food narrative that we're left out of the most, for folks of color, for immigrant people, our experiences exist on the narrative. So if the narrative is just farm to table, the folks of color are the people in between that, who are bringing the food from the farm to the table, or working at the farm, or taking it away from the table back to the dish room and then to compost or to the processing plant.
 
-And that is something that I feel like when you go out to eat simply as a consumer and you're just paying to put this experience, this meal into your body, you're also paying to not have to think about all the other people that have just been invisibilized from your narrative. So you could feel good about this meal. You're paying for that privilege to feel good.
+Right. And that is something that I feel like when you go out to eat simply as a consumer and you're just paying to put this experience, this meal, into your body, you're also paying to not have to think about all the other people that have just been invisibilized from your narrative. So you could feel good about this meal. Right. You're paying for that privilege to feel good.
 
-**Sita Kuratomi Bhaumik:** Yeah. I think about this because we speak on college campuses and I remember, somebody had invited me to eat in the cafeteria with them. And there's literally a little window and you can kind of see people through the slats of the conveyor belt turning, and you put your tray down and it's all folks of color scraping plates at their eight hour shift. And it's like, who is on the other end of that wall?
+**Sita Kuratomi Bhaumik:** Yeah. I think about this because we speak on college campuses, and I remember somebody had invited me to eat in the cafeteria with them. And there's literally a little window and you can kind of see people through the slats of the conveyor belt turning, and you put your tray down, and it's all folks of color scraping plates at their eight hour shift. And it's like, who is on the other end of that wall?
 
 **Saqib Keval:** Don't worry about it, Sita.
 
-**Sita Kuratomi Bhaumik:** Yeah. We have to laugh, right? Because it's so not funny. But it's that invisibility. And I think one of the things that stood out to me, Jocelyn, that you said at the farm meal was, you said for some of us, the farm was a plantation. And that's why it's important for us to reclaim this space and this land. And when I heard you say that, I was like, that's why we're different than a restaurant. This is how PKC makes space. It's for the story that you would not pay $75 to sit in here on a casual Tuesday night. We'd like to change that, actually.
+**Sita Kuratomi Bhaumik:** Yeah. I mean, we have to laugh, right? Because it's so not funny. But that is, it's that invisibility. And I think one of the things that stood out to me, Jocelyn, that you said at the farm meal was, you said for some of us, the farm was a plantation. And that's why it's important for us to reclaim this space and this land. And I thought, when I heard you say that, I was like, and that's why we're different than a restaurant. That's why we're different than, this is how PKC makes space. It's for the story that you would not pay $75 to sit in here, on a casual Tuesday night.
 
-**Saqib Keval:** Yeah. If you want to pay more farm meals, we would definitely welcome that.
+**Saqib Keval:** We'd like to change that, actually.
 
-**Jocelyn Jackson:** P.S.
+**Jocelyn Jackson:** Yeah. If you want to pay more farm meals, we would definitely welcome that.
 
 **Sita Kuratomi Bhaumik:** P.S.
 
-**Chelsea Wills:** So, Saqib, I think you talked about this idea of a new language. And now all three of you have mentioned a narrative and a story. And as you were talking, I was thinking about these places in between and why it feels so different to me about this as opposed to straight up activist work, is that it's not oppositional in a simple way, right? Everybody exists in this narrative of the in between. Everybody understands marginality in some way. When it gets complicated, it touches everybody, right? Food touches everybody. And when you tell the story over and over again of, can you guys tell me again, farm to kitchen...
+**Chelsea Wills:** So, Saqib, I think you talked about this idea of a new language. And now all three of you have mentioned a narrative and a story. And as you were talking, I was thinking about these places in between, and why it feels so different to me about this as opposed to straight up activist work, is that it's not oppositional in a simple way, right? Everybody exists in this narrative of the in between, everybody understands marginality in some way. When it gets complicated, it touches everybody, right? Food touches everybody.
 
-**Jocelyn Jackson:** To kitchen, to table, to the street.
-
-**Chelsea Wills:** Those are spaces we know as people, right? And I think as people of color, you're highlighting the ways that these systems of oppression make it so we don't know each other's stories, right? Because those destinations create these silos. And that process in between feels like the missed connections on Craigslist. But there's some softness in there. There's these ways that we touch each other, both in human ways and as movement builders and as activists. And it imagines something different for a moment. So I guess, what was it like to start to tell the story together? Every time I see the three of you, I can tell some conversations have happened.
+And when you tell the story over and over again of, can you guys tell me again? Farm to kitchen, to table, to the street. Those are spaces we know as people, right? And I think as people of color, you're highlighting the ways that these systems of oppression make it so we don't know each other's stories, right? Because there's these little silos in that, those destinations create these silos. And that process in between feels like the missed connections on Craigslist. But it feels, there's some softness in there. There's these ways that we touch each other, both in human ways and as movement builders and as activists. And it imagines something different for a moment. So I guess, what was it like to start to tell the story together? Every time I see the three of you, I can tell some conversations have happened.
 
 **Saqib Keval:** Are you on our WhatsApp thread?
 
-**Jocelyn Jackson:** It's fierce.
+**Sita Kuratomi Bhaumik:** It's fierce.
 
-**Sita Kuratomi Bhaumik:** Hundreds of messages a day.
+**Jocelyn Jackson:** Hundreds of messages a day.
 
 **Chelsea Wills:** Talk about archiving.
 
@@ -306,45 +322,41 @@ And that is something that I feel like when you go out to eat simply as a consum
 
 **Saqib Keval:** Oh, God.
 
-**Chelsea Wills:** It was great.
+**Chelsea Wills:** It was really great.
 
-**Sita Kuratomi Bhaumik:** I'm sure.
+**Saqib Keval:** I'm sure.
 
-**Chelsea Wills:** But anyway, it's not suggesting you do that. But what's it like to come up with a new language?
+**Chelsea Wills:** But anyway, I'm not suggesting you do that. But no, what's it like to come up with a new language?
 
-**Jocelyn Jackson:** What is it like to come up with a new language? This is something I talk about a lot. Because an Audre Lorde quote is around the fact that not only is it our work to be activists, but it's our work to create language that can actually describe our identities and what we're up to, because that language doesn't exist. And when that's the case, it feels like a super huge amount of creativity is needed to constantly reside in a constantly shifting environment of ideas and the sacred and the tangible realities of surviving.
+**Jocelyn Jackson:** What is it like to come up with a new language? This is something I talk about a lot. Because the Audre Lorde quote is around the fact that not only is it our work to be activists, but it's our work to create language that can actually describe our identities and what we're up to, because that language doesn't exist. And when that's the case, it feels like a super huge amount of creativity is needed to constantly reside in a constantly shifting environment of ideas and the sacred and the tangible realities of surviving.
 
-And what actually comes to mind is our Kitchen Remedies project, where that's going to be the basis of our next meal, our kitchen meal. We had this opportunity to interact with thousands of people around the question of what were the remedies that your family gave to you when you weren't feeling well. And we created this prescription pad. And it has some really mundane illnesses like headaches and stomach aches, but it also has homophobia and capitalism and white supremacy. It's like, what does it take to heal these social ills as well?
+And what actually comes to mind, which is interesting, is our Kitchen Remedies project, which is going to be the basis of our next meal, our kitchen meal. We had this opportunity to interact with thousands of people around the question of: what were the remedies that your family gave to you when you weren't feeling well? And we created this prescription pad. And it has some really mundane illnesses like headaches and stomach aches, but it also has homophobia and capitalism and white supremacy. It's like, what does it take to heal these social ills as well?
 
 And so in this process, we're interacting with people and their stories that they're sharing with us. And in every context that we have done this project, tears have been elicited because of the depth of that memory that's associated with the process of healing in a family. Sometimes they're tears of love, sometimes of sadness, sometimes of the feeling of not being cared for in their childhoods. It's a really deep investigation into how we are able to support one another in this process of healing physical and social ills.
 
-But what is important to me in that process is that although we have this really specific thing that has very specific language, so many times in this thousands and thousands of people, interacting with them, there's been the need to break it down even further and to describe even more for specific folks who are like, oh, they have a block on. It's like, I've never had this happen. I've never had a remedy given to me or anything like that. There's a discussion that ensues that gets me to a point of connecting to an individual to hear their story in their own words. It wasn't on this sheet. There just needed to be human connection.
+But what is important to me in that process is that although we have this really specific thing that has very specific language, so many times in this thousands and thousands of people interacting with them, there's been the need to break it down even further and to describe even more for specific folks who are like, oh, they have a block on. It's like, I've never had this happen. I've never had a remedy given to me or anything like that. There's a discussion that ensues that gets me to a point of connecting to an individual to hear their story in their own words. It wasn't on this sheet. There just needed to be human connection. There needed to be an opportunity or an invitation to go deeper into what all this means, to heal oneself, to be healed by one's family, to be in a place of receiving the wisdom of elders.
 
-There needed to be an opportunity or an invitation to go deeper into what all this means, to heal oneself, to be healed by one's family, to be in a place of receiving the wisdom of elders. That often needs that one-on-one connection to elicit the stories that are their lived experience. And that's phenomenal. That's really powerful to me. And I'm grateful that PKC as an entity can create projects like that where it insists that we get uncomfortable often, but we take the time to have that one-on-one exchange of being really humble of what it is to be human in a universal way, but also in a really nuanced way of each person living a life that is dynamic and insists on being heard like that.
+That often needs that one-on-one connection to elicit the stories that are their lived experience. And that's phenomenal. That's really powerful to me. And I'm grateful that PKC as an entity can create projects like that, where it insists that we get uncomfortable often, but we take the time to have that one-on-one exchange of being really humble of what it is to be human in a universal way, but also in a really nuanced way, of each person living a life that is dynamic and insists on being heard like that.
 
-**Sita Kuratomi Bhaumik:** I think part of what I've been surprised about, because we began cooking very naturally and kind of did the thing before we even called it, before we even said, oh, it's true. We are now People's Kitchen Collective. We had done three or four meals by then. Saqib's laughing because he's like, ha ha, gotcha.
+**Sita Kuratomi Bhaumik:** I think part of what I've been surprised about, because we began cooking very naturally and kind of did the thing before we even called it, before we even said, oh, it's true, we are now People's Kitchen Collective. We had done three or four meals by then. Saqib's laughing because he's like, ha ha, gotcha. Suckered them all into it. But I think what has surprised me is just the work that happens between the three of us, and how if we start out with the base recognition that perfection is impossible, everything is very far from perfect, but we are intentional. And I think that each time that we create an experience, create an event, we are reflecting back on it and we're thinking about, something new comes up each time, something new. And it makes us better.
 
-**Saqib Keval:** Sucker them all into it.
+But it's also, I think that for me, I came from a corporate world where there's a lot of finger pointing, a lot of look busy, a lot of over communicating in order to look busy, because you're trying to clock that you're, whatever, nine to six or whatever. And that does not apply in a space. We are here for completely different reasons. And I think that, yeah, that's the impulse. And I think a lot of that is kitchen culture too, of, I didn't do it. It's your fault. And I think that we've been even kind of put in that place in different events. And it's really crazy to me to not go there, because it's real, it is really incredible. I feel like that's one of the really kind of special things about the way that we work, that we are really supportive.
 
-**Sita Kuratomi Bhaumik:** But I think what has surprised me is just the work that happens between the three of us and how, if we start out with the base recognition that perfection is impossible, everything is very far from perfect, but we are intentional. And I think that each time that we create an experience, create an event, we are reflecting back on it and something new comes up each time. And it makes us better.
+I've showed up an hour and a half late to a meeting before because I fell asleep in my acupuncture appointment, and I think before I would have been making up excuses or whatever. So I think that maybe, and hopefully, what you're seeing is some reflection of that externally, that we're learning how to be and how to work as a very small microcosm of the way that we want to work and move in the world.
 
-But I think that for me, I came from a corporate world where there's a lot of finger pointing, a lot of look busy, a lot of over communicating in order to look busy because you're trying to clock that you're, whatever, nine to six or whatever. And that does not apply in a space. We are here for completely different reasons. And that's the impulse. And I think a lot of that is kitchen culture too, of, I didn't do it. It's your fault. And I think that we've even been put in that place in different events. And it's really crazy to me to not go there, because it is really incredible.
+**Saqib Keval:** One of my favorite People's Kitchen moments was preparing for the free breakfast program one year, and Rose's son, Darius, who was at that time, I think, nine. And Rose is one of the cooks who works with us all the time, and one of our super consistent volunteers, super brilliant, brilliant in the kitchen. And Darius is probably one of the most inspiring kids I've ever met. He was in the kitchen with us and he was making biscuits with Jocelyn, and he was asking, who's in charge here? Because he wanted to work with us and he was going to ask for a job. It's like, who's in charge? We're like, well, no one's in charge. We're a collective.
 
-I feel like that's one of the really special things about the way that we work, that we are really supportive. I've showed up an hour and a half late to a meeting before because I fell asleep in my acupuncture appointment. And I think before I would have been making up excuses or whatever. So I think that maybe, and hopefully, what you're seeing is some reflection of that externally. We're learning how to be and how to work as a very small microcosm of the way that we want to work and move in the world.
+And we were explaining to him how we operate as a collective and how we make decisions in the kitchen horizontally and what that means. And he's like, well, I want to work with you. I said, do you want to be in charge? He's like, no, I want to be part of the collective. And it was one of those moments where I was like, yes, this is it. You don't need someone in charge, right? When you can build a culture of working together and a culture of care and accountability.
 
-**Saqib Keval:** One of my favorite People's Kitchen moments was preparing for the free breakfast program one year and Rose's son, Darius, who was at that time, I think it was nine. And Rose is one of the cooks who works with us all the time and we're like super consistent volunteers, super brilliant in the kitchen. And Darius is probably one of the most favorite inspiring kids I've ever met. He was in the kitchen with us and he was making biscuits with Jocelyn and he was asking, who's in charge here? Because he wanted to work with us and he was going to ask for a job.
+One of the things that Sita was saying earlier that struck me and reminded me of this idea of accepting that this is not about perfection. This is about being in process together and about learning and creating new language and new restaurant culture and new food culture and new ways of cooking. And I think that perfection and this demand for perfection is this very white supremacist notion, and this demand for something to be only a certain way and to have the end product be exactly like you want it to be. And for us to do away with that and not try to go in that direction, but really be about the process, like you mentioned earlier, to have people see the process of a meal and to see the food being made a lot of different ways like that, I think is very powerful and potent.
 
-It's like, who's in charge? We're like, well, no one's in charge. We're a collective. And we were explaining to him how we operate as a collective and how do we make decisions in the kitchen horizontally and what that means. And he's like, well, I want to work with you. I said, do you want to be in charge? He's like, no, I want to be part of the collective. And it was one of those moments where I was like, yes, this is it. You don't need someone in charge, right? When you can build a culture of working together and a culture of care and accountability.
-
-One of the things that Sita was saying earlier that struck me and reminded me of this idea of accepting that this is not about perfection. This is about being in process together and about learning and creating new language and new restaurant culture and new food culture and new ways of cooking. And I think that perfection and this demand for perfection is this very white supremacist notion, and this demand for something to be only a certain way and to have the end product to be exactly like you want it to be. And for us to do away with that and not try to go in that direction, but really be about the process, like you mentioned earlier, to have people see the process of a meal and to see the food being made over a lot of different ways like that, I think is very powerful and potent.
-
-I think that's part of this new language of restaurant work. I came up in fine dining kitchens and working in restaurants and got really indoctrinated with this idea that's very machismo and very patriarchal, very top-down notion of what a chef is. And that is the overall narrative of foodie culture and chef cultures, is very abusive, very top-down, very white male culture. That again comes from the French military, right? That has these longstanding roots of demanding unquestioning loyalty and a lack of critical thinking, just execution, execution.
+I think that's part of this new language of restaurant work, where there's so much about, me, I came up in fine dining kitchens and working in restaurants, and got really indoctrinated with this idea that's very machismo and very patriarchal, very top-down notion of what a chef is. And the overall narrative of foodie culture and chef cultures is very abusive, very top-down, very white male culture. That again comes from the French military, right? That has these longstanding roots of demanding unquestioning loyalty and a lack of critical thinking, just execution, execution.
 
 And for us, if you're in the kitchen with us, there's so much conversation. There's so much people thinking together, taking a recipe and creating it together, but also putting their own version on it. And there isn't this expectation of perfection. There's this expectation of love and care and attention to detail.
 
 **Jocelyn Jackson:** And participation.
 
-**Saqib Keval:** And participation, right? That we want to feel everyone's hands in this and we want it to be a reflection of us in this moment together. And I think that is really beautiful. And one of the things I think that lands most with people that eat with us.
+**Saqib Keval:** And participation, right? That we want to feel everyone's hands in this and we want it to be a reflection of us in this moment together. And I think that is really beautiful, and one of the things I think that lands most with people that eat with us.
 
 **Chelsea Wills:** It's also really delicious.
 
@@ -352,83 +364,73 @@ And for us, if you're in the kitchen with us, there's so much conversation. Ther
 
 **Jocelyn Jackson:** Yeah, thanks.
 
-**Chelsea Wills:** I've eaten many meals that many hands have touched that are not delicious, right? So I think that's a challenge. To me, that feels like the work of building a beloved community, right? Where it's not a destination. It's a dynamic process. And there's moments in that, right? I'm thinking about Food Not Bombs, which we talked a lot with Kristen Leach about, which seems to be this common thread that comes up with a lot of people, and how it's distinctly not delicious ever, actually. It's almost inedible.
+**Chelsea Wills:** I mean, I've eaten many meals that many hands have touched that are not delicious, right? So I think that's a challenge. To me, that feels like the work of building a beloved community is the work of building a beloved community, right? Where it's not a destination. It's a dynamic process. And there's moments in that, right? I'm thinking about Food Not Bombs, which we talked a lot with Kristyn Leach about, which seems to be this common thread that comes up with a lot of people, and how it's distinctly not delicious ever, actually. It's almost inedible.
 
-**Saqib Keval:** Let me be clear, because I don't want it to sound like everything I said is too woo-woo. If the food isn't good, we won't serve it, right? We're still a food project. And I will be the first to know that your food tastes like trash. I love you. I don't care how much love and attention to detail and care and well wishes you put into this. What you should have put into it is some salt and some spices.
+**Saqib Keval:** Let me be clear, because I don't want it to sound like everything I said is too woo-woo. If the food isn't good, we won't serve it, right? We're still a food project. And I will be the first to know that your food tastes like trash. I love you. I don't care how much love and attention to detail and care and what wishes you put into this. What you should have put into it is some salt and some spices. And I've been in a lot of kitchens like that. Like, oh, I care about you. You obviously don't, because this does not taste like that.
 
-And I've been in a lot of kitchens like that. Like, oh, I care about you. You obviously don't, because this does not taste like that. And that, I think, is the real family part of it, of being in the kitchen together. And I know I have family kids, like cooking with my grandma and my aunts. I've made a lot of bad things. And they will be the first to tell me to my face, you were disappointed. This is really bad.
+And that, I think, is the real family part of it, of being in the kitchen together. And I know I have family kids, cooking with my grandma and my aunts. I've made a lot of bad things. And they will be the first to tell me to my face, you were disappointed. This is really bad.
 
 **Jocelyn Jackson:** But I believe something else that happens.
 
 **Saqib Keval:** Jocelyn's going to put a silver lining on this situation. Sorry, go ahead.
 
-**Jocelyn Jackson:** But in the conversation around creating language, this is another part of it. This vocabulary, this lexicon of the kitchen is expanding people's palates, in a very sensorial way. Because we have the opportunity to engage folks, again, in that place of getting a little uncomfortable in order for a shift to happen in someone's experience of the world. To not only engage with flavors that might be different, which you can do easily, just going around to any restaurant to find variety. But for it to be a story-based and participatory experience of eating food. And again, to insist on it being so. That you don't take a bite without actually knowing this story of this dish.
+**Jocelyn Jackson:** But in the conversation around creating language, this is another part of it. This vocabulary, this lexicon of the kitchen, is expanding people's palates in a very sensorial way. Because we have the opportunity to engage folks, again, in that place of getting a little uncomfortable in order for a shift to happen in someone's experience of the world. To not only engage with flavors that might be different, which you can do easily, just going around to any restaurant to find variety, but for it to be a story-based and participatory experience of eating food. And again, to insist on it being so. That you don't take a bite without actually knowing the story of this dish. It creates an opportunity for someone to learn something new about their palate, and about where their assumptions have been established when it comes to the flavors that they experience, the textures, even the visual experience.
 
-It creates an opportunity for someone to learn something new about their palate, and about where their assumptions have been established when it comes to the flavors that they experience, the textures, even the visual experience. The menu that was done for Farm was inspired and actually completely created by Norma Listman. And this menu was, I can't even, it was an epiphany. It was its own prophecy. Because there was this idea of seeds throughout the meal, right? And the packages of seeds, transporting of seeds in different ways across the world. And each of her dishes evoked this idea of parcel.
-
-And for me, that was a new lexicon. That was not taking an easy route to have an experience of traditional Mexican food, which just feels like some version of that you could get somewhere else. It was the opportunity to find out your place in the story of this food by taking the time to learn it. I just love that there are those moments of pause in our meals where we are giving an opportunity for folks to really find new levels of participation in a meal, and what that can be. Makes me happy.
+The menu that was done for Farm was inspired and actually completely created by Norma Listman. And this menu was, I can't even, it was an epiphany. It was its own prophecy. Because there was this idea of seeds throughout the meal, right? And the packages of seeds, transporting of seeds in different ways across the world. And each of her dishes was the, evoked this idea of parcel. And for me, that was a new lexicon. That was not taking an easy route to have an experience of traditional Mexican food, which just feels like some version of that you could get somewhere else. It was the opportunity to find out your place in the story of this food by taking the time to learn it. I just love that there are those moments of pause in our meals where we are giving an opportunity for folks to really find new levels of participation in a meal, and what that can be. Makes me happy.
 
 **Saqib Keval:** Language is like recipes, right? So this idea of finding new words is also this idea of finding words that we used to have and language we used to have that's been taken from us. And much like that, it's finding the recipes that we used to have.
 
 **Jocelyn Jackson:** Reclaiming.
 
-**Saqib Keval:** And reclaiming, right?
+**Saqib Keval:** And reclaiming, right? And decolonizing, yeah. Because for us, the recipes, when they're passed from generation to generation, they're also passing down what that generation went through, how those recipes were created, what informed them. When you look at our recipes, they tell us so much about who we are as a people, as a community.
 
-**Sita Kuratomi Bhaumik:** Decolonizing, yeah.
+**Jocelyn Jackson:** It does.
 
-**Saqib Keval:** Because for us, the recipes, when they're passed from generation to generation, they're also passing down what that generation went through, how those recipes were created, what informed them. When you look at our recipes, they tell us so much about who we are as a people, as a community.
+**Sita Kuratomi Bhaumik:** But they're nothing without aunties, right? It's like, yeah, your auntie gave you your recipe, but you don't mess that up unless you have your mom's or your auntie's presence with you in the kitchen, giving you that, oh, no, this is the hand feel. And that's what I wanted to say about the salt.
 
-**Sita Kuratomi Bhaumik:** It does. But they're nothing without aunties, you know? Right? It's like, yeah, your auntie gave you your recipe, but you don't mess that up unless you have your mom's or your auntie's presence with you in the kitchen, giving you that, oh, no, this is the hand feel.
+**Jocelyn Jackson:** Incredible.
 
-**Chelsea Wills:** And that's what I wanted to say about the salt.
+**Sita Kuratomi Bhaumik:** Right? It's that at Food Not Bombs, in this proverbial Food Not Bombs meal that we ate that tastes bad, nobody said it needed more salt. Right? So I think an act of love is actually sometimes saying it needs salt before it leaves this kitchen. And how you say it needs salt, maybe it's that auntie or something, but it's not... I don't know.
 
-**Saqib Keval:** Incredible.
+**Saqib Keval:** Aunties are mean.
 
-**Chelsea Wills:** Right? It's that at Food Not Bombs, in this proverbial Food Not Bombs meal that we ate that tastes bad, nobody said it needed more salt. Right? So, I think an act of love is actually sometimes saying it needs salt before it leaves this kitchen. And how you say it needs salt, maybe is that auntie or something, but it's not...
+**Jocelyn Jackson:** Yeah, aunties are mean.
 
-**Saqib Keval:** I don't know. Aunties are mean.
+**Sita Kuratomi Bhaumik:** I don't know. Sometimes. Sometimes it's not... Yeah, no, no, no. And they can be mean. And it can happen like that, right? But they also love you and they remember your birthday.
 
-**Sita Kuratomi Bhaumik:** Yeah, aunties are mean.
+**Saqib Keval:** Sometimes. Also, not always. There's a lot of family.
 
-**Jocelyn Jackson:** I don't know. Sometimes.
+**Chelsea Wills:** I like we're going in a very interesting direction, like shit-talking.
 
-**Sita Kuratomi Bhaumik:** Sometimes it's not...
+**Saqib Keval:** Well, we're just...
 
-**Chelsea Wills:** Yeah, no, no, no. And they can be mean. And it can happen like that, right? But they also love you and they remember your birthday.
+**Sita Kuratomi Bhaumik:** With invocation and reference and a little shit-talking, all the time it goes together.
 
-**Saqib Keval:** Sometimes. Also, not always.
+**Saqib Keval:** That's the vacation.
 
-**Sita Kuratomi Bhaumik:** There's a lot of family. I like we're going in a very interesting direction, shit-talking.
+**Jocelyn Jackson:** That is family. Actually.
 
-**Jocelyn Jackson:** With invocation and reverence and a little shit-talking, all the time it goes together.
+**Chelsea Wills:** No, but it's very human, right? I mean, that's this thing, right? Where none of it's simple that way, right? So, well, because to be in a kitchen, I would love to cook with you guys someday. I want to come and volunteer. But to be in a kitchen where no one's in charge, most kitchens I've worked in, someone is clearly in charge, right? And there's a lot of the "yes, chef" kind of thing going on. And that's a whole road to go down in terms of weird in many ways. And it definitely invisibilizes people, right? There's definitely a hierarchy in all of those things. But also, it doesn't taste like all those hands have touched it, right? There's a very clear process to make sure that it tastes like one hand has touched it, and that's the hand at the top. That's the chef, right? And so, if you're not doing that, somebody's still got to taste that before it gets out there.
 
-**Saqib Keval:** That's the invocation.
+**Sita Kuratomi Bhaumik:** And that's a lesson that we have learned.
 
-**Sita Kuratomi Bhaumik:** That is family. Actually.
+**Jocelyn Jackson:** Many times.
 
-**Chelsea Wills:** No, but it's very human, right? That's this thing, right? Where none of it's simple that way, right? Because to be in a kitchen, I would love to cook with you guys someday. I want to come and volunteer. But to be in a kitchen where no one's in charge, most kitchens I've worked in, someone is clearly in charge, right? And there's a lot of the "yes, chef" kind of thing going on. And that's a whole road to go down in terms of weird in many ways. And it definitely invisibilizes people, right? There's definitely a hierarchy in all of those things.
-
-But also, it doesn't taste like all those hands have touched it, right? There's a very clear process to make sure that it tastes like one hand has touched it, and that's the hand at the top. That's the chef, right? And so, if you're not doing that, somebody's still got to taste that before it gets out there.
-
-**Sita Kuratomi Bhaumik:** And that's a lesson that we have learned, you know? Many times. Because there's times when that hasn't happened. But I think that it's, how do you hold something enough so that you can be accountable to it and for it? Because I think accountability is really important. But not so tightly that you prevent someone else from participating in it. So how do you balance those two things?
-
-And I think that in not just the food, but in all of the different parts of programming the meals or creating all of the materials that go along with it, it's that. It's, how do we each claim, if something goes down, you can raise your hand and be like, I'm really sorry about that. Let's figure out how to get through this. But not so much that you are, quote-unquote, running the show. And it's tricky.
+**Sita Kuratomi Bhaumik:** Because there's times when that hasn't happened. But I think that it is this: how do you hold something enough so that you can be accountable to it and for it? Because I think accountability is really important. But not so tightly that you prevent someone else from participating in it. So it's like, how do you balance those two things? And I think that in not just the food, but in all of the different parts of programming the meals or creating all of the materials that go along with it, it's that. It's like, how do we each claim, if something goes down, you can raise your hand and be like, I'm really sorry about that. Let's figure out how to get through this. But not so much that you are, quote-unquote, running the show. And it's tricky.
 
 **Saqib Keval:** Because the kitchen's definitely not a free-for-all. There's still a lot of planning and direction that's happening when we're cooking together. And there's still people who are, I feel like, underwriting each of the dishes, that know what the dish is supposed to be like and taste like. We still want lots of hands in it, but we don't want to...
 
-**Sita Kuratomi Bhaumik:** But it's me touring.
+**Jocelyn Jackson:** But it's me touring.
 
 **Saqib Keval:** And we don't want the recipe to take a left turn, right? And end up to be something completely different.
 
-**Sita Kuratomi Bhaumik:** Yeah. And one of the things that's come up a lot, actually, in the recent meals is, how do we be inclusive? We are super diverse in terms of where our experiences and our flavors that we grew up with are. But how do we not kitchen sink that into each meal so that it becomes this not spicy enough, not savory enough, not sweet enough kind of, then you end up with beige, you know?
+**Sita Kuratomi Bhaumik:** Yeah. And one of the things that's come up a lot, actually, in the recent meals is, how do we be inclusive? And we are super diverse in terms of where our experiences and the flavors that we grew up with are. But how do we not kitchen sink that into each meal, so that it becomes this kind of not spicy enough, not savory enough, not sweet enough kind of, then you end up with beige?
 
-And so we've talked about bringing in a guest chef to really hold more in each of those, because it's important to also be culturally specific and to adapt it to the world and the time that we live in, with the farmers that are growing the food in California at this point. So it's this kind of dance all the time. But I feel like the place that we don't want to end up is where it just all becomes this blandy-bland, fusion-y thing that has no accountability to an origin or a root, or to a story.
+So we've talked about bringing in a guest chef to really kind of hold more in each of those, because it's important to also be culturally specific, and to adapt it to the world and the time that we live in, with the farmers that are growing the food in California at this point. So it's this kind of dance all the time. But I feel like the place that we don't want to end up is where it just kind of all becomes this blandy-bland, fusion-y thing that has no accountability to an origin or a root, or to a story.
 
-**Jocelyn Jackson:** To a story, exactly. It's really interesting as, again, we've been teasing out how we can be present in this space for each of these events that we do. Food is primary, and we trust it as a catalyst and as a through point to all the experiences that we create. And we noticed the necessity of us to step away from it at some point and for it to be what it is. And then for us to cultivate this space beyond the food. It feels like that moment that you're talking about, as far as the experience that you have. As much as we want to create that for other folks, we also want to create that for ourselves, you know?
+**Jocelyn Jackson:** To a story, exactly. It's really interesting, as we've been teasing out how we can be present in this space for each of these events that we do. Food is primary, and we trust it as a catalyst and as a through point to all the experiences that we create. And we noticed the necessity of us to step away from it at some point and for it to be what it is. And then for us to cultivate the space, without our presence, to cultivate this space beyond the food. It feels like that moment that you're talking about, as far as the experience that you have, as much as we want to create that for other folks, we also want to create that for ourselves.
 
-And so there is that need at some point in the evening for us to let the food be, and let it stand on its own with all of our folks that are supporting that. And for us to give the message, for us to share all the things that went into the choices we made, of what is that amuse-bouche and why are we doing that? What is this detail or that detail, what is the purpose behind this meal? And what's the thing that you're going to carry away at the end?
-
-These pieces of collateral that Sita often creates for a meal, they stand alone, but they also are given even more life when Sita is able to speak her story about it. So there is that moment where we do almost a shift, of all these other pieces need to be amplified and the messaging needs to occur so that everything else resonates in a really tangible and an intentional way.
+And so there is that need at some point in the evening for us to let the food be, and let it stand on its own with all of our folks that are supporting that. And for us to give the message, for us to share all the things that went into the choices we made, of what is that amuse-bouche and why are we doing that? What is this detail or that detail? What is the purpose behind this meal? And what's the thing that you're going to carry away at the end? These pieces of collateral that Sita often creates for a meal, they stand alone, but they also are given even more life when Sita is able to speak her story about it. So there is that moment where we do almost a shift: all these other pieces need to be amplified and the messaging needs to occur so that everything else resonates in a really tangible and intentional way.
 
 And like I said, we've done several projects together and we get more and more nuanced about how that happens and where it's important for us to show up and when, but it's been increasingly made clear that it is not only something that we enjoy to do, but it is something that's appreciated by the guests at the table, to really weave everything together in a story that can be taken out of the room with them. We talk a lot, we vision a lot, there's so much in the process of creating something. And I'm so grateful when, like you say, you can find that moment of resonance that stays with you after everything else is done, after you walk away from the table and into your life. It's pretty powerful.
 
@@ -436,8 +438,9 @@ And like I said, we've done several projects together and we get more and more n
 
 **Jocelyn Jackson:** Thank you.
 
-**Saqib Keval:** Thank you so much.
+**Sita Kuratomi Bhaumik:** Thank you so much.
 
 ## Closing
 
-**Chelsea Wills:** Delicious Revolution is a show about food, culture, and place made by Devon Sampson and me, Chelsea Wills. You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app. And you can learn more at deliciousrevolutionshow.com. There we've got pictures and notes all about the interviews and you can sign up for our monthly email. You can find us on Facebook and Twitter, too.
+**Chelsea Wills:** Delicious Revolution is a show about food, culture, and place made by Devon Sampson and me, Chelsea Wills.
+

@@ -1,0 +1,226 @@
+Colonization was real. It happened. It impacted so many different layers of identity and connection to place and understanding of ancestral ties, and we have this opportunity to heal and revitalize the things that I think can give us instructions for how to move forward now, wherever we are.
+
+For me, in addition to self-determination, I always see that as what is the process that we decolonize, and how is decolonization in all the aspects that we might want to be doing it, whether it's relationships to land or farming, but even just to that relationship to food, I think it ties things all together.
+
+From a community health standing point, this is why it's so important to really understand food not just as this surface-level thing, but as a really valuable tool for understanding your place in the world, having something to celebrate, and also just figuring out ways to navigate the world. That's what it can be. That's, I think, the huge potential of it.
+
+Welcome to Delicious Revolution, a show about food, culture, and place. I'm Chelsea Wills. This season, we're talking with visionary chefs, gardeners, farmers, organizers, artists, and scientists. These people have shaped the food movement in California. We talk with a diverse group of California's rebel food makers about the ways they do things in their farms, kitchens, and communities that reshape the way we think about food.
+
+This show is made by Devon Sampson and Chelsea Wills. Special thanks to the support from Cal Humanities, Food First, and Rebecca Murillo for making this season possible.
+
+Aileen Suzara is a land-based educator, eco-advocate, and cook. She was born in Washington, raised mostly on the Big Island of Hawai'i, and is currently based in the San Francisco Bay Area. Her family spans the Philippines and North America. While she has spent years working towards building healthier communities, sustainable foods, and environmental justice, she also carries a torch for storytelling and ability to inspire, move, and transform.
+
+She recently finished a program at UC Berkeley's Graduate School of Public Health and Nutrition. She is part of La Cocina's Kitchen Incubator Program, where she is launching a food business called Sariwa. She is exploring the potential to lift up traditional Filipino-inspired foodways as a solution towards chronic disease that will also boost ecological health and the livelihood of small farmers.
+
+Hi, Aileen. Welcome to the show.
+
+Thank you so much for having me.
+
+I just wanted to hear about, when did you first know that you loved food?
+
+My love for food actually started really early. So when I was eight, my family at that time actually lived in the Mojave Desert in the Antelope Valley. And so we would spend summers where it was sometimes just too hot to go outside. It would be in the 90s and the 100s. I would spend a lot of time just rummaging through these piles of old books and cookbooks that my family had.
+
+And even though I hadn't actually grown up cooking or eating a ton of traditional Filipino foods, I remember digging through and finding one horn-up cookbook that had been my mom's. And it was a Filipino cookbook called Recipes from the Philippines. It had some very old school cover. It had recipes with no pictures and almost no measurements. And I completely became obsessed with this cookbook. It was like finding a magical text that was some doorway to the world of Filipino food that I didn't know but was already curious about.
+
+And so from that one cookbook at age eight, I remember going up to my mom and being like, "Mom, what are these things? I want to know what these are." And it was hard to find a lot of the ingredients, but we found what we could where we lived at the time and then tried to recreate those. And that is the year that I fell in love with cooking.
+
+Was your mom a good cook?
+
+This is a tricky question because she'll probably listen to this interview later. My mom is capable of cooking some good things, but she has admitted herself that she does not love cooking. And then my dad, he also makes an amazing couple of dishes like adobo. But the two of them were just both really busy and also were not totally obsessed with the kitchen in the way that I have become. And so I would say partly because they were excited and just wanted me to run with it, I started cooking for the family at like eight as well.
+
+I cooked a lot for my family too. And I think my mom was a good cook, but I loved being in the kitchen. So I always wanted to be cooking. And it seems to me like they really encouraged your love of food in this way, or in the things that I read about you telling your story, like this exploration of your tradition. And also, I think the flavors and the experience of eating together feel really central to how you tell your story. Is that true? And do you think that comes partially from them?
+
+Yeah. When I look back, I have to, I think, really honor and attribute a lot of the love to, I think, rediscover as a family our relationship to food. And I know that for my parents, when they migrated, they actually thought they would never go back to the Philippines. And so leaving behind their homeland, leaving behind the people they knew, for my mom, leaving behind her family in particular and not returning for 26 years was huge.
+
+But it was also around the same time as the cookbook that for whatever reason, my parents decided it was time for them to go back and see the Philippines and to bring me, bring my older sister. So I think in between trying to figure out recipes and cooking in the U.S. and then actually getting to go to the homeland as a family for the first time, that uncovered an entirely different story of family, of place, and also just food.
+
+And when I look back, my sister was, I think, 16 when we went back, and she had a very different experience than I did. I think she could see more of, kind of had the culture shock. But for me as a kid, everything was just really easy. I was like, "Oh my God, the food here is amazing." We're having street food, I'm having cousins, and getting to just try this abundance of flavors and eating it with relatives I had just met. That completely flipped the switch on my connection.
+
+I'm really interested in this idea of food as an experience of coming home. And especially when home, as I think it is for almost anyone, is a complicated place, right? It isn't just one place. It sounds like as a kid, you moved around a lot. And also it sounds like in this description of the experience of going back to the Philippines, that felt in some ways like this homecoming of sorts.
+
+I think that really gets at the core of things, like where is home, what is home, who is home, right? And getting to experience as a child going to my parents' homeland, I just remember being enveloped in scents and fragrance and colors and life in a completely different way. But over the years, as time passed, it was also realizing, okay, home can actually live in multiple places.
+
+And sometimes the part that was kind of jarring as I got older was realizing, even in homeland, you could feel like a stranger. I think some of the nostalgia of going, homeland can feel like home in some ways and also a completely different world in another one. And the same way, I think being here in the U.S., being second generation, there is home in some ways. And it's also feeling, I think, like home can span multiple places all at the same time.
+
+Do you feel like food inherently does that? I'm thinking about the way a recipe travels. And I'm thinking about your description of being in Antelope Valley and where you were shopping to find these elusive Filipino ingredients that you were looking for. I don't know what they were, but that there's this inventiveness. There's this agility in terms of adapting that to wherever you were, right? And this sketch of what a flavor would be or something like that, right? This appropriation. But it's a lot like how people move through things. And do we always do that with food? Is that just part of what happens? I'm curious how you think about this because another part of your work, it seems like, is cooking with Filipino groups and families and really thinking about what traditional food is.
+
+But in a context that maybe isn't traditional, I guess. Food travels, you're right, food travels, food migrates. It's been doing that for thousands of years, right? And when it comes to Filipino food, just even in personal family history is realizing there's both things that have persisted and a lot of things that became silent or kind of suppressed.
+
+And so over the years, I do love to play up, I think, the positive aspects of the food that my family was able to recreate together. And even in our Mojave Desert kitchen or later when we were in Hawai'i, where things actually just felt easier to come together, we could do it there. But I think I realized over time that there were also a lot of silences that had to do with the assimilation of being in the U.S., whether it was language or a recipe that could be muted for a while.
+
+That really struck me. I think because for my family, when they had migrated in the 60s and came to the U.S. and then eventually started to raise a family of their own, at that time, the education systems here really encouraged them not to teach us, my sister and I, their languages. And they speak their own regional languages, like my mom is from Pangasinan, so she speaks a language that my dad, who's from Bicol, actually can't understand. They're that distinct. And then, of course, the shared language of Tagalog and English. So collectively, they could speak five languages. And then my sister came in nearly monolingual and just trying to hold on to these scraps of Tagalog language.
+
+I think that's part of why food, in a way, became the language that I attached to, even as a kid. It felt like the language is so tricky. How do you try to teach yourself a language when you're a child and it's not necessarily encouraged in the world around you at that time? But food is something that just feels like living culture. And even if the ingredients are scarce or hard to find, especially harder to find when you're in the Mojave Desert and just trying to find something that's relatively obscure when all you have are strip malls and Costcos or big box stores, you still try to create some kind of connection, even if it's really tenuous.
+
+The part that I think I started to get really intrigued by was how do you still have flavors and recipes that perpetuate and really are rooted in this longer cultural history, even if you have to adapt?
+Is that breaking some kind of unspoken promise that you need to use only one recipe for it to be true anymore? Or it's that question of authenticity that I think gets thrown around a lot, like is something authentic or not?
+
+And I realized, how is it that, for example, American fast food culture, which came to the Philippines, got so integrated that you can have Jollibee or some sort of fast food chain and a sweet spaghetti, which is using Americanized tomato sauce and mixed with sugar in the Philippines. And that has suddenly been seen as more authentic versus making a regional dish like pinakbet or something and then throwing in a different ingredient because it's what you have around you. So it's interesting. It is an interesting tension that's there.
+
+Well, there's a lot of things we could talk about with that. So as I was learning about you, I was kind of amazed at all the different things that it seems like you do. You teach and you cook and you grow things and you just finished a program in public health. So you're thinking about nutrition and how that works within community. I don't exactly know how. So I'd love to hear about that.
+
+But it seems to me like you're really thinking about what authenticity and assimilation might mean together as a paradox, or how they play together. And maybe neither one of them is the evil force here. Maybe it's actually like they're playing. That's what it sounds like when you start to talk. I have some Filipino family members. And when I think about the Philippines and I think about them, I think about such a long history of global exchange, like a people defined by trade and by exchange happening there. And so it seems like a perfect place to investigate authenticity, because what is that? And so who's your community here? How do all these things come together for you?
+
+Ah, so many layers. So putting pause, I guess, on the authenticity button right now, I feel so lucky to have landed in California, to have landed in the Bay Area and built up, I think, multiple worlds of community here, a lot of which overlap. And I think the ones that have really been a home for me came through environmental justice, which for some folks might sound like a world away from food work or cultural foods work. But it actually has just been really woven together in life.
+
+And I think when I first came to the Bay, I fell in with this organization. I say fell in, but actually, my older sister was one of the co-founders back in the day, called the Filipino American Coalition for Environmental Solidarity, or FACES. And FACES had begun as this environmental justice organization, mostly volunteer driven, but really focused on cleanup and accountability of U.S. toxic waste in the Philippines. But doing so in a way that really linked up with grassroots communities and was driven by their work.
+
+And so when I started, I joined the board and had, we'd done these solidarity trips, and I was 19 at the time. And I eventually ended up staying on the board and then became the chair and was involved for over eight years. I'm currently still an advisory board member.
+
+I think what we saw over all those years was, here's this story. There's this narrative of what do you do when you are rooted here in the U.S., in the belly of the beast, raising families, having community, doing your work. And at the same time, you still have these threads of connection back to the homeland. You have loved ones there. You have this attachment to the country. And then you see the place that you call home is very linked up to polluting the place that you call homeland.
+
+And getting involved from an environmental justice perspective meant working in the Philippine-American community here. It meant very broad work with all sorts of environmental justice communities across cultures. And I think where it all actually comes back to food is, one, I think what the work is really about was about self-determination, being able to change the story. It was about health. How do you really build health in communities, not just by stopping pollution, but by, I think, just having equity and by having a changed relationship with place.
+
+And then last is on a very literal level, every single board meeting, we got a little bit competitive, well, not competitive, lovingly competitive about bringing amazing things to board meetings. So for eight years, having monthly meetings where people brought in the most incredible food to a potluck, I think that actually sustained the work that we did as an organization. And it still does.
+
+And it was actually, as part of FACES, years before I actually thought I could formally go into food, one of our members said, "Let's do a Filipino cooking school as a fundraiser." And it was called Gaina Cooking School. Just one day, informal, out of someone's home kitchen, people picked a recipe. I got to be one of the presenters and guest chefs. And I picked one of the recipes that I remember my mom had cooked. There were probably like five that I attribute to her, but one that's called chicken binakol. It's with young coconut and chicken and lemongrass and all kinds of different mushrooms and then the coconut water.
+
+And while doing this demonstration, I just completely felt like this story was flowing out about food. And one of our participants was like, "Hey, you should do this as a job." And that tucked itself into the back of my mind, of really wanting to do food, and exploring it through an environmental justice space just happened to align that way. And I think ultimately, back to that thing around self-determination and environmental justice, ultimately, I think that's what food is about, too. It's about working to lift up or revitalize a culture that in so many ways has been shaped and impacted by colonization, by struggle, by resistance, and by resiliency as well.
+
+Do you use the language of food justice or food sovereignty in your work?
+
+In the work I'm currently doing, I personally feel aligned with food sovereignty work and food justice work. I think in what I currently am doing at Sariwa, which is my food business I'm currently launching at La Cocina, I don't name it or market it that way. But to me, ultimately, that is the core of what we're doing. It's how do you carry food in a way that's going to honor and value culture and where it came from and who's growing it and the story behind the recipe. To me, the cultural aspect as well as accessibility and who's benefiting from the work is all tied together. So I think it's the framework I carry, even if it's not the language I'm using every day.
+
+I love this idea of self-determination as a guiding force in it. I have been having a lot of conversations about how food justice is defined. And I think self-determination really is so much of what that means, right? It's the agency and equity, like you were talking about, to be able to make choices. So that doesn't seem so strange to me that environmental things and food things would be so different in that, because they're so closely related. But who do you cook for now?
+
+I am cooking and I want to keep cooking for this community here. Both the communities that I know, the families, the children. I really value intergenerational connection. That's the kind of people and spaces that really feed me. So whenever I can, I will cook for organizations I believe in. And then also for people who are newer. I think with food, it's this opportunity to look at everyone like extended family in a way, even if you don't know them yet. How can we gather around a meal?
+
+I'll also say some of my favorite recent food experiences and who I'm cooking for are this group I shared with you a bit about called Sama Sama Cooperative. And so Sama Sama came together actually from a lot of families who came through FACES, that environmental justice group. And when a number of them decided that they were going to start raising families, they decided they needed to come together and create some kind of cooperatively run space to bring back language and impart this land-based connection and cultural connection. And as part of that, why I'm so glad is that they want to also have a food and farming based component to it.
+
+So cooking with them has been one of the biggest highlights of anything I've been able to do. It happens in the summer and we just basically have these amazing kids from six to 12, and now they're all getting older. So we're trying to figure out how to move the model with that. But from six to 12 who come in, they are immersing in language and martial arts, Philippine martial arts, even indigenous script, which almost disappeared.
+
+And also in the food. And what that has really pushed me to do, I've had to take on roles where sometimes I'm teaching people things that I'm also learning about, which is an interesting role as a teacher. And I think I realize a lot of teachers are learning while they're teaching ultimately. So I came in not as some expert in Filipino food, but just someone who was really curious about it and wanted to build in the sense of connection to place through food.
+
+And with each year's theme, we've been able to create a menu and a curriculum around it. So this past year, the theme was fire and resistance, and like, okay, how can we make fire and resistance fit into every aspect of this camp, both in the social justice history, but also the menus. And just really wanted to interpret that in a literal way in the menu. So started researching what were some of the favorite dishes of resistance fighters in the Philippines, if that information existed, and as well as in the U.S., maybe in the farm workers movements. Could we find actual dishes that reflected that time or that place in history? And then what are new ones that we could maybe create together with these kids and their families?
+
+Why does it matter to think about identity and self-determination like that, in those terms? It sounds like a very robust curriculum and a pretty ambitious way of thinking about identity that I think sounds like it really reaches past the bad identity politics of the 80s and 90s, right? Of flattening out things and picking out token elements, and really looks at who people were and why they did these things and the context in which they existed. And why do you think that matters for these kids or for the community or for you or for the people making this happen?
+
+I think there's so many layers to it. I think one is now that I get to have this gift of being in a position of being a mentor, getting to impart things. I think I also see myself in these kids because I remember being eight, which is kind of the median age of them, and being like, "Oh, my gosh." I remember being so hungry to learn about who I was and trying to find it in the kitchen. And now we have these kids who are in this place of exploring who they are and their roots.
+
+And so I think there are so many different efforts to impart identity or a healthy sense of self. And I think that from a community health standing point, this is why it's so important to really understand food, not just as this surface level thing, but as a really valuable tool for understanding your place in the world, having something to celebrate and also just figuring out ways to navigate the world. That's what it can be. That's, I think, the huge potential of it.
+
+And I think having seen in so many places that food, especially cultural foods, can be immensely healing, not just, there's the literal sense. I think there are so many traditional and cultural foods of all different cultures, and in Filipino food as well, which can steer people into wellness, but even just from a mental and emotional and spiritual sense, I think it helps to build this foundation that young people or people of all ages could root into and move forward. I think it builds empathy, too, towards others.
+
+I want to hear more about that. So in this conversation, you've talked about food as an act of coming home and as a creative act of imagining home for other people, that you could potentially create home for a moment for someone else through food, either through cooking or by feeding them or maybe other parts of food that we haven't talked about yet. But why, what do Filipino people need to be healed from? Or what is this idea that we are healing?
+
+Well, I can't speak for all Filipinos, can't speak for all Filipino Americans, but I think from my own vantage point, one is this sense of connection to land. And this is something that I hold very personally and have also seen just in community, even community health settings. What is this connection to land when you're of land and sea-based cultures, people, tradition, and then the process of migration, which comes with its own growth and wins.
+
+But also, I think it can be very difficult, even centuries into the process, it can be difficult to have a history, for example, of agriculture in the U.S. that comes with a great deal of historic trauma, even as it comes with triumph, to hold all those pieces. I think being able to come to food now, in the moment that we're in, is a way to heal, is a way to be able to come to, for example, a land-based or farm setting and see it not just as, "Oh, this is the place that our collective community suffered." But also, this is a place that can feel like home, it can be a place that sustains us, it can draw on these deeper, older traditions of connection to land and to where food comes from in a healthy way.
+
+I guess there's so many layers to this, but I think the healing of intergenerational trauma when it comes to understanding farming, towards the assimilation that came through a very colonial, 400 years of colonization in the Philippines. People resisted, and at the same time you see these impacts on what's valued. I might sound like I'm going tangential, but even just, whether it's from understanding standards of beauty that have really veered towards Eurocentric ideals and away from darker skin, or going to understanding certain foods that were for the, quote, commoners versus food that's really, and what is it? It's the standard that is valued in the culture.
+
+I think there are just so many layers to unpack still. And for me, in addition to self-determination, I always see that as what is the process that we decolonize, and how is decolonization in all the aspects that we might want to be doing it, whether it's relationships to land or farming, but even just to that relationship to food. I think it ties things all together.
+
+That was a big question. I think I wandered over about 400 years of history in doing that. But yeah, I think just the nugget version of it is, colonization was real. And when it happened, it impacted so many different layers of identity and connection to place and understanding of ancestral ties. And we have this opportunity to heal and revitalize the things that I think can give us instructions for how to move forward now, wherever we are.
+
+First, I just wanted to say thanks for talking about it in a general way. And also thanks for noting that I asked you to represent a whole people in that. Well, I think that that's part of the story, right, is that I think food movements are pretty whitewashed and are seen a lot of times as, there's a continued story of colonization in food movements, or the Bay Area food movement, let's talk about it like that. That people should eat a certain way, and it should look a certain way, and it should happen in certain places, and it should cost a certain amount.
+
+And I think that your work that you're doing and the People's Kitchen Collective, amongst many others, are challenging what that means and thinking about what would it be like to have a choral performance as a food movement rather than have these soloists. And I think that's so important because I would love to talk to another Filipino-American chef who felt totally different about it than you did, because I think that that is also part of how we learn to tell stories to each other, right, is that tables allow for that to happen. Commonality is not consensus, right? And so I think to talk about colonization and to talk about how messy and how complicated it is really is part of a story of understanding how we learn to heal each other, right, as a process, not as a thing that starts and ends.
+
+I would love to hear about how all these things weave together for you. So you were an apprentice at CASFS in Santa Cruz, and you are a trained natural chef. I don't exactly know what that means, but maybe you can tell me. And you went to UC Berkeley, and you thought about public health with these things, and now you're starting a business. It seems to me like you are telling a story with these different elements, and why do they matter? Like, why does it matter that you know how to grow your own food? Let's start with that.
+
+Okay. Start with that. I like how you start with the root of things. Growing food. Well, I wanted to learn how to grow food for a couple of reasons. One was that I had been asked a question that haunted me, which was, when was the last person in your family a farmer? And I didn't know the answer, and I didn't realize that the answer was as close as my maternal grandfather in the Philippines. But that story just hadn't been told.
+
+And two, I wanted to learn how to grow food because it just seemed to me that, having done work in environmental justice and then actually having gone and done a culinary program that was focused on what they're calling a natural chef program. And it really just means, I think, cooking for folks who might have different dietary sensitivities or might be recovering or needing to heal from a surgery, for example. I loved it. I also felt like there were some missing pieces. One was the cultural aspect. I didn't find myself reflected in this culinary curriculum at all and wanted to find a way to fill in the gaps. And two was the agricultural piece. I was like, well, how can I do cultural work, cooking with food, if I don't understand the agricultural side of things? And clearly people go and do it all the time and it's still very rich and wonderful. But I think for me, there was just this deep desire to do it.
+
+And I think I always tap back into what would my eight-year-old self want to do? Because around the same time as that cookbook finding, I had made this declaration to my family and said, "When I grow up, I'm going to be a farmer and a cook." They're like, "Ha ha, that's funny. You're going to be a doctor, right?" And I think just trying to maybe live out that childhood fantasy as an adult, because ultimately that was the true guiding pull. I actually knew things as an eight-year-old and then tried to suppress it for the rest of my life until it was actually time.
+
+So having gone to CASFS, which is in Santa Cruz, the farm and garden apprenticeship, it was this deep dive into food. And what I realized was in an agricultural setting like that, we learned so much about horticulture. We learned the art. We learned the science of it. And we had these amazing instructors. But at the same time, it was just always this nagging feeling of, when am I going to learn how to grow things that I'm going to be able to cook with that are really going to resonate with different generations of my community? So I picked up so much of the science of organic farming, and at the same time, could still find this draw to bring some kind of focus back into Filipino American farming traditions and what could work here in California, and what that history already was.
+
+Who are your teachers for Filipino American farming traditions?
+
+I would say inspirations would be my grandfather. But in terms of actual teachers, the teachers that you get to see in person and talk to and interact with, I didn't have any. I didn't have any here. And that was the nagging question, I thought. And I started asking, actually, different historic societies, how is it that we had this robust movement of Filipino American farm workers, some of them right down the street in Santa Cruz and around that surrounding areas of agricultural lands? Where are the Filipino American farmers in California? Like, why can't I just find them so easily?
+
+I think I came maybe a little bit naive, but I have these ideas that because of this rich history of organizing, obviously, we would have this huge presence in the way that our community is referenced to in the food system. And it just seemed to be the missing piece was there. So just within Santa Cruz, I just asked, well, in the past 40 years, were there any other Filipinos who had done this program? And in 40 years, I was the second Filipino who had ever done the program, even though it was the oldest organic training program in the country.
+
+And through that network, though, I found Gil Carandang, and he had done the program maybe 10 years before me and actually had decided to move back to the Philippines. So that's a whole other tangent we can go off of. But I ended up winning a ticket to the Philippines through a culinary cook-off and then used it to meet Gil in person.
+
+What's that story?
+
+So I guess the short nugget of that story is, I think what's been amazing to witness is that there has been this growing movement to lift up Filipino food in the U.S. And people are coming at it from all different kinds of angles. I don't think there's any one unified reason of why. Some people just want to see it talked about in the same way as any other food tradition. And others are doing it maybe from a social justice perspective. There's a whole spectrum of reasons.
+
+But in San Francisco, there was what they're calling the culinary cook-off. So think about the recorded competition where you would have an amateur and professional division. We had to cook five or six different dishes within a short time frame, present it to a bunch of judges, and they may or may not win something. So I didn't actually win, but I totally won because I got to get a consolation prize and draw out of a hat, and I won a trip to the Philippines, which was actually, to me, a better thing than if I had actually won the competition.
+
+That's pretty amazing.
+
+It's made it to the finals.
+
+Well, let's go back to farming for a second. So did you ever find any other Filipino-American farmers to work with that are alive now? Are there any teachers? Because there is this whole rich history. And actually, another person who has this California Humanities grant right now, I think he lives in Fresno or Bakersfield. I don't remember which one. But they found all these trunks of all these farm workers in the bottom of a building.
+
+Stockton.
+
+Stockton.
+
+Yeah.
+
+Oh, my gosh. Okay. The Little Manila.
+
+Yeah.
+
+Where the Little Manila.
+
+I just met him for like 20 minutes. And I know that there were Filipino-American farm workers. They were everywhere.
+
+Right.
+
+And the second in command of the UFW was Filipino, right?
+
+Exactly.
+
+What was his name?
+
+Larry Itliong.
+
+So there were all these people. And it's a totally invisible history that's happened concurrently with other farm workers. He talked a lot about this loss of cultural identity and just not even really knowing that it existed. I think he's fourth generation or something. And so did you find these people? Are they still there? Who's growing things? What happened?
+
+Well, I think I realized I was asking the questions in the wrong ways. So that's part of the search, right? It's like, are you asking the right kinds of questions? And are you missing things that are right in front of your eyes? And so I think it could be a lifelong search of what happened to the story. But I think one is realizing, okay, so maybe you don't find hundreds of Filipino-American farmers who own land. But what about the farm workers? What happened to the next generations?
+
+And also, to really learn how Filipino-American food through growing up food traditions have traveled to the U.S., I should be asking backyard gardeners. And that's the thing that you uncover, is people, whether they brought seeds with them or have traded them across the years with people here. People are still growing food, and sometimes it's in their own backyards. And it might not manifest itself in the same way that, I think I was looking, hoping that you could just drive around and see a sign saying, "Filipino-American farm right here, growing all heirloom varieties." That might not be it.
+
+And there are farmers. I think it's still a mapping process. Something that I actually never finished, this project. It was just something that has been thrown around with this small and growing Asian Farmers Alliance. But it's, I think, just really trying to map out and figure out where our community are. People are growing all different kinds of things. But sometimes we might even be under the radar for each other. And I think for me, living in an urban area, not in a rural area, me hopping on Google is not the same thing as just doing community mapping and actually asking people to just give me tips.
+
+Right, and I think you bring up such an important point. We recently interviewed Kristyn Leach of Namu Farm for the show. And she grows for that restaurant in San Francisco, but she also grows for Kitazawa Seed Company. And with the idea that these varieties don't live without the stories that exist with them. And I know that's been a big part of your work, too, is understanding what these foods are and then also understanding the context that they exist in. So maybe let's now jump to cooking or to public health and how you think about that.
+
+Sure.
+
+Well, let's talk about stories with cooking and public health. So when you cook or when you're thinking about what nutrition is for a community, why is it important that the stories go along with it?
+
+When we lose the stories, I think we lose centuries of information, and also newer ways of doing things. So when I started cooking and eventually actually took that cooking into a public health nutrition context, I had wanted to look at, well, what is this process? What is the name for this process of changing, or the process of losing certain things and adding on? And I think another language for it, at least in the public health world, was dietary acculturation. I was like, "Oh, my gosh. Okay, so someone went and," because kind of name, I think, what we could describe in so many other ways as well.
+
+And so in the nutrition world, it's like, okay, so there's this focus on dishes. Some of them are entire food waste. Some are lost. Some are perpetuated. And some are adapted to the standard American diet when people migrate and move. But the piece that I still felt compelled about was, well, where are the stories still? That's one story. What are the other stories that are missing from this? And how can you actually leverage those stories to build health, to have these health outcomes that I think all of us want, healthier communities, really addressing chronic disease and food disparities, and then still rich in story? How can you put those all on the same table?
+
+And so I think drawing from both the food and growing of food background, some of the social justice network that I came from, and then from this new language of public health, which I think is just another way of naming things that community already know or do or practice in their own way, I actually decided to focus on looking at a Filipino food pop-up as a culinary intervention, and featuring not just dishes or seasonal produce, but storytelling as a big part of it to reach people.
+
+And we named that Sariwa, which means fresh in Tagalog, and what we did as a story project was to bring people together over the food, but also use storytelling as a way to learn about people's relationships to food, what Filipino food means to them, where were the absences? Because I think we have to name that as a story. And what are the types of stories that would actually energize people around learning more? And that took the form of story cards or sharing of stories, and I think by bringing stories into the same table as food, you could get at health, but in a totally different way.
+
+So what do you cook for these pop-ups? Do you do the pop-ups?
+
+You do the pop-ups, and in a non-pop-up format, and just trying to actually build it into a social enterprise, a food business, which I'm doing currently through La Cocina.
+
+But what is cooked?
+
+I really try to tap back into, find out what is the crop plan of people I know, small farmers, especially small farmers of color, women farmers, ask them what is their crop plan, and then figure out how to build a Filipino-inspired menu off of that. So really recently, I love to source from friends who are at Feral Heart Farms, and also Namu is a huge inspiration, and they're all farming together in the Sunol Ag Park area. Just ask, what do you actually have right now? Okay, you have kabocha, you have different kinds of sweet potato roots and leaves, you have different peppers. Okay, let's make something. I found recipes that are drawing more from, for example, my dad's side, from Bicol, which is a land of coconuts and chilies, and using those ingredients into a vegetable, coconut, ginger type of dish.
+
+Where do you see it all going? So what's the idea with your business? What are you developing? And then what's the bigger vision for all of this?
+
+Oh, this is like the big confessional moment. So where do I see it all going? I think ultimately, in the line of self-determination, I really see food and a food business as a tool for community health, and as a way to recover, I think, healthy connections back to land. I think food is, to me, food is the mediator. Food is the bridge and the vessel for these recipes, for this understanding of land, for connection to history and past and future, right?
+
+So a lot of these big things. I think on a practical level, though, what I really want to see happen is to build out a food business that will appeal to everyone and make them feel at home. But in particular, to really reach out to Filipino Americans, some of whom are coming from second, third, fourth, fifth, and beyond generation, who've sometimes approached and said that they feel disconnected from their food roots, or that no one taught them how to cook and they just want to learn something, or that they never thought that they could eat Filipino food that had a vegetable in it. I want to appeal to those folks because it's like you have this wealth of recipes and stories, and we just need to revitalize it among ourselves.
+
+People are already doing a lot of amazing things when it comes to food, so it's definitely not alone in this work. I think the piece of the puzzle that I really want to bring through Sariwa is to say, look, we have this incredible connection to land and to agriculture, and it's reflected in every single recipe if we want it to be. So how can we do that? And then how do you turn that into a food business that can actually survive on its own? That's the big question, right? As a business, as a small business.
+
+And the next, I guess the level of it, and here's my confessional about where it will all end up. I definitely want to have a presence in farmers markets, not just as a stepping stone, but I think this kind of food belongs outside. That was really where the food came from. And when I'm back in the Philippines, like visiting the province, that's exactly the kind of food that I would gravitate towards. It's food that's outside. It's food that has a close relationship to a market. That's how older generations, I think, would source things. They would go out early, at dawn, and I would tag along with them, and they would get the freshest things, not because it was the fruit for thing to do, but they just wanted the good stuff. And that's what they would cook with. So I really want to emulate their practices and do that here.
+
+And in my wildest dreams, I've been so inspired by this primary health clinic in Hawai'i, which has a cultural roots cafe, a food cafe inside of a hospital that's attached to a farm. And when I step through those doors, everything just hit, like, this is how it brings everything together. The health piece, the celebration of culture and identity, the farm and land connection, and then just bringing people together over a meal. So I don't know yet where it could land, where it could be in the Bay Area, but if there's a way to actually bring something to be neighbors or have a close relationship with a health clinic or hospital that could have culturally relevant Filipino food and offer that to community in that space, I would love for that to grow in that way.
+
+Well, let's just finish up by, how can we follow along with you or how can we support what you're doing?
+
+You can follow me on Instagram. You can find hashtags for Sariwa Kitchen. I'm setting up a new website now, which will be sariwakitchen.com. And I actually have an existing blog, which is Kitchen Kwento, and that's focused more broadly just on food, land, and culture. But things are coming together now, and I'm going to have these new sites up very soon, and I hope people will follow along.
+
+Perfect. We'll make sure to include those links. Thanks so much for being on the show today.
+
+Thank you so much. It's wonderful to share stories with you.
+
+Delicious Revolution is a show about food, culture, and place. Made by Devon Sampson and me, Chelsea Wills. You can subscribe to Delicious Revolution on iTunes, SoundCloud, or any podcast app. And you can learn more at deliciousrevolutionshow.com. There we've got pictures and notes all about the interviews, and you can sign up for our monthly email. You can find us on Facebook and Twitter, too.
+
+This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities. This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern.
