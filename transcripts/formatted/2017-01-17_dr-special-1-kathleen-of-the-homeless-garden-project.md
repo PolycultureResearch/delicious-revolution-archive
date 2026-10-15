@@ -50,6 +50,6 @@ So when she was describing it, it sounds like she does work that matters for her
 
 ## Closing
 
-**Chelsea Wills:** Made by Devon Sampson and me, Chelsea Wills.
+**Chelsea Wills:** Delicious Revolution is a show about food, culture, and place, made by Devon Sampson and me, Chelsea Wills.
 
 This season of Delicious Revolution was made possible with the support from California Humanities, a nonprofit partner of the National Endowment for the Humanities. Visit www.calhum.org. This season is a collaboration with Food First, and a special thanks to Rebecca Murillo, our intern.

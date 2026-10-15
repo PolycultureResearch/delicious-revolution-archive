@@ -56,6 +56,10 @@ re-fetch can't clobber them). Columns: `episode_id`, then any of `season`,
 (plain text; blank lines make paragraphs). Season names and site text live in
 `site.json`.
 
+Each episode page shows `transcripts/formatted/<episode_id>.md` when it exists.
+The transcript pipeline (Whisper, then edit and format passes) is described in
+`transcripts/INSTRUCTIONS.md`.
+
 ## 3. Media storage: Cloudflare R2
 
 1. Cloudflare dashboard → R2 → create bucket `media`.

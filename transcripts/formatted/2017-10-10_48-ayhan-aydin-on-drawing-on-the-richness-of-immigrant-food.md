@@ -150,4 +150,4 @@ I see that in the US a lot, lots of Chinese and Korean descent kids, or have par
 
 ## Closing
 
-**Chelsea Wills:** Made by Devon Sampson and me, Chelsea Wills.
+**Chelsea Wills:** Delicious Revolution is a show about food, culture, and place, made by Devon Sampson and me, Chelsea Wills.

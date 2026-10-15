@@ -6,6 +6,7 @@
 Reads:   data/episodes.csv     (made by fetch_acast.py; one row per episode)
          data/overrides.csv    (optional; edit by hand to fix seasons, titles, notes)
          site.json             (site settings: domain, media URL, show text)
+         transcripts/formatted/<episode_id>.md  (optional; shown on the episode page)
 Writes:  docs/                 (what GitHub Pages serves)
 
 Audio is NOT in the repo. Each episode plays from
@@ -142,6 +143,38 @@ def plain_summary(notes_html, n=180):
     return text if len(text) <= n else text[:n].rsplit(" ", 1)[0] + "…"
 
 
+def md_inline(s):
+    s = html.escape(s, quote=False)
+    s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+    return re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
+
+
+def transcript_html(md):
+    """Render transcripts/formatted/<id>.md, which uses only '## ' headings,
+    '>' teaser quotes (last line names the speaker), '**Name:**' labels and paragraphs."""
+    out = []
+    for block in re.split(r"\n\s*\n", md.strip()):
+        block = block.strip()
+        if block.startswith("## "):
+            out.append(f"<h3>{md_inline(block[3:])}</h3>")
+        elif block.startswith(">"):
+            lines = [re.sub(r"^>\s?", "", l) for l in block.split("\n")]
+            paras = [p.strip() for p in "\n".join(lines).split("\n\n") if p.strip()]
+            by = f'<p class="teaser__by">{md_inline(paras.pop())}</p>' if len(paras) > 1 else ""
+            out.append("<blockquote class=\"teaser\">" + "".join(f"<p>{md_inline(p)}</p>" for p in paras) + by + "</blockquote>")
+        else:
+            out.append(f"<p>{md_inline(block)}</p>".replace("<p><strong>", '<p><strong class="speaker">', 1))
+    return "\n".join(out)
+
+
+def load_transcript(episode_id):
+    path = os.path.join(ROOT, "transcripts", "formatted", episode_id + ".md")
+    if not os.path.exists(path):
+        return ""
+    with open(path, encoding="utf-8") as f:
+        return transcript_html(f.read())
+
+
 def load_episodes():
     rows = load_csv(os.path.join(ROOT, "data", "episodes.csv"))
     overrides = {r["episode_id"]: r for r in load_csv(os.path.join(ROOT, "data", "overrides.csv"))}
@@ -160,6 +193,7 @@ def load_episodes():
         r["label"] = label_for(r)
         r["notes"] = clean_notes(r.get("notes_html", ""), r.get("notes_text", ""))
         r["summary"] = plain_summary(r["notes"])
+        r["transcript"] = load_transcript(r["episode_id"])
         eps.append(r)
     eps.sort(key=lambda e: (e["date"], e["title"]))
     return eps
@@ -324,6 +358,15 @@ def build_episode(cfg, ep, prev_ep, next_ep):
         nav.append(f'<a class="next" href="/episodes/{e(next_ep["episode_id"])}/"><span>Later</span>{e(next_ep["guest"])}</a>')
     dur = fmt_duration(ep.get("duration"))
     kicker = f"Season {ep['season']}" + (f" · {ep['label']}" if ep["label"] else "")
+    jump, transcript = "", ""
+    if ep["transcript"]:
+        jump = ' <a class="button button--secondary" href="#transcript">Read the transcript</a>'
+        transcript = f"""
+  <section class="transcript" id="transcript" aria-labelledby="h-transcript">
+    <h2 class="accent-heading" id="h-transcript">Transcript</h2>
+    <p class="transcript__note">{e(cfg["transcript_note"])}</p>
+    {ep['transcript']}
+  </section>"""
     body = f"""<a class="skip" href="#episode">Skip to episode</a>
 {site_nav(cfg)}
 <main id="episode" class="page">
@@ -332,8 +375,8 @@ def build_episode(cfg, ep, prev_ep, next_ep):
   {topic}
   <p class="ep-meta">{e(fmt_date(ep['date']))}{('<span>' + e(dur) + '</span>') if dur else ''}</p>
   <audio class="ep-audio" controls preload="metadata" src="{e(src)}"></audio>
-  <p class="download"><a class="button button--secondary" href="{e(src)}" download>Download MP3</a></p>
-  <div class="notes">{ep['notes'] or '<p>No show notes for this episode.</p>'}</div>
+  <p class="download"><a class="button button--secondary" href="{e(src)}" download>Download MP3</a>{jump}</p>
+  <div class="notes">{ep['notes'] or '<p>No show notes for this episode.</p>'}</div>{transcript}
   <nav class="pager" aria-label="More episodes">{''.join(nav)}</nav>
 </main>
 {site_footer(cfg)}"""
