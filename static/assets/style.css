@@ -145,26 +145,27 @@ a.eyebrow:hover { color: var(--link-hover); }
 /* ---------- Hero ---------- */
 .hero { position: relative; min-height: 520px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .hero__background { position: absolute; inset: 0; z-index: 1; }
-.hero__background img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hero__overlay {
-  position: absolute; inset: 0;
-  /* The system's 135deg slate overlay, held darker through the middle: the title is centred on a busy photo. */
-  background: linear-gradient(135deg, rgba(61, 79, 95, 0.9) 0%, rgba(61, 79, 95, 0.8) 40%, rgba(61, 79, 95, 0.68) 70%, rgba(61, 79, 95, 0.5) 100%);
+.hero__background img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  /* Push the produce colours up to match the bright podcast cover art. */
+  filter: saturate(1.35) contrast(1.08) brightness(0.92);
 }
+.hero__overlay { position: absolute; inset: 0; }
 .hero__content { position: relative; z-index: 10; text-align: center; padding: var(--gutter); }
 .hero__title {
   font-size: clamp(3rem, 10vw, 5.5rem); font-weight: 800; color: #ffffff;
-  margin: 0 0 1rem; text-shadow: 0 2px 40px rgba(0, 0, 0, 0.3);
+  margin: 0 0 1rem; text-shadow: 0 2px 6px rgba(0, 0, 0, 0.45), 0 2px 40px rgba(0, 0, 0, 0.5);
 }
 .hero__title { text-transform: uppercase; font-size: clamp(2.4rem, 9vw, 5.5rem); }
+/* A crisp semi-transparent panel behind the title only; the photo around it stays at full colour. */
+.hero__title { display: inline-block; background: rgba(0, 0, 0, 0.55); padding: 0.15em 0.35em; line-height: 1.1; }
 .hero__accent { color: var(--fuchsia); }
 .hero__subtitle {
-  font-size: clamp(1.1rem, 3vw, 1.5rem); color: rgba(255, 255, 255, 0.9);
-  max-width: 600px; margin: 0 auto; text-shadow: 0 1px 20px rgba(0, 0, 0, 0.35);
+  font-size: clamp(1.1rem, 3vw, 1.5rem); color: #ffffff; font-weight: 500;
+  max-width: 600px; margin: 0 auto; text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6), 0 1px 20px rgba(0, 0, 0, 0.5);
 }
 @media (max-width: 768px) {
   .hero { min-height: 420px; }
-  .hero__overlay { background: linear-gradient(180deg, rgba(61, 79, 95, 0.85), rgba(61, 79, 95, 0.6)); }
 }
 
 /* ---------- Bands ---------- */
